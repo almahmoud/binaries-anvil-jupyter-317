@@ -3520,7 +3520,6 @@
         "genefilter",
         "graph"
     ],
-    "CausalR": [],
     "cbaf": [
         "AnnotationDbi",
         "Biobase",
