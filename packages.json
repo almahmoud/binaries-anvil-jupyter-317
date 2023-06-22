@@ -7946,7 +7946,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "drawProteins": [],
     "DRIMSeq": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9378,7 +9377,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr"
     ],
