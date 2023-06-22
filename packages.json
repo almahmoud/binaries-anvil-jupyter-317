@@ -20536,7 +20536,6 @@
         "mixOmics",
         "zlibbioc"
     ],
-    "powerTCR": [],
     "POWSC": [
         "Biobase",
         "DelayedArray",
@@ -24836,7 +24835,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "powerTCR",
         "zlibbioc"
     ],
     "scRNAseqApp": [
