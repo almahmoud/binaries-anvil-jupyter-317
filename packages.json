@@ -7498,7 +7498,6 @@
         "limma",
         "tximport"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
         "Biobase",
