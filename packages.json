@@ -4224,7 +4224,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn",
         "zlibbioc"
     ],
@@ -12319,7 +12318,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn",
         "zlibbioc"
     ],
@@ -24804,7 +24802,6 @@
         "geneplotter",
         "graph",
         "limma",
-        "splots",
         "vsn",
         "zlibbioc"
     ],
@@ -28847,7 +28844,6 @@
         "seqLogo",
         "zlibbioc"
     ],
-    "splots": [],
     "SPONGE": [
         "AnnotationDbi",
         "Biobase",
@@ -29113,7 +29109,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn",
         "zlibbioc"
     ],
