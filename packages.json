@@ -20090,7 +20090,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnnotationDbi",
         "BiocIO",
