@@ -4579,7 +4579,6 @@
         "MultiAssayExperiment",
         "RaggedExperiment"
     ],
-    "omicsViewer": [],
     "oncomix": [],
     "OncoScore": [
         "AnnotationDbi",
