@@ -1109,7 +1109,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
