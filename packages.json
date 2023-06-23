@@ -7379,7 +7379,6 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "MsBackendMassbank": [],
     "MsBackendRawFileReader": [],
     "MsDataHub": [
         "AnnotationDbi",
