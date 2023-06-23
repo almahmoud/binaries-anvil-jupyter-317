@@ -5916,7 +5916,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Harman",
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
@@ -10317,7 +10316,6 @@
     "hapFabia": [
         "fabia"
     ],
-    "Harman": [],
     "Harshlight": [
         "Biostrings",
         "GenomeInfoDb",
