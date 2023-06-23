@@ -13911,7 +13911,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "PLPE": [],
     "plyranges": [
         "BiocIO",
         "Biostrings",
