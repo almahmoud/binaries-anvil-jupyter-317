@@ -4703,7 +4703,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "BSgenome",
         "GenomicFeatures",
