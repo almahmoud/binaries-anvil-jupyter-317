@@ -7250,7 +7250,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "peakPantheR": [],
     "PECA": [
         "AnnotationDbi",
         "Biostrings",
