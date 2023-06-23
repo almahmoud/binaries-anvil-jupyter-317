@@ -998,7 +998,6 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "GeneMeta": [],
     "GeneStructureTools": [
         "GenomicFeatures",
         "Gviz",
@@ -2544,9 +2543,7 @@
         "GenomicFeatures"
     ],
     "wiggleplotr": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [],
     "XNAString": [],
     "YAPSA": [
