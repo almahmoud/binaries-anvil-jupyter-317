@@ -9048,7 +9048,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "rWikiPathways",
         "treeio"
     ],
     "farms": [
@@ -16404,7 +16403,6 @@
         "limma",
         "mixOmics",
         "multtest",
-        "rWikiPathways",
         "ropls",
         "treeio"
     ],
@@ -17073,7 +17071,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "rWikiPathways",
         "rtracklayer"
     ],
     "normalize450K": [
@@ -21745,7 +21742,6 @@
         "graph",
         "snpStats"
     ],
-    "rWikiPathways": [],
     "S4Arrays": [
         "IRanges",
         "S4Vectors"
@@ -25691,7 +25687,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "rWikiPathways",
         "tkWidgets",
         "treeio",
         "widgetTools"
