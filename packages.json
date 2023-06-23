@@ -9046,7 +9046,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scPCA": [],
     "scPipe": [
         "AnnotationDbi",
         "Biostrings",
