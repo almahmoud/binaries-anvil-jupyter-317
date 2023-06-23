@@ -28,13 +28,13 @@ packaged installation of ‘omicade4’ as ‘omicade4_1.40.0_R_x86_64-pc-linux-
 * DONE (omicade4)
 
 The downloaded source packages are in
-	‘/tmp/RtmpaJzvuF/downloaded_packages’
-Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
-  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
-  'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
-  'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
+	‘/tmp/RtmpxFuW1F/downloaded_packages’
+Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
+  'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
+  'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m19.737s
-user	0m16.555s
-sys	0m1.259s
+real	0m18.111s
+user	0m16.206s
+sys	0m1.158s
