@@ -2091,7 +2091,7 @@ set LDFLAGS=-Wl,-Bsymbolic-functions -Wl,-z,relro
 -- Performing Test HAS_FPIC - Success
 -- Configuring done
 -- Generating done
--- Build files have been written to: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt-build
+-- Build files have been written to: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt-build
 [  1%] Generating nlopt.hpp
 [  3%] Generating nlopt.f
 [  3%] Built target generate-fortran
@@ -2150,18 +2150,18 @@ Consolidate compiler generated dependencies of target nlopt
 [100%] Built target nlopt
 Install the project...
 -- Install configuration: "Release"
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/pkgconfig/nlopt.pc
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/include/nlopt.h
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/include/nlopt.hpp
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/include/nlopt.f
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/libnlopt.a
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends.cmake
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends-release.cmake
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfig.cmake
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfigVersion.cmake
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/share/man/man3/nlopt.3
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/share/man/man3/nlopt_minimize.3
--- Installing: /tmp/RtmpoqW6Xm/R.INSTALL11e256c62b86/nloptr/src/nlopt/share/man/man3/nlopt_minimize_constrained.3
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/pkgconfig/nlopt.pc
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/include/nlopt.h
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/include/nlopt.hpp
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/include/nlopt.f
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/libnlopt.a
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends.cmake
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends-release.cmake
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfig.cmake
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfigVersion.cmake
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/share/man/man3/nlopt.3
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/share/man/man3/nlopt_minimize.3
+-- Installing: /tmp/RtmpCOK6pk/R.INSTALL11e157be0b6e/nloptr/src/nlopt/share/man/man3/nlopt_minimize_constrained.3
 mv: cannot move 'nlopt/lib' to a subdirectory of itself, 'nlopt/lib/lib'
 configure: creating ./config.status
 config.status: creating src/Makevars
@@ -3054,13 +3054,13 @@ packaged installation of ‘survminer’ as ‘survminer_0.4.9_R_x86_64-pc-linux
 * DONE (survminer)
 
 The downloaded source packages are in
-	‘/tmp/RtmprY7g2y/downloaded_packages’
+	‘/tmp/RtmpozG5ut/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	8m38.304s
-user	8m22.818s
-sys	0m46.528s
+real	7m17.238s
+user	7m3.714s
+sys	0m41.732s
