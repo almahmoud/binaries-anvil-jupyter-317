@@ -1482,7 +1482,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GeoDiff": [],
     "gep2pep": [
         "GSEABase"
     ],
