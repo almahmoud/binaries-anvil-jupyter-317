@@ -1,6 +1,0 @@
-MsBackendMgf
-MetCirc
-MsBackendSql
-MsBackendMassbank
-MsBackendRawFileReader
-MsBackendMsp
