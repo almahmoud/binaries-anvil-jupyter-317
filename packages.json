@@ -7520,7 +7520,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PrInCE": [],
     "proActiv": [
         "AnnotationDbi",
         "Biostrings",
