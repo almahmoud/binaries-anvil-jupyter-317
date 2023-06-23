@@ -2039,7 +2039,6 @@
         "DEXSeq",
         "sva"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
