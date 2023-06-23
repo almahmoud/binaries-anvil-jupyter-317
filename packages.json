@@ -4669,7 +4669,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "SPOTlight": [],
     "SPsimSeq": [],
     "sSNAPPY": [
         "graphite"
