@@ -2211,7 +2211,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ERSSA": [],
     "esATAC": [
         "AnnotationDbi",
         "BSgenome",
