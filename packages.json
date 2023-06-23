@@ -3364,7 +3364,6 @@
         "beachmat",
         "rtracklayer"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
         "AnnotationFilter",
