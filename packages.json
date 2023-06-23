@@ -2157,7 +2157,6 @@
         "KEGGREST",
         "graphite"
     ],
-    "ddPCRclust": [],
     "debCAM": [],
     "debrowser": [
         "AnnotationDbi",
