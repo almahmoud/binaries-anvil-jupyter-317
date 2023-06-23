@@ -2225,7 +2225,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "ramwas": [],
     "RareVariantVis": [
         "BSgenome",
         "GenomicFeatures",
