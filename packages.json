@@ -6043,7 +6043,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "AnnotationDbi",
         "BiocIO",
