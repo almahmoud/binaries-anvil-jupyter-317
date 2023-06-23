@@ -1747,7 +1747,6 @@
         "GenomicFeatures",
         "biomaRt",
         "rtracklayer",
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -5141,14 +5140,10 @@
         "genefilter",
         "sva"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
-        "rtracklayer",
-        "tRNA"
+        "rtracklayer"
     ],
     "TSCAN": [
         "TrajectoryUtils"
