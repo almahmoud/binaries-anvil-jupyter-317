@@ -505,8 +505,7 @@
         "beadarray"
     ],
     "BLMA": [
-        "PADOG",
-        "ROntoTools"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -3031,9 +3030,7 @@
         "rtracklayer"
     ],
     "MiRaGE": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "AnnotationForge",
         "Category",
@@ -4281,7 +4278,6 @@
     "roar": [
         "rtracklayer"
     ],
-    "ROntoTools": [],
     "ropls": [],
     "Rqc": [
         "BSgenome",
