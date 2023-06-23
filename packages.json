@@ -5740,7 +5740,6 @@
         "annotate",
         "genefilter"
     ],
-    "sigFeature": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
