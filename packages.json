@@ -2169,7 +2169,6 @@
         "genefilter",
         "sva"
     ],
-    "mbOmic": [],
     "mBPCR": [
         "oligoClasses"
     ],
