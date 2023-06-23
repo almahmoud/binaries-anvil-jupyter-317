@@ -5599,7 +5599,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "qPLEXanalyzer": [],
     "qsea": [
         "BSgenome",
         "GenomicAlignments",
