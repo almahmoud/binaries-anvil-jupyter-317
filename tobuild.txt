@@ -1,3 +1,0 @@
-Biostrings
-SparseArray
-GenomicRanges
