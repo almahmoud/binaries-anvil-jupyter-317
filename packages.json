@@ -17596,7 +17596,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
         "AnnotationFilter",
