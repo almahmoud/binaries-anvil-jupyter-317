@@ -1108,7 +1108,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "GenomicFeatures",
