@@ -8863,12 +8863,10 @@
     "MSstatsLiP": [
         "Biostrings",
         "MSstatsPTM",
-        "MSstatsTMT",
         "XVector"
     ],
     "MSstatsPTM": [
         "Biostrings",
-        "MSstatsTMT",
         "XVector"
     ],
     "MSstatsQC": [
@@ -8882,10 +8880,8 @@
     "MSstatsShiny": [
         "Biostrings",
         "MSstatsPTM",
-        "MSstatsTMT",
         "XVector"
     ],
-    "MSstatsTMT": [],
     "MuData": [
         "DelayedArray",
         "GenomicRanges",
