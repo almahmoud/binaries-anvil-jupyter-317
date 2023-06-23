@@ -3392,7 +3392,6 @@
         "GenomicFeatures",
         "chipseq"
     ],
-    "transformGamPoi": [],
     "tRanslatome": [],
     "traseR": [
         "BSgenome"
