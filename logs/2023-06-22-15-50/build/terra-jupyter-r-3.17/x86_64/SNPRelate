@@ -51,13 +51,13 @@ packaged installation of ‘SNPRelate’ as ‘SNPRelate_1.34.1_R_x86_64-pc-linu
 * DONE (SNPRelate)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp5MkQzK/downloaded_packages’
+	‘/tmp/RtmpEyfX4Q/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m33.007s
-user	0m30.467s
-sys	0m1.975s
+real	0m39.315s
+user	0m36.080s
+sys	0m2.675s
