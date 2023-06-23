@@ -1110,9 +1110,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "GenomicFeatures",
         "bumphunter",
@@ -2604,7 +2602,6 @@
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
-        "TSCAN",
         "batchelor",
         "celda",
         "ensembldb",
@@ -2861,7 +2858,6 @@
     "tRNAscanImport": [
         "BSgenome"
     ],
-    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "BSgenome",
