@@ -1452,7 +1452,6 @@
         "systemPipeR"
     ],
     "diffcoexp": [],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "rtracklayer"
