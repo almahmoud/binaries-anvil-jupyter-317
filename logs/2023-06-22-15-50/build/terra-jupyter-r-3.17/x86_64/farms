@@ -28,13 +28,13 @@ packaged installation of ‘farms’ as ‘farms_1.52.0_R_x86_64-pc-linux-gnu.ta
 * DONE (farms)
 
 The downloaded source packages are in
-	‘/tmp/RtmpjHYaax/downloaded_packages’
+	‘/tmp/Rtmp8xRyKD/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m9.085s
-user	0m6.220s
-sys	0m0.851s
+real	0m7.406s
+user	0m4.654s
+sys	0m0.607s
