@@ -4237,7 +4237,6 @@
         "scater",
         "scran"
     ],
-    "scMET": [],
     "scmeth": [
         "AnnotationHub",
         "BSgenome",
