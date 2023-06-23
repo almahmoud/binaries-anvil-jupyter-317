@@ -1133,7 +1133,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CoreGx": [],
     "corral": [],
     "coseq": [],
     "CoSIA": [
@@ -3533,7 +3532,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "biomaRt",
         "genefu"
     ],
@@ -3560,9 +3558,7 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny"
     ],
@@ -3852,9 +3848,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramwas": [
         "biomaRt"
     ],
@@ -5063,9 +5057,7 @@
         "genefilter"
     ],
     "topGO": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
@@ -5337,7 +5329,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
