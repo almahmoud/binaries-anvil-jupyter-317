@@ -1759,7 +1759,6 @@
         "ShortRead",
         "biomaRt"
     ],
-    "EBSEA": [],
     "EDASeq": [
         "GenomicAlignments",
         "GenomicFeatures",
