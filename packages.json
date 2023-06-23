@@ -1917,7 +1917,6 @@
     ],
     "oligoClasses": [],
     "omada": [],
-    "OmaDB": [],
     "omicRexposome": [
         "sva"
     ],
@@ -1995,9 +1994,7 @@
     "phenoTest": [
         "Category"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
