@@ -2109,7 +2109,6 @@
         "AnnotationDbi",
         "GOSemSim"
     ],
-    "doseR": [],
     "doubletrouble": [
         "GenomicAlignments",
         "rtracklayer",
