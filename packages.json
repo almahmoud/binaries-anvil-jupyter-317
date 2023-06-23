@@ -2782,7 +2782,6 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
