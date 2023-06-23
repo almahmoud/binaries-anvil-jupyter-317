@@ -1122,7 +1122,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "hpar": [],
     "HTSeqGenie": [
         "GenomicFeatures",
