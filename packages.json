@@ -276,8 +276,7 @@
     "AneuFinder": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "bamsignals"
+        "SummarizedExperiment"
     ],
     "animalcules": [
         "DESeq2",
@@ -593,7 +592,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -1620,8 +1618,7 @@
     "chromstaR": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "bamsignals"
+        "SummarizedExperiment"
     ],
     "chromswitch": [
         "GenomicAlignments",
@@ -1798,7 +1795,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -1820,7 +1816,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -2059,7 +2054,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -2792,7 +2786,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3118,7 +3111,6 @@
         "GreyListChIP",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "csaw",
         "rtracklayer"
     ],
@@ -4715,7 +4707,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -5913,7 +5904,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -6200,7 +6190,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "rtracklayer"
     ],
     "npGSEA": [
@@ -7593,7 +7582,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -8331,7 +8319,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "biomaRt",
         "enrichplot",
         "rtracklayer"
