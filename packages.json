@@ -219,9 +219,7 @@
         "dmrseq",
         "regioneR"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "bnbc": [
         "sva"
     ],
@@ -701,7 +699,6 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP",
         "systemPipeR"
@@ -709,7 +706,6 @@
     "diffHic": [],
     "DiffLogo": [],
     "diffUTR": [
-        "DEXSeq",
         "GenomicFeatures",
         "ensembldb"
     ],
@@ -1204,7 +1200,6 @@
         "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation"
@@ -1220,7 +1215,6 @@
     "iSEEhub": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "GenomicFeatures",
         "ensembldb",
         "tximeta"
@@ -1702,7 +1696,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "PanomiR": [
