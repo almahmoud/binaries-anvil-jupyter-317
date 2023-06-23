@@ -5091,12 +5091,10 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "msmsTests": [],
     "MSnID": [
         "AnnotationDbi",
         "AnnotationHub",
-        "KEGGREST",
-        "msmsTests"
+        "KEGGREST"
     ],
     "MSPrep": [
         "AnnotationDbi",
