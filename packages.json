@@ -2674,7 +2674,6 @@
         "IRanges",
         "S4Vectors"
     ],
-    "BUS": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
