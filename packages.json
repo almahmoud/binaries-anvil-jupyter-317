@@ -3941,7 +3941,6 @@
         "enrichplot",
         "graphite"
     ],
-    "reconsi": [],
     "recount": [
         "BSgenome",
         "GenomicFeatures",
