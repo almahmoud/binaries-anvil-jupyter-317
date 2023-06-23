@@ -1839,7 +1839,6 @@
         "TFBSTools"
     ],
     "MsDataHub": [],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -1858,9 +1857,7 @@
         "sva"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MultiBaC": [],
     "multicrispr": [
         "BSgenome",
