@@ -843,7 +843,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigraHMM": [
         "GreyListChIP"
     ],
