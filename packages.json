@@ -4271,7 +4271,6 @@
         "rtracklayer"
     ],
     "scran": [],
-    "scReClassify": [],
     "scRNAseqApp": [
         "rtracklayer",
         "slingshot"
