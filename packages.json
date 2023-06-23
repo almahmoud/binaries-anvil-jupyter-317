@@ -169,7 +169,6 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "Anaquin": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
         "mia",
