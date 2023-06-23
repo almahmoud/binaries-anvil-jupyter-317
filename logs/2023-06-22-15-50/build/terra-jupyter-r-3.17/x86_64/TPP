@@ -201,13 +201,13 @@ packaged installation of ‘TPP’ as ‘TPP_3.28.0_R_x86_64-pc-linux-gnu.tar.gz
 * DONE (TPP)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp8hJEG4/downloaded_packages’
+	‘/tmp/RtmpDKtua6/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	3m4.842s
-user	2m57.594s
-sys	0m9.076s
+real	2m27.944s
+user	2m20.252s
+sys	0m6.526s
