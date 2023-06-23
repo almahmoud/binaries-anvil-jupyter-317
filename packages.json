@@ -2318,7 +2318,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "RepViz": [],
     "RESOLVE": [
         "BSgenome",
         "GenomicFeatures",
