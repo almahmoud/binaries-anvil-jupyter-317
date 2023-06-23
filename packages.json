@@ -127,7 +127,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "affycomp": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
