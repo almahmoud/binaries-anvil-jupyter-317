@@ -2947,10 +2947,8 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "RUVSeq": [
         "EDASeq",
