@@ -4609,7 +4609,6 @@
     "ivygapSE": [
         "SummarizedExperiment"
     ],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationDbi",
         "BSgenome",
