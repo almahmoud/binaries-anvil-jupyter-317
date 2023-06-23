@@ -3000,7 +3000,6 @@
         "rtracklayer"
     ],
     "HTSFilter": [],
-    "hummingbird": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
