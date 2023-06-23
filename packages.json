@@ -3314,7 +3314,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "SummarizedBenchmark": [],
     "surfaltr": [],
     "sva": [
