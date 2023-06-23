@@ -2597,7 +2597,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
