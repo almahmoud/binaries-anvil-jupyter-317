@@ -92,16 +92,16 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpmnxptC/downloaded_packages’
+	‘/tmp/RtmpytRvgB/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m16.351s
-user	0m14.339s
-sys	0m2.684s
+real	0m12.866s
+user	0m11.061s
+sys	0m2.237s
 * installing *source* package ‘tinytest’ ...
 ** package ‘tinytest’ successfully unpacked and MD5 sums checked
 ** using staged installation
