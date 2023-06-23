@@ -2939,7 +2939,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "Spectra",
         "XVector"
     ],
@@ -7754,14 +7753,12 @@
         "CompoundDb",
         "DelayedArray",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "SummarizedExperiment",
         "XVector"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomicRanges",
@@ -8534,7 +8531,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsFeatures",
         "Spectra",
         "SummarizedExperiment",
