@@ -461,9 +461,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "AnnotationDbi",
@@ -4501,7 +4499,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "PhIPData": [],
     "PhyloProfile": [
         "AnnotationDbi",
         "AnnotationHub",
