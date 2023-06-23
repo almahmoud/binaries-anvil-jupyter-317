@@ -177,8 +177,8 @@ Content type 'application/x-gzip' length 579829 bytes (566 KB)
 ==================================================
 downloaded 566 KB
 
-trying URL 'https://cloud.r-project.org/src/contrib/emmeans_1.8.6.tar.gz'
-Content type 'application/x-gzip' length 1472678 bytes (1.4 MB)
+trying URL 'https://cloud.r-project.org/src/contrib/emmeans_1.8.7.tar.gz'
+Content type 'application/x-gzip' length 1476339 bytes (1.4 MB)
 ==================================================
 downloaded 1.4 MB
 
@@ -2174,9 +2174,9 @@ set LDFLAGS=-Wl,-Bsymbolic-functions -Wl,-z,relro
 -- Performing Test HAS_FPIC - Success
 -- Configuring done
 -- Generating done
--- Build files have been written to: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt-build
-[  1%] Generating nlopt.hpp
-[  3%] Generating nlopt.f
+-- Build files have been written to: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt-build
+[  1%] Generating nlopt.f
+[  3%] Generating nlopt.hpp
 [  3%] Built target generate-fortran
 [  3%] Built target generate-cpp
 [  5%] Building C object CMakeFiles/nlopt.dir/src/algs/direct/DIRect.c.o
@@ -2233,18 +2233,18 @@ Consolidate compiler generated dependencies of target nlopt
 [100%] Built target nlopt
 Install the project...
 -- Install configuration: "Release"
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/pkgconfig/nlopt.pc
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/include/nlopt.h
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/include/nlopt.hpp
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/include/nlopt.f
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/libnlopt.a
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends.cmake
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends-release.cmake
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfig.cmake
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfigVersion.cmake
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/share/man/man3/nlopt.3
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/share/man/man3/nlopt_minimize.3
--- Installing: /tmp/Rtmpp23XS6/R.INSTALL12bf51224a42/nloptr/src/nlopt/share/man/man3/nlopt_minimize_constrained.3
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/pkgconfig/nlopt.pc
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/include/nlopt.h
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/include/nlopt.hpp
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/include/nlopt.f
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/libnlopt.a
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends.cmake
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/cmake/nlopt/NLoptLibraryDepends-release.cmake
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfig.cmake
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/lib/cmake/nlopt/NLoptConfigVersion.cmake
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/share/man/man3/nlopt.3
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/share/man/man3/nlopt_minimize.3
+-- Installing: /tmp/RtmpE6hhy0/R.INSTALL12be35c3d05a/nloptr/src/nlopt/share/man/man3/nlopt_minimize_constrained.3
 mv: cannot move 'nlopt/lib' to a subdirectory of itself, 'nlopt/lib/lib'
 configure: creating ./config.status
 config.status: creating src/Makevars
@@ -2873,7 +2873,7 @@ packaged installation of ‘MultiAssayExperiment’ as ‘MultiAssayExperiment_1
 ** testing if installed package can be loaded from final location
 ** testing if installed package keeps a record of temporary installation path
 * creating tarball
-packaged installation of ‘emmeans’ as ‘emmeans_1.8.6_R_x86_64-pc-linux-gnu.tar.gz’
+packaged installation of ‘emmeans’ as ‘emmeans_1.8.7_R_x86_64-pc-linux-gnu.tar.gz’
 * DONE (emmeans)
 * installing *source* package ‘structToolbox’ ...
 ** using staged installation
@@ -3091,13 +3091,13 @@ packaged installation of ‘agricolae’ as ‘agricolae_1.3-5_R_x86_64-pc-linux
 * DONE (agricolae)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp8NzxAR/downloaded_packages’
-Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
-  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
-  'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
-  'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
+	‘/tmp/Rtmp5qvs8K/downloaded_packages’
+Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
+  'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
+  'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	8m58.678s
-user	8m46.408s
-sys	0m46.877s
+real	6m46.440s
+user	6m36.327s
+sys	0m36.807s
