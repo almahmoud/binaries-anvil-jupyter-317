@@ -414,9 +414,7 @@
         "BSgenome",
         "plyranges"
     ],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "BSgenome",
         "DMRcate",
@@ -536,7 +534,6 @@
         "oligoClasses"
     ],
     "CNEr": [],
-    "CNTools": [],
     "CNVfilteR": [
         "BSgenome",
         "CopyNumberPlots",
