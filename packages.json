@@ -1284,8 +1284,7 @@
         "SingleCellExperiment"
     ],
     "ChIC": [
-        "Rsamtools",
-        "genomeIntervals"
+        "Rsamtools"
     ],
     "chimeraviz": [
         "AnnotationDbi",
@@ -2522,8 +2521,7 @@
         "KEGGREST",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
-        "genomeIntervals"
+        "biomaRt"
     ],
     "EBSEA": [
         "DESeq2"
@@ -3286,7 +3284,6 @@
         "seqPattern"
     ],
     "GenomAutomorphism": [],
-    "genomeIntervals": [],
     "GenomicAlignments": [
         "Rsamtools"
     ],
@@ -3424,8 +3421,7 @@
     "girafe": [
         "GenomicAlignments",
         "Rsamtools",
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "AnnotationDbi",
@@ -5075,7 +5071,6 @@
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
-        "genomeIntervals",
         "ggbio",
         "rtracklayer"
     ],
