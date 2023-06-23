@@ -6273,7 +6273,6 @@
         "S4Arrays",
         "ncdfFlow"
     ],
-    "fobitools": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biostrings",
