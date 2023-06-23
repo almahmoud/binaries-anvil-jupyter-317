@@ -10868,7 +10868,6 @@
         "impute",
         "limma"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "Biobase",
         "GEOquery",
