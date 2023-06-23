@@ -2517,7 +2517,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "AnnotationDbi",
         "DOSE",
