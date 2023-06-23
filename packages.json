@@ -6404,7 +6404,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Trendy": [],
     "TRESS": [
         "AnnotationDbi",
         "GenomicAlignments",
