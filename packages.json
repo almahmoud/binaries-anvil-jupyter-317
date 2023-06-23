@@ -4043,7 +4043,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "rtracklayer"
