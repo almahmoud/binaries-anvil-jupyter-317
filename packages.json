@@ -3169,7 +3169,6 @@
         "rtracklayer"
     ],
     "HTSFilter": [],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "icetea": [
         "AnnotationDbi",
