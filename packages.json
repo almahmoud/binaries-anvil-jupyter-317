@@ -1892,7 +1892,6 @@
         "rtracklayer"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -4227,7 +4226,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "annotate",
         "genefilter",
