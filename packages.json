@@ -1747,7 +1747,6 @@
         "SummarizedExperiment",
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "KEGGREST",
