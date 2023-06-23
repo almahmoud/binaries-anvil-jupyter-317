@@ -1674,7 +1674,6 @@
         "SingleCellExperiment",
         "biomaRt"
     ],
-    "cogeqc": [],
     "Cogito": [
         "AnnotationDbi",
         "GenomicAlignments",
