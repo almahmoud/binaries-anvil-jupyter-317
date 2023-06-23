@@ -10654,13 +10654,11 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -12762,7 +12760,6 @@
         "annotate",
         "genefilter"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "CGHcall",
