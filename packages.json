@@ -16128,7 +16128,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MultiMed": [],
     "multiMiR": [
         "AnnotationDbi",
         "Biobase",
