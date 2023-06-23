@@ -983,7 +983,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "AnnotationDbi",
@@ -5053,9 +5052,7 @@
     ],
     "MEDME": [],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
