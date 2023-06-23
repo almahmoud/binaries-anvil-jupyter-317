@@ -184,7 +184,6 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "batchelor": [],
     "BatchQC": [
         "sva"
     ],
@@ -501,9 +500,7 @@
         "oligoClasses"
     ],
     "ChromHeatMap": [],
-    "ChromSCape": [
-        "batchelor"
-    ],
+    "ChromSCape": [],
     "chromswitch": [],
     "chromVAR": [
         "BSgenome",
@@ -1822,9 +1819,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "GenomicFeatures",
@@ -2463,9 +2458,7 @@
         "SpatialExperiment",
         "ensembldb"
     ],
-    "scMerge": [
-        "batchelor"
-    ],
+    "scMerge": [],
     "scmeth": [
         "BSgenome",
         "GenomicFeatures",
@@ -2597,7 +2590,6 @@
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
-        "batchelor",
         "celda",
         "ensembldb",
         "scDblFinder",
