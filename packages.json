@@ -3120,7 +3120,6 @@
         "scran",
         "scuttle"
     ],
-    "flowCut": [],
     "FoldGO": [
         "AnnotationDbi",
         "KEGGREST",
