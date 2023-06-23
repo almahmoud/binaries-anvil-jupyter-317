@@ -399,7 +399,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "MLInterfaces",
@@ -1840,9 +1839,7 @@
     "diffcoexp": [
         "AnnotationDbi"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "GenomicAlignments",
