@@ -258,13 +258,13 @@ packaged installation of ‘GEOquery’ as ‘GEOquery_2.68.0_R_x86_64-pc-linux-
 * DONE (GEOquery)
 
 The downloaded source packages are in
-	‘/tmp/RtmpgRGeYL/downloaded_packages’
+	‘/tmp/Rtmpk5TBoN/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	19m2.187s
-user	18m38.951s
-sys	0m14.237s
+real	18m55.490s
+user	18m34.793s
+sys	0m13.767s
