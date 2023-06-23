@@ -1260,8 +1260,7 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -3791,9 +3790,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "MeSHDbi": [
         "AnnotationDbi"
     ],
@@ -7143,7 +7140,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "VAExprs": [
         "DeepPINCS",
         "SingleCellExperiment",
