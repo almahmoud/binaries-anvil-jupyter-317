@@ -15437,9 +15437,7 @@
         "annotate",
         "genefilter"
     ],
-    "qckitfastq": [
-        "seqTools"
-    ],
+    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
@@ -18411,7 +18409,6 @@
         "SNPRelate",
         "XVector"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "Biostrings",
         "GenomeInfoDb",
