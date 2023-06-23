@@ -2919,7 +2919,6 @@
     "microSTASIS": [
         "TreeSummarizedExperiment"
     ],
-    "miloR": [],
     "mimager": [
         "oligo",
         "oligoClasses"
