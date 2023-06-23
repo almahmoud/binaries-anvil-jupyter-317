@@ -6780,7 +6780,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "wpm": [],
     "xcms": [
         "MsFeatures"
     ],
