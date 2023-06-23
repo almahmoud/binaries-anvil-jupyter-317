@@ -4015,7 +4015,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "DelayedArray",
         "FlowSOM",
