@@ -1427,7 +1427,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "destiny": [],
     "DExMA": [
         "annotate",
         "genefilter",
@@ -3557,9 +3556,7 @@
     ],
     "phantasus": [],
     "PharmacoGx": [],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "phenomis": [
         "ropls"
     ],
