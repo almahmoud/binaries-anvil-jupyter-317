@@ -4573,7 +4573,6 @@
         "genefilter"
     ],
     "PhIPData": [],
-    "PhosR": [],
     "PhyloProfile": [
         "AnnotationDbi",
         "AnnotationHub",
