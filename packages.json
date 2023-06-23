@@ -4952,7 +4952,6 @@
     "IMMAN": [
         "Biostrings"
     ],
-    "ImmuneSpaceR": [],
     "infercnv": [
         "SingleCellExperiment",
         "SummarizedExperiment"
