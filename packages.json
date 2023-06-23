@@ -6310,7 +6310,6 @@
         "GSVA",
         "annotate"
     ],
-    "tomoda": [],
     "TOP": [
         "AnnotationDbi",
         "ClassifyR",
