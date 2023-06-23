@@ -82,7 +82,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -10566,7 +10565,6 @@
         "genefilter",
         "graph"
     ],
-    "GLAD": [],
     "Glimma": [
         "Biobase",
         "DESeq2",
@@ -12527,7 +12525,6 @@
         "Biobase",
         "Biostrings",
         "DelayedArray",
-        "GLAD",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -13278,9 +13275,7 @@
         "affy",
         "affyio"
     ],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biobase",
@@ -22779,9 +22774,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "seqCNA": [
-        "GLAD"
-    ],
+    "seqCNA": [],
     "SeqGate": [
         "Biobase",
         "DelayedArray",
@@ -23689,7 +23682,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
