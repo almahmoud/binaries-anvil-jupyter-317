@@ -122,13 +122,13 @@ packaged installation of ‘aroma.light’ as ‘aroma.light_3.30.0_R_x86_64-pc-
 * DONE (aroma.light)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp4PwpDz/downloaded_packages’
+	‘/tmp/RtmpFcThny/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m37.157s
-user	0m32.816s
-sys	0m4.109s
+real	0m32.311s
+user	0m29.585s
+sys	0m3.130s
