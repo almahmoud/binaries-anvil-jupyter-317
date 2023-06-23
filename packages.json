@@ -4093,7 +4093,6 @@
         "SummarizedExperiment",
         "annotate"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationDbi",
         "BSgenome",
@@ -9842,7 +9841,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "gtrellis",
         "rtracklayer"
     ],
     "yarn": [
