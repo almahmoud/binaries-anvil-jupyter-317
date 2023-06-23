@@ -3403,7 +3403,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "odseq": [],
     "OGRE": [
         "AnnotationHub",
         "BSgenome",
