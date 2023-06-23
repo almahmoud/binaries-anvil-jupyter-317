@@ -727,7 +727,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "AMOUNTAIN": [],
     "amplican": [
         "Biobase",
         "Biostrings",
@@ -15438,7 +15437,6 @@
         "xcms"
     ],
     "MODA": [
-        "AMOUNTAIN",
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
