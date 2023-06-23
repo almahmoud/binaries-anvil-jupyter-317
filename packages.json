@@ -5058,7 +5058,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "VDJdive": [],
     "VegaMC": [
         "biomaRt"
     ],
