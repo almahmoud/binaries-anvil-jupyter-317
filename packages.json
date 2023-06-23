@@ -2017,7 +2017,6 @@
         "DaMiRseq",
         "EDASeq",
         "GenomicFeatures",
-        "MLSeq",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -3096,7 +3095,6 @@
         "genefilter"
     ],
     "MLP": [],
-    "MLSeq": [],
     "MMAPPR2": [
         "BSgenome",
         "GenomicFeatures",
