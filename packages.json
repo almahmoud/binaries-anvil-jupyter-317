@@ -1731,7 +1731,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEFormats": [],
     "DegNorm": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -4961,7 +4960,6 @@
     "regionReport": [
         "AnnotationDbi",
         "BSgenome",
-        "DEFormats",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
