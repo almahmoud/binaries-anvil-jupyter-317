@@ -1562,7 +1562,6 @@
         "oligoClasses",
         "sva"
     ],
-    "csaw": [],
     "csdR": [
         "AnnotationDbi"
     ],
@@ -1821,7 +1820,6 @@
     "diffHic": [
         "BSgenome",
         "GenomicAlignments",
-        "csaw",
         "rtracklayer"
     ],
     "DiffLogo": [],
@@ -2133,7 +2131,6 @@
         "BSgenome",
         "GenomicAlignments",
         "GreyListChIP",
-        "csaw",
         "rtracklayer"
     ],
     "EpiMix": [
@@ -2330,7 +2327,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "csaw",
         "ensembldb",
         "rtracklayer"
     ],
@@ -2993,7 +2989,6 @@
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
-        "csaw",
         "rtracklayer"
     ],
     "iCheck": [
@@ -4102,7 +4097,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "csaw",
         "ensembldb",
         "motifStack",
         "regioneR",
@@ -6616,7 +6610,6 @@
         "GreyListChIP",
         "ShortRead",
         "biomaRt",
-        "csaw",
         "ensembldb",
         "regioneR",
         "rtracklayer",
