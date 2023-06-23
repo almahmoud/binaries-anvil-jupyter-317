@@ -3176,7 +3176,6 @@
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "iasva": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
