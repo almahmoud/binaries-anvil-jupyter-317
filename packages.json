@@ -2026,7 +2026,6 @@
         "BSgenome",
         "bsseq"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
