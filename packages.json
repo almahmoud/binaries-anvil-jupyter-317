@@ -19415,8 +19415,7 @@
         "XVector",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
-        "rBiopaxParser"
+        "interactiveDisplayBase"
     ],
     "pwrEWAS": [
         "AnnotationDbi",
@@ -19904,7 +19903,6 @@
     "RBioinf": [
         "graph"
     ],
-    "rBiopaxParser": [],
     "RBM": [
         "limma",
         "marray"
