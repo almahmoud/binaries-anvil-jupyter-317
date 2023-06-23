@@ -3148,9 +3148,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -5689,7 +5687,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment"
