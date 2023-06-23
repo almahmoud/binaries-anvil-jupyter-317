@@ -1243,7 +1243,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "pcaMethods",
@@ -2483,7 +2482,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -3586,7 +3584,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -3600,7 +3597,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -4348,7 +4344,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -5029,7 +5024,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -5348,7 +5342,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -7264,7 +7257,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -9657,7 +9649,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -10108,7 +10099,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -10379,7 +10369,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -10835,7 +10824,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -10960,7 +10948,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -11970,7 +11957,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -12373,7 +12359,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -12384,7 +12369,6 @@
         "MsCoreUtils",
         "edgeR",
         "msmsEDA",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -12392,7 +12376,6 @@
     "MSnbase": [
         "IRanges",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -12410,7 +12393,6 @@
         "edgeR",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -12485,7 +12467,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qcmetrics",
@@ -12496,7 +12477,6 @@
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qcmetrics",
@@ -12829,7 +12809,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "mzID": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -12953,7 +12932,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -14033,7 +14011,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -14576,7 +14553,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -14696,7 +14672,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -14718,7 +14693,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "pcaMethods",
@@ -14754,7 +14728,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -14879,7 +14852,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "rhdf5",
@@ -15037,7 +15009,6 @@
         "MSnbase",
         "MsCoreUtils",
         "XVector",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -16158,7 +16129,6 @@
         "XVector",
         "biocViews",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -16230,7 +16200,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -19498,7 +19467,6 @@
         "XVector",
         "cleaver",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -19593,7 +19561,6 @@
         "XVector"
     ],
     "TargetDecoy": [
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -20053,7 +20020,6 @@
         "MSnbase",
         "MsCoreUtils",
         "XVector",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -21114,7 +21080,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
