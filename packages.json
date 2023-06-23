@@ -1860,7 +1860,6 @@
         "scuttle"
     ],
     "dittoSeq": [],
-    "divergence": [],
     "DMCFB": [
         "GenomicAlignments",
         "rtracklayer"
