@@ -1734,7 +1734,6 @@
     ],
     "DEGreport": [],
     "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
