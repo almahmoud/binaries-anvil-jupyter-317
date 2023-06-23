@@ -272,9 +272,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [
-        "geneplotter"
-    ],
+    "biocGraph": [],
     "BiocHubsShiny": [
         "ExperimentHub"
     ],
@@ -318,8 +316,7 @@
     ],
     "blacksheepr": [
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "blima": [],
     "BLMA": [],
@@ -971,8 +968,7 @@
         "sva"
     ],
     "DEXSeq": [
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "DiffBind": [
         "BSgenome",
@@ -987,8 +983,7 @@
         "DEXSeq",
         "GenomicFeatures",
         "ensembldb",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "Dino": [
         "scran"
@@ -1105,7 +1100,6 @@
         "GenomicFeatures",
         "bumphunter",
         "genefilter",
-        "geneplotter",
         "minfi"
     ],
     "EnrichmentBrowser": [
@@ -1360,7 +1354,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "geneplotter": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicFeatures",
@@ -1639,8 +1632,7 @@
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "IONiseR": [],
     "ipdDb": [],
@@ -1664,7 +1656,6 @@
         "GenomicFeatures",
         "ensembldb",
         "genefilter",
-        "geneplotter",
         "tximeta"
     ],
     "ITALICS": [
@@ -1912,8 +1903,7 @@
         "ensembldb"
     ],
     "MethylSeekR": [
-        "BSgenome",
-        "geneplotter"
+        "BSgenome"
     ],
     "methylSig": [
         "BSgenome",
@@ -2300,7 +2290,6 @@
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva"
     ],
     "panelcn.mops": [],
@@ -2732,8 +2721,7 @@
         "Category",
         "GSEABase",
         "cellHTS2",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "RNAmodR": [
         "BSgenome",
