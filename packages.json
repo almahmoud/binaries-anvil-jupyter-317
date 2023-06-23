@@ -2391,7 +2391,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PharmacoGx": [],
     "phenomis": [],
     "phenoTest": [
         "Category",
@@ -3554,9 +3553,7 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [
         "BSgenome"
     ],
