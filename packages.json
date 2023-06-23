@@ -6085,7 +6085,6 @@
         "graphite"
     ],
     "ssviz": [],
-    "stageR": [],
     "standR": [
         "AnnotationDbi",
         "DropletUtils",
