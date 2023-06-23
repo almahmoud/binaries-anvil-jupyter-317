@@ -14548,13 +14548,13 @@ packaged installation of ‘apeglm’ as ‘apeglm_1.22.1_R_x86_64-pc-linux-gnu.
 * DONE (apeglm)
 
 The downloaded source packages are in
-	‘/tmp/RtmpQBb0js/downloaded_packages’
+	‘/tmp/RtmpygIRyw/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	1m51.196s
-user	1m41.804s
-sys	0m7.906s
+real	2m0.046s
+user	1m50.321s
+sys	0m9.221s
