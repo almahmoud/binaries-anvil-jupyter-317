@@ -1145,7 +1145,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiCDOC": [],
     "HiLDA": [
         "GenomicFeatures"
     ],
