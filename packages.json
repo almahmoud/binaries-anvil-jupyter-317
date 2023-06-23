@@ -307,7 +307,6 @@
         "BASiCS",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "batchelor": [],
     "BatchQC": [
         "annotate",
