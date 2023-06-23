@@ -2554,7 +2554,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "multiMiR": [],
     "multiSight": [
         "DOSE",
         "ReactomePA",
