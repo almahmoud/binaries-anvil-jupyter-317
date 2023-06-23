@@ -2292,7 +2292,6 @@
         "GenomicFeatures",
         "plyranges"
     ],
-    "netOmics": [],
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
