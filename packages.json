@@ -562,7 +562,6 @@
         "enrichplot",
         "graphite"
     ],
-    "ccmap": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
