@@ -127,13 +127,13 @@ packaged installation of ‘supraHex’ as ‘supraHex_1.38.0_R_x86_64-pc-linux-
 * DONE (supraHex)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp5JH4WD/downloaded_packages’
+	‘/tmp/Rtmpj9qanz/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m47.859s
-user	0m44.983s
-sys	0m3.068s
+real	1m10.484s
+user	1m5.250s
+sys	0m4.255s
