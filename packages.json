@@ -3964,7 +3964,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9678,9 +9677,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "maigesPack": [
-        "convert"
-    ],
+    "maigesPack": [],
     "MAIT": [
         "CAMERA",
         "DelayedArray",
@@ -19081,9 +19078,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "AnnotationDbi",
         "AnnotationFilter",
