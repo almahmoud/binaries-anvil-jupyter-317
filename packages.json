@@ -12655,7 +12655,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "NeighborNet": [],
     "nempi": [
         "RBGL",
         "Rgraphviz",
