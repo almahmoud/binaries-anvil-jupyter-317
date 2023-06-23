@@ -3438,7 +3438,6 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "BSgenome",
         "GenomicFeatures",
