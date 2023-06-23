@@ -217,7 +217,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota2seq": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
