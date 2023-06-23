@@ -2792,7 +2792,6 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
