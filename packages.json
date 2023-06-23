@@ -747,7 +747,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "BiFET": [],
     "bigmelon": [
         "AnnotationDbi",
         "GenomicAlignments",
