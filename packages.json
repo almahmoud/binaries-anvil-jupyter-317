@@ -19382,7 +19382,6 @@
         "BrowserViz",
         "graph"
     ],
-    "RDRToolbox": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
