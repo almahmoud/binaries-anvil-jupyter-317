@@ -5709,7 +5709,6 @@
         "scater",
         "scuttle"
     ],
-    "sechm": [],
     "segmenter": [
         "AnnotationDbi",
         "ChIPseeker",
@@ -5784,7 +5783,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "sechm",
         "sva"
     ],
     "sevenC": [
