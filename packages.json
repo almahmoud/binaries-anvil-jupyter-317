@@ -1053,7 +1053,6 @@
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "GISPA": [],
     "gmapR": [
         "GenomicFeatures",
         "VariantAnnotation"
