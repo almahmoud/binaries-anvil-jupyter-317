@@ -3127,7 +3127,6 @@
         "scuttle"
     ],
     "flowCut": [],
-    "flowGate": [],
     "flowVS": [],
     "FoldGO": [
         "AnnotationDbi",
