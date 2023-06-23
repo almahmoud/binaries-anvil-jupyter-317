@@ -2541,7 +2541,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SeqGSEA": [],
     "seqsetvis": [],
     "SeqSQC": [],
     "sesame": [],
