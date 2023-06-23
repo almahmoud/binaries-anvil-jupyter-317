@@ -1582,9 +1582,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiLDA": [
         "BSgenome",
@@ -2162,7 +2160,6 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [],
     "multiSight": [
         "DOSE",
         "ReactomePA",
