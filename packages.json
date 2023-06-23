@@ -274,7 +274,6 @@
         "AnnotationDbi"
     ],
     "ASICS": [
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -581,7 +580,6 @@
         "pathview"
     ],
     "biosigner": [
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -3272,7 +3270,6 @@
     ],
     "LinkHD": [],
     "lipidr": [
-        "MultiDataSet",
         "ropls"
     ],
     "LiquidAssociation": [
@@ -3459,7 +3456,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "MultiDataSet",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -4023,7 +4019,6 @@
     ],
     "MuData": [],
     "MultiBaC": [
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -4041,7 +4036,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -4059,7 +4053,6 @@
         "AnnotationDbi",
         "DOSE",
         "GOSemSim",
-        "MultiDataSet",
         "ReactomePA",
         "biosigner",
         "clusterProfiler",
@@ -4312,7 +4305,6 @@
     "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
-        "MultiDataSet",
         "annotate",
         "genefilter",
         "omicade4",
@@ -4509,7 +4501,6 @@
         "destiny"
     ],
     "phenomis": [
-        "MultiDataSet",
         "ropls"
     ],
     "phenoTest": [
@@ -5344,9 +5335,7 @@
     ],
     "RolDE": [],
     "ROntoTools": [],
-    "ropls": [
-        "MultiDataSet"
-    ],
+    "ropls": [],
     "RPA": [],
     "Rqc": [
         "AnnotationDbi",
@@ -5362,7 +5351,6 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiDataSet",
         "ropls"
     ],
     "rrvgo": [
