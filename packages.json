@@ -1522,7 +1522,6 @@
     "MSPrep": [
         "sva"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
