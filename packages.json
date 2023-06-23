@@ -3621,7 +3621,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "MBASED": [],
     "MBECS": [
         "AnnotationDbi",
         "annotate",
