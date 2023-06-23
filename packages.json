@@ -4258,7 +4258,6 @@
         "GSEABase",
         "annotate"
     ],
-    "scDataviz": [],
     "scDblFinder": [
         "rtracklayer",
         "scater",
