@@ -5113,7 +5113,6 @@
         "enrichplot",
         "graphite"
     ],
-    "receptLoss": [],
     "reconsi": [],
     "recount": [
         "AnnotationDbi",
