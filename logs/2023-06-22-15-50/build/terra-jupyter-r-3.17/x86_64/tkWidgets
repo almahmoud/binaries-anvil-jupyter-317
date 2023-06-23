@@ -53,13 +53,13 @@ packaged installation of ‘tkWidgets’ as ‘tkWidgets_1.78.0_R_x86_64-pc-linu
 * DONE (tkWidgets)
 
 The downloaded source packages are in
-	‘/tmp/RtmpuGiFvR/downloaded_packages’
+	‘/tmp/RtmpCtEp6S/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
   'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
   'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	0m10.208s
-user	0m8.399s
-sys	0m1.274s
+real	0m9.970s
+user	0m8.016s
+sys	0m1.249s
