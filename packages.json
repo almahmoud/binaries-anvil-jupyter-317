@@ -3072,7 +3072,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "DelayedDataFrame": [],
     "DelayedTensor": [
         "BiocSingular"
     ],
@@ -11922,7 +11921,6 @@
     ],
     "VariantExperiment": [
         "Biostrings",
-        "DelayedDataFrame",
         "GDSArray",
         "GenomicRanges",
         "SeqArray",
