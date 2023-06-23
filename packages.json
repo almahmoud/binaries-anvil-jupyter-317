@@ -3375,7 +3375,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
