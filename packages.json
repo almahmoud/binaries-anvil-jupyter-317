@@ -2817,7 +2817,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "GenomAutomorphism": [],
     "GenomicAlignments": [],
     "GenomicFeatures": [
         "AnnotationDbi",
