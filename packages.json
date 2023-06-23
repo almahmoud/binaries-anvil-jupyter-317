@@ -2900,7 +2900,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GNET2": [],
     "GOexpress": [
         "AnnotationDbi",
         "biomaRt"
