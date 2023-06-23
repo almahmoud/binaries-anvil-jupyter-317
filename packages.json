@@ -1297,7 +1297,6 @@
         "GSVA",
         "globaltest",
         "pathview",
-        "safe",
         "topGO"
     ],
     "ELMER": [
@@ -1328,8 +1327,7 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE"
@@ -1793,8 +1791,7 @@
         "EnrichmentBrowser",
         "ExperimentHub",
         "GSEABase",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "gsean": [
         "PPInfer"
@@ -3405,7 +3402,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "safe": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR"
@@ -4230,8 +4226,7 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "zinbwave": [
         "genefilter"
