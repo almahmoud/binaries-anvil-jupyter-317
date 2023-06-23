@@ -4294,7 +4294,6 @@
         "scran",
         "scuttle"
     ],
-    "flowBin": [],
     "flowCut": [
         "flowDensity"
     ],
