@@ -92,7 +92,6 @@
         "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.mae",
-        "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
@@ -100,11 +99,9 @@
         "scuttle"
     ],
     "alabaster.mae": [],
-    "alabaster.sce": [],
     "alabaster.spatial": [
         "DropletUtils",
         "SpatialExperiment",
-        "alabaster.sce",
         "scuttle"
     ],
     "alabaster.vcf": [
