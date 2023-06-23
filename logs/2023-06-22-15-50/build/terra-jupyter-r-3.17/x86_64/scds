@@ -2622,13 +2622,13 @@ packaged installation of ‘scater’ as ‘scater_1.28.0_R_x86_64-pc-linux-gnu.
 * DONE (scater)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpzd2HCy/downloaded_packages’
-Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
-  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'googledrive',
-  'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics', 'pkgbuild',
-  'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
+	‘/tmp/Rtmp1zrR6u/downloaded_packages’
+Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
+  'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
+  'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'vctrs'
 
-real	12m29.869s
-user	11m50.544s
-sys	0m43.708s
+real	11m16.844s
+user	10m41.656s
+sys	0m37.827s
