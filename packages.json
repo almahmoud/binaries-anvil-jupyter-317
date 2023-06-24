@@ -2023,7 +2023,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
