@@ -160,7 +160,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BioNERO": [
