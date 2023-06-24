@@ -411,7 +411,6 @@
     "coMethDMR": [
         "bumphunter"
     ],
-    "compartmap": [],
     "compEpiTools": [
         "Gviz",
         "VariantAnnotation",
