@@ -351,9 +351,7 @@
     "IntEREst": [
         "GenomicFiles"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
@@ -697,7 +695,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tximeta": [],
     "Ularcirc": [],
     "uncoverappLib": [
         "Gviz",
