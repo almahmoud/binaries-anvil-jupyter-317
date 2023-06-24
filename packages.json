@@ -1751,7 +1751,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
