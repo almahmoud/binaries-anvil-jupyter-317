@@ -1428,8 +1428,7 @@
     "OrganismDbi": [],
     "OUTRIDER": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [
         "sva"
@@ -1632,9 +1631,7 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -1679,7 +1676,6 @@
         "motifStack"
     ],
     "rifi": [],
-    "Ringo": [],
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
@@ -1885,9 +1881,7 @@
         "VariantAnnotation"
     ],
     "SIM": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
