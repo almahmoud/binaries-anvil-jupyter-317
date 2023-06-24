@@ -385,7 +385,6 @@
     ],
     "GDCRNATools": [],
     "genbankr": [],
-    "geneAttribution": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
