@@ -1855,7 +1855,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [],
     "SimBindProfiles": [],
     "simpleSeg": [
         "SpatialExperiment",
