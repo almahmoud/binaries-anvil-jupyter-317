@@ -89,7 +89,6 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCStan": [],
     "BatchQC": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
