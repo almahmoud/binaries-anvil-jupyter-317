@@ -137,8 +137,7 @@
     "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
-        "mia",
-        "zinbwave"
+        "mia"
     ],
     "BgeeCall": [],
     "BGmix": [],
@@ -377,9 +376,7 @@
         "qpgraph"
     ],
     "cliProfiler": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1320,8 +1317,7 @@
     "NBAMSeq": [],
     "nearBynding": [],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -1711,9 +1707,7 @@
         "ensembldb"
     ],
     "SCANVIS": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [],
     "scClassify": [],
     "scDblFinder": [],
@@ -1822,8 +1816,7 @@
         "ensembldb",
         "scDblFinder",
         "scMerge",
-        "sva",
-        "zinbwave"
+        "sva"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2057,7 +2050,6 @@
         "quantro"
     ],
     "zenith": [],
-    "zinbwave": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
