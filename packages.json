@@ -1100,7 +1100,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "spatialDE": [],
     "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
