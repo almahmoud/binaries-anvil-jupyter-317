@@ -39,7 +39,6 @@
     "biscuiteer": [],
     "BOBaFIT": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "CAFE": [],
@@ -131,10 +130,7 @@
     "decompTumor2Sig": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DiffLogo": [],
     "DMRcate": [
         "Gviz",
@@ -278,9 +274,7 @@
     "NormalyzerDE": [],
     "normr": [],
     "octad": [],
-    "ODER": [
-        "derfinder"
-    ],
+    "ODER": [],
     "OGRE": [
         "Gviz"
     ],
@@ -310,7 +304,6 @@
         "Rcpi"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "puma": [
@@ -327,12 +320,8 @@
         "GenomicScores"
     ],
     "Rcpi": [],
-    "recount": [
-        "derfinder"
-    ],
-    "regionReport": [
-        "derfinder"
-    ],
+    "recount": [],
+    "regionReport": [],
     "regutools": [
         "Gviz"
     ],
@@ -349,7 +338,6 @@
     ],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAmodR": [
@@ -368,7 +356,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [],
