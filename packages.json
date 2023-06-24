@@ -42,7 +42,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "CNVfilteR": [],
     "comapr": [],
     "compEpiTools": [
         "methylPipe"
