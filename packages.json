@@ -69,7 +69,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz"
     ],
