@@ -31,7 +31,6 @@
     "ATACseqQC": [
         "GenomicScores"
     ],
-    "ATACseqTFEA": [],
     "BGmix": [],
     "bigmelon": [
         "lumi",
