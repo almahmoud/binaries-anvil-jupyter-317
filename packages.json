@@ -159,7 +159,6 @@
     "BioNERO": [
         "sva"
     ],
-    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
@@ -1242,7 +1241,6 @@
     ],
     "multiSight": [
         "ReactomePA",
-        "biosigner",
         "clusterProfiler",
         "enrichplot"
     ],
