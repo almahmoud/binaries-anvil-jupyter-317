@@ -634,7 +634,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "IPO": [],
     "IRISFGM": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
