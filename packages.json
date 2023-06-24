@@ -14,10 +14,7 @@
         "oligoClasses"
     ],
     "AHMassBank": [],
-    "alabaster": [
-        "alabaster.vcf"
-    ],
-    "alabaster.vcf": [],
+    "alabaster": [],
     "AllelicImbalance": [
         "Gviz",
         "biovizBase"
