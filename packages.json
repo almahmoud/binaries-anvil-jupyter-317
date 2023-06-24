@@ -449,7 +449,6 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "goseq",
         "pcaExplorer"
