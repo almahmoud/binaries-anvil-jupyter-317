@@ -107,7 +107,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -1481,9 +1480,7 @@
         "genomation"
     ],
     "rCGH": [],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "ReactomePA": [
         "enrichplot"
@@ -1670,7 +1667,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scFeatures": [
-        "AUCell",
         "SingleCellSignalR",
         "ensembldb"
     ],
