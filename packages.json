@@ -581,7 +581,6 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
