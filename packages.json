@@ -13,9 +13,7 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.vcf"
     ],
@@ -24,7 +22,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
         "GenomicScores"
@@ -319,9 +316,7 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -487,7 +482,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi"
     ],
