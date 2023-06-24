@@ -203,8 +203,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -231,8 +230,7 @@
     ],
     "bumphunter": [],
     "BUSpaRse": [
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "OrganismDbi",
@@ -314,9 +312,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cghMCR": [],
     "ChAMP": [
         "DMRcate",
@@ -554,9 +550,7 @@
         "EDASeq",
         "sva"
     ],
-    "dasper": [
-        "plyranges"
-    ],
+    "dasper": [],
     "debrowser": [
         "clusterProfiler",
         "enrichplot",
@@ -994,8 +988,7 @@
         "cytomapper"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [],
     "InTAD": [],
@@ -1037,8 +1030,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "kissDE": [
         "DSS",
@@ -1088,8 +1080,7 @@
         "CAMERA"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -1171,8 +1162,7 @@
     "methylCC": [
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1321,7 +1311,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiSight": [
@@ -1363,9 +1352,7 @@
         "bsseq"
     ],
     "NBAMSeq": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "netSmooth": [
         "clusterExperiment",
         "zinbwave"
@@ -1385,9 +1372,7 @@
     "NormalyzerDE": [],
     "normr": [],
     "npGSEA": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [],
     "octad": [
         "EDASeq",
@@ -1398,8 +1383,7 @@
         "VariantAnnotation",
         "bumphunter",
         "dasper",
-        "derfinder",
-        "plyranges"
+        "derfinder"
     ],
     "OGRE": [
         "Gviz",
@@ -1480,10 +1464,7 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
     "podkat": [],
     "pogos": [],
     "preciseTAD": [
@@ -2068,8 +2049,7 @@
     ],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "regioneR"
