@@ -122,9 +122,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "Gviz",
         "crisprViz"
@@ -215,7 +213,6 @@
     ],
     "ggbio": [],
     "GRaNIE": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "HiCDCPlus": [
         "GenomicInteractions",
