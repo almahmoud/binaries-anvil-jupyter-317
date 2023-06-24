@@ -143,7 +143,6 @@
     ],
     "BiocOncoTK": [],
     "BioNERO": [],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
