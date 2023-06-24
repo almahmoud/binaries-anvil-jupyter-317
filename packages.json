@@ -71,12 +71,9 @@
         "Gviz"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -468,7 +465,6 @@
         "methylumi"
     ],
     "Rqc": [],
-    "RTCGAToolbox": [],
     "sarks": [],
     "SCAN.UPC": [
         "oligo",
