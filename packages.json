@@ -1174,7 +1174,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "GOstats"
     ],
