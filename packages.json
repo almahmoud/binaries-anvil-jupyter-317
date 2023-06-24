@@ -337,9 +337,7 @@
         "lumi",
         "methylumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [],
     "imcRtools": [],
     "INSPEcT": [],
@@ -494,7 +492,6 @@
         "Repitools"
     ],
     "pageRank": [],
-    "pcaExplorer": [],
     "pcxn": [],
     "pdInfoBuilder": [
         "oligo",
