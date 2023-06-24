@@ -23,12 +23,9 @@
         "wateRmelon"
     ],
     "brainflowprobes": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "cbaf": [],
     "ChAMP": [
@@ -79,9 +76,7 @@
     "easier": [],
     "epimutacions": [],
     "EventPointer": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "ffpe": [],
     "FLAMES": [],
     "frma": [
@@ -89,15 +84,12 @@
         "oligoClasses"
     ],
     "GA4GHshiny": [],
-    "GenomicInteractions": [],
     "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
     "GRaNIE": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "iCheck": [],
     "INSPEcT": [],
     "InTAD": [],
@@ -201,9 +193,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPLINTER": [],
     "SummarizedBenchmark": [],
     "SwathXtend": [],
