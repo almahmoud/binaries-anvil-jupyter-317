@@ -642,9 +642,7 @@
     "doppelgangR": [
         "sva"
     ],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dpeak": [],
     "drugTargetInteractions": [
         "ensembldb"
@@ -1961,7 +1959,6 @@
     ],
     "SVMDO": [],
     "SwathXtend": [],
-    "syntenet": [],
     "systemPipeR": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
