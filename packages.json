@@ -935,7 +935,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "RgnTX": [],
     "rgsepd": [
         "goseq"
     ],
