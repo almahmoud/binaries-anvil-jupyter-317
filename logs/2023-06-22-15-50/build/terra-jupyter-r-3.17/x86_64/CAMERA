@@ -34,13 +34,13 @@ packaged installation of ‘CAMERA’ as ‘CAMERA_1.56.0_R_x86_64-pc-linux-gnu.
 * DONE (CAMERA)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp8YEKVf/downloaded_packages’
+	‘/tmp/Rtmphuacsk/downloaded_packages’
 Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
   'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
   'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	0m54.303s
-user	0m50.022s
-sys	0m2.777s
+real	0m58.130s
+user	0m52.363s
+sys	0m2.934s
