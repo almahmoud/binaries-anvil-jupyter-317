@@ -164,12 +164,10 @@
     "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [],
     "CCPROMISE": [],
@@ -1005,9 +1003,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "rTRMui": [],
     "RUVSeq": [],
     "sarks": [],
@@ -1131,12 +1127,9 @@
     "SwathXtend": [],
     "TAPseq": [],
     "TBSignatureProfiler": [],
-    "TCGAutils": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFHAZ": [],
     "TimiRGeN": [],
     "TitanCNA": [
