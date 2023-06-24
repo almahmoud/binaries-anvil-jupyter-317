@@ -149,7 +149,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "annotatr",
-        "bsseq",
         "bumphunter",
         "dmrseq",
         "regioneR"
@@ -164,8 +163,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -178,7 +176,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase",
@@ -262,7 +259,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "goseq",
@@ -349,8 +345,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "CODEX": [],
     "Cogito": [],
@@ -484,8 +479,7 @@
     ],
     "DegNorm": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "derfinder": [
         "GenomicFiles",
@@ -524,7 +518,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "methylumi",
@@ -539,7 +532,6 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
         "bumphunter",
         "regioneR"
     ],
@@ -558,9 +550,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easier": [],
     "EasyCellType": [
         "clusterProfiler"
@@ -894,8 +884,7 @@
         "VariantAnnotation"
     ],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lineagespot": [
@@ -992,7 +981,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "bumphunter",
         "minfi"
     ],
@@ -1019,8 +1007,7 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "bumphunter",
@@ -1056,9 +1043,7 @@
         "crlmm",
         "oligoClasses"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [
         "GOstats"
     ],
@@ -1160,9 +1145,7 @@
         "regioneR",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nearBynding": [],
     "netSmooth": [
         "clusterExperiment"
@@ -1523,7 +1506,6 @@
     "scMerge": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "scone": [
