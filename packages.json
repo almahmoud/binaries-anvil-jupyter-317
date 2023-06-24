@@ -320,8 +320,7 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "ChIPseeker": [],
     "ChIPseqR": [],
@@ -549,8 +548,7 @@
         "sva"
     ],
     "DiffBind": [
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffHic": [],
     "DiffLogo": [],
@@ -1759,7 +1757,6 @@
     ],
     "SVMDO": [],
     "SwathXtend": [],
-    "systemPipeR": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -1873,8 +1870,7 @@
         "DiffBind",
         "GreyListChIP",
         "ensembldb",
-        "regioneR",
-        "systemPipeR"
+        "regioneR"
     ],
     "wateRmelon": [
         "bumphunter",
