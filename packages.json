@@ -255,10 +255,7 @@
         "biovizBase"
     ],
     "customProDB": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -461,9 +458,7 @@
     ],
     "igvR": [],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
@@ -881,9 +876,7 @@
     "signeR": [],
     "signifinder": [],
     "SigsPack": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
