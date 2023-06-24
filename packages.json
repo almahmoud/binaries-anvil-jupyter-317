@@ -85,12 +85,10 @@
         "oligoClasses"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "comapr": [
         "Gviz"
@@ -104,9 +102,7 @@
     ],
     "consensusDE": [],
     "contiBAIT": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "crisprseekplus": [],
     "crisprVerse": [
         "Gviz",
@@ -203,7 +199,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "karyoploteR": [],
     "lumi": [],
     "MAGAR": [
         "RnBeads",
@@ -254,9 +249,7 @@
     ],
     "MsDataHub": [],
     "msgbsR": [],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
@@ -333,9 +326,7 @@
     ],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "RMassBank": [],
     "RNAAgeCalc": [
         "recount"
