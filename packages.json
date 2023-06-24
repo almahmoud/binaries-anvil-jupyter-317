@@ -619,7 +619,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "Organism.dplyr": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -881,9 +880,7 @@
         "ensemblVEP"
     ],
     "tximeta": [],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
