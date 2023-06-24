@@ -287,7 +287,6 @@
     ],
     "condiments": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "contiBAIT": [
@@ -349,9 +348,7 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "dasper": [],
     "debrowser": [],
     "decompTumor2Sig": [
@@ -416,7 +413,6 @@
     "DSS": [],
     "easier": [],
     "EasyCellType": [],
-    "EDASeq": [],
     "eegc": [],
     "ELMER": [
         "Gviz",
@@ -530,8 +526,7 @@
         "VariantAnnotation"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GDCRNATools": [],
     "genbankr": [
@@ -872,7 +867,6 @@
     "normr": [],
     "nullranges": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1058,7 +1052,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -1121,9 +1114,7 @@
         "TCGAutils"
     ],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sarks": [],
     "SCAN.UPC": [
         "oligo",
@@ -1136,7 +1127,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "scoreInvHap": [
@@ -1238,7 +1228,6 @@
     ],
     "SpotClean": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [],
