@@ -338,7 +338,6 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [],
     "methylumi": [],
     "microbiomeMarker": [],
     "mimager": [
