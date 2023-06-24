@@ -543,7 +543,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "meshr": [],
     "MetaboSignal": [
         "mygene"
     ],
@@ -865,9 +864,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "scTensor": [
-        "meshr"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
