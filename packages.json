@@ -1438,7 +1438,6 @@
         "SingleCellSignalR",
         "ensembldb"
     ],
-    "scMerge": [],
     "scmeth": [
         "annotatr",
         "regioneR"
@@ -1518,8 +1517,7 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "ensembldb",
-        "scDblFinder",
-        "scMerge"
+        "scDblFinder"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
