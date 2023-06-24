@@ -79,7 +79,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "GA4GHshiny": [],
     "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
