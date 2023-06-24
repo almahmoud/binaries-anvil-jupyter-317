@@ -1406,7 +1406,6 @@
     "scClassify": [],
     "scDblFinder": [],
     "scFeatures": [
-        "SingleCellSignalR",
         "ensembldb"
     ],
     "scmeth": [
@@ -1483,7 +1482,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "ensembldb",
         "scDblFinder"
