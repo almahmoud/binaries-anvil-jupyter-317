@@ -181,9 +181,7 @@
     "proteasy": [
         "Rcpi"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "puma": [
         "oligo",
         "oligoClasses"
@@ -194,7 +192,6 @@
         "GenomicScores"
     ],
     "Rcpi": [],
-    "recount": [],
     "regionReport": [],
     "regutools": [],
     "Repitools": [],
@@ -203,9 +200,7 @@
         "SGSeq"
     ],
     "RMassBank": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -216,9 +211,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "sarks": [],
     "SCAN.UPC": [
