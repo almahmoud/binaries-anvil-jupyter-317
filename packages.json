@@ -557,8 +557,7 @@
     "enrichTF": [
         "TFBSTools",
         "clusterProfiler",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "ensembldb": [],
     "ensemblVEP": [
@@ -613,8 +612,7 @@
         "ChIPseeker",
         "TFBSTools",
         "clusterProfiler",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escheR": [],
     "EventPointer": [
@@ -1178,7 +1176,6 @@
         "ensembldb"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "GOstats"
     ],
