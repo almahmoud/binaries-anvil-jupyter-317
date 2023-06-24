@@ -441,7 +441,6 @@
         "ensemblVEP",
         "gmapR"
     ],
-    "MoonlightR": [],
     "motifbreakR": [
         "Gviz",
         "biovizBase"
