@@ -60,7 +60,6 @@
         "oligoClasses"
     ],
     "cicero": [],
-    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
