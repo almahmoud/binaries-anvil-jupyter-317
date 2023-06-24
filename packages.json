@@ -169,9 +169,7 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NormalyzerDE": [],
     "normr": [],
     "OGRE": [],
@@ -276,6 +274,5 @@
     "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
-    ],
-    "yarn": []
+    ]
 }
