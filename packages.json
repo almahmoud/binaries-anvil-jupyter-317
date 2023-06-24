@@ -239,7 +239,6 @@
     "GRaNIE": [],
     "GUIDEseq": [],
     "Gviz": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -374,9 +373,7 @@
     "oligoClasses": [],
     "omada": [],
     "OmicsLonDA": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "OutSplice": [
         "Repitools"
     ],
