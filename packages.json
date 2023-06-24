@@ -28,7 +28,6 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "airpart": [],
     "alabaster": [
         "VariantAnnotation",
         "alabaster.spatial",
