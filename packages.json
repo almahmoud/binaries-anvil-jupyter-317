@@ -448,9 +448,7 @@
     "katdetectr": [],
     "kissDE": [],
     "lineagespot": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lumi": [
         "methylumi",
         "minfi"
@@ -834,7 +832,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "spicyR": [],
     "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
