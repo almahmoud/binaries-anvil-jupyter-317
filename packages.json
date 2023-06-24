@@ -295,9 +295,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [],
     "CellBarcode": [],
     "cellHTS2": [
@@ -1518,7 +1516,6 @@
         "MLInterfaces",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
