@@ -672,9 +672,7 @@
     "magpie": [
         "TRESS"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -902,7 +900,6 @@
         "biovizBase"
     ],
     "PloGO2": [],
-    "plotgardener": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -1265,8 +1262,7 @@
     "txcutr": [],
     "tximeta": [],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
