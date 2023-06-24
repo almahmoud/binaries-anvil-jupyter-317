@@ -30,9 +30,7 @@
     ],
     "BindingSiteFinder": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -94,7 +92,6 @@
     "DAMEfinder": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "derfinderPlot": [],
     "DiffLogo": [],
     "DMRcate": [
         "missMethyl"
