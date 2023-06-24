@@ -27,7 +27,6 @@
         "biovizBase"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [
         "GenomicScores"
@@ -79,7 +78,6 @@
     "bioCancer": [],
     "biovizBase": [],
     "biscuiteer": [
-        "annotatr",
         "dmrseq"
     ],
     "BOBaFIT": [
@@ -282,9 +280,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [
@@ -795,9 +791,7 @@
     "scanMiRApp": [],
     "scBFA": [],
     "scFeatures": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
