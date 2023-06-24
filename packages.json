@@ -3,7 +3,6 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -13,7 +12,6 @@
         "oligoClasses"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -90,9 +88,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -212,9 +208,7 @@
         "VariantAnnotation"
     ],
     "casper": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -696,15 +690,12 @@
     "gmapR": [
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [],
     "goseq": [],
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GRaNIE": [
         "ensembldb"
     ],
@@ -755,7 +746,6 @@
     ],
     "iCNV": [],
     "ideal": [
-        "GOstats",
         "goseq",
         "pcaExplorer"
     ],
@@ -940,7 +930,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "GOstats",
         "bumphunter",
         "lumi",
         "methylumi",
@@ -955,9 +944,7 @@
         "oligoClasses"
     ],
     "MIRA": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "ReactomePA",
         "clusterProfiler",
@@ -1046,7 +1033,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "bumphunter",
         "minfi",
         "quantro",
@@ -1100,9 +1086,7 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "pcxn": [],
     "pdInfoBuilder": [
         "oligo",
@@ -1122,9 +1106,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [],
     "preciseTAD": [
         "rCGH"
@@ -1240,7 +1222,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -1382,7 +1363,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
@@ -1407,9 +1387,7 @@
         "VariantAnnotation"
     ],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "SGSeq": [],
     "shinyepico": [
         "bumphunter",
