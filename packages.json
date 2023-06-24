@@ -374,7 +374,6 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -1551,7 +1550,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "consensusOV",
         "ensembldb"
     ],
     "SigsPack": [
