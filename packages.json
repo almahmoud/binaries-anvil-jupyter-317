@@ -50,10 +50,7 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "crlmm": [
         "oligoClasses"
     ],
