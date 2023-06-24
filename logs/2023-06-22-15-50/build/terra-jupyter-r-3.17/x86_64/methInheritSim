@@ -220,13 +220,13 @@ packaged installation of ‘methylInheritance’ as ‘methylInheritance_1.24.0_
 * DONE (methylInheritance)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp8AQ2A6/downloaded_packages’
+	‘/tmp/RtmpTDWls8/downloaded_packages’
 Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
   'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
   'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	2m9.588s
-user	2m0.948s
-sys	0m10.286s
+real	2m3.585s
+user	1m51.371s
+sys	0m10.173s
