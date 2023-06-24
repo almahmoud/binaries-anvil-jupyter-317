@@ -16,16 +16,13 @@
         "oligo",
         "oligoClasses"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpli": [],
     "ATACseqQC": [
         "GenomicScores"
     ],
     "BGmix": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -42,7 +39,6 @@
     "cbaf": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -104,9 +100,7 @@
     "extraChIPs": [
         "GenomicInteractions"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [],
     "frma": [
         "oligo",
@@ -124,9 +118,7 @@
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [],
@@ -134,7 +126,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "lumi": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
@@ -149,7 +140,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "methrix": [],
@@ -162,9 +152,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
@@ -266,7 +254,6 @@
     "SingleMoleculeFootprinting": [],
     "sitadela": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "slalom": [],
@@ -292,9 +279,7 @@
     "VariantFiltering": [
         "GenomicScores"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
