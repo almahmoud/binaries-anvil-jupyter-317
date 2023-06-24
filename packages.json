@@ -1148,7 +1148,6 @@
         "clusterProfiler"
     ],
     "phenoTest": [],
-    "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler"
