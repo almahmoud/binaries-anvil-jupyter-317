@@ -95,7 +95,6 @@
     "cummeRbund": [],
     "cytoviewer": [],
     "DAMEfinder": [],
-    "decompTumor2Sig": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
     "derfinderPlot": [],
@@ -196,9 +195,7 @@
     "msgbsR": [],
     "multicrispr": [],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
         "GenomicScores",
