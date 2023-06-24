@@ -37,7 +37,6 @@
     "cbaf": [],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -80,9 +79,7 @@
     "DeepBlueR": [],
     "DeepPINCS": [],
     "DiffLogo": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DMRforPairs": [],
     "DrugVsDisease": [
         "ArrayExpress",
@@ -132,16 +129,12 @@
         "oligoClasses"
     ],
     "mCSEA": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
     "methrix": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylPipe": [],
     "mimager": [
         "oligo",
@@ -153,7 +146,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "missMethyl": [],
     "motifbreakR": [],
     "MsDataHub": [],
     "MungeSumstats": [],
