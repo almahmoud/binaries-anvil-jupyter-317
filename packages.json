@@ -929,7 +929,6 @@
     "IRISFGM": [
         "clusterProfiler"
     ],
-    "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
         "ensembldb",
         "tximeta"
