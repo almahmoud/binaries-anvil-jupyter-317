@@ -118,8 +118,7 @@
     "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
-        "GenomicScores",
-        "trackViewer"
+        "GenomicScores"
     ],
     "NanoMethViz": [],
     "netZooR": [],
@@ -184,7 +183,6 @@
     "spatzie": [],
     "SummarizedBenchmark": [],
     "SwathXtend": [],
-    "trackViewer": [],
     "trena": [],
     "tscR": [],
     "VAExprs": [
