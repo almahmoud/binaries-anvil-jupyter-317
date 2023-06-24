@@ -26,7 +26,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ANCOMBC": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -65,9 +64,7 @@
     "BadRegionFinder": [],
     "bandle": [],
     "BBCAnalyzer": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "BgeeCall": [],
     "BGmix": [],
     "bigmelon": [
@@ -548,9 +545,7 @@
     "methylumi": [
         "minfi"
     ],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [],
     "mimager": [
         "oligo",
