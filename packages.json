@@ -865,7 +865,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "OUTRIDER": [],
@@ -1007,9 +1006,7 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -1220,9 +1217,7 @@
         "TCGAutils"
     ],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TimiRGeN": [],
     "TitanCNA": [
         "VariantAnnotation"
