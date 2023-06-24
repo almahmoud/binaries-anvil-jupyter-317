@@ -249,9 +249,7 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
@@ -578,8 +576,7 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "ChIPseeker",
-        "genomation"
+        "ChIPseeker"
     ],
     "epigraHMM": [],
     "EpiMix": [],
@@ -649,9 +646,7 @@
     "famat": [
         "clusterProfiler"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcoex": [
         "clusterProfiler"
     ],
@@ -710,7 +705,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -1301,9 +1295,7 @@
         "VariantAnnotation"
     ],
     "Rbec": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [],
     "RcisTarget": [],
     "Rcpi": [],
