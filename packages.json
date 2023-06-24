@@ -99,9 +99,7 @@
     "cicero": [
         "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
@@ -243,7 +241,6 @@
     "GRaNIE": [],
     "GUIDEseq": [],
     "Gviz": [],
-    "gwascat": [],
     "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -574,9 +571,7 @@
     "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "lumi",
