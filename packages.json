@@ -1622,7 +1622,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [],
     "rGADEM": [],
     "RGMQL": [],
     "RgnTX": [
@@ -1985,9 +1984,7 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
