@@ -831,7 +831,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
