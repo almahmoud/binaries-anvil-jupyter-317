@@ -474,9 +474,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [
         "oligo",
         "oligoClasses"
@@ -830,7 +828,6 @@
         "VariantAnnotation"
     ],
     "Organism.dplyr": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
