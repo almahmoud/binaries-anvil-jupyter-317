@@ -315,7 +315,6 @@
     "EpiCompare": [
         "ChIPseeker"
     ],
-    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
