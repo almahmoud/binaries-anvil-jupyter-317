@@ -41,13 +41,10 @@
     ],
     "ATACCoGAPS": [],
     "ATACseqQC": [
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "BadRegionFinder": [],
     "BBCAnalyzer": [],
     "benchdamic": [],
@@ -215,9 +212,7 @@
     ],
     "customProDB": [],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [],
     "DaMiRseq": [],
     "decompTumor2Sig": [],
@@ -487,10 +482,8 @@
     "MoonlightR": [],
     "motifbreakR": [
         "Gviz",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
-    "motifStack": [],
     "MsDataHub": [],
     "msgbsR": [
         "biovizBase",
@@ -512,7 +505,6 @@
         "GenomicScores",
         "Gviz",
         "biovizBase",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -640,8 +632,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "RIPAT": [
         "biovizBase",
