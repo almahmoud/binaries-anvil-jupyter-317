@@ -77,9 +77,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BatchQC": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -857,10 +855,7 @@
     "profileplyr": [
         "ChIPseeker"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "proteasy": [
         "Rcpi"
