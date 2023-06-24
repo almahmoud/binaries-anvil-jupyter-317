@@ -492,14 +492,9 @@
         "Gviz"
     ],
     "standR": [],
-    "StructuralVariantAnnotation": [],
     "SummarizedBenchmark": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SwathXtend": [],
     "tLOH": [],
     "trackViewer": [
