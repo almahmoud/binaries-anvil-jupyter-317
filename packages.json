@@ -122,7 +122,6 @@
         "ReactomePA",
         "clusterProfiler"
     ],
-    "BiocOncoTK": [],
     "BioNERO": [],
     "biovizBase": [
         "VariantAnnotation",
