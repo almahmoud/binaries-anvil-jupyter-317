@@ -212,7 +212,6 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -235,7 +234,5 @@
         "GenomicScores"
     ],
     "wateRmelon": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ]
+    "YAPSA": []
 }
