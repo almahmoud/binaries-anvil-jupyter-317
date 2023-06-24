@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools",
         "biovizBase",
@@ -831,7 +829,6 @@
     ],
     "slalom": [],
     "SMITE": [],
-    "snapCGH": [],
     "SNPhood": [],
     "SomaticSignatures": [
         "biovizBase",
