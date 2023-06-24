@@ -1637,7 +1637,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqSQC": [],
     "SEtools": [
         "sva"
     ],
