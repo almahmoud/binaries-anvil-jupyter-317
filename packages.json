@@ -175,10 +175,7 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "EventPointer": [
         "SGSeq"
@@ -449,9 +446,7 @@
     "scruff": [
         "ggbio"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "SGSeq": [],
     "shinyepico": [],
     "shinyMethyl": [],
