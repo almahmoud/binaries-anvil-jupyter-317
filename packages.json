@@ -878,7 +878,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1040,7 +1039,6 @@
     "meshr": [],
     "MetaboSignal": [
         "ensembldb",
-        "hpar",
         "mygene"
     ],
     "metagene": [
