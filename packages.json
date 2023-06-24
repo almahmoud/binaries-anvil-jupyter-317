@@ -168,9 +168,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -478,9 +476,7 @@
     ],
     "NormalyzerDE": [],
     "normr": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "GenomicFiles",
         "derfinder"
@@ -582,9 +578,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "RIPAT": [
         "biovizBase",
         "karyoploteR"
@@ -627,7 +621,6 @@
         "biovizBase"
     ],
     "RTCGAToolbox": [],
-    "RUVSeq": [],
     "sarks": [],
     "SCAN.UPC": [
         "oligo",
@@ -636,9 +629,7 @@
     "scanMiRApp": [],
     "scFeatures": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scruff": [
         "biovizBase",
@@ -688,9 +679,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "StructuralVariantAnnotation": [],
     "SummarizedBenchmark": [],
     "svaNUMT": [
