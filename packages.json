@@ -186,7 +186,6 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -281,9 +280,7 @@
     "methrix": [],
     "MethylAid": [],
     "methylCC": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "methylumi",
         "missMethyl"
