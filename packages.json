@@ -204,7 +204,6 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "GARS": [],
     "GeneStructureTools": [
         "Gviz"
     ],
