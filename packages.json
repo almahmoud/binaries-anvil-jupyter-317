@@ -60,8 +60,7 @@
     ],
     "ATACCoGAPS": [
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -860,8 +859,7 @@
     ],
     "proActiv": [],
     "profileplyr": [
-        "ChIPseeker",
-        "rGREAT"
+        "ChIPseeker"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -952,7 +950,6 @@
         "VariantAnnotation"
     ],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
