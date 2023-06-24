@@ -253,7 +253,6 @@
     ],
     "GenVisR": [],
     "ggbio": [],
-    "gmapR": [],
     "GRaNIE": [],
     "GUIDEseq": [],
     "Gviz": [],
@@ -265,8 +264,7 @@
         "Gviz"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "icetea": [],
     "iCheck": [
@@ -356,8 +354,7 @@
     "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
-        "gmapR"
+        "ensemblVEP"
     ],
     "motifbreakR": [
         "Gviz"
