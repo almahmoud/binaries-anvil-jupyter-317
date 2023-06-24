@@ -236,9 +236,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "icetea": [],
     "iCheck": [
         "lumi",
@@ -320,9 +318,7 @@
         "methylumi"
     ],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "motifbreakR": [
         "Gviz"
     ],
@@ -530,7 +526,6 @@
         "GenomicScores",
         "Gviz"
     ],
-    "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
