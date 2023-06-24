@@ -43,9 +43,7 @@
         "oligoClasses"
     ],
     "comapr": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "crisprVerse": [],
     "crlmm": [
         "oligoClasses"
@@ -100,7 +98,6 @@
     ],
     "methrix": [],
     "methylGSA": [],
-    "methylPipe": [],
     "mimager": [
         "oligo",
         "oligoClasses"
