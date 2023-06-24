@@ -42,10 +42,7 @@
         "CAGEfightR",
         "GenomicInteractions"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
