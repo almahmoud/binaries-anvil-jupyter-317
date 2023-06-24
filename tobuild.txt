@@ -1,0 +1,9 @@
+crisprVerse
+RNAmodR.AlkAnilineSeq
+extraChIPs
+compEpiTools
+CAGEfightR
+HiCDCPlus
+spatzie
+RNAmodR.ML
+RNAmodR.RiboMethSeq
