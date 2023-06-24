@@ -1,8 +1,7 @@
 {
     "a4": [],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "adductomicsR": [],
     "affycoretools": [
@@ -1884,9 +1883,7 @@
     "SMITE": [
         "goseq"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
@@ -1990,7 +1987,6 @@
         "ORFik"
     ],
     "TFutils": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
