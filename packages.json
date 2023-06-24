@@ -1838,7 +1838,6 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "singscore": [],
     "SISPA": [],
     "sitadela": [],
     "skewr": [
@@ -1921,7 +1920,6 @@
     "TAPseq": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "singscore",
         "sva"
     ],
     "TCGAutils": [],
