@@ -115,7 +115,6 @@
         "oligoClasses"
     ],
     "MAGAR": [
-        "RnBeads",
         "crlmm",
         "oligoClasses"
     ],
@@ -203,7 +202,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "sarks": [],
     "SCAN.UPC": [
         "oligo",
