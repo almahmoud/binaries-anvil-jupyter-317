@@ -423,7 +423,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiLDA": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
@@ -830,9 +829,7 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker"
     ],
