@@ -46,9 +46,7 @@
     "BindingSiteFinder": [
         "Gviz"
     ],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -186,7 +184,6 @@
     "DMRforPairs": [
         "Gviz"
     ],
-    "dmrseq": [],
     "DominoEffect": [],
     "DrugVsDisease": [
         "ArrayExpress",
