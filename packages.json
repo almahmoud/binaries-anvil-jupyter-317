@@ -482,10 +482,7 @@
         "oligoClasses"
     ],
     "miRLAB": [],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "missMethyl": [
         "methylumi",
         "minfi"
