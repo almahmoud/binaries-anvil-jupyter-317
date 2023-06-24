@@ -264,13 +264,13 @@ packaged installation of ‘ComplexHeatmap’ as ‘ComplexHeatmap_2.16.0_R_x86_
 * DONE (ComplexHeatmap)
 
 The downloaded source packages are in
-	‘/tmp/RtmppfIfOG/downloaded_packages’
+	‘/tmp/RtmpaxqxcM/downloaded_packages’
 Old packages: 'IRanges', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
   'googledrive', 'googlesheets4', 'igraph', 'locfit', 'MatrixGenerics',
   'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore', 'Seurat', 'sp',
   'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	9m24.790s
-user	8m56.868s
-sys	0m27.738s
+real	8m52.084s
+user	8m26.440s
+sys	0m23.641s
