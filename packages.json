@@ -8,9 +8,7 @@
         "affycoretools",
         "oligoClasses"
     ],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -21,9 +19,7 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpli": [],
     "ATACseqQC": [
         "GenomicScores"
     ],
@@ -32,23 +28,19 @@
         "lumi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [
-        "Gviz"
-    ],
+    "BindingSiteFinder": [],
     "BOBaFIT": [],
     "brainflowprobes": [
         "derfinderPlot"
     ],
     "CAFE": [],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "cageminer": [],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "cbaf": [
         "cBioPortalData"
@@ -56,23 +48,18 @@
     "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
-        "Gviz",
         "lumi",
         "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
-    "chimeraviz": [
-        "Gviz"
-    ],
+    "chimeraviz": [],
     "ChIPXpress": [
         "frma",
         "oligo",
         "oligoClasses"
     ],
-    "cicero": [
-        "Gviz"
-    ],
+    "cicero": [],
     "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
@@ -88,26 +75,18 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "compEpiTools": [
-        "Gviz",
         "methylPipe"
     ],
     "consensusDE": [],
     "CopyNumberPlots": [],
     "crisprseekplus": [],
     "crisprVerse": [
-        "Gviz",
         "crisprViz"
     ],
-    "crisprViz": [
-        "Gviz"
-    ],
+    "crisprViz": [],
     "crlmm": [
         "oligoClasses"
     ],
@@ -115,9 +94,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "cummeRbund": [],
     "cytoviewer": [],
     "DAMEfinder": [],
     "decompTumor2Sig": [],
@@ -126,12 +103,9 @@
     "derfinderPlot": [],
     "DiffLogo": [],
     "DMRcate": [
-        "Gviz",
         "missMethyl"
     ],
-    "DMRforPairs": [
-        "Gviz"
-    ],
+    "DMRforPairs": [],
     "DominoEffect": [],
     "DrugVsDisease": [
         "ArrayExpress",
@@ -139,19 +113,14 @@
         "oligoClasses"
     ],
     "easier": [],
-    "ELMER": [
-        "Gviz"
-    ],
-    "epimutacions": [
-        "Gviz"
-    ],
+    "ELMER": [],
+    "epimutacions": [],
     "epivizrStandalone": [],
     "EventPointer": [
         "SGSeq"
     ],
     "extraChIPs": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "ffpe": [
         "lumi"
@@ -165,22 +134,16 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
+    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
     "GRaNIE": [],
-    "Gviz": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HTSeqGenie": [],
     "iCheck": [
@@ -200,17 +163,12 @@
         "crlmm",
         "oligoClasses"
     ],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "mBPCR": [
         "oligoClasses"
     ],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "missMethyl"
     ],
     "MEAT": [
@@ -222,9 +180,7 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "mimager": [
         "oligo",
         "oligoClasses"
@@ -239,9 +195,7 @@
     ],
     "missMethyl": [],
     "MMAPPR2": [],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "MsDataHub": [],
     "msgbsR": [],
     "multicrispr": [],
@@ -252,7 +206,6 @@
     "NADfinder": [
         "ATACseqQC",
         "GenomicScores",
-        "Gviz",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -263,9 +216,7 @@
     "normr": [],
     "octad": [],
     "ODER": [],
-    "OGRE": [
-        "Gviz"
-    ],
+    "OGRE": [],
     "oligo": [
         "oligoClasses"
     ],
@@ -281,12 +232,9 @@
         "oligo",
         "oligoClasses"
     ],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "primirTSS": [
-        "GenomicScores",
-        "Gviz"
+        "GenomicScores"
     ],
     "proteasy": [
         "Rcpi"
@@ -298,9 +246,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "pwrEWAS": [],
     "R3CPET": [],
     "RareVariantVis": [
@@ -309,9 +255,7 @@
     "Rcpi": [],
     "recount": [],
     "regionReport": [],
-    "regutools": [
-        "Gviz"
-    ],
+    "regutools": [],
     "Repitools": [],
     "ReportingTools": [],
     "RESOLVE": [],
@@ -324,19 +268,14 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
@@ -361,27 +300,18 @@
     "slalom": [],
     "SomaticSignatures": [],
     "spatzie": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
     "SummarizedBenchmark": [],
     "svaNUMT": [],
     "svaRetro": [],
     "SwathXtend": [],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "trena": [],
     "tscR": [],
-    "TVTB": [
-        "Gviz"
-    ],
-    "uncoverappLib": [
-        "Gviz"
-    ],
+    "TVTB": [],
+    "uncoverappLib": [],
     "VAExprs": [
         "DeepPINCS"
     ],
@@ -390,8 +320,7 @@
         "oligoClasses"
     ],
     "VariantFiltering": [
-        "GenomicScores",
-        "Gviz"
+        "GenomicScores"
     ],
     "wateRmelon": [
         "lumi"
