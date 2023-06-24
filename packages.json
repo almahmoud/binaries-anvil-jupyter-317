@@ -152,7 +152,6 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChIPXpress": [
         "frma",
         "oligo",
@@ -311,9 +310,7 @@
     ],
     "ensemblVEP": [],
     "epialleleR": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
@@ -334,7 +331,6 @@
         "GenomicFiles"
     ],
     "esATAC": [
-        "ChIPseeker",
         "motifmatchr"
     ],
     "EventPointer": [
@@ -662,9 +658,7 @@
         "biovizBase"
     ],
     "proActiv": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "pRolocGUI": [],
     "PROPS": [],
     "proteasy": [
@@ -817,13 +811,9 @@
         "epivizr",
         "epivizrData"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "seqCAT": [],
     "SGCP": [],
     "SGSeq": [],
