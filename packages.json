@@ -1148,9 +1148,7 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "bumphunter",
@@ -1815,7 +1813,6 @@
     ],
     "seqsetvis": [],
     "SeqSQC": [],
-    "sesame": [],
     "SEtools": [
         "sva"
     ],
