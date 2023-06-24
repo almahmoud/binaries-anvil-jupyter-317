@@ -495,9 +495,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "MetaboSignal": [
-        "mygene"
-    ],
+    "MetaboSignal": [],
     "metagene": [],
     "MetaPhOR": [],
     "methrix": [],
@@ -583,7 +581,6 @@
         "decompTumor2Sig"
     ],
     "MutationalPatterns": [],
-    "mygene": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
