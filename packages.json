@@ -275,7 +275,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -974,9 +973,7 @@
     ],
     "NanoMethViz": [],
     "nearBynding": [],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "bumphunter",
         "minfi",
