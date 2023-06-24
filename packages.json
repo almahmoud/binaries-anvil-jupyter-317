@@ -141,7 +141,6 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
-    "ChIPQC": [],
     "ChIPXpress": [
         "frma",
         "oligo",
