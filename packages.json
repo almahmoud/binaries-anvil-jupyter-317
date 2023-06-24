@@ -515,7 +515,6 @@
     ],
     "deconvR": [
         "bumphunter",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -1043,9 +1042,7 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -1071,10 +1068,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
