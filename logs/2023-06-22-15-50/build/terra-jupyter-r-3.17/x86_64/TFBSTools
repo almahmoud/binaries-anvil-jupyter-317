@@ -308,13 +308,13 @@ packaged installation of ‘TFBSTools’ as ‘TFBSTools_1.38.0_R_x86_64-pc-linu
 * DONE (TFBSTools)
 
 The downloaded source packages are in
-	‘/tmp/Rtmps3tetF/downloaded_packages’
+	‘/tmp/RtmpRM9KoE/downloaded_packages’
 Old packages: 'AnnotationForge', 'IRanges', 'BiocManager', 'biomaRt', 'broom',
   'bslib', 'curl', 'DelayedMatrixStats', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'locfit',
   'MatrixGenerics', 'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore',
   'Seurat', 'sp', 'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	3m15.247s
-user	3m5.112s
-sys	0m11.733s
+real	3m17.746s
+user	3m7.900s
+sys	0m12.126s
