@@ -992,7 +992,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
