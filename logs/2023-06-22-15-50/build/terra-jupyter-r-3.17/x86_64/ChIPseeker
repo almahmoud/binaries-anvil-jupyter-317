@@ -281,16 +281,16 @@ packaged installation of ‘ggVennDiagram’ as ‘ggVennDiagram_1.2.2_R_x86_64-
 * DONE (ggVennDiagram)
 
 The downloaded source packages are in
-	‘/tmp/RtmpP6ANIR/downloaded_packages’
+	‘/tmp/RtmpJtbleM/downloaded_packages’
 Old packages: 'AnnotationForge', 'IRanges', 'BiocManager', 'biomaRt', 'broom',
   'bslib', 'curl', 'DelayedMatrixStats', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'locfit',
   'MatrixGenerics', 'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore',
   'Seurat', 'sp', 'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	4m16.394s
-user	3m58.115s
-sys	0m17.427s
+real	3m24.941s
+user	3m10.229s
+sys	0m12.909s
 * installing *source* package ‘rsvg’ ...
 ** package ‘rsvg’ successfully unpacked and MD5 sums checked
 ** using staged installation
