@@ -2730,16 +2730,16 @@ packaged installation of ‘ggbio’ as ‘ggbio_1.48.0_R_x86_64-pc-linux-gnu.ta
 * DONE (ggbio)
 
 The downloaded source packages are in
-	‘/tmp/RtmpuTvcy1/downloaded_packages’
+	‘/tmp/RtmprO3Qh2/downloaded_packages’
 Old packages: 'AnnotationForge', 'IRanges', 'BiocManager', 'biomaRt', 'broom',
-  'bslib', 'curl', 'DelayedMatrixStats', 'gargle', 'GenomeInfoDb',
+  'bslib', 'curl', 'DelayedMatrixStats', 'DESeq2', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'locfit',
   'MatrixGenerics', 'pkgbuild', 'RcppArmadillo', 'reticulate', 'scattermore',
   'Seurat', 'sp', 'sparseMatrixStats', 'testthat', 'usethis', 'vctrs'
 
-real	5m41.443s
-user	5m18.086s
-sys	0m20.570s
+real	4m41.689s
+user	4m22.746s
+sys	0m16.275s
 * installing *source* package ‘DO.db’ ...
 ** using staged installation
 ** R
