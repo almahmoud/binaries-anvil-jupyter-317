@@ -240,7 +240,6 @@
         "clusterProfiler"
     ],
     "CCPROMISE": [],
-    "celda": [],
     "cellHTS2": [],
     "CelliD": [],
     "CEMiTool": [
@@ -1553,7 +1552,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "celda",
         "ensembldb",
         "scDblFinder",
         "scMerge"
