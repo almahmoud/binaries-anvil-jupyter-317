@@ -48,8 +48,7 @@
     ],
     "cicero": [],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "cn.farms": [
         "oligo",
@@ -89,9 +88,7 @@
     "easier": [],
     "ELMER": [],
     "epimutacions": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -195,9 +192,7 @@
     "regutools": [],
     "Repitools": [],
     "ReportingTools": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RMassBank": [],
     "RNAAgeCalc": [],
     "RNAmodR": [],
@@ -217,7 +212,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "SGSeq": [],
     "sitadela": [],
     "skewr": [
         "wateRmelon"
