@@ -343,7 +343,6 @@
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "MutationalPatterns": [],
     "NADfinder": [
         "ATACseqQC",
         "GenomicScores",
@@ -429,9 +428,7 @@
     "ReportingTools": [
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
