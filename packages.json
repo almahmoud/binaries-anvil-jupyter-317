@@ -462,9 +462,7 @@
         "oligoClasses"
     ],
     "MAGeCKFlute": [],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "mariner": [],
     "maser": [
         "Gviz",
@@ -859,7 +857,6 @@
         "biovizBase"
     ],
     "trena": [],
-    "TRESS": [],
     "tscR": [],
     "TVTB": [
         "Gviz",
