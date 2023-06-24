@@ -307,7 +307,6 @@
         "Gviz"
     ],
     "pwrEWAS": [],
-    "QuasR": [],
     "R3CPET": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -359,9 +358,7 @@
     "scruff": [],
     "scTreeViz": [],
     "SGSeq": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "sitadela": [],
     "skewr": [
         "lumi",
