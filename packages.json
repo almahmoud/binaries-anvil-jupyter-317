@@ -1404,7 +1404,6 @@
     ],
     "scBFA": [],
     "scClassify": [],
-    "scDblFinder": [],
     "scFeatures": [
         "ensembldb"
     ],
@@ -1482,8 +1481,7 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "ensembldb",
-        "scDblFinder"
+        "ensembldb"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
