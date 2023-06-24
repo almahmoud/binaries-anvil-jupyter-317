@@ -266,7 +266,6 @@
     ],
     "dmrseq": [],
     "DominoEffect": [],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "oligo",
