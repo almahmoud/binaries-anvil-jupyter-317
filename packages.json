@@ -140,7 +140,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -414,7 +413,6 @@
     ],
     "gmapR": [],
     "GmicR": [],
-    "goseq": [],
     "goSorensen": [],
     "GRaNIE": [],
     "GSReg": [],
@@ -444,7 +442,6 @@
         "minfi"
     ],
     "ideal": [
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [],
@@ -754,9 +751,7 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -879,9 +874,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [],
     "SNPhood": [],
     "SomaticSignatures": [
