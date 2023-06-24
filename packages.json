@@ -62,18 +62,13 @@
         "oligo",
         "oligoClasses"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "comapr": [],
     "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
-    "CopyNumberPlots": [],
     "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz"
