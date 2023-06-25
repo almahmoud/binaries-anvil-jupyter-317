@@ -17,16 +17,12 @@
         "GenomicScores"
     ],
     "BGmix": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "CAGEfightR": [],
     "CAGEr": [
         "CAGEfightR"
     ],
-    "ChAMP": [
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "ChIC": [],
     "ChIPXpress": [
         "frma",
@@ -88,9 +84,7 @@
     "mBPCR": [
         "oligoClasses"
     ],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "methrix": [],
     "mimager": [
         "oligo",
@@ -156,9 +150,7 @@
         "oligoClasses"
     ],
     "sitadela": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "slalom": [],
     "spatzie": [],
     "SummarizedBenchmark": [],
@@ -175,6 +167,5 @@
     "VariantFiltering": [
         "GenomicScores"
     ],
-    "wateRmelon": [],
     "YAPSA": []
 }
