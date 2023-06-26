@@ -30995,7 +30995,6 @@
         "sva",
         "zlibbioc"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BSgenome",
