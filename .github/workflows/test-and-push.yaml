@@ -24,6 +24,7 @@ jobs:
         run: |
           if [ ! -f "runstarttime" ]; then exit 1; fi
           if [ ! -f "logs/$(cat runstarttime)/PACKAGES" ]; then exit 1; fi
+          echo containername=$(cat containername) >> $GITHUB_OUTPUT
           echo platform=$(cat PLATFORM.bioc) >> $GITHUB_OUTPUT
           echo testcontainer=$(cat ROOT_CONTAINER.bioc | sed "s#:#:test-#g") >> $GITHUB_OUTPUT
           echo biocver=$(cat bioc_build/bioc | sed 's/ /./g') >> $GITHUB_OUTPUT
@@ -35,14 +36,13 @@ jobs:
           grep -Pzo "(?s)\s*\"\N*\":\s*\[" biocdeps.json | awk -F'"' '{print $2}' | grep -v '^$' > /tmp/allbioc
           comm -12 <(sort /tmp/alltars) <(sort /tmp/allbioc) > /tmp/builtbioc
           shuf -n 5 /tmp/builtbioc > randompkgs
-
           cat << EOF > test.Dockerfile
           FROM $(cat CONTAINER_BASE_IMAGE.bioc)
           COPY randompkgs /tmp/randompkgs
           COPY containername /tmp/containername
           COPY runstarttime /tmp/runstarttime
           COPY arch /tmp/arch
-          RUN mkdir -p library && cat /tmp/randompkgs | xargs -i bash -c "Rscript -e \"p <- .libPaths(); p <- c('$(pwd)/library', p); .libPaths(p); BiocManager::install('{}', site_repository = 'https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/')\""
+          RUN mkdir -p library && cat /tmp/randompkgs | xargs -i bash -c "curl -o library/{}.tar.gz https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/{}.tar.gz && (cd library && tar -xvf {}.tar.gz && rm {}.tar.gz && rm -rf {}) && Rscript -e \"p <- .libPaths(); p <- c('$(pwd)/library', p); .libPaths(p); BiocManager::install('{}', site_repository = 'https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/')\""
           EOF
 
       - name: Set up QEMU
@@ -136,7 +136,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Cycle has ended for ${{steps.variables.outputs.biocver}}.
+            Cycle has ended for ${{steps.variables.outputs.containername}}.
             New binaries copied: ${{ steps.s3copy.outputs.newcount }}
             Total cycle binaries: ${{ steps.s3copy.outputs.cyclecount }}
         env:
