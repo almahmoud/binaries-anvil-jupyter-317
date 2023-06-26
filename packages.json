@@ -3851,9 +3851,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biobase",
@@ -26035,7 +26033,6 @@
         "XVector"
     ],
     "similaRpeak": [],
-    "SIMLR": [],
     "simpleSeg": [
         "Biobase",
         "BiocGenerics",
