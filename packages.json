@@ -27772,7 +27772,6 @@
         "XVector",
         "biomaRt"
     ],
-    "SwathXtend": [],
     "switchde": [
         "Biobase",
         "BiocGenerics",
