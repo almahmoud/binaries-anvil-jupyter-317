@@ -15226,7 +15226,6 @@
         "zlibbioc"
     ],
     "M3C": [],
-    "M3Drop": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -25836,7 +25835,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "M3Drop",
         "MatrixGenerics",
         "ResidualMatrix",
         "S4Arrays",
@@ -27366,7 +27364,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "M3Drop",
         "MAST",
         "MatrixGenerics",
         "ProtGenerics",
