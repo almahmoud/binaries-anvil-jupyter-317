@@ -556,9 +556,7 @@
         "XVector",
         "multtest"
     ],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1780,8 +1778,7 @@
         "biomaRt",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -6446,8 +6443,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "tximport"
+        "edgeR"
     ],
     "diffHic": [
         "BSgenome",
@@ -7901,8 +7897,7 @@
         "graph",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "EWCE": [
         "AnnotationDbi",
@@ -11345,8 +11340,7 @@
         "geneplotter",
         "interactiveDisplayBase",
         "rtracklayer",
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "isomiRs": [
         "AnnotationDbi",
@@ -21227,7 +21221,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "tximport",
         "zellkonverter",
         "zinbwave"
     ],
@@ -22730,8 +22723,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "tximport"
+        "XVector"
     ],
     "TDbasedUFEadv": [
         "AnnotationDbi",
@@ -22747,8 +22739,7 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "tximport"
+        "ggtree"
     ],
     "TEKRABber": [
         "AnnotationDbi",
@@ -23695,10 +23686,8 @@
         "biomaRt",
         "ensembldb",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
-    "tximport": [],
     "UCell": [
         "BiocNeighbors",
         "DelayedArray",
