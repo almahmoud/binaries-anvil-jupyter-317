@@ -5319,15 +5319,13 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "rtracklayer",
-        "scanMiR"
+        "rtracklayer"
     ],
     "scAnnotatR": [
         "AnnotationHub",
