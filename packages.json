@@ -3517,7 +3517,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
         "SeqArray",
