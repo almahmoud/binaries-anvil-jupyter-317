@@ -1690,7 +1690,6 @@
     ],
     "biodbKegg": [],
     "biodbNcbi": [],
-    "biodbUniprot": [],
     "biomaRt": [
         "AnnotationDbi",
         "Biostrings",
