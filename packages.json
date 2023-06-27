@@ -2700,7 +2700,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "protGear": [],
     "psichomics": [
         "BSgenome",
         "GenomicFeatures",
