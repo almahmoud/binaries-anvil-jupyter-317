@@ -3652,7 +3652,6 @@
     "transformGamPoi": [
         "glmGamPoi"
     ],
-    "tRanslatome": [],
     "traseR": [
         "BSgenome",
         "rtracklayer"
