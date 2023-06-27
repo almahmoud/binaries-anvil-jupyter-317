@@ -1813,7 +1813,6 @@
         "annotate",
         "genefilter"
     ],
-    "CGHnormaliter": [],
     "ChAMP": [
         "AnnotationDbi",
         "AnnotationFilter",
