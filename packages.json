@@ -6532,7 +6532,6 @@
         "biomaRt",
         "topGO"
     ],
-    "ptairMS": [],
     "puma": [
         "SummarizedExperiment",
         "oligo",
