@@ -1615,7 +1615,6 @@
         "GSVA",
         "SingleCellExperiment"
     ],
-    "eisaR": [],
     "ELMER": [
         "BSgenome",
         "GenomicAlignments",
