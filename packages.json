@@ -1542,7 +1542,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot"
