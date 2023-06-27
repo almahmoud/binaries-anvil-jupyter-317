@@ -2066,7 +2066,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3895,7 +3894,6 @@
         "IRanges",
         "KEGGREST",
         "ProtGenerics",
-        "ROC",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -4624,11 +4622,8 @@
         "xcms"
     ],
     "Clonality": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -13401,7 +13396,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "S4Vectors",
         "XVector",
         "affy",
@@ -13792,7 +13786,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -21316,7 +21309,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "ROC": [],
     "ROCpAI": [
         "Biobase",
         "DelayedArray",
@@ -23801,7 +23793,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -24797,9 +24788,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "statTarget": [
-        "ROC"
-    ],
+    "statTarget": [],
     "STdeconvolve": [],
     "stepNorm": [
         "limma",
@@ -27029,7 +27018,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
