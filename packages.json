@@ -3791,7 +3791,6 @@
         "scuttle",
         "zellkonverter"
     ],
-    "vissE": [],
     "Voyager": [
         "DropletUtils",
         "SpatialExperiment",
