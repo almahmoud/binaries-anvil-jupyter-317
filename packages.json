@@ -19965,7 +19965,6 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biobase",
