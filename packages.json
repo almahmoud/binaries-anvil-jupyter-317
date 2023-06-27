@@ -1591,9 +1591,7 @@
     "GeneBreak": [],
     "genefu": [],
     "GeneMeta": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicFeatures",
@@ -3489,7 +3487,6 @@
         "rtracklayer"
     ],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
         "sva"
