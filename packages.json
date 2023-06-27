@@ -876,10 +876,8 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "crisprBowtie",
-        "crisprScore",
         "rtracklayer"
     ],
-    "crisprScore": [],
     "CRISPRseek": [
         "BSgenome",
         "rtracklayer"
@@ -903,7 +901,6 @@
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz",
         "ensembldb",
         "rtracklayer"
@@ -916,7 +913,6 @@
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "ensembldb",
         "rtracklayer"
     ],
