@@ -2957,7 +2957,6 @@
     ],
     "MetNet": [],
     "MGFM": [],
-    "MGFR": [],
     "mia": [
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -4314,8 +4313,7 @@
     ],
     "SAIGEgds": [],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR"
+        "MGFM"
     ],
     "satuRn": [],
     "SBGNview": [],
