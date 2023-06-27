@@ -1314,9 +1314,7 @@
         "bsseq",
         "rtracklayer"
     ],
-    "easier": [
-        "quantiseqr"
-    ],
+    "easier": [],
     "EasyCellType": [
         "clusterProfiler",
         "enrichplot"
@@ -3067,7 +3065,6 @@
     "qsvaR": [
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "GenomicFeatures",
         "bumphunter",
