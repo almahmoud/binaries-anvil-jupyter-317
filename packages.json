@@ -4129,7 +4129,6 @@
         "enrichplot"
     ],
     "receptLoss": [],
-    "reconsi": [],
     "recount": [
         "BSgenome",
         "GenomicAlignments",
