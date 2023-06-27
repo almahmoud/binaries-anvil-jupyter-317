@@ -2823,7 +2823,6 @@
     ],
     "pwrEWAS": [],
     "QFeatures": [],
-    "qmtools": [],
     "qpgraph": [
         "GenomicFeatures",
         "rtracklayer"
