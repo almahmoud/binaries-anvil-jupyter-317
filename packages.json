@@ -1421,7 +1421,6 @@
         "scran",
         "scuttle"
     ],
-    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "GenomicFeatures",
