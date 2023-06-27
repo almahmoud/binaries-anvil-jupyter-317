@@ -2985,7 +2985,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "RepViz": [],
     "RESOLVE": [
         "BSgenome",
         "GenomicFeatures",
