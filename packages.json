@@ -1347,7 +1347,6 @@
     "EpiTxDb": [
         "GenomicFeatures",
         "rtracklayer",
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -3912,14 +3911,10 @@
     "trigger": [
         "sva"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
-        "rtracklayer",
-        "tRNA"
+        "rtracklayer"
     ],
     "TSCAN": [
         "TrajectoryUtils"
