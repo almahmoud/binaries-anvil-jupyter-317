@@ -2378,7 +2378,6 @@
         "biomaRt",
         "geNetClassifier",
         "genefilter",
-        "hopach",
         "phenoTest"
     ],
     "CancerSubtypes": [],
@@ -8605,7 +8604,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "hopach": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13397,8 +13395,7 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "PhenStat": [],
     "philr": [],
@@ -16127,8 +16124,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "annotate",
-        "hopach"
+        "annotate"
     ],
     "sccomp": [
         "DelayedArray",
@@ -19166,8 +19162,7 @@
         "SummarizedExperiment",
         "XVector",
         "diffcyt",
-        "edgeR",
-        "hopach"
+        "edgeR"
     ],
     "TreeSummarizedExperiment": [
         "Biostrings",
