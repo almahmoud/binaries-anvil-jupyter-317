@@ -120,14 +120,14 @@ packaged installation of ‘Mfuzz’ as ‘Mfuzz_2.60.0_R_x86_64-pc-linux-gnu.ta
 * DONE (Mfuzz)
 
 The downloaded source packages are in
-	‘/tmp/RtmpuHYIhP/downloaded_packages’
+	‘/tmp/RtmpWLKbLS/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
-  'locfit', 'MatrixGenerics', 'pkgbuild', 'RcppArmadillo', 'reticulate',
-  'scattermore', 'Seurat', 'sp', 'sparseMatrixStats', 'spatstat.sparse',
-  'testthat', 'usethis', 'uwot', 'vctrs'
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	0m31.459s
-user	0m26.903s
-sys	0m3.191s
+real	0m24.619s
+user	0m20.647s
+sys	0m2.097s
