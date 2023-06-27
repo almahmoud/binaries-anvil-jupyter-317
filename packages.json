@@ -9936,7 +9936,6 @@
         "XVector",
         "biomaRt"
     ],
-    "lapmix": [],
     "lefser": [
         "DelayedArray",
         "GenomeInfoDb",
