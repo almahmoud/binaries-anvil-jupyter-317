@@ -16619,7 +16619,6 @@
         "XVector",
         "graph"
     ],
-    "netprioR": [],
     "netresponse": [
         "Rgraphviz",
         "graph"
