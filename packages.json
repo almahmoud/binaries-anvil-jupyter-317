@@ -1217,7 +1217,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "BSgenome",
@@ -1635,9 +1634,7 @@
     "groHMM": [
         "rtracklayer"
     ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [],
     "GSReg": [
         "GenomicFeatures",
@@ -3947,9 +3944,7 @@
         "rtracklayer"
     ],
     "zellkonverter": [],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": [],
     "ZygosityPredictor": [
         "BSgenome",
