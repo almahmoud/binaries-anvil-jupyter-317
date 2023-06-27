@@ -3905,7 +3905,6 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "receptLoss": [],
     "recount": [
         "BSgenome",
         "GenomicAlignments",
