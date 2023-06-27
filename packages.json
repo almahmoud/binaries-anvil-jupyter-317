@@ -1244,8 +1244,7 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
-        "SeqArray"
+        "RaggedExperiment"
     ],
     "CNVrd2": [
         "BSgenome",
@@ -2478,9 +2477,7 @@
         "rtracklayer",
         "sva"
     ],
-    "GBScleanR": [
-        "SeqArray"
-    ],
+    "GBScleanR": [],
     "gcapc": [
         "BSgenome",
         "GenomicAlignments",
@@ -2496,9 +2493,7 @@
         "enrichplot",
         "pathview"
     ],
-    "GDSArray": [
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "gemma.R": [],
     "genbankr": [
         "BSgenome",
@@ -2532,7 +2527,6 @@
         "annotate"
     ],
     "GENESIS": [
-        "SeqArray",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -2648,9 +2642,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggmanh": [
-        "SeqArray"
-    ],
+    "ggmanh": [],
     "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
@@ -5294,9 +5286,7 @@
         "rtracklayer"
     ],
     "safe": [],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -5607,7 +5597,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "SeqArray": [],
     "seqbias": [],
     "seqCAT": [
         "BSgenome",
@@ -5631,9 +5620,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "SeqVarTools": [
-        "SeqArray"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
         "ExperimentHub"
@@ -6507,8 +6494,7 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "GDSArray",
-        "SeqArray"
+        "GDSArray"
     ],
     "VariantFiltering": [
         "AnnotationHub",
