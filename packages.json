@@ -2128,7 +2128,6 @@
         "enrichplot"
     ],
     "GDSArray": [],
-    "gemma.R": [],
     "genbankr": [
         "BSgenome",
         "GenomicAlignments",
