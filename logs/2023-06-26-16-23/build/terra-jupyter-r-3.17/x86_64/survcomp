@@ -552,7 +552,7 @@ packaged installation of ‘survcomp’ as ‘survcomp_1.50.0_R_x86_64-pc-linux-
 * DONE (survcomp)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpc2VO94/downloaded_packages’
+	‘/tmp/Rtmp3nUot1/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -560,6 +560,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'scattermore', 'Seurat', 'sp', 'sparseMatrixStats', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	2m9.933s
-user	2m0.977s
-sys	0m15.056s
+real	1m48.976s
+user	1m41.694s
+sys	0m11.118s
