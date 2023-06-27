@@ -2194,9 +2194,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Cardinal": [
-        "matter"
-    ],
+    "Cardinal": [],
     "casper": [
         "AnnotationDbi",
         "Biostrings",
@@ -9107,7 +9105,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "matter": [],
     "MBASED": [
         "DelayedArray",
         "GenomeInfoDb",
