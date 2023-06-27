@@ -14573,7 +14573,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Sconify": [],
     "SCOPE": [
         "BSgenome",
         "Biostrings",
