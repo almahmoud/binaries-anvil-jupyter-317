@@ -2244,7 +2244,6 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "mogsa": [],
     "MoleculeExperiment": [
         "DropletUtils",
         "SpatialExperiment",
