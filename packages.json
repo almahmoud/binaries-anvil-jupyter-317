@@ -8757,7 +8757,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "iChip": [],
     "iCNV": [
         "BSgenome",
         "Biostrings",
