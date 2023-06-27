@@ -12052,7 +12052,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "NeighborNet": [],
     "nempi": [
         "Linnorm",
         "RBGL",
