@@ -88,7 +88,6 @@
     "amplican": [
         "ShortRead"
     ],
-    "Anaquin": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
         "mia",
