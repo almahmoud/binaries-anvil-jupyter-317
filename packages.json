@@ -1097,7 +1097,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "codelink": [],
     "CODEX": [
         "BSgenome",
         "GenomicAlignments",
