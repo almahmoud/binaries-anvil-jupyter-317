@@ -1028,7 +1028,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "DEGreport": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -1874,9 +1873,7 @@
         "rtracklayer",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
