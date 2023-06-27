@@ -845,8 +845,7 @@
         "rtracklayer"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consensusSeekeR": [
         "rtracklayer"
@@ -1560,7 +1559,6 @@
         "rtracklayer"
     ],
     "GeneBreak": [],
-    "genefu": [],
     "GeneMeta": [],
     "GENESIS": [],
     "GeneStructureTools": [
@@ -2654,8 +2652,7 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -3470,7 +3467,6 @@
         "GenomicFeatures",
         "consensusOV",
         "ensembldb",
-        "genefu",
         "rtracklayer"
     ],
     "SigsPack": [
