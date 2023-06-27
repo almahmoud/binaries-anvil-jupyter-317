@@ -7545,7 +7545,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "AnnotationDbi",
         "BSgenome",
@@ -10855,9 +10854,7 @@
         "beachmat",
         "scuttle"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [
         "AnnotationDbi",
         "Biostrings",
@@ -17112,9 +17109,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [
         "AnnotationDbi",
         "Biostrings",
