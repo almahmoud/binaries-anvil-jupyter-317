@@ -2048,7 +2048,6 @@
     "MetaboAnnotation": [
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
