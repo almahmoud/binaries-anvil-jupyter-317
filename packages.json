@@ -8063,12 +8063,10 @@
     ],
     "MSstatsLiP": [
         "Biostrings",
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
     "MSstatsPTM": [
-        "Biostrings",
-        "MSstatsTMT"
+        "Biostrings"
     ],
     "MSstatsQC": [
         "MSnbase"
@@ -8080,10 +8078,8 @@
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "Biostrings",
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [
         "DelayedArray",
         "GenomicRanges",
