@@ -5109,7 +5109,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EGAD": [],
     "EGSEA": [
         "AnnotationDbi",
         "BiocSingular",
