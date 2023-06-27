@@ -1828,7 +1828,6 @@
     "IdeoViz": [
         "rtracklayer"
     ],
-    "IFAA": [],
     "igvR": [
         "BSgenome",
         "GenomicFeatures",
