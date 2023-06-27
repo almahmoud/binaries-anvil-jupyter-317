@@ -8548,7 +8548,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "NormqPCR": [],
     "normr": [
         "Biostrings",
         "DelayedArray",
