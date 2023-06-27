@@ -1483,7 +1483,6 @@
         "rtracklayer",
         "sva"
     ],
-    "DEP": [],
     "derfinder": [
         "BSgenome",
         "GenomicAlignments",
