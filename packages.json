@@ -3443,7 +3443,6 @@
     ],
     "omicsPrint": [],
     "oncomix": [],
-    "ontoProc": [],
     "openPrimeRui": [],
     "oposSOM": [],
     "oppar": [
@@ -3639,9 +3638,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2"
     ],
@@ -5025,7 +5022,6 @@
     ],
     "tenXplore": [
         "ExperimentHub",
-        "ontoProc",
         "restfulSE"
     ],
     "TEQC": [],
