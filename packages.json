@@ -11186,9 +11186,7 @@
         "XVector",
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "Biostrings",
         "DelayedArray",
@@ -13081,7 +13079,6 @@
         "enrichplot",
         "graphite"
     ],
-    "ReadqPCR": [],
     "receptLoss": [
         "DelayedArray",
         "GenomeInfoDb",
