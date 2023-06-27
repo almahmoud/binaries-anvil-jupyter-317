@@ -2020,9 +2020,7 @@
     "Metab": [
         "xcms"
     ],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
@@ -2282,9 +2280,7 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2304,12 +2300,9 @@
     "MSPrep": [
         "sva"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "MuData": [],
     "MultiBaC": [
@@ -2699,9 +2692,7 @@
         "recount",
         "rtracklayer"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "puma": [
         "oligo",
@@ -2723,7 +2714,6 @@
         "rtracklayer"
     ],
     "pwrEWAS": [],
-    "QFeatures": [],
     "qpgraph": [
         "GenomicFeatures",
         "rtracklayer"
@@ -3208,9 +3198,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "DropletUtils",
         "rtracklayer",
