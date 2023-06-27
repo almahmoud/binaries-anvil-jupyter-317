@@ -5324,7 +5324,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "MMUPHin": [],
     "moanin": [
         "AnnotationDbi",
         "SummarizedExperiment",
