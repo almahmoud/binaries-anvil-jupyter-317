@@ -9721,9 +9721,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "Biobase",
         "ComplexHeatmap",
@@ -12710,7 +12708,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "lfa": [],
     "limma": [],
     "limmaGUI": [
         "limma"
