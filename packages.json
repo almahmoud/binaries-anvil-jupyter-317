@@ -3332,7 +3332,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GMRP": [],
     "GNET2": [
         "SummarizedExperiment"
     ],
