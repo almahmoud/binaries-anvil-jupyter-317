@@ -16751,9 +16751,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "nearBynding": [
         "AnnotationDbi",
         "Biobase",
@@ -19955,7 +19953,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCX": [],
     "RCy3": [
         "graph"
     ],
