@@ -1644,7 +1644,6 @@
     "dce": [
         "graphite"
     ],
-    "ddPCRclust": [],
     "debCAM": [],
     "debrowser": [
         "DESeq2",
