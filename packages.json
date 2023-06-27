@@ -1528,7 +1528,6 @@
         "rtracklayer"
     ],
     "GeneBreak": [],
-    "GeneMeta": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
@@ -3955,9 +3954,7 @@
     ],
     "xcms": [],
     "xcore": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
