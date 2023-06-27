@@ -1963,7 +1963,6 @@
         "TreeSummarizedExperiment",
         "scuttle"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "BSgenome",
         "GenomicAlignments",
