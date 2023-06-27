@@ -11064,8 +11064,7 @@
         "XVector",
         "annotate",
         "genefilter",
-        "graph",
-        "les"
+        "graph"
     ],
     "GSVA": [
         "AnnotationDbi",
@@ -12712,7 +12711,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "les": [],
     "lfa": [],
     "limma": [],
     "limmaGUI": [
