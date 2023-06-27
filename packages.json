@@ -61,7 +61,6 @@
         "Biostrings",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -84,7 +83,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "GLAD",
         "GenomeInfoDb",
         "IRanges",
@@ -816,7 +814,6 @@
     "AneuFinder": [
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -2610,7 +2607,6 @@
         "Biostrings",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
@@ -3985,7 +3981,6 @@
     "CGHcall": [
         "Biobase",
         "CGHbase",
-        "DNAcopy",
         "limma",
         "marray"
     ],
@@ -3994,7 +3989,6 @@
         "Biobase",
         "Biostrings",
         "CNTools",
-        "DNAcopy",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -4009,7 +4003,6 @@
         "Biobase",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "limma",
         "marray"
     ],
@@ -4028,7 +4021,6 @@
         "BiocIO",
         "Biostrings",
         "DMRcate",
-        "DNAcopy",
         "DSS",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -4585,7 +4577,6 @@
         "rtracklayer"
     ],
     "CIMICE": [
-        "DNAcopy",
         "Rhtslib",
         "maftools"
     ],
@@ -4801,9 +4792,7 @@
         "vsn",
         "xcms"
     ],
-    "Clonality": [
-        "DNAcopy"
-    ],
+    "Clonality": [],
     "clst": [
         "ROC"
     ],
@@ -4911,7 +4900,6 @@
     "cn.farms": [
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4937,9 +4925,7 @@
         "XVector",
         "exomeCopy"
     ],
-    "CNAnorm": [
-        "DNAcopy"
-    ],
+    "CNAnorm": [],
     "CNEr": [
         "AnnotationDbi",
         "Biobase",
@@ -5124,7 +5110,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -5620,7 +5605,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -5646,7 +5630,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
@@ -5926,7 +5909,6 @@
     "cqn": [],
     "CRImage": [
         "Biobase",
-        "DNAcopy",
         "EBImage",
         "aCGH",
         "multtest"
@@ -7800,7 +7782,6 @@
         "DNABarcodes"
     ],
     "DNABarcodes": [],
-    "DNAcopy": [],
     "DNAfusion": [
         "AnnotationDbi",
         "Biobase",
@@ -10378,7 +10359,6 @@
         "Biostrings",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -10487,7 +10467,6 @@
     "GENESIS": [
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "GWASTools",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -11820,7 +11799,6 @@
     ],
     "GWASTools": [
         "Biobase",
-        "DNAcopy",
         "gdsfmt"
     ],
     "gwasurvivr": [
@@ -11829,7 +11807,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GWASTools",
         "GenomeInfoDb",
@@ -13261,7 +13238,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -13801,7 +13777,6 @@
         "rtracklayer"
     ],
     "maftools": [
-        "DNAcopy",
         "Rhtslib"
     ],
     "MAGAR": [
@@ -14207,7 +14182,6 @@
     "mBPCR": [
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GWASTools",
         "GenomeInfoDb",
@@ -14290,7 +14264,6 @@
     "MDTS": [
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -14427,7 +14400,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -15645,7 +15617,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -17129,7 +17100,6 @@
         "BiocIO",
         "Biostrings",
         "ComplexHeatmap",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -18456,7 +18426,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -18868,7 +18837,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -19526,7 +19494,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -20042,7 +20009,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -20157,7 +20123,6 @@
         "Biostrings",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -20684,7 +20649,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -21172,7 +21136,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -23330,7 +23293,6 @@
         "Biobase",
         "BiocIO",
         "Biostrings",
-        "DNAcopy",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -24873,7 +24835,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "GLAD",
         "GenomeInfoDb",
         "IRanges",
@@ -26700,7 +26661,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "DNAcopy",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
