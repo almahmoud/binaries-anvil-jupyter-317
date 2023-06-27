@@ -3344,7 +3344,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "single": [],
     "SingleCellSignalR": [
         "scran",
         "scuttle"
