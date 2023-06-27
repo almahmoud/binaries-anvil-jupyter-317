@@ -2273,7 +2273,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
