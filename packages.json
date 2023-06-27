@@ -1684,7 +1684,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "Dune": [],
     "easier": [
         "DESeq2",
         "ExperimentHub",
