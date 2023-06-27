@@ -9813,7 +9813,6 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "MANOR": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biostrings",
