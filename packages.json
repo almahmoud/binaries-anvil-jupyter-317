@@ -3627,7 +3627,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "odseq": [],
     "OGRE": [
         "BSgenome",
         "GenomicAlignments",
