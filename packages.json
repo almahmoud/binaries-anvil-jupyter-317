@@ -2378,7 +2378,6 @@
         "rtracklayer"
     ],
     "MetNet": [],
-    "MGFM": [],
     "mia": [
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -3479,9 +3478,7 @@
         "rtracklayer"
     ],
     "SAIGEgds": [],
-    "sampleClassifier": [
-        "MGFM"
-    ],
+    "sampleClassifier": [],
     "satuRn": [],
     "SBGNview": [],
     "SC3": [
