@@ -3365,7 +3365,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "NormalyzerDE": [],
     "normr": [
         "GenomicAlignments",
         "rtracklayer"
