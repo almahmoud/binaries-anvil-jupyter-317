@@ -5426,7 +5426,6 @@
         "EnrichmentBrowser",
         "GSEABase"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "SingleCellExperiment",
         "genefilter"
