@@ -52,7 +52,6 @@
         "rtracklayer"
     ],
     "airpart": [
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -128,7 +127,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "apeglm": [],
     "APL": [],
     "appreci8R": [
         "BSgenome",
@@ -650,7 +648,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "chipseq",
         "rtracklayer",
         "systemPipeR"
@@ -1049,7 +1046,6 @@
     ],
     "debCAM": [],
     "debrowser": [
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "sva"
@@ -1138,7 +1134,6 @@
         "BSgenome",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -3169,7 +3164,6 @@
     "RMassBank": [],
     "Rmmquant": [
         "GenomicFeatures",
-        "apeglm",
         "rtracklayer"
     ],
     "rmspc": [
@@ -3817,9 +3811,7 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [
-        "apeglm"
-    ],
+    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "restfulSE"
@@ -4075,7 +4067,6 @@
         "GreyListChIP",
         "InteractionSet",
         "ShortRead",
-        "apeglm",
         "ensembldb",
         "regioneR",
         "rtracklayer",
