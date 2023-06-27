@@ -4600,7 +4600,6 @@
     "ShortRead": [
         "GenomicAlignments"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
