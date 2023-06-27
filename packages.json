@@ -6227,7 +6227,6 @@
         "DelayedArray",
         "S4Arrays"
     ],
-    "fobitools": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biostrings",
