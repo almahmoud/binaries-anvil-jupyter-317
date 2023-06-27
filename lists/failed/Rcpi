@@ -1,0 +1,31 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''Rcpi'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'Rcpi'
+Warning: dependency ‘rcdk’ is not available
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Rcpi_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 3079458 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+ERROR: dependency ‘rcdk’ is not available for package ‘Rcpi’
+* removing ‘/tmp/tmp/built/Rcpi’
+
+The downloaded source packages are in
+	‘/tmp/RtmpVsuuuJ/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+Warning message:
+In install.packages(...) :
+  installation of package ‘Rcpi’ had non-zero exit status
+
+real	0m4.206s
+user	0m2.630s
+sys	0m0.350s
