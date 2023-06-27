@@ -310,7 +310,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "genefilter",
@@ -1487,7 +1486,6 @@
         "systemPipeR"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "SingleCellExperiment"
     ],
     "diffHic": [
