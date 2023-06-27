@@ -3399,7 +3399,6 @@
         "MultiAssayExperiment",
         "QFeatures"
     ],
-    "MSstatsLiP": [],
     "MuData": [
         "MultiAssayExperiment",
         "SingleCellExperiment"
