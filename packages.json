@@ -3466,7 +3466,6 @@
         "HiLDA",
         "rtracklayer"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "BSgenome",
         "ChIPseeker",
