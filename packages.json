@@ -5145,7 +5145,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
     ],
-    "TREG": [],
     "trena": [
         "BSgenome",
         "GenomicAlignments",
