@@ -14172,7 +14172,6 @@
         "XVector"
     ],
     "RTopper": [],
-    "Rtpca": [],
     "rtracklayer": [
         "Biostrings",
         "DelayedArray",
