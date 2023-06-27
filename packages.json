@@ -5019,7 +5019,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "CNVgears": [],
     "cnvGSA": [
         "GenomeInfoDb",
         "GenomicRanges",
