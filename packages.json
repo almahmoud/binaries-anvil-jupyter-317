@@ -321,7 +321,6 @@
         "rtracklayer"
     ],
     "BioCor": [],
-    "BiocSklearn": [],
     "BioMM": [],
     "BioNERO": [
         "sva"
