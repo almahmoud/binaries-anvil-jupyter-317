@@ -2048,9 +2048,7 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [
         "BSgenome",
         "rtracklayer"
@@ -3277,7 +3275,6 @@
         "rtracklayer"
     ],
     "SeqSQC": [],
-    "sesame": [],
     "SEtools": [
         "sva"
     ],
