@@ -5821,7 +5821,6 @@
         "annotate",
         "graph"
     ],
-    "COSNet": [],
     "COTAN": [
         "ComplexHeatmap",
         "IRanges",
