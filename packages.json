@@ -19662,7 +19662,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "STdeconvolve": [],
     "stepNorm": [
         "marray"
     ],
