@@ -1,0 +1,176 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''arrayQualityMetrics'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'arrayQualityMetrics'
+also installing the dependencies ‘gridSVG’, ‘setRNG’, ‘svglite’, ‘ALLMLL’, ‘CCl4’
+
+trying URL 'https://cloud.r-project.org/src/contrib/gridSVG_1.7-5.tar.gz'
+Content type 'application/x-gzip' length 846441 bytes (826 KB)
+==================================================
+downloaded 826 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/setRNG_2022.4-1.tar.gz'
+Content type 'application/x-gzip' length 37793 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/svglite_2.1.1.tar.gz'
+Content type 'application/x-gzip' length 123660 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/ALLMLL_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 26861576 bytes (25.6 MB)
+==================================================
+downloaded 25.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/CCl4_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 115690255 bytes (110.3 MB)
+==================================================
+downloaded 110.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/arrayQualityMetrics_3.56.0.tar.gz'
+Content type 'application/x-gzip' length 610780 bytes (596 KB)
+==================================================
+downloaded 596 KB
+
+* installing *source* package ‘gridSVG’ ...
+** package ‘gridSVG’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gridSVG’ as ‘gridSVG_1.7-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridSVG)
+* installing *source* package ‘setRNG’ ...
+** package ‘setRNG’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘setRNG’ as ‘setRNG_2022.4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (setRNG)
+* installing *source* package ‘svglite’ ...
+** package ‘svglite’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I'/usr/local/lib/R/site-library/systemfonts/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I'/usr/local/lib/R/site-library/systemfonts/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c devSVG.cpp -o devSVG.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o svglite.so cpp11.o devSVG.o -lpng -lz -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-svglite/00new/svglite/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘svglite’ as ‘svglite_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svglite)
+* installing *source* package ‘ALLMLL’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ALLMLL’ as ‘ALLMLL_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ALLMLL)
+* installing *source* package ‘CCl4’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CCl4’ as ‘CCl4_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CCl4)
+* installing *source* package ‘arrayQualityMetrics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘arrayQualityMetrics’ as ‘arrayQualityMetrics_3.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (arrayQualityMetrics)
+
+The downloaded source packages are in
+	‘/tmp/RtmplK1jUt/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	1m40.116s
+user	1m33.135s
+sys	0m5.854s
+* installing *source* package ‘ALLMLL’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ALLMLL’ as ‘ALLMLL_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ALLMLL)
+* installing *source* package ‘CCl4’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CCl4’ as ‘CCl4_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CCl4)
