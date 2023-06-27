@@ -2575,7 +2575,6 @@
         "XVector",
         "beachmat",
         "densvis",
-        "flowCore",
         "scater",
         "scuttle"
     ],
@@ -2885,8 +2884,7 @@
         "SummarizedExperiment",
         "XVector",
         "diffcyt",
-        "edgeR",
-        "flowCore"
+        "edgeR"
     ],
     "Cepo": [
         "AnnotationDbi",
@@ -3656,7 +3654,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "flowCore",
         "rhdf5"
     ],
     "cn.farms": [
@@ -4113,7 +4110,6 @@
     "CONFESS": [
         "Rgraphviz",
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge"
     ],
@@ -4796,7 +4792,6 @@
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -4814,12 +4809,9 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "flowCore"
+        "XVector"
     ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "CytoDx": [],
     "CyTOFpower": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -4832,8 +4824,7 @@
         "SummarizedExperiment",
         "XVector",
         "diffcyt",
-        "edgeR",
-        "flowCore"
+        "edgeR"
     ],
     "cytofQC": [
         "BiocSingular",
@@ -4853,7 +4844,6 @@
         "XVector",
         "beachmat",
         "densvis",
-        "flowCore",
         "scater",
         "scuttle"
     ],
@@ -4885,9 +4875,7 @@
         "rhdf5",
         "scuttle"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "DelayedArray",
         "IRanges",
@@ -4895,7 +4883,6 @@
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -4911,7 +4898,6 @@
         "Rgraphviz",
         "S4Arrays",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -5068,7 +5054,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -5567,8 +5552,7 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "flowCore"
+        "edgeR"
     ],
     "DifferentialRegulation": [
         "BANDITS",
@@ -7304,34 +7288,21 @@
         "scran",
         "scuttle"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowCHIC": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
         "DelayedArray",
         "IRanges",
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -7343,13 +7314,11 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGate": [
@@ -7358,61 +7327,43 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
         "Rgraphviz",
-        "flowClust",
-        "flowCore"
+        "flowClust"
     ],
-    "flowPloidy": [
-        "flowCore"
-    ],
+    "flowPloidy": [],
     "FlowSOM": [
-        "ConsensusClusterPlus",
-        "flowCore"
+        "ConsensusClusterPlus"
     ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
         "IRanges",
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowViz": [],
     "flowVS": [
         "DelayedArray",
         "IRanges",
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
@@ -7424,7 +7375,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "ncdfFlow"
     ],
     "fmcsR": [],
@@ -7609,7 +7559,6 @@
         "sva"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -8209,7 +8158,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -9435,13 +9383,10 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "infercnv": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9453,9 +9398,7 @@
         "XVector",
         "edgeR"
     ],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -10917,8 +10860,7 @@
     ],
     "MetaCyto": [
         "ConsensusClusterPlus",
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "metagene": [
         "AnnotationDbi",
@@ -12926,9 +12868,7 @@
         "annotate",
         "genefilter"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -13551,7 +13491,6 @@
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -13606,7 +13545,6 @@
     ],
     "oppti": [],
     "optimalFlow": [
-        "flowCore",
         "flowMeans"
     ],
     "OrderedList": [
@@ -14013,7 +13951,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Arrays",
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -17099,8 +17036,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "flowCore"
+        "XVector"
     ],
     "scDblFinder": [
         "BiocIO",
@@ -17246,7 +17182,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "flowCore",
         "sangerseqR"
     ],
     "scmap": [
@@ -17352,9 +17287,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "Sconify": [],
     "SCOPE": [
         "BSgenome",
         "BiocIO",
@@ -20248,7 +20181,6 @@
         "XVector",
         "diffcyt",
         "edgeR",
-        "flowCore",
         "hopach"
     ],
     "TreeSummarizedExperiment": [
