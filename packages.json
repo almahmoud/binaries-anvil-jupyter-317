@@ -2918,7 +2918,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -11309,7 +11308,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray",
         "GenomicRanges",
         "SeqArray",
