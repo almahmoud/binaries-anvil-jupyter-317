@@ -3467,7 +3467,6 @@
         "AnnotationFilter",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "Spectra",
         "XVector"
     ],
@@ -9160,7 +9159,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -9168,7 +9166,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -10087,7 +10084,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsFeatures",
         "S4Arrays",
         "Spectra",
