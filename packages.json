@@ -2829,7 +2829,6 @@
     "LoomExperiment": [
         "SingleCellExperiment"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "ExperimentHub"
     ],
