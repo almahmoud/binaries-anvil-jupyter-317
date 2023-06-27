@@ -3740,7 +3740,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [],
-    "sRACIPE": [],
     "standR": [
         "DropletUtils",
         "EDASeq",
