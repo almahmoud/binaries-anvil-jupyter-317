@@ -58,7 +58,7 @@ packaged installation of ‘multtest’ as ‘multtest_2.56.0_R_x86_64-pc-linux-
 * DONE (multtest)
 
 The downloaded source packages are in
-	‘/tmp/RtmpFZd0Fk/downloaded_packages’
+	‘/tmp/RtmpKl6mVh/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -66,6 +66,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'scattermore', 'Seurat', 'sp', 'sparseMatrixStats', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	0m14.463s
-user	0m11.423s
-sys	0m1.104s
+real	0m15.699s
+user	0m13.124s
+sys	0m1.220s
