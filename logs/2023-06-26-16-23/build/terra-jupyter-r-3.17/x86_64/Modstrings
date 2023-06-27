@@ -28,7 +28,7 @@ packaged installation of ‘Modstrings’ as ‘Modstrings_1.16.0_R_x86_64-pc-li
 * DONE (Modstrings)
 
 The downloaded source packages are in
-	‘/tmp/RtmpyqH2Jd/downloaded_packages’
+	‘/tmp/Rtmp33N3Ff/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -36,6 +36,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	0m20.761s
-user	0m17.778s
-sys	0m1.361s
+real	0m22.842s
+user	0m16.014s
+sys	0m1.068s
