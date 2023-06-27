@@ -449,9 +449,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [
-        "geneplotter"
-    ],
+    "biocGraph": [],
     "BiocHubsShiny": [
         "ExperimentHub"
     ],
@@ -515,8 +513,7 @@
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "blima": [],
     "BLMA": [],
@@ -1533,8 +1530,7 @@
     ],
     "DEXSeq": [
         "DESeq2",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "DiffBind": [
         "BSgenome",
@@ -1565,7 +1561,6 @@
         "GenomicFeatures",
         "ensembldb",
         "genefilter",
-        "geneplotter",
         "rtracklayer"
     ],
     "Dino": [
@@ -1745,7 +1740,6 @@
         "GenomicFeatures",
         "bumphunter",
         "genefilter",
-        "geneplotter",
         "minfi",
         "rtracklayer"
     ],
@@ -2148,7 +2142,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "geneplotter": [],
     "GENESIS": [
         "SeqVarTools"
     ],
@@ -2611,7 +2604,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "genefilter",
-        "geneplotter",
         "rtracklayer"
     ],
     "InterMineR": [],
@@ -2662,7 +2654,6 @@
         "GenomicFeatures",
         "ensembldb",
         "genefilter",
-        "geneplotter",
         "rtracklayer",
         "tximeta"
     ],
@@ -3044,7 +3035,6 @@
     "MethylSeekR": [
         "BSgenome",
         "GenomicAlignments",
-        "geneplotter",
         "rtracklayer"
     ],
     "methylSig": [
@@ -3679,7 +3669,6 @@
         "DESeq2",
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva"
     ],
     "pairkat": [],
@@ -4341,8 +4330,7 @@
         "Category",
         "GSEABase",
         "cellHTS2",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "RNAmodR": [
         "BSgenome",
