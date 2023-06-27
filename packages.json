@@ -308,7 +308,6 @@
         "SummarizedExperiment",
         "XVector",
         "apeglm",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -606,7 +605,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "mia",
@@ -1362,7 +1360,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "basilisk": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1406,7 +1403,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -1546,7 +1542,6 @@
         "Wrench",
         "XVector",
         "annotate",
-        "basilisk",
         "beachmat",
         "biomformat",
         "densvis",
@@ -1721,9 +1716,7 @@
         "annotate",
         "geneplotter"
     ],
-    "BiocHail": [
-        "basilisk"
-    ],
+    "BiocHail": [],
     "BiocHubsShiny": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -1798,8 +1791,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "biocViews": [
         "RBGL"
@@ -2613,7 +2605,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "flowCore",
@@ -2730,9 +2721,7 @@
         "ggtree",
         "graphite"
     ],
-    "cbpManager": [
-        "basilisk"
-    ],
+    "cbpManager": [],
     "ccfindR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -2787,7 +2776,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -2861,7 +2849,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -2890,7 +2877,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -3014,8 +3000,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "CGHbase": [
         "marray"
@@ -3394,7 +3379,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "batchelor",
         "beachmat",
         "bluster",
@@ -4179,7 +4163,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "distinct",
@@ -4568,7 +4551,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "crisprBase",
         "crisprBowtie",
@@ -4583,8 +4565,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -4666,7 +4647,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "biovizBase",
         "crisprBase",
@@ -4698,7 +4678,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "biovizBase",
         "crisprBase",
@@ -4940,7 +4919,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "flowCore",
@@ -5133,7 +5111,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "biomaRt",
         "megadepth",
         "plyranges",
@@ -5423,9 +5400,7 @@
         "rtracklayer",
         "sva"
     ],
-    "densvis": [
-        "basilisk"
-    ],
+    "densvis": [],
     "DEP": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -5777,7 +5752,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -6912,7 +6886,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "edgeR",
@@ -7414,7 +7387,6 @@
         "VariantAnnotation",
         "XVector",
         "bambu",
-        "basilisk",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -9180,7 +9152,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "rhdf5"
     ],
     "HilbertCurve": [
@@ -9841,7 +9812,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "clusterProfiler",
@@ -10421,8 +10391,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "made4": [
         "DelayedArray",
@@ -10905,7 +10874,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "edgeR",
@@ -11574,7 +11542,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -11610,7 +11577,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "ggtree",
@@ -11678,7 +11644,6 @@
         "TreeSummarizedExperiment",
         "Wrench",
         "XVector",
-        "basilisk",
         "beachmat",
         "biomformat",
         "densvis",
@@ -12204,7 +12169,6 @@
         "HDF5Array",
         "IRanges",
         "S4Arrays",
-        "basilisk",
         "rhdf5"
     ],
     "MOGAMUN": [
@@ -12949,7 +12913,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "edgeR",
@@ -13310,7 +13273,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "basilisk",
         "beachmat",
         "clusterExperiment",
         "densvis",
@@ -13573,7 +13535,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "bumphunter",
         "dasper",
@@ -14307,7 +14268,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -14564,7 +14524,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -15696,12 +15655,9 @@
         "KEGGREST",
         "XVector"
     ],
-    "Rcwl": [
-        "basilisk"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "Rcwl",
-        "basilisk"
+        "Rcwl"
     ],
     "RCy3": [],
     "RCyjs": [],
@@ -15798,7 +15754,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "basilisk",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -16125,8 +16080,7 @@
     ],
     "ReUseData": [
         "Rcwl",
-        "RcwlPipelines",
-        "basilisk"
+        "RcwlPipelines"
     ],
     "rexposome": [
         "pcaMethods"
@@ -17321,7 +17275,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scuttle"
@@ -17422,7 +17375,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -17580,7 +17532,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "batchelor",
         "beachmat",
         "bluster",
@@ -17738,7 +17689,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "biomaRt",
         "edgeR",
@@ -17925,7 +17875,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "biomaRt",
         "bluster",
@@ -17965,7 +17914,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -18535,7 +18483,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -18658,7 +18605,6 @@
         "TrajectoryUtils",
         "XVector",
         "annotate",
-        "basilisk",
         "batchelor",
         "beachmat",
         "biomaRt",
@@ -18891,9 +18837,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "snifter": [
-        "basilisk"
-    ],
+    "snifter": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -18982,7 +18926,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -19069,7 +19012,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "edgeR",
         "rhdf5",
@@ -19136,7 +19078,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "basilisk",
         "beachmat",
         "bluster",
         "densvis",
@@ -20686,7 +20627,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -21002,7 +20942,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "densvis",
         "scater",
@@ -21173,8 +21112,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "VegaMC": [
         "AnnotationDbi",
@@ -21197,7 +21135,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -21602,8 +21539,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "zenith": [
         "AnnotationDbi",
