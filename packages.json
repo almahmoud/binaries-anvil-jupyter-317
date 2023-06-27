@@ -200,7 +200,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "BSgenome",
         "GenomicFeatures",
