@@ -16911,7 +16911,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "occugene": [],
     "OCplus": [
         "Biobase",
         "multtest"
