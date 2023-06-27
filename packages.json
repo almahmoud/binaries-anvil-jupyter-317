@@ -1590,7 +1590,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
         "SingleCellExperiment",
