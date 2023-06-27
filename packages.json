@@ -3610,7 +3610,6 @@
         "ORFik",
         "rtracklayer"
     ],
-    "TFutils": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler",
