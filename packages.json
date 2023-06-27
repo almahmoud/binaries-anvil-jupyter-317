@@ -7,7 +7,6 @@
     "ADImpute": [],
     "affycoretools": [
         "BSgenome",
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
@@ -22,7 +21,6 @@
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "BSgenome",
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
@@ -189,7 +187,6 @@
         "rtracklayer"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "AUCell": [],
@@ -454,7 +451,6 @@
         "xcms"
     ],
     "canceR": [
-        "Category",
         "phenoTest"
     ],
     "cardelino": [
@@ -471,9 +467,7 @@
         "scater",
         "scuttle"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -510,9 +504,7 @@
         "ShortRead"
     ],
     "CellBench": [],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "CelliD": [
         "scater",
         "scuttle"
@@ -1553,7 +1545,6 @@
     ],
     "gep2pep": [],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "ggbio": [
@@ -1582,7 +1573,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "Category",
         "GOstats"
     ],
     "gmoviz": [
@@ -1599,9 +1589,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GOTHiC": [
         "BSgenome",
         "ShortRead",
@@ -1739,7 +1727,6 @@
         "rtracklayer"
     ],
     "ideal": [
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "goseq",
@@ -1792,9 +1779,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [
         "BSgenome",
         "GenomicFeatures",
@@ -2007,9 +1992,7 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "Metab": [
         "xcms"
     ],
@@ -2149,7 +2132,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "bumphunter",
@@ -2177,7 +2159,6 @@
         "rtracklayer"
     ],
     "miRLAB": [
-        "Category",
         "GOstats"
     ],
     "miRSM": [
@@ -2399,7 +2380,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "bumphunter",
@@ -2533,7 +2513,6 @@
         "rtracklayer"
     ],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PDATK": [],
@@ -2561,9 +2540,7 @@
     "phenomis": [
         "ropls"
     ],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
@@ -2589,7 +2566,6 @@
         "rtracklayer"
     ],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotgardener": [
@@ -2852,7 +2828,6 @@
     ],
     "ReportingTools": [
         "BSgenome",
-        "Category",
         "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
@@ -2985,7 +2960,6 @@
         "rtracklayer"
     ],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "RNAmodR": [
@@ -3210,7 +3184,6 @@
     ],
     "scry": [],
     "scTensor": [
-        "Category",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -3274,7 +3247,6 @@
         "rtracklayer"
     ],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "SGSeq": [
@@ -3514,7 +3486,6 @@
         "scuttle"
     ],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "StarBioTrek": [],
