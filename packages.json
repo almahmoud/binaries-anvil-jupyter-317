@@ -3499,7 +3499,6 @@
     "h5vc": [
         "Rsamtools"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicAlignments",
@@ -6934,7 +6933,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "heatmaps",
         "rtracklayer",
         "seqPattern"
     ],
