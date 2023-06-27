@@ -3585,7 +3585,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "Cormotif": [],
     "corral": [
         "DelayedArray",
         "GenomeInfoDb",
