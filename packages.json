@@ -742,7 +742,6 @@
     "ChromHeatMap": [
         "rtracklayer"
     ],
-    "chromPlot": [],
     "ChromSCape": [
         "SingleCellExperiment",
         "batchelor",
