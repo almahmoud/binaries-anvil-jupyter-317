@@ -2964,7 +2964,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "memes": [],
     "meshes": [
         "DOSE",
         "enrichplot"
