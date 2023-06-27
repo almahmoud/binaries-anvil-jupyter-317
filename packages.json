@@ -3372,7 +3372,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "singscore": [],
     "SiPSiC": [],
     "SISPA": [
         "GSVA"
@@ -3582,7 +3581,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
-        "singscore",
         "sva"
     ],
     "TCGAutils": [
