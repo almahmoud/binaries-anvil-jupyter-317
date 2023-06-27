@@ -2795,7 +2795,6 @@
     "mBPCR": [
         "oligoClasses"
     ],
-    "MBQN": [],
     "mCSEA": [
         "BSgenome",
         "GenomicAlignments",
