@@ -844,9 +844,7 @@
         "rtracklayer"
     ],
     "corral": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "xcms"
     ],
@@ -1746,7 +1744,6 @@
         "gmapR",
         "rtracklayer"
     ],
-    "HTSFilter": [],
     "icetea": [
         "BSgenome",
         "GenomicFeatures",
