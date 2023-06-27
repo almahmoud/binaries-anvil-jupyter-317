@@ -1743,7 +1743,6 @@
         "GSVA",
         "SingleCellExperiment",
         "globaltest",
-        "safe",
         "topGO"
     ],
     "eisaR": [],
@@ -1778,8 +1777,7 @@
         "rtracklayer"
     ],
     "EnrichmentBrowser": [
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ],
     "enrichplot": [
         "DOSE"
@@ -2381,8 +2379,7 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "ExperimentHub",
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ],
     "gsean": [
         "PPInfer"
@@ -4521,7 +4518,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
@@ -5732,8 +5728,7 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ],
     "zFPKM": [],
     "zinbwave": [
