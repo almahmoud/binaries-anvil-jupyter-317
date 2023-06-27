@@ -300,9 +300,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "MAST",
@@ -2905,7 +2903,6 @@
     "phenoTest": [
         "Category"
     ],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
