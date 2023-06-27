@@ -2377,7 +2377,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "MetNet": [],
     "mia": [
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
