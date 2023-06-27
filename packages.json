@@ -9266,7 +9266,6 @@
         "fastseg",
         "rtracklayer"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -15064,9 +15063,7 @@
         "XVector",
         "phyloseq"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomeInfoDb",
