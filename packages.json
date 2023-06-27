@@ -3716,7 +3716,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
