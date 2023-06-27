@@ -4199,7 +4199,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "GenomeInfoDb",
         "GenomicRanges",
