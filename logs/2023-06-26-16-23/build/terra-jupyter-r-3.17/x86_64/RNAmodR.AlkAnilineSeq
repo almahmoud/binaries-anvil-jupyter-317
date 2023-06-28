@@ -28,7 +28,7 @@ packaged installation of ‘RNAmodR.AlkAnilineSeq’ as ‘RNAmodR.AlkAnilineSeq
 * DONE (RNAmodR.AlkAnilineSeq)
 
 The downloaded source packages are in
-	‘/tmp/RtmpxBWmDY/downloaded_packages’
+	‘/tmp/RtmpyQ1BcT/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -36,6 +36,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	1m16.049s
-user	1m8.845s
-sys	0m3.719s
+real	0m57.522s
+user	0m51.756s
+sys	0m3.137s
