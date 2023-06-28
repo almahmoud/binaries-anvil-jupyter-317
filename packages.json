@@ -247,9 +247,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "consensusDE": [
         "RUVSeq"
     ],
@@ -343,7 +341,6 @@
     "DiffBind": [],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
