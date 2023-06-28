@@ -2394,7 +2394,6 @@
         "scran"
     ],
     "scGPS": [],
-    "schex": [],
     "scMerge": [
         "batchelor",
         "scater",
@@ -2443,12 +2442,9 @@
     "scTensor": [
         "GOstats",
         "ReactomePA",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "GenomicFeatures",
         "OrganismDbi",
