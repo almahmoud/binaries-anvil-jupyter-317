@@ -323,7 +323,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -1133,7 +1132,6 @@
     "ncGTW": [],
     "nearBynding": [],
     "netSmooth": [
-        "clusterExperiment",
         "scater"
     ],
     "netZooR": [
