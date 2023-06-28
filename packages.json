@@ -747,8 +747,7 @@
         "wateRmelon"
     ],
     "MetaboSignal": [
-        "ensembldb",
-        "mygene"
+        "ensembldb"
     ],
     "metagene": [
         "ensembldb"
@@ -859,7 +858,6 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
