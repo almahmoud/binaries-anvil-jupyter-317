@@ -210,7 +210,6 @@
     "skewr": [
         "wateRmelon"
     ],
-    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -231,7 +230,5 @@
         "GenomicScores"
     ],
     "wateRmelon": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ]
+    "YAPSA": []
 }
