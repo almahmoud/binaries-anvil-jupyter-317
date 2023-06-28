@@ -196,7 +196,6 @@
     "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [],
     "epimutacions": [
@@ -365,7 +364,6 @@
     ],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
         "gmapR"
     ],
     "motifbreakR": [
@@ -580,8 +578,7 @@
     "trena": [],
     "tscR": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "uncoverappLib": [
         "Gviz"
