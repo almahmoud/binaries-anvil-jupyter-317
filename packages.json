@@ -26,12 +26,9 @@
     ],
     "BOBaFIT": [],
     "brainflowprobes": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "cbaf": [
         "cBioPortalData"
@@ -83,9 +80,7 @@
     "ELMER": [],
     "EpiCompare": [],
     "epimutacions": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "FEAST": [],
     "ffpe": [],
     "FLAMES": [],
@@ -94,15 +89,12 @@
         "oligoClasses"
     ],
     "GA4GHshiny": [],
-    "GenomicInteractions": [],
     "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
     "GRaNIE": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "iCheck": [],
     "IsoformSwitchAnalyzeR": [],
     "ITALICS": [
@@ -198,9 +190,7 @@
     "skewr": [
         "wateRmelon"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPLINTER": [],
     "trackViewer": [],
     "trena": [],
