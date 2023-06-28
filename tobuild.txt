@@ -1,4 +1,0 @@
-CircSeqAlignTk
-RESOLVE
-svaRetro
-svaNUMT
