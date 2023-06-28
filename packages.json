@@ -134,9 +134,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
@@ -202,7 +200,6 @@
     "CexoR": [],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
@@ -397,9 +394,7 @@
         "VariantAnnotation"
     ],
     "DegNorm": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -427,7 +422,6 @@
     "Dino": [],
     "distinct": [],
     "DMRcate": [
-        "DSS",
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
@@ -458,7 +452,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [],
     "EDASeq": [],
     "ELMER": [
         "Gviz",
@@ -729,9 +722,7 @@
     "katdetectr": [
         "VariantAnnotation"
     ],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
@@ -824,9 +815,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "minfi"
     ],
