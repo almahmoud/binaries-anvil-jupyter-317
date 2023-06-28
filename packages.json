@@ -200,7 +200,6 @@
         "VariantAnnotation"
     ],
     "casper": [],
-    "CATALYST": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -385,9 +384,7 @@
     "customProDB": [
         "VariantAnnotation"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
