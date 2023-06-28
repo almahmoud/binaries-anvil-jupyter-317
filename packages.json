@@ -117,7 +117,6 @@
         "BASiCS",
         "scran"
     ],
-    "batchelor": [],
     "BayesSpace": [
         "scater",
         "scran"
@@ -310,7 +309,6 @@
         "oligoClasses"
     ],
     "ChromSCape": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -1164,7 +1162,6 @@
         "biosigner"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -1547,7 +1544,6 @@
         "scran"
     ],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -1635,7 +1631,6 @@
     "singleCellTK": [
         "DropletUtils",
         "TSCAN",
-        "batchelor",
         "celda",
         "ensembldb",
         "scDblFinder",
