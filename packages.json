@@ -239,7 +239,6 @@
         "biovizBase"
     ],
     "customProDB": [],
-    "cytofQC": [],
     "cytomapper": [],
     "cytoviewer": [
         "cytomapper"
