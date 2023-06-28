@@ -379,7 +379,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [],
-    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "VariantAnnotation",
