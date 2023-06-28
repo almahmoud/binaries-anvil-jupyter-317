@@ -23,8 +23,7 @@
         "oligoClasses"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpli": [
         "Gviz"
@@ -37,7 +36,6 @@
     "BGmix": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [
@@ -79,7 +77,6 @@
         "DMRcate",
         "Gviz",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -156,7 +153,6 @@
     "DEScan2": [],
     "DMRcate": [
         "Gviz",
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [
@@ -188,8 +184,7 @@
     ],
     "FEAST": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [
         "ggbio"
@@ -226,8 +221,7 @@
     ],
     "HTSeqGenie": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "imcRtools": [],
     "intansv": [
@@ -241,13 +235,10 @@
     ],
     "karyoploteR": [],
     "lisaClust": [],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "methylumi",
         "oligoClasses"
     ],
     "maser": [
@@ -261,12 +252,10 @@
     ],
     "MEAL": [
         "Gviz",
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "methrix": [],
@@ -276,29 +265,24 @@
         "ExperimentHubData"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [
         "Gviz"
     ],
-    "methylumi": [],
     "mimager": [
         "oligo",
         "oligoClasses"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
         "oligoClasses"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mitoClone2": [],
     "MMAPPR2": [],
     "motifbreakR": [
@@ -416,9 +400,7 @@
         "derfinder",
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "RTCGAToolbox": [],
     "SCAN.UPC": [
@@ -444,7 +426,6 @@
     ],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [
@@ -487,8 +468,7 @@
     "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "YAPSA": [
         "SomaticSignatures",
