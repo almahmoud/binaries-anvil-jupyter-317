@@ -196,16 +196,10 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "GenomicFiles"
@@ -518,8 +512,7 @@
         "ggbio"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "seqArchRplus": [],
     "seqCAT": [],
