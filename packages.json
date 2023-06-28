@@ -659,9 +659,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "SpatialExperiment",
         "cytomapper"
@@ -689,7 +687,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
