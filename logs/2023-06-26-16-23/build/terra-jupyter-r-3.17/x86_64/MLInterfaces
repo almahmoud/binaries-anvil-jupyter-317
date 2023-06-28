@@ -1918,7 +1918,7 @@ packaged installation of ‘klaR’ as ‘klaR_1.7-2_R_x86_64-pc-linux-gnu.tar.g
 * DONE (klaR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpoQFbBo/downloaded_packages’
+	‘/tmp/Rtmpsx7hor/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -1926,9 +1926,9 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	10m47.846s
-user	10m14.350s
-sys	1m1.148s
+real	13m9.051s
+user	12m19.308s
+sys	1m5.701s
 * installing *source* package ‘measures’ ...
 ** package ‘measures’ successfully unpacked and MD5 sums checked
 ** using staged installation
