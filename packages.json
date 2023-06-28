@@ -725,7 +725,6 @@
         "GenomicFeatures"
     ],
     "eegc": [],
-    "EGSEA": [],
     "ELMER": [
         "GenomicFeatures",
         "Gviz",
