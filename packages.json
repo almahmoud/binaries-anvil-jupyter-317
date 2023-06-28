@@ -125,7 +125,6 @@
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
