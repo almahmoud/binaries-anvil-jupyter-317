@@ -812,10 +812,7 @@
         "oligoClasses"
     ],
     "MIRA": [],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "missMethyl": [
         "methylumi",
         "minfi"
