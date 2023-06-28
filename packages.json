@@ -1435,7 +1435,6 @@
         "VariantAnnotation"
     ],
     "TAPseq": [],
-    "TBSignatureProfiler": [],
     "TCGAutils": [],
     "terraTCGAdata": [
         "TCGAutils"
