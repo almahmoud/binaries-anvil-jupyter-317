@@ -962,8 +962,7 @@
         "minfi"
     ],
     "EpiTxDb": [
-        "GenomicFeatures",
-        "tRNAdbImport"
+        "GenomicFeatures"
     ],
     "epivizr": [
         "GenomicFeatures",
@@ -2749,7 +2748,6 @@
         "scater"
     ],
     "trigger": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome"
     ],
