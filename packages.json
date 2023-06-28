@@ -715,9 +715,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [],
     "fCCAC": [
         "genomation"
@@ -1922,7 +1920,6 @@
         "minfi"
     ],
     "wavClusteR": [],
-    "wiggleplotr": [],
     "Xeva": [],
     "XNAString": [],
     "YAPSA": [
