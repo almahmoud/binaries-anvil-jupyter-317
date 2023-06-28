@@ -942,7 +942,6 @@
         "GenomicFeatures"
     ],
     "edge": [],
-    "EDIRquery": [],
     "eegc": [
         "clusterProfiler"
     ],
