@@ -251,9 +251,7 @@
         "scater"
     ],
     "CEMiTool": [],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "ChAMP": [
         "DMRcate",
         "DSS",
@@ -587,8 +585,7 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "ChIPseeker",
-        "genomation"
+        "ChIPseeker"
     ],
     "epigraHMM": [],
     "EpiMix": [],
@@ -659,9 +656,7 @@
         "ensembldb"
     ],
     "factR": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcoex": [],
     "fcScan": [
         "VariantAnnotation"
@@ -722,7 +717,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -1280,9 +1274,7 @@
         "VariantAnnotation"
     ],
     "Rbec": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [],
     "Rcpi": [],
     "recount": [
