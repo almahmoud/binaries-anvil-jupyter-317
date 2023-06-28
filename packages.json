@@ -209,9 +209,7 @@
         "SGSeq"
     ],
     "CiteFuse": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -816,7 +814,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "qpgraph": [],
     "quantro": [
         "minfi"
     ],
