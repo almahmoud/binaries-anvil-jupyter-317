@@ -1070,7 +1070,6 @@
         "scran"
     ],
     "MsQuality": [],
-    "MultiBaC": [],
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
