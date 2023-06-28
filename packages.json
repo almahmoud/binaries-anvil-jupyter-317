@@ -470,9 +470,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [
         "oligo",
         "oligoClasses"
@@ -802,7 +800,6 @@
         "VariantAnnotation"
     ],
     "OrganismDbi": [],
-    "OUTRIDER": [],
     "OutSplice": [],
     "pageRank": [
         "motifmatchr"
