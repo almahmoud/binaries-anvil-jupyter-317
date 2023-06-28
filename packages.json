@@ -113,9 +113,7 @@
         "VariantAnnotation"
     ],
     "bambu": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "basecallQC": [],
     "Basic4Cseq": [],
     "BASiCS": [
@@ -1350,10 +1348,7 @@
         "soGGi"
     ],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "proteasy": [
         "Rcpi",
