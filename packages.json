@@ -163,7 +163,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "BSgenomeForge": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase",
