@@ -709,7 +709,6 @@
     "scFeatures": [
         "SingleCellSignalR"
     ],
-    "scMerge": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
@@ -742,8 +741,7 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "scDblFinder",
-        "scMerge"
+        "scDblFinder"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
