@@ -1,0 +1,270 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''uncoverappLib'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'uncoverappLib'
+also installing the dependencies ‘anytime’, ‘shinyjs’, ‘shinyBS’, ‘shinyWidgets’, ‘shinycssloaders’, ‘Homo.sapiens’, ‘openxlsx’, ‘condformat’, ‘TxDb.Hsapiens.UCSC.hg38.knownGene’, ‘rlist’
+
+trying URL 'https://cloud.r-project.org/src/contrib/anytime_0.3.9.tar.gz'
+Content type 'application/x-gzip' length 348903 bytes (340 KB)
+==================================================
+downloaded 340 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/shinyjs_2.1.0.tar.gz'
+Content type 'application/x-gzip' length 1019936 bytes (996 KB)
+==================================================
+downloaded 996 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/shinyBS_0.61.1.tar.gz'
+Content type 'application/x-gzip' length 26624 bytes (26 KB)
+==================================================
+downloaded 26 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/shinyWidgets_0.7.6.tar.gz'
+Content type 'application/x-gzip' length 789970 bytes (771 KB)
+==================================================
+downloaded 771 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/shinycssloaders_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 122969 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/Homo.sapiens_1.3.1.tar.gz'
+Content type 'application/x-gzip' length 1617 bytes
+==================================================
+downloaded 1617 bytes
+
+trying URL 'https://cloud.r-project.org/src/contrib/openxlsx_4.2.5.2.tar.gz'
+Content type 'application/x-gzip' length 1339471 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/condformat_0.10.0.tar.gz'
+Content type 'application/x-gzip' length 105217 bytes (102 KB)
+==================================================
+downloaded 102 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 46645731 bytes (44.5 MB)
+==================================================
+downloaded 44.5 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/rlist_0.4.6.2.tar.gz'
+Content type 'application/x-gzip' length 72870 bytes (71 KB)
+==================================================
+downloaded 71 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/uncoverappLib_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 3596920 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+* installing *source* package ‘anytime’ ...
+** package ‘anytime’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'    -DRCPP_NO_RTTI -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'    -DRCPP_NO_RTTI -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c anytime.cpp -o anytime.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o anytime.so RcppExports.o anytime.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-anytime/00new/anytime/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘anytime’ as ‘anytime_0.3.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (anytime)
+* installing *source* package ‘shinyjs’ ...
+** package ‘shinyjs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shinyjs’ as ‘shinyjs_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyjs)
+* installing *source* package ‘shinyBS’ ...
+** package ‘shinyBS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shinyBS’ as ‘shinyBS_0.61.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyBS)
+* installing *source* package ‘shinycssloaders’ ...
+** package ‘shinycssloaders’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shinycssloaders’ as ‘shinycssloaders_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinycssloaders)
+* installing *source* package ‘Homo.sapiens’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Homo.sapiens’ as ‘Homo.sapiens_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Homo.sapiens)
+* installing *source* package ‘openxlsx’ ...
+** package ‘openxlsx’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c helper_functions.cpp -o helper_functions.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c load_workbook.cpp -o load_workbook.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c read_workbook.cpp -o read_workbook.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c write_data.cpp -o write_data.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c write_file.cpp -o write_file.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c write_file_2.cpp -o write_file_2.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o openxlsx.so RcppExports.o helper_functions.o load_workbook.o read_workbook.o write_data.o write_file.o write_file_2.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-openxlsx/00new/openxlsx/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘openxlsx’ as ‘openxlsx_4.2.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (openxlsx)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg38.knownGene)
+* installing *source* package ‘rlist’ ...
+** package ‘rlist’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rlist’ as ‘rlist_0.4.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rlist)
+* installing *source* package ‘shinyWidgets’ ...
+** package ‘shinyWidgets’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shinyWidgets’ as ‘shinyWidgets_0.7.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyWidgets)
+* installing *source* package ‘condformat’ ...
+** package ‘condformat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘condformat’ as ‘condformat_0.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (condformat)
+* installing *source* package ‘uncoverappLib’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘uncoverappLib’ as ‘uncoverappLib_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (uncoverappLib)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0NlNR7/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	3m59.593s
+user	3m47.291s
+sys	0m12.737s
