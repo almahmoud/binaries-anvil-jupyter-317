@@ -166,7 +166,6 @@
     "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "deepSNV": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -359,9 +358,7 @@
     "missMethyl": [
         "methylumi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
         "gmapR"
