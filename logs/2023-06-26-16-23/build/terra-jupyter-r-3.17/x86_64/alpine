@@ -1,0 +1,147 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''alpine'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'alpine'
+also installing the dependencies ‘biglm’, ‘speedglm’, ‘alpineData’
+
+trying URL 'https://cloud.r-project.org/src/contrib/biglm_0.9-2.1.tar.gz'
+Content type 'application/x-gzip' length 12513 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/speedglm_0.3-5.tar.gz'
+Content type 'application/x-gzip' length 32373 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/alpineData_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 18482 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/alpine_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 452901 bytes (442 KB)
+==================================================
+downloaded 442 KB
+
+* installing *source* package ‘biglm’ ...
+** package ‘biglm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c boundedQR.c -o boundedQR.o
+gfortran  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong  -c boundedQRf.f -o boundedQRf.o
+boundedQRf.f:107:72:
+
+  107 |    10 WORK(ROW) = SQRT(D(ROW))
+      |                                                                        1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 10 at (1)
+boundedQRf.f:153:72:
+
+  153 |    10 WORK(COL) = SQRT(D(COL))
+      |                                                                        1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 10 at (1)
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o biglm.so boundedQR.o boundedQRf.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-biglm/00new/biglm/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biglm’ as ‘biglm_0.9-2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biglm)
+* installing *source* package ‘alpineData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Package 'alpineData' is deprecated and will be removed from
+  Bioconductor version 3.18
+** testing if installed package can be loaded from final location
+Warning: Package 'alpineData' is deprecated and will be removed from
+  Bioconductor version 3.18
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alpineData’ as ‘alpineData_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alpineData)
+* installing *source* package ‘speedglm’ ...
+** package ‘speedglm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘speedglm’ as ‘speedglm_0.3-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (speedglm)
+* installing *source* package ‘alpine’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Package 'alpine' is deprecated and will be removed from Bioconductor
+  version 3.18
+** testing if installed package can be loaded from final location
+Warning: Package 'alpine' is deprecated and will be removed from Bioconductor
+  version 3.18
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alpine’ as ‘alpine_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alpine)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8UMPFe/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	1m5.011s
+user	0m58.331s
+sys	0m4.058s
+* installing *source* package ‘alpineData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Package 'alpineData' is deprecated and will be removed from
+  Bioconductor version 3.18
+** testing if installed package can be loaded from final location
+Warning: Package 'alpineData' is deprecated and will be removed from
+  Bioconductor version 3.18
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alpineData’ as ‘alpineData_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alpineData)
