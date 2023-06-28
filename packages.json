@@ -453,7 +453,6 @@
         "ensemblVEP",
         "gmapR"
     ],
-    "MoleculeExperiment": [],
     "motifbreakR": [
         "Gviz",
         "biovizBase"
