@@ -1,0 +1,15 @@
+RiboProfiling
+epivizrStandalone
+derfinderPlot
+FLAMES
+CAFE
+GenomicOZone
+cageminer
+scTreeViz
+BOBaFIT
+ReportingTools
+msgbsR
+scruff
+SomaticSignatures
+intansv
+R3CPET
