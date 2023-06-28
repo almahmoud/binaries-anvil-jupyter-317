@@ -206,10 +206,7 @@
         "biovizBase"
     ],
     "customProDB": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [],
     "DAMEfinder": [],
     "decompTumor2Sig": [],
@@ -353,9 +350,7 @@
     ],
     "ideal": [],
     "igvR": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -640,9 +635,7 @@
     "shinyMethyl": [],
     "signeR": [],
     "SigsPack": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
