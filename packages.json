@@ -145,7 +145,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "ChromSCape": [],
     "cicero": [
         "Gviz",
         "biovizBase"
