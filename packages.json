@@ -652,7 +652,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "spatialDE": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "spatzie": [
