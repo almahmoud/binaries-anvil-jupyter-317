@@ -495,7 +495,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1387,9 +1386,7 @@
         "GenomicScores",
         "VariantAnnotation"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "genomation"
     ],
