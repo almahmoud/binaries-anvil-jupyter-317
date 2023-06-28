@@ -570,7 +570,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
