@@ -2378,7 +2378,6 @@
         "DropletUtils"
     ],
     "scClassify": [],
-    "sccomp": [],
     "scDataviz": [],
     "scDblFinder": [
         "scater",
