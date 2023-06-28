@@ -1,0 +1,104 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''ChIPanalyser'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'ChIPanalyser'
+also installing the dependencies ‘RcppRoll’, ‘BSgenome.Dmelanogaster.UCSC.dm6’
+
+trying URL 'https://cloud.r-project.org/src/contrib/RcppRoll_0.3.0.tar.gz'
+Content type 'application/x-gzip' length 9191 bytes
+==================================================
+downloaded 9191 bytes
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/BSgenome.Dmelanogaster.UCSC.dm6_1.4.1.tar.gz'
+Content type 'application/x-gzip' length 34147677 bytes (32.6 MB)
+==================================================
+downloaded 32.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/ChIPanalyser_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 1041869 bytes (1017 KB)
+==================================================
+downloaded 1017 KB
+
+* installing *source* package ‘RcppRoll’ ...
+** package ‘RcppRoll’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppRoll.cpp -o RcppRoll.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o RcppRoll.so RcppExports.o RcppRoll.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-RcppRoll/00new/RcppRoll/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RcppRoll’ as ‘RcppRoll_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppRoll)
+* installing *source* package ‘BSgenome.Dmelanogaster.UCSC.dm6’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Dmelanogaster.UCSC.dm6’ as ‘BSgenome.Dmelanogaster.UCSC.dm6_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Dmelanogaster.UCSC.dm6)
+* installing *source* package ‘ChIPanalyser’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘drop’ in package ‘ChIPanalyser’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ChIPanalyser’ as ‘ChIPanalyser_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ChIPanalyser)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRJvWk1/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	1m39.216s
+user	1m30.377s
+sys	0m5.580s
+* installing *source* package ‘BSgenome.Dmelanogaster.UCSC.dm6’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Dmelanogaster.UCSC.dm6’ as ‘BSgenome.Dmelanogaster.UCSC.dm6_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Dmelanogaster.UCSC.dm6)
