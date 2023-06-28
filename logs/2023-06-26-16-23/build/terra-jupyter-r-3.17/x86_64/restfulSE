@@ -68,7 +68,7 @@ packaged installation of ‘restfulSE’ as ‘restfulSE_1.22.0_R_x86_64-pc-linu
 * DONE (restfulSE)
 
 The downloaded source packages are in
-	‘/tmp/RtmpgAB1I1/downloaded_packages’
+	‘/tmp/RtmplfQTwX/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -76,9 +76,9 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	5m22.589s
-user	5m12.935s
-sys	0m6.623s
+real	4m25.600s
+user	4m18.593s
+sys	0m5.179s
 * installing *source* package ‘restfulSEData’ ...
 ** using staged installation
 ** R
