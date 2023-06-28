@@ -585,9 +585,7 @@
         "minfi",
         "oligoClasses"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAIT": [],
     "maser": [
         "Gviz",
@@ -1066,7 +1064,6 @@
     "tradeSeq": [],
     "traviz": [],
     "trena": [],
-    "TRESS": [],
     "tscR": [],
     "TVTB": [
         "Gviz",
