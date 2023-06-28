@@ -344,7 +344,7 @@ packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gn
 * DONE (R.utils)
 
 The downloaded source packages are in
-	‘/tmp/RtmpBTmL1c/downloaded_packages’
+	‘/tmp/RtmpltDM8g/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -352,9 +352,9 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	5m50.643s
-user	5m13.110s
-sys	0m22.940s
+real	4m53.381s
+user	4m9.899s
+sys	0m18.654s
 * installing *source* package ‘PANTHER.db’ ...
 ** using staged installation
 ** R
