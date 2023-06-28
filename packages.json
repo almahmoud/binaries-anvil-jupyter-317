@@ -91,7 +91,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bambu": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS"
@@ -563,7 +562,6 @@
     "FLAMES": [
         "OrganismDbi",
         "VariantAnnotation",
-        "bambu",
         "biovizBase",
         "ensembldb",
         "ggbio"
