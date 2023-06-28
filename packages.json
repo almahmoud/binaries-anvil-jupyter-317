@@ -64,10 +64,7 @@
         "methylPipe"
     ],
     "CopyNumberPlots": [],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "crlmm": [
         "oligoClasses"
     ],
