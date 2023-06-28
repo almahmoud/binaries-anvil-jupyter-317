@@ -569,7 +569,6 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusOV": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicFeatures",
@@ -2365,7 +2364,6 @@
     ],
     "signifinder": [
         "GenomicFeatures",
-        "consensusOV",
         "ensembldb"
     ],
     "SigsPack": [
