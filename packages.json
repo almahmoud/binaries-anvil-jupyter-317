@@ -561,7 +561,6 @@
     "recountmethylation": [],
     "RedisParam": [],
     "REDseq": [],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
