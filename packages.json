@@ -139,9 +139,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPXpress": [
         "frma",
         "oligo",
@@ -261,7 +259,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "DiffBind": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
@@ -877,8 +874,7 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
-        "DiffBind"
+        "ChIPpeakAnno"
     ],
     "wateRmelon": [
         "lumi",
