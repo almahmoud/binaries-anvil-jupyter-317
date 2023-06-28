@@ -705,7 +705,6 @@
         "DaMiRseq",
         "EDASeq"
     ],
-    "GDCRNATools": [],
     "genbankr": [
         "VariantAnnotation"
     ],
