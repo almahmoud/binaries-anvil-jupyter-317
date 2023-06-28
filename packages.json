@@ -1483,7 +1483,6 @@
         "RUVSeq",
         "SpatialExperiment"
     ],
-    "staRank": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
