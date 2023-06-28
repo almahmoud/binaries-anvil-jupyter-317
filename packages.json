@@ -1103,7 +1103,6 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -2418,7 +2417,6 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
