@@ -642,9 +642,7 @@
     ],
     "scanMiRApp": [],
     "scDblFinder": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
@@ -669,7 +667,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "scDblFinder"
     ],
