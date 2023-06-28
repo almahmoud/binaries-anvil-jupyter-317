@@ -172,9 +172,7 @@
         "methylPipe"
     ],
     "condiments": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -492,9 +490,7 @@
         "yarn"
     ],
     "nnSVG": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "GenomicFiles",
         "derfinder"
@@ -590,9 +586,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "RIPAT": [
         "biovizBase",
         "karyoploteR"
@@ -635,7 +629,6 @@
         "biovizBase"
     ],
     "RTCGAToolbox": [],
-    "RUVSeq": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
@@ -644,9 +637,7 @@
     "scDblFinder": [],
     "scFeatures": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scruff": [
         "biovizBase",
@@ -701,9 +692,7 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "stJoincount": [],
     "StructuralVariantAnnotation": [],
     "svaNUMT": [
