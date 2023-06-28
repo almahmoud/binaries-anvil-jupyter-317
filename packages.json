@@ -203,7 +203,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
