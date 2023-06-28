@@ -1,0 +1,17 @@
+ExperimentSubset
+spatialDE
+stJoincount
+Ularcirc
+SpotClean
+CTSV
+SPIAT
+spaSim
+DESpace
+ggspavis
+nnSVG
+escheR
+alabaster.spatial
+cytomapper
+spicyR
+SpatialFeatureExperiment
+MoleculeExperiment
