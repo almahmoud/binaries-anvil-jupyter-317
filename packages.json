@@ -780,9 +780,7 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -833,7 +831,6 @@
         "GenomicScores",
         "VariantAnnotation"
     ],
-    "rCGH": [],
     "Rcpi": [],
     "recount": [
         "GenomicFiles",
