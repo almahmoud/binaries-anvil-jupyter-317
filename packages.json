@@ -3150,7 +3150,6 @@
         "SpatialFeatureExperiment",
         "scuttle"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "BSgenome",
