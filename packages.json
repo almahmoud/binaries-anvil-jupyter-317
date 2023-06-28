@@ -897,7 +897,6 @@
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
