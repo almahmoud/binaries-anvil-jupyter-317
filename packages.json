@@ -57,8 +57,7 @@
     ],
     "ATACCoGAPS": [
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -792,9 +791,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "profileplyr": [
-        "rGREAT"
-    ],
+    "profileplyr": [],
     "proteasy": [
         "Rcpi"
     ],
@@ -878,7 +875,6 @@
         "VariantAnnotation"
     ],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
