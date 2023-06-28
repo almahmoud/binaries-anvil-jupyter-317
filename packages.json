@@ -234,7 +234,6 @@
         "motifStack"
     ],
     "DAMEfinder": [],
-    "DaMiRseq": [],
     "decompTumor2Sig": [],
     "deconvR": [
         "minfi"
@@ -345,9 +344,7 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "genbankr": [],
     "GeneStructureTools": [
         "Gviz",
