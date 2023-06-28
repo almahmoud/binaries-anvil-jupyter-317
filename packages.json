@@ -12,15 +12,12 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [],
     "AllelicImbalance": [
         "Gviz",
         "biovizBase"
     ],
-    "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
         "GenomicScores"
@@ -267,9 +264,7 @@
     ],
     "esATAC": [],
     "EventPointer": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -400,7 +395,6 @@
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "methylGSA": [
