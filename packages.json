@@ -613,9 +613,7 @@
     "fcScan": [
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "bumphunter",
         "lumi",
@@ -1402,7 +1400,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "TSCAN",
         "celda",
         "ensembldb",
         "scDblFinder",
@@ -1533,7 +1530,6 @@
     "TRESS": [],
     "tricycle": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "Gviz",
