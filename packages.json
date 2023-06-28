@@ -2441,7 +2441,6 @@
         "scran",
         "scuttle"
     ],
-    "scds": [],
     "scFeatures": [
         "DropletUtils",
         "GenomicFeatures",
@@ -2611,7 +2610,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "zellkonverter",
