@@ -1675,7 +1675,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SimBindProfiles": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
