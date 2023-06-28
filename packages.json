@@ -64,7 +64,6 @@
     "alpine": [
         "GenomicFeatures"
     ],
-    "amplican": [],
     "ANCOMBC": [
         "mia",
         "scater"
