@@ -1558,7 +1558,6 @@
         "GenomicFeatures",
         "Repitools"
     ],
-    "PAA": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
