@@ -1537,7 +1537,6 @@
     "scanMiRApp": [
         "ensembldb"
     ],
-    "SCANVIS": [],
     "scater": [],
     "scBFA": [],
     "scCB2": [
