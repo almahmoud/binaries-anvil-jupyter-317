@@ -375,7 +375,6 @@
         "scran"
     ],
     "CellBarcode": [],
-    "cellHTS2": [],
     "CelliD": [
         "scater"
     ],
@@ -1168,9 +1167,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [
         "BSgenome",
         "GenomicFeatures",
@@ -2235,9 +2232,7 @@
         "GenomicFeatures",
         "bumphunter"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2601,9 +2596,7 @@
         "RUVSeq",
         "SpatialExperiment"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "stJoincount": [
         "DropletUtils",
         "SpatialExperiment"
