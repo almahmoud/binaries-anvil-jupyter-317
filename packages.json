@@ -1519,7 +1519,6 @@
     ],
     "RMassBank": [],
     "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
