@@ -1149,7 +1149,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1161,9 +1160,7 @@
     "msImpute": [
         "scran"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
