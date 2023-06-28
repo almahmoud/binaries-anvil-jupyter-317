@@ -335,9 +335,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -505,9 +503,7 @@
     "cliProfiler": [
         "BSgenome"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "clusterExperiment": [],
     "clusterProfiler": [],
     "cn.farms": [
@@ -614,9 +610,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "CoverageView": [],
     "cpvSNP": [
         "GenomicFeatures"
@@ -1059,8 +1053,7 @@
         "GenomicFeatures"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "BSgenome",
@@ -1346,8 +1339,7 @@
     ],
     "IONiseR": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IRISFGM": [
         "clusterProfiler",
@@ -1404,8 +1396,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [
         "GenomicFeatures",
@@ -1438,8 +1429,7 @@
         "TRESS"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "mariner": [
         "plotgardener",
@@ -1499,9 +1489,7 @@
     ],
     "meshes": [],
     "meshr": [],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "GenomicFeatures",
@@ -1514,8 +1502,7 @@
     ],
     "metagene2": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "clusterProfiler"
@@ -1659,9 +1646,7 @@
     "MMDiff2": [
         "BSgenome"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MoleculeExperiment": [
         "DropletUtils",
         "SpatialExperiment"
@@ -1788,9 +1773,7 @@
         "BSgenome",
         "bsseq"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "plyranges"
@@ -2199,9 +2182,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "GenomicFeatures",
         "ensembldb"
@@ -2817,7 +2798,6 @@
         "GenomicFeatures"
     ],
     "wiggleplotr": [],
-    "xcms": [],
     "Xeva": [],
     "XNAString": [
         "BSgenome"
