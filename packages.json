@@ -151,11 +151,8 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -361,9 +358,7 @@
     "scone": [],
     "scoreInvHap": [],
     "scruff": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "seqArchRplus": [],
     "simpleSeg": [],
     "singleCellTK": [],
