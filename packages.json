@@ -185,7 +185,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "BadRegionFinder": [
         "BSgenome",
         "GenomicFeatures",
@@ -2697,9 +2696,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "ReactomePA": [],
     "recount": [
@@ -3053,7 +3050,6 @@
     "scDDboost": [],
     "scds": [],
     "scFeatures": [
-        "AUCell",
         "DropletUtils",
         "GSVA",
         "GenomicFeatures",
