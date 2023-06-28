@@ -841,7 +841,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "destiny": [],
     "DExMA": [],
     "DiffBind": [
         "BSgenome",
@@ -2053,9 +2052,7 @@
         "clusterProfiler"
     ],
     "PharmacoGx": [],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "phenomis": [
         "ropls"
     ],
