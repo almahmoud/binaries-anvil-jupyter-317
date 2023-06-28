@@ -1,4 +1,0 @@
-RIPAT
-CopyNumberPlots
-multicrispr
-SingleMoleculeFootprinting
