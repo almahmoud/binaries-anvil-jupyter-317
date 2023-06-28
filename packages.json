@@ -54,9 +54,7 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CopyNumberPlots": [],
     "crisprVerse": [],
     "crlmm": [
@@ -115,7 +113,6 @@
     "methrix": [],
     "methylclock": [],
     "methylGSA": [],
-    "methylPipe": [],
     "mimager": [
         "oligo",
         "oligoClasses"
