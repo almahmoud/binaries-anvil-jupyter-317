@@ -45,7 +45,6 @@
     "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -89,9 +88,7 @@
     "DeepBlueR": [],
     "DeepPINCS": [],
     "derfinderPlot": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DMRforPairs": [],
     "DrugVsDisease": [
         "ArrayExpress",
@@ -144,17 +141,13 @@
         "oligoClasses"
     ],
     "mCSEA": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
     "methrix": [],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylPipe": [],
     "mimager": [
         "oligo",
@@ -166,7 +159,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "missMethyl": [],
     "motifbreakR": [],
     "msgbsR": [],
     "multicrispr": [],
