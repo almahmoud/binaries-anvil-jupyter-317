@@ -230,7 +230,6 @@
         "oligoClasses"
     ],
     "Pviz": [],
-    "QuasR": [],
     "R3CPET": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -275,9 +274,7 @@
     "scTreeViz": [],
     "seqArchRplus": [],
     "singleCellTK": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "wateRmelon"
