@@ -44,7 +44,7 @@ packaged installation of ‘motifmatchr’ as ‘motifmatchr_1.22.0_R_x86_64-pc-
 * DONE (motifmatchr)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp1yviAa/downloaded_packages’
+	‘/tmp/RtmpNF6p5e/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -52,6 +52,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	1m3.962s
-user	0m56.451s
-sys	0m3.356s
+real	1m22.074s
+user	1m14.797s
+sys	0m4.804s
