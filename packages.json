@@ -1931,7 +1931,6 @@
     "PFP": [
         "clusterProfiler"
     ],
-    "PharmacoGx": [],
     "phemd": [],
     "phenomis": [
         "ropls"
@@ -2860,9 +2859,7 @@
     "wiggleplotr": [],
     "xcms": [],
     "XDE": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [
         "BSgenome"
     ],
