@@ -609,7 +609,6 @@
     "deconvR": [
         "GenomicFeatures",
         "bumphunter",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -1253,9 +1252,7 @@
         "CAMERA"
     ],
     "MetaPhOR": [],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -1285,10 +1282,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "GenomicFeatures",
         "Gviz",
