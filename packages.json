@@ -100,9 +100,7 @@
         "methylumi",
         "minfi"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "BSgenome",
         "GenomicFeatures",
@@ -219,9 +217,7 @@
         "GenomicFeatures"
     ],
     "BioNERO": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
@@ -1406,9 +1402,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "DropletUtils",
         "SpatialExperiment",
@@ -1730,9 +1724,7 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
@@ -1748,8 +1740,7 @@
     "multiSight": [
         "ReactomePA",
         "biosigner",
-        "clusterProfiler",
-        "ropls"
+        "clusterProfiler"
     ],
     "mumosa": [
         "batchelor",
@@ -1924,9 +1915,7 @@
         "clusterProfiler"
     ],
     "phemd": [],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [],
     "PhyloProfile": [],
     "Pigengene": [
@@ -2302,7 +2291,6 @@
         "minfi"
     ],
     "roar": [],
-    "ropls": [],
     "Rqc": [
         "BSgenome",
         "GenomicFeatures",
@@ -2311,9 +2299,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicFeatures",
