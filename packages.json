@@ -463,7 +463,6 @@
     ],
     "EpiCompare": [],
     "epigraHMM": [],
-    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
