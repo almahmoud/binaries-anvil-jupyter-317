@@ -286,7 +286,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BioMM": [],
     "BioNERO": [
         "sva"
     ],
