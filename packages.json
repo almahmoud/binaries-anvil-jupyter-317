@@ -25,7 +25,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ANCOMBC": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -64,9 +63,7 @@
     "BASiCStan": [],
     "BayesSpace": [],
     "BBCAnalyzer": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "BGmix": [],
     "bigmelon": [
         "lumi",
@@ -523,9 +520,7 @@
         "minfi"
     ],
     "miaViz": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "mimager": [
         "oligo",
         "oligoClasses"
