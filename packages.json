@@ -302,7 +302,6 @@
         "distinct"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq",
         "ensembldb"
     ],
@@ -375,9 +374,7 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
@@ -446,7 +443,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "EDASeq": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -571,8 +567,7 @@
         "VariantAnnotation"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "genbankr": [
         "VariantAnnotation"
@@ -924,7 +919,6 @@
     ],
     "NoRCE": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1098,7 +1092,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -1168,9 +1161,7 @@
         "TCGAutils"
     ],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
@@ -1191,7 +1182,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "scoreInvHap": [
@@ -1315,7 +1305,6 @@
         "SpatialExperiment"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq",
         "SpatialExperiment"
     ],
