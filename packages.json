@@ -151,9 +151,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "bioCancer": [
-        "ReactomePA"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
     "biosigner": [],
     "BioTIP": [
@@ -1127,12 +1125,9 @@
     ],
     "miRLAB": [],
     "miRSM": [
-        "ReactomePA",
         "miRspongeR"
     ],
-    "miRspongeR": [
-        "ReactomePA"
-    ],
+    "miRspongeR": [],
     "missMethyl": [
         "bumphunter",
         "methylumi",
@@ -1200,7 +1195,6 @@
         "regioneR"
     ],
     "multiSight": [
-        "ReactomePA",
         "biosigner"
     ],
     "mumosa": [
@@ -1311,9 +1305,7 @@
     "PFP": [],
     "phenomis": [],
     "PhyloProfile": [],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [
         "Gviz",
         "VariantAnnotation",
@@ -1411,7 +1403,6 @@
     "rCGH": [],
     "RcisTarget": [],
     "Rcpi": [],
-    "ReactomePA": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1637,9 +1628,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
