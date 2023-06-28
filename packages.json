@@ -15,7 +15,6 @@
         "oligoClasses"
     ],
     "arrayMvout": [],
-    "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [
         "GenomicScores"
