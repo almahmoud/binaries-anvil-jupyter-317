@@ -16,9 +16,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [
@@ -27,7 +25,6 @@
     "ATACseqTFEA": [],
     "BGmix": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -50,7 +47,6 @@
     "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -112,9 +108,7 @@
         "GenomicInteractions"
     ],
     "FEAST": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [],
     "frma": [
         "oligo",
@@ -136,16 +130,13 @@
         "GenomicInteractions"
     ],
     "HTSeqGenie": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "intansv": [],
     "IsoformSwitchAnalyzeR": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
     ],
-    "lumi": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
@@ -160,7 +151,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "methrix": [],
@@ -173,9 +163,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
@@ -264,7 +252,6 @@
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [],
@@ -287,9 +274,7 @@
     "VariantFiltering": [
         "GenomicScores"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
