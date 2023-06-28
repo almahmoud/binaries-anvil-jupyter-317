@@ -228,9 +228,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -306,9 +304,7 @@
         "methylumi"
     ],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "motifbreakR": [
         "Gviz"
     ],
@@ -494,7 +490,6 @@
         "GenomicScores",
         "Gviz"
     ],
-    "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
