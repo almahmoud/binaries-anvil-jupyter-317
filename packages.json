@@ -73,10 +73,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
