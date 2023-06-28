@@ -695,7 +695,6 @@
     ],
     "scanMiRApp": [],
     "scDblFinder": [],
-    "scDD": [],
     "scFeatures": [
         "SingleCellSignalR"
     ],
