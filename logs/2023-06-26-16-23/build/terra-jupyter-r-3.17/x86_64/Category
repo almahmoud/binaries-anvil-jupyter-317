@@ -167,7 +167,7 @@ packaged installation of ‘karyoploteR’ as ‘karyoploteR_1.26.0_R_x86_64-pc-
 * DONE (karyoploteR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpzGvPte/downloaded_packages’
+	‘/tmp/RtmpxEsByc/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -175,6 +175,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	2m24.489s
-user	2m14.703s
-sys	0m9.533s
+real	2m24.009s
+user	2m13.020s
+sys	0m9.998s
