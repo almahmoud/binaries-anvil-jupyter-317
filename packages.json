@@ -628,7 +628,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "scDblFinder": [],
     "scFeatures": [],
     "scmeth": [],
     "scone": [],
@@ -651,9 +650,7 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "singleCellTK": [
-        "scDblFinder"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR"
