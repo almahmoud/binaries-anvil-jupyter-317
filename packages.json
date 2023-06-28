@@ -102,16 +102,11 @@
     "bambu": [],
     "bandle": [],
     "Basic4Cseq": [],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -136,9 +131,7 @@
     ],
     "bioCancer": [],
     "BiocOncoTK": [],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
@@ -229,9 +222,7 @@
         "TCGAutils"
     ],
     "CBNplot": [],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "CelliD": [],
     "CellMixS": [],
     "CEMiTool": [],
@@ -277,9 +268,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "ChromSCape": [
-        "scran"
-    ],
+    "ChromSCape": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -297,9 +286,7 @@
         "Rhisat2",
         "SGSeq"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "clipper": [
         "qpgraph"
     ],
@@ -487,9 +474,7 @@
     "diffUTR": [
         "ensembldb"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "distinct": [],
     "DMRcate": [
         "DSS",
@@ -647,8 +632,7 @@
         "bambu",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "scran"
+        "ggbio"
     ],
     "FRASER": [
         "OUTRIDER"
@@ -800,9 +784,7 @@
     "IPO": [
         "CAMERA"
     ],
-    "IRISFGM": [
-        "scran"
-    ],
+    "IRISFGM": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "ensembldb",
@@ -1017,9 +999,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "MsQuality": [],
     "multicrispr": [
         "VariantAnnotation",
@@ -1028,9 +1008,7 @@
         "karyoploteR"
     ],
     "multiSight": [],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
@@ -1124,9 +1102,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "podkat": [],
     "preciseTAD": [
         "rCGH"
@@ -1357,21 +1333,14 @@
     ],
     "scBFA": [],
     "scCB2": [],
-    "scDblFinder": [
-        "scran"
-    ],
-    "scDD": [
-        "scran"
-    ],
+    "scDblFinder": [],
+    "scDD": [],
     "scFeatures": [
         "SingleCellSignalR",
         "SpatialExperiment",
-        "ensembldb",
-        "scran"
+        "ensembldb"
     ],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "scmeth": [
         "annotatr"
     ],
@@ -1384,7 +1353,6 @@
         "VariantAnnotation"
     ],
     "scPipe": [],
-    "scran": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -1402,8 +1370,7 @@
         "bumphunter",
         "ensembldb",
         "epivizr",
-        "epivizrData",
-        "scran"
+        "epivizrData"
     ],
     "scviR": [],
     "segmenter": [
@@ -1442,16 +1409,13 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "TSCAN",
         "celda",
         "ensembldb",
         "scDblFinder",
-        "scMerge",
-        "scran"
+        "scMerge"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -1481,9 +1445,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
@@ -1495,9 +1457,7 @@
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
-    "spatialHeatmap": [
-        "scran"
-    ],
+    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
