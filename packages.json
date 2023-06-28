@@ -420,7 +420,6 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler"
     ],
@@ -2464,9 +2463,7 @@
         "DropletUtils",
         "scuttle"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "sccomp": [],
     "scDataviz": [],
     "scDblFinder": [
