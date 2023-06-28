@@ -74,7 +74,7 @@ packaged installation of ‘ggbio’ as ‘ggbio_1.48.0_R_x86_64-pc-linux-gnu.ta
 * DONE (ggbio)
 
 The downloaded source packages are in
-	‘/tmp/RtmppsCnDT/downloaded_packages’
+	‘/tmp/RtmptB31BL/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -82,6 +82,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	1m56.658s
-user	1m48.624s
-sys	0m5.059s
+real	1m58.283s
+user	1m50.372s
+sys	0m5.119s
