@@ -150,7 +150,6 @@
     ],
     "epivizrChart": [],
     "epivizrStandalone": [],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -224,9 +223,7 @@
     ],
     "methrix": [],
     "methylCC": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
