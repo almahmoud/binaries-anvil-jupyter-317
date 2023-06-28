@@ -367,9 +367,7 @@
     ],
     "katdetectr": [],
     "lineagespot": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lumi": [
         "methylumi"
     ],
@@ -658,7 +656,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
