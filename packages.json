@@ -180,9 +180,7 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "OGRE": [],
     "oligo": [
         "oligoClasses"
@@ -267,6 +265,5 @@
     "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures"
-    ],
-    "yarn": []
+    ]
 }
