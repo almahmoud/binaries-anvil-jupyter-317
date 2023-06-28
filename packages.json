@@ -146,7 +146,6 @@
     ],
     "bioCancer": [],
     "BiocOncoTK": [],
-    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
@@ -1157,9 +1156,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "multiSight": [
-        "biosigner"
-    ],
+    "multiSight": [],
     "mumosa": [
         "scran"
     ],
