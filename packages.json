@@ -839,7 +839,6 @@
         "ensembldb",
         "karyoploteR"
     ],
-    "multiSight": [],
     "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
