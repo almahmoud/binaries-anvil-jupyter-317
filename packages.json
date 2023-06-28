@@ -2,7 +2,6 @@
     "ADaCGH2": [
         "snapCGH"
     ],
-    "ADImpute": [],
     "affycoretools": [
         "BSgenome",
         "GOstats",
