@@ -301,7 +301,6 @@
     "VariantFiltering": [
         "GenomicScores"
     ],
-    "VCFArray": [],
     "Voyager": [],
     "wateRmelon": [
         "lumi"
