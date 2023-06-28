@@ -370,7 +370,6 @@
     "CBNplot": [
         "clusterProfiler"
     ],
-    "celaref": [],
     "celda": [
         "scater",
         "scran"
