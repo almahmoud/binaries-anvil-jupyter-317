@@ -289,7 +289,7 @@ packaged installation of ‘minfiDataEPIC’ as ‘minfiDataEPIC_1.26.0_R_x86_64
 * DONE (minfiDataEPIC)
 
 The downloaded source packages are in
-	‘/tmp/RtmpBowX39/downloaded_packages’
+	‘/tmp/Rtmp9XMPn9/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -297,6 +297,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	12m29.891s
-user	11m53.145s
-sys	0m20.906s
+real	12m4.132s
+user	11m39.676s
+sys	0m21.019s
