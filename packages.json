@@ -329,7 +329,6 @@
     ],
     "MungeSumstats": [],
     "musicatk": [],
-    "MutationalPatterns": [],
     "NADfinder": [
         "ATACseqQC",
         "GenomicScores",
@@ -410,9 +409,7 @@
     "ReportingTools": [
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
