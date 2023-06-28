@@ -431,7 +431,6 @@
     "dmrseq": [
         "annotatr"
     ],
-    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
