@@ -1082,9 +1082,7 @@
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "OUTRIDER": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -1211,7 +1209,6 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "OrganismDbi",
         "VariantAnnotation",
