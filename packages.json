@@ -177,7 +177,6 @@
         "GenomicFeatures"
     ],
     "bandle": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "basecallQC": [
@@ -1825,7 +1824,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMAPPR2": [
         "BSgenome",
         "GenomicFeatures",
@@ -2191,11 +2189,8 @@
     "projectR": [
         "CoGAPS"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROPS": [],
@@ -2722,9 +2717,7 @@
         "minfi"
     ],
     "ShortRead": [],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
