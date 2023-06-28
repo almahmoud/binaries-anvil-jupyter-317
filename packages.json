@@ -557,7 +557,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "DExMA": [],
     "DiffBind": [
         "GreyListChIP",
         "systemPipeR"
