@@ -357,11 +357,9 @@
         "karyoploteR"
     ],
     "cpvSNP": [],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
-        "VariantAnnotation",
-        "crisprBowtie"
+        "VariantAnnotation"
     ],
     "crisprseekplus": [
         "ChIPpeakAnno",
@@ -372,7 +370,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprViz",
         "ensembldb"
@@ -381,7 +378,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "ensembldb"
     ],
