@@ -2504,7 +2504,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "GOstats",
         "ReactomePA",
