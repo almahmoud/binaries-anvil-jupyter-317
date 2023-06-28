@@ -161,7 +161,6 @@
     "cytoviewer": [],
     "dagLogo": [],
     "DAMEfinder": [],
-    "decompTumor2Sig": [],
     "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
@@ -371,9 +370,7 @@
         "karyoploteR"
     ],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "myvariant": [],
     "NADfinder": [
