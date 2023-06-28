@@ -639,7 +639,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiLDA": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1190,9 +1189,7 @@
     ],
     "scviR": [],
     "segmenter": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
