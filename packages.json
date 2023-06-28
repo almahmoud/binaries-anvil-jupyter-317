@@ -519,7 +519,6 @@
     ],
     "clusterExperiment": [],
     "clusterProfiler": [],
-    "clustifyr": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
