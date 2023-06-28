@@ -210,8 +210,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -243,8 +242,7 @@
     ],
     "BUSpaRse": [
         "GenomicFeatures",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "GenomicFeatures",
@@ -323,9 +321,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
         "DSS",
@@ -598,8 +594,7 @@
         "GenomicFeatures"
     ],
     "dasper": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "debrowser": [],
     "decompTumor2Sig": [
@@ -1087,8 +1082,7 @@
     ],
     "InPAS": [
         "GenomicFeatures",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "GenomicFeatures"
@@ -1139,8 +1133,7 @@
     ],
     "katdetectr": [
         "GenomicFeatures",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "kissDE": [
         "DSS",
@@ -1189,8 +1182,7 @@
         "CAMERA"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "GenomicFeatures",
@@ -1263,8 +1255,7 @@
         "GenomicFeatures",
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1416,7 +1407,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiSight": [
@@ -1469,8 +1459,7 @@
     ],
     "ncGTW": [],
     "nearBynding": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "netSmooth": [
         "clusterExperiment",
@@ -1490,9 +1479,7 @@
     "NoRCE": [
         "GenomicFeatures"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [],
     "octad": [
         "EDASeq",
@@ -1505,8 +1492,7 @@
         "VariantAnnotation",
         "bumphunter",
         "dasper",
-        "derfinder",
-        "plyranges"
+        "derfinder"
     ],
     "OGRE": [
         "GenomicFeatures",
@@ -1581,10 +1567,7 @@
     ],
     "pipeFrame": [],
     "PloGO2": [],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
     "podkat": [],
     "pram": [],
     "preciseTAD": [
@@ -2266,8 +2249,7 @@
     "Ularcirc": [
         "GenomicFeatures",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "GenomicFeatures",
