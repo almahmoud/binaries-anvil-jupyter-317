@@ -179,7 +179,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -1250,7 +1249,6 @@
         "scuttle"
     ],
     "girafe": [],
-    "glmGamPoi": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2890,9 +2888,7 @@
         "GenomicFeatures",
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "traseR": [
         "BSgenome"
     ],
