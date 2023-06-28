@@ -49,9 +49,7 @@
     "AnnotationHubData": [
         "OrganismDbi"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -88,8 +86,7 @@
         "GenomicScores",
         "TFBSTools",
         "ensembldb",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "TFBSTools",
@@ -151,8 +148,7 @@
         "VariantAnnotation",
         "annotatr",
         "bumphunter",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BOBaFIT": [
         "OrganismDbi",
@@ -270,8 +266,7 @@
         "ensembldb"
     ],
     "ChIPpeakAnno": [
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "ChIPQC": [
         "DiffBind"
@@ -317,16 +312,14 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVrd2": [
         "VariantAnnotation"
@@ -378,8 +371,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "cpvSNP": [],
     "crisprBowtie": [],
@@ -391,8 +383,7 @@
     "crisprseekplus": [
         "ChIPpeakAnno",
         "GUIDEseq",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "crisprVerse": [
         "Gviz",
@@ -486,8 +477,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "DESpace": [
         "SpatialExperiment"
@@ -520,8 +510,7 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bumphunter",
-        "regioneR"
+        "bumphunter"
     ],
     "DNAfusion": [],
     "DominoEffect": [
@@ -741,8 +730,7 @@
     ],
     "GUIDEseq": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "Guitar": [],
     "Gviz": [
@@ -829,8 +817,7 @@
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "katdetectr": [
         "VariantAnnotation"
@@ -1039,8 +1026,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiSight": [],
     "mumosa": [
@@ -1071,7 +1057,6 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -1235,13 +1220,9 @@
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1271,9 +1252,7 @@
         "VariantAnnotation"
     ],
     "rGADEM": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rGREAT": [],
     "rgsepd": [
         "goseq"
@@ -1302,17 +1281,14 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "Risa": [],
     "RITAN": [
         "ensembldb"
     ],
     "RJMCMCNucleosomes": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
@@ -1404,8 +1380,7 @@
         "scran"
     ],
     "scmeth": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -1631,9 +1606,7 @@
     "Ularcirc": [
         "Organism.dplyr"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -1680,8 +1653,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "wateRmelon": [
         "bumphunter",
