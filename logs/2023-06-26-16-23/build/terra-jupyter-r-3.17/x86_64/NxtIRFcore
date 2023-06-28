@@ -1,0 +1,363 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''NxtIRFcore'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'NxtIRFcore'
+also installing the dependencies ‘fstcore’, ‘numDeriv’, ‘NxtIRFdata’, ‘fst’, ‘pheatmap’, ‘egg’, ‘DoubleExpSeq’, ‘Rsubread’
+
+trying URL 'https://cloud.r-project.org/src/contrib/fstcore_0.9.14.tar.gz'
+Content type 'application/x-gzip' length 579301 bytes (565 KB)
+==================================================
+downloaded 565 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'application/x-gzip' length 76053 bytes (74 KB)
+==================================================
+downloaded 74 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/NxtIRFdata_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 311115 bytes (303 KB)
+==================================================
+downloaded 303 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/fst_0.9.8.tar.gz'
+Content type 'application/x-gzip' length 274495 bytes (268 KB)
+==================================================
+downloaded 268 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+Content type 'application/x-gzip' length 15071 bytes (14 KB)
+==================================================
+downloaded 14 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/egg_0.4.5.tar.gz'
+Content type 'application/x-gzip' length 1041027 bytes (1016 KB)
+==================================================
+downloaded 1016 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/DoubleExpSeq_1.1.tar.gz'
+Content type 'application/x-gzip' length 246385 bytes (240 KB)
+==================================================
+downloaded 240 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Rsubread_2.14.2.tar.gz'
+Content type 'application/x-gzip' length 13450748 bytes (12.8 MB)
+==================================================
+downloaded 12.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/NxtIRFcore_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 2215722 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *source* package ‘fstcore’ ...
+** package ‘fstcore’ successfully unpacked and MD5 sums checked
+** using staged installation
+0.29.1
+Package liblz4 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `liblz4.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'liblz4' found
+Package liblz4 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `liblz4.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'liblz4' found
+------------------------------- ANTICONF WARNING ---------------------------------
+Configuration with system library liblz4 failed, falling back to
+liblz4 included in the package code. To use the liblz4
+system library, try installing:
+ * deb: liblz4-dev (Debian, Ubuntu, etc)
+ * rpm: lz4-devel (Fedora, CentOS, RHEL)
+ * csw: liblz4_dev (Solaris)
+ * OSX: lz4 (macOS)
+If liblz4 is already installed, check that 'pkg-config' is in your
+PATH and PKG_CONFIG_PATH contains a liblz4.pc file. If pkg-config
+is unavailable you can set INCLUDE_LZ4_DIR and LIB_LZ4_DIR manually via:
+R CMD INSTALL --configure-vars='INCLUDE_LZ4_DIR=... LIB_LZ4_DIR=...'
+Alternatively, you can force-build the required libraries directly from bundled
+code by setting BUILD_INTERNAL_LIBS to true
+----------------------------------------------------------------------------------
+0.29.1
+Found pkg-config cflags and libs for ZSTD!
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c flex_store.cpp -o flex_store.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst_blockrunner_char.cpp -o fst_blockrunner_char.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst_compress.cpp -o fst_compress.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst_error.cpp -o fst_error.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst_table.cpp -o fst_table.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c openmp.cpp -o openmp.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c versions.cpp -o versions.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/LZ4/lz4.c -o fstlib/LZ4/lz4.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/LZ4/xxhash.c -o fstlib/LZ4/xxhash.o
+ar rcs libLZ4.a fstlib/LZ4/lz4.o fstlib/LZ4/xxhash.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/compression/compression.cpp -o fstlib/compression/compression.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/compression/compressor.cpp -o fstlib/compression/compressor.o
+ar rcs libCOMPRESSION.a fstlib/compression/compression.o fstlib/compression/compressor.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/interface/openmphelper.cpp -o fstlib/interface/openmphelper.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/interface/fststore.cpp -o fstlib/interface/fststore.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/logical/logical_v10.cpp -o fstlib/logical/logical_v10.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/integer/integer_v8.cpp -o fstlib/integer/integer_v8.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/byte/byte_v12.cpp -o fstlib/byte/byte_v12.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/double/double_v9.cpp -o fstlib/double/double_v9.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/character/character_v6.cpp -o fstlib/character/character_v6.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/factor/factor_v7.cpp -o fstlib/factor/factor_v7.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/blockstreamer/blockstreamer_v2.cpp -o fstlib/blockstreamer/blockstreamer_v2.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/integer64/integer64_v11.cpp -o fstlib/integer64/integer64_v11.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/LZ4 -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/byteblock/byteblock_v13.cpp -o fstlib/byteblock/byteblock_v13.o
+ar rcs libFRAME.a fstlib/interface/openmphelper.o fstlib/interface/fststore.o fstlib/logical/logical_v10.o fstlib/integer/integer_v8.o fstlib/byte/byte_v12.o fstlib/double/double_v9.o fstlib/character/character_v6.o fstlib/factor/factor_v7.o fstlib/blockstreamer/blockstreamer_v2.o fstlib/integer64/integer64_v11.o fstlib/byteblock/byteblock_v13.o fstlib/LZ4/xxhash.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o fstcore.so RcppExports.o flex_store.o fst_blockrunner_char.o fst_compress.o fst_error.o fst_table.o openmp.o versions.o -fopenmp ./libFRAME.a ./libCOMPRESSION.a ./libLZ4.a -lzstd -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-fstcore/00new/fstcore/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fstcore’ as ‘fstcore_0.9.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fstcore)
+* installing *source* package ‘numDeriv’ ...
+** package ‘numDeriv’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *source* package ‘NxtIRFdata’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NxtIRFdata’ as ‘NxtIRFdata_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NxtIRFdata)
+* installing *source* package ‘pheatmap’ ...
+** package ‘pheatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *source* package ‘egg’ ...
+** package ‘egg’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘egg’ as ‘egg_0.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (egg)
+* installing *source* package ‘Rsubread’ ...
+** using staged installation
+@@@@@ The operating system is Linux.
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c HelperFunctions.c -o HelperFunctions.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMbase-index.c -o LRMbase-index.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMchro-event.c -o LRMchro-event.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMfile-io.c -o LRMfile-io.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMhashtable.c -o LRMhashtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMhelper.c -o LRMhelper.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMseek-zlib.c -o LRMseek-zlib.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c LRMsorted-hashtable.c -o LRMsorted-hashtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_wrapper.c -o R_wrapper.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RsimReads.c -o RsimReads.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c SNPCalling.c -o SNPCalling.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c aligner.c -o aligner.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c atgcContent.c -o atgcContent.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c build-sam-index.c -o build-sam-index.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cell-counts.c -o cell-counts.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core-bigtable.c -o core-bigtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core-indel.c -o core-indel.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core-interface-aligner.c -o core-interface-aligner.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core-interface-subjunc.c -o core-interface-subjunc.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core-junction.c -o core-junction.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c core.c -o core.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c detection-calls.c -o detection-calls.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c detectionCall.c -o detectionCall.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c detectionCallAnnotation.c -o detectionCallAnnotation.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c exon-algorithms.c -o exon-algorithms.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c exon-align-indel.c -o exon-align-indel.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c exon-align.c -o exon-align.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c flattenAnnotations.c -o flattenAnnotations.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fullscan.c -o fullscan.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fusion-align.c -o fusion-align.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gen_rand_reads.c -o gen_rand_reads.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gene-algorithms.c -o gene-algorithms.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gene-value-index.c -o gene-value-index.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hashtable.c -o hashtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c index-builder.c -o index-builder.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c input-blc.c -o input-blc.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c input-files.c -o input-files.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c interval_merge.c -o interval_merge.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c long-hashtable.c -o long-hashtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c longread-mapping.c -o longread-mapping.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mergeVCF.c -o mergeVCF.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c processExons.c -o processExons.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c propmapped.c -o propmapped.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c qualityScores.c -o qualityScores.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c read-repair.c -o read-repair.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readSummary.c -o readSummary.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c removeDupReads.c -o removeDupReads.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sam2bed.c -o sam2bed.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sambam-file.c -o sambam-file.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c seek-zlib.c -o seek-zlib.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sorted-hashtable.c -o sorted-hashtable.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sublog.c -o sublog.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.14.2\""  -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tx-unique.c -o tx-unique.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o Rsubread.so HelperFunctions.o LRMbase-index.o LRMchro-event.o LRMfile-io.o LRMhashtable.o LRMhelper.o LRMseek-zlib.o LRMsorted-hashtable.o R_wrapper.o RsimReads.o SNPCalling.o aligner.o atgcContent.o build-sam-index.o cell-counts.o core-bigtable.o core-indel.o core-interface-aligner.o core-interface-subjunc.o core-junction.o core.o detection-calls.o detectionCall.o detectionCallAnnotation.o exon-algorithms.o exon-align-indel.o exon-align.o flattenAnnotations.o fullscan.o fusion-align.o gen_rand_reads.o gene-algorithms.o gene-value-index.o hashtable.o index-builder.o input-blc.o input-files.o interval_merge.o long-hashtable.o longread-mapping.o mergeVCF.o processExons.o propmapped.o qualityScores.o read-repair.o readSummary.o removeDupReads.o sam2bed.o sambam-file.o seek-zlib.o sorted-hashtable.o sublog.o tx-unique.o -lz -lpthread -DMAKE_FOR_EXON -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-Rsubread/00new/Rsubread/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rsubread’ as ‘Rsubread_2.14.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rsubread)
+* installing *source* package ‘fst’ ...
+** package ‘fst’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/fstcore/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/fstcore/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c flex_store.cpp -o flex_store.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/fstcore/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst_compress.cpp -o fst_compress.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/fstcore/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c openmp.cpp -o openmp.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o fst.so RcppExports.o flex_store.o fst_compress.o openmp.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-fst/00new/fst/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fst’ as ‘fst_0.9.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fst)
+* installing *source* package ‘DoubleExpSeq’ ...
+** package ‘DoubleExpSeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DoubleExpSeq’ as ‘DoubleExpSeq_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DoubleExpSeq)
+* installing *source* package ‘NxtIRFcore’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c BAM2blocks.cpp -o BAM2blocks.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c FastaReader.cpp -o FastaReader.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c FragmentBlocks.cpp -o FragmentBlocks.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c GZTools.cpp -o GZTools.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IRFinder.cpp -o IRFinder.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ReadBlockProcessor.cpp -o ReadBlockProcessor.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ReadBlockProcessor_CoverageBlocks.cpp -o ReadBlockProcessor_CoverageBlocks.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/zlibbioc/include' -I'/usr/local/lib/R/site-library/RcppProgress/include'    -fopenmp -DRNXTIRF -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c covTools.cpp -o covTools.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o NxtIRFcore.so BAM2blocks.o FastaReader.o FragmentBlocks.o GZTools.o IRFinder.o RcppExports.o ReadBlockProcessor.o ReadBlockProcessor_CoverageBlocks.o covTools.o -fopenmp -DRNXTIRF -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-NxtIRFcore/00new/NxtIRFcore/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Package 'NxtIRFcore' is deprecated and will be removed from
+  Bioconductor version 3.18
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: Package 'NxtIRFcore' is deprecated and will be removed from
+  Bioconductor version 3.18
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NxtIRFcore’ as ‘NxtIRFcore_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NxtIRFcore)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUiFuER/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	3m30.368s
+user	3m16.356s
+sys	0m13.832s
+* installing *source* package ‘DoubleExpSeq’ ...
+** package ‘DoubleExpSeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DoubleExpSeq’ as ‘DoubleExpSeq_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DoubleExpSeq)
