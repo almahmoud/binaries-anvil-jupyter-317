@@ -322,7 +322,6 @@
     ],
     "NanoMethViz": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "octad": [],
@@ -364,7 +363,6 @@
     "Pviz": [
         "Gviz"
     ],
-    "quantro": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
@@ -498,7 +496,5 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ]
+    "yarn": []
 }
