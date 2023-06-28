@@ -45,12 +45,9 @@
         "GenomicInteractions"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -259,7 +256,6 @@
         "recount"
     ],
     "RnBeads": [],
-    "RTCGAToolbox": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
