@@ -274,9 +274,7 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -811,7 +809,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "MIRA": [],
     "miRSM": [],
     "missMethyl": [
         "methylumi",
