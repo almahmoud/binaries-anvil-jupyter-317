@@ -595,9 +595,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dpeak": [],
     "DropletUtils": [],
     "drugTargetInteractions": [
@@ -1802,7 +1800,6 @@
         "StructuralVariantAnnotation",
         "VariantAnnotation"
     ],
-    "syntenet": [],
     "systemPipeR": [],
     "TAPseq": [],
     "TBSignatureProfiler": [],
