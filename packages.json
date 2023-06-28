@@ -1543,7 +1543,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GOpro": [],
     "goseq": [
         "GenomicFeatures",
         "rtracklayer"
