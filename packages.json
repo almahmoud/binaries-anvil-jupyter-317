@@ -1574,7 +1574,6 @@
     "scCB2": [
         "DropletUtils"
     ],
-    "scClassify": [],
     "scDblFinder": [
         "scater",
         "scran"
