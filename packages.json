@@ -43,17 +43,13 @@
         "Gviz",
         "biovizBase"
     ],
-    "ATACCoGAPS": [
-        "motifmatchr"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -276,15 +272,11 @@
         "Gviz",
         "biovizBase"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi"
     ],
-    "enrichTF": [
-        "motifmatchr"
-    ],
+    "enrichTF": [],
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [],
@@ -307,9 +299,7 @@
     "erma": [
         "GenomicFiles"
     ],
-    "esATAC": [
-        "motifmatchr"
-    ],
+    "esATAC": [],
     "escheR": [],
     "EventPointer": [],
     "ExperimentHubData": [
@@ -523,7 +513,6 @@
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "msgbsR": [
         "biovizBase",
@@ -578,9 +567,7 @@
         "HelloRanges"
     ],
     "OutSplice": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pdInfoBuilder": [
         "oligo",
         "oligoClasses"
@@ -789,8 +776,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "SPIAT": [],
     "spicyR": [],
