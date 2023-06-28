@@ -40,9 +40,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "AnnotationHubData": [
         "OrganismDbi"
     ],
@@ -100,8 +98,7 @@
         "VariantAnnotation"
     ],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "BGmix": [],
     "bigmelon": [
@@ -781,13 +778,9 @@
     "methylumi": [
         "minfi"
     ],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "mimager": [
         "oligo",
