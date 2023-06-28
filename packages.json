@@ -305,8 +305,7 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "ChIPseeker": [],
     "ChIPXpress": [
@@ -544,8 +543,7 @@
         "SpatialExperiment"
     ],
     "DiffBind": [
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffHic": [],
     "diffUTR": [
@@ -1759,7 +1757,6 @@
         "StructuralVariantAnnotation",
         "VariantAnnotation"
     ],
-    "systemPipeR": [],
     "TAPseq": [],
     "TBSignatureProfiler": [],
     "TCGAutils": [],
@@ -1868,8 +1865,7 @@
         "DiffBind",
         "GreyListChIP",
         "ensembldb",
-        "regioneR",
-        "systemPipeR"
+        "regioneR"
     ],
     "wateRmelon": [
         "bumphunter",
