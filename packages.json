@@ -29,9 +29,7 @@
     ],
     "BindingSiteFinder": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
@@ -87,7 +85,6 @@
     "cytoviewer": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "derfinderPlot": [],
     "DMRcate": [],
     "DMRforPairs": [],
     "DrugVsDisease": [
