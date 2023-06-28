@@ -115,8 +115,7 @@
     "MungeSumstats": [],
     "NADfinder": [
         "ATACseqQC",
-        "GenomicScores",
-        "trackViewer"
+        "GenomicScores"
     ],
     "NanoMethViz": [],
     "netZooR": [],
@@ -172,7 +171,6 @@
     ],
     "spatzie": [],
     "SPLINTER": [],
-    "trackViewer": [],
     "trena": [],
     "tscR": [],
     "uncoverappLib": [],
