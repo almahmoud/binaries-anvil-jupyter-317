@@ -325,8 +325,7 @@
         "methylPipe"
     ],
     "condiments": [
-        "distinct",
-        "slingshot"
+        "distinct"
     ],
     "consensusDE": [
         "EDASeq",
@@ -1288,9 +1287,7 @@
         "VariantAnnotation"
     ],
     "scPipe": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1361,7 +1358,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [
         "goseq"
     ],
@@ -1454,13 +1450,9 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "trena": [],
     "TRESS": [],
     "tricycle": [],
