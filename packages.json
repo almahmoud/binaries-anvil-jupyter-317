@@ -1012,9 +1012,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [
-        "UCell"
-    ],
+    "escape": [],
     "escheR": [
         "DropletUtils",
         "SpatialExperiment",
@@ -2789,7 +2787,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "UCell": [],
     "Ularcirc": [
         "BSgenome",
         "GenomicFeatures",
