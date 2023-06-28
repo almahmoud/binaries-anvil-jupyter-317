@@ -1,0 +1,11 @@
+ggbio
+MMAPPR2
+missMethyl
+crisprseekplus
+RnBeads
+ODER
+yarn
+lumi
+recount
+HTSeqGenie
+regionReport
