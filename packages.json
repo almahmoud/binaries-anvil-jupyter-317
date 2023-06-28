@@ -212,7 +212,6 @@
         "GenomicFiles"
     ],
     "esATAC": [],
-    "EventPointer": [],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
