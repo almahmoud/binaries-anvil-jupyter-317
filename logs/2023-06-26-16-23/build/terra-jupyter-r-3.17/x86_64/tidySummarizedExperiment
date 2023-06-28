@@ -54,7 +54,7 @@ packaged installation of ‘tidySummarizedExperiment’ as ‘tidySummarizedExpe
 * DONE (tidySummarizedExperiment)
 
 The downloaded source packages are in
-	‘/tmp/RtmpDQTwyZ/downloaded_packages’
+	‘/tmp/RtmpSvaFQR/downloaded_packages’
 Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
   'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
@@ -62,6 +62,6 @@ Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
   'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
 
-real	0m35.369s
-user	0m31.278s
-sys	0m2.739s
+real	0m32.923s
+user	0m29.171s
+sys	0m2.753s
