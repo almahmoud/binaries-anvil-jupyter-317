@@ -600,7 +600,6 @@
         "bsseq"
     ],
     "EasyCellType": [],
-    "easyRNASeq": [],
     "EDASeq": [],
     "eegc": [],
     "ELMER": [
@@ -1153,7 +1152,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "easyRNASeq",
         "ensembldb",
         "ggbio"
     ],
