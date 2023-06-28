@@ -45,7 +45,6 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
@@ -153,7 +152,6 @@
         "oligoClasses"
     ],
     "ChromSCape": [],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase"
