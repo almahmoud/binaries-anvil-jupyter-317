@@ -865,7 +865,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -2794,7 +2793,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "scuttle"
     ],
     "spicyR": [
