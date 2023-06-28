@@ -109,10 +109,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
