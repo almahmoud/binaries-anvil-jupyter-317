@@ -282,9 +282,7 @@
         "ensembldb"
     ],
     "CAMERA": [],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -1575,7 +1573,6 @@
     "PFP": [],
     "phemd": [],
     "phenomis": [],
-    "phenoTest": [],
     "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA"
