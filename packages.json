@@ -884,7 +884,6 @@
     "RITAN": [],
     "RLSeq": [],
     "RMassBank": [],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
