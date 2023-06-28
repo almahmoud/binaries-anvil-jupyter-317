@@ -1,0 +1,15 @@
+psichomics
+methylGSA
+cBioPortalData
+brainflowprobes
+wateRmelon
+RNAAgeCalc
+MEAL
+netZooR
+arrayMvout
+DMRcate
+MineICA
+iCheck
+RnaSeqSampleSize
+GA4GHshiny
+ffpe
