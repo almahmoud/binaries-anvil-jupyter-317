@@ -493,7 +493,6 @@
     ],
     "DSS": [],
     "EDASeq": [],
-    "eegc": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
