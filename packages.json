@@ -2970,7 +2970,6 @@
     "TCGAutils": [
         "GenomicFeatures"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [],
     "TEKRABber": [],
     "TENxIO": [],
