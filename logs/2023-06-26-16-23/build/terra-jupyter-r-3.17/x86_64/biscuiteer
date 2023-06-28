@@ -1,0 +1,232 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''biscuiteer'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'biscuiteer'
+also installing the dependencies ‘outliers’, ‘biscuiteerData’, ‘qualV’, ‘Mus.musculus’, ‘dmrseq’, ‘DSS’, ‘scmeth’
+
+trying URL 'https://cloud.r-project.org/src/contrib/outliers_0.15.tar.gz'
+Content type 'application/x-gzip' length 15967 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/biscuiteerData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 254545 bytes (248 KB)
+==================================================
+downloaded 248 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/qualV_0.3-4.tar.gz'
+Content type 'application/x-gzip' length 50085 bytes (48 KB)
+==================================================
+downloaded 48 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/Mus.musculus_1.3.1.tar.gz'
+Content type 'application/x-gzip' length 1618 bytes
+==================================================
+downloaded 1618 bytes
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/dmrseq_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 2919267 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/DSS_2.48.0.tar.gz'
+Content type 'application/x-gzip' length 2113048 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/scmeth_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 787222 bytes (768 KB)
+==================================================
+downloaded 768 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/biscuiteer_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 4977148 bytes (4.7 MB)
+==================================================
+downloaded 4.7 MB
+
+* installing *source* package ‘outliers’ ...
+** package ‘outliers’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘outliers’ as ‘outliers_0.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (outliers)
+* installing *source* package ‘biscuiteerData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biscuiteerData’ as ‘biscuiteerData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biscuiteerData)
+* installing *source* package ‘qualV’ ...
+** package ‘qualV’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_qualV.c -o R_init_qualV.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c lcs.c -o lcs.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o qualV.so R_init_qualV.o lcs.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-qualV/00new/qualV/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qualV’ as ‘qualV_0.3-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qualV)
+* installing *source* package ‘Mus.musculus’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Mus.musculus’ as ‘Mus.musculus_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Mus.musculus)
+* installing *source* package ‘DSS’ ...
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c compute_var_smooth.c -o compute_var_smooth.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c filter.c -o filter.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nitem.c -o nitem.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o DSS.so compute_var_smooth.o filter.o nitem.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-DSS/00new/DSS/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DSS’ as ‘DSS_2.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DSS)
+* installing *source* package ‘scmeth’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scmeth’ as ‘scmeth_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scmeth)
+* installing *source* package ‘dmrseq’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dmrseq’ as ‘dmrseq_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dmrseq)
+* installing *source* package ‘biscuiteer’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘BiocParallel::bpstart’ by ‘QDNAseq::bpstart’ when loading ‘biscuiteer’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘BiocParallel::bpstart’ by ‘QDNAseq::bpstart’ when loading ‘biscuiteer’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘BiocParallel::bpstart’ by ‘QDNAseq::bpstart’ when loading ‘biscuiteer’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biscuiteer’ as ‘biscuiteer_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biscuiteer)
+
+The downloaded source packages are in
+	‘/tmp/RtmpSVxmZ6/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	3m59.815s
+user	3m43.875s
+sys	0m13.101s
+* installing *source* package ‘QDNAseq.hg19’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘QDNAseq.hg19’ as ‘QDNAseq.hg19_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (QDNAseq.hg19)
+* installing *source* package ‘QDNAseq.mm10’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘QDNAseq.mm10’ as ‘QDNAseq.mm10_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (QDNAseq.mm10)
