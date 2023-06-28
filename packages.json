@@ -846,7 +846,6 @@
     "recountmethylation": [
         "minfi"
     ],
-    "recoup": [],
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno"
