@@ -390,7 +390,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DegNorm": [],
     "DeMixT": [],
     "derfinder": [
         "GenomicFiles",
