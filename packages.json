@@ -228,7 +228,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPseeker": [],
     "ChIPXpress": [
         "frma",
         "oligo",
@@ -464,9 +463,7 @@
     "epialleleR": [
         "VariantAnnotation"
     ],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
@@ -504,7 +501,6 @@
         "VariantAnnotation"
     ],
     "esATAC": [
-        "ChIPseeker",
         "motifmatchr"
     ],
     "escheR": [
@@ -973,7 +969,6 @@
     "proActiv": [],
     "proBAMr": [],
     "profileplyr": [
-        "ChIPseeker",
         "rGREAT"
     ],
     "pRolocGUI": [],
@@ -1201,15 +1196,11 @@
         "epivizrData"
     ],
     "scviR": [],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [
         "HiLDA"
     ],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
