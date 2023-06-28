@@ -446,7 +446,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
         "scater",
