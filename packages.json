@@ -1427,7 +1427,6 @@
         "DaMiRseq",
         "EDASeq",
         "GenomicFeatures",
-        "MLSeq",
         "ShortRead",
         "rtracklayer",
         "sva"
@@ -2127,7 +2126,6 @@
         "rtracklayer"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMAPPR2": [
         "BSgenome",
         "GenomicFeatures",
