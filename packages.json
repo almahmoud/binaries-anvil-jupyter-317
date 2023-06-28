@@ -982,7 +982,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "deltaCaptureC": [],
     "DeMixT": [
         "BSgenome",
         "DSS",
