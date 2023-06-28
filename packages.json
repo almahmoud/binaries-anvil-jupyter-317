@@ -2629,7 +2629,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "SPsimSeq": [],
     "standR": [
         "DropletUtils",
         "EDASeq",
