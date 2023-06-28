@@ -205,8 +205,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [],
     "clipper": [],
@@ -413,9 +412,7 @@
         "motifmatchr"
     ],
     "escheR": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -868,9 +865,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
@@ -978,7 +973,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "minfi"
     ],
