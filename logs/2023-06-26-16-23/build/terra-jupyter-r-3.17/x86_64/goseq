@@ -1,0 +1,96 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''goseq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'goseq'
+also installing the dependencies ‘BiasedUrn’, ‘geneLenDataBase’
+
+trying URL 'https://cloud.r-project.org/src/contrib/BiasedUrn_2.0.10.tar.gz'
+Content type 'application/x-gzip' length 261898 bytes (255 KB)
+==================================================
+downloaded 255 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/geneLenDataBase_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 100436679 bytes (95.8 MB)
+==================================================
+downloaded 95.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/goseq_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 1776227 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *source* package ‘BiasedUrn’ ...
+** package ‘BiasedUrn’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fnchyppr.cpp -o fnchyppr.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stoc1.cpp -o stoc1.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stoc3.cpp -o stoc3.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stocR.cpp -o stocR.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c urn1.cpp -o urn1.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c urn2.cpp -o urn2.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DR_BUILD=1 -DMAXCOLORS=32      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c wnchyppr.cpp -o wnchyppr.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o BiasedUrn.so fnchyppr.o stoc1.o stoc3.o stocR.o urn1.o urn2.o wnchyppr.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-BiasedUrn/00new/BiasedUrn/libs
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiasedUrn’ as ‘BiasedUrn_2.0.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiasedUrn)
+* installing *source* package ‘geneLenDataBase’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geneLenDataBase’ as ‘geneLenDataBase_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geneLenDataBase)
+* installing *source* package ‘goseq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘goseq’ as ‘goseq_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (goseq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKaH4kr/downloaded_packages’
+Old packages: 'BiocManager', 'biomaRt', 'broom', 'bslib', 'curl',
+  'DelayedMatrixStats', 'DESeq2', 'digest', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'igraph', 'IRanges',
+  'locfit', 'MatrixGenerics', 'pbapply', 'pkgbuild', 'RcppArmadillo',
+  'reticulate', 'scattermore', 'Seurat', 'sp', 'sparseMatrixStats',
+  'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs'
+
+real	1m48.287s
+user	1m36.666s
+sys	0m6.942s

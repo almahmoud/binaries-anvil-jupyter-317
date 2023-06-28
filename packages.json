@@ -161,7 +161,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -487,7 +486,6 @@
     "gmapR": [
         "VariantAnnotation"
     ],
-    "goseq": [],
     "GRaNIE": [],
     "GSReg": [],
     "GUIDEseq": [
@@ -525,9 +523,7 @@
         "methylumi",
         "minfi"
     ],
-    "ideal": [
-        "goseq"
-    ],
+    "ideal": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -852,9 +848,7 @@
         "VariantAnnotation"
     ],
     "RgnTX": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
@@ -992,9 +986,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
