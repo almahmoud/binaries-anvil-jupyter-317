@@ -2667,7 +2667,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "Statial": [],
     "stJoincount": [
         "DropletUtils",
         "SpatialExperiment"
