@@ -1139,14 +1139,12 @@
     "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -1538,9 +1536,7 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -1815,9 +1811,7 @@
     "traviz": [
         "slingshot"
     ],
-    "trena": [
-        "MotifDb"
-    ],
+    "trena": [],
     "TRESS": [],
     "tricycle": [
         "scater"
