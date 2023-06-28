@@ -215,7 +215,6 @@
     "BiocOncoTK": [
         "GenomicFeatures"
     ],
-    "BioNERO": [],
     "biosigner": [],
     "BioTIP": [
         "scran"
@@ -315,7 +314,6 @@
     ],
     "cageminer": [
         "BSgenome",
-        "BioNERO",
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
