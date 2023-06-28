@@ -45,7 +45,6 @@
         "ggbio"
     ],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
@@ -142,9 +141,7 @@
     "cytoviewer": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DEScan2": [],
@@ -300,9 +297,7 @@
         "yarn"
     ],
     "octad": [],
-    "ODER": [
-        "derfinder"
-    ],
+    "ODER": [],
     "OGRE": [
         "Gviz"
     ],
@@ -328,7 +323,6 @@
         "Rcpi"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "puma": [
@@ -346,13 +340,9 @@
         "GenomicScores"
     ],
     "Rcpi": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "RedisParam": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [
         "Gviz"
     ],
@@ -369,7 +359,6 @@
     ],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAmodR": [
@@ -388,7 +377,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [],
