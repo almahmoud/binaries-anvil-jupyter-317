@@ -13,7 +13,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "ATACCoGAPS": [],
     "ATACseqQC": [
         "GenomicScores"
     ],
