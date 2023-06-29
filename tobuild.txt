@@ -1,9 +1,0 @@
-oligoClasses
-trena
-MungeSumstats
-GenomicScores
-GRaNIE
-EpiCompare
-methrix
-DMRcate
-motifbreakR
