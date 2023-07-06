@@ -108,7 +108,7 @@ jobs:
           purge_all () {
               PURGEDIR="$1"
               ( rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge ) || true
-              while grep -q "Deleted" /tmp/purge; do rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge; done
+              while grep -q "Deleted" /tmp/purge; do ( rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge ) || true; done
           }
           
           export -f purge_all
@@ -122,8 +122,13 @@ jobs:
           cat /tmp/purgelist
           cat /tmp/purgelist | xargs -i -r bash -c 'purge_all {}'
           
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog
-
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog || true
+          
+          countsrc=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$SRCBUCK/" | grep tar.gz | sort | uniq)
+          countdst=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$DSTBUCK/" | grep tar.gz | sort | uniq)
+          
+          if [ $countsrc -eq $countdst ]; then echo "All $countdst binaries copied"; else exit 1; fi 
+          
           aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls gha-build | grep "$(echo $SRCBUCK | sed 's#s3://gha-build/##')" | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
           grep -o "[\.A-Za-z0-9_-]\+.tar.gz" /tmp/synclog  | sort | uniq > /tmp/newtars
 
