@@ -42,7 +42,7 @@ jobs:
           COPY containername /tmp/containername
           COPY runstarttime /tmp/runstarttime
           COPY arch /tmp/arch
-          RUN mkdir -p library && cat /tmp/randompkgs | xargs -i bash -c "curl -o library/{}.tar.gz https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/{}.tar.gz && (cd library && tar -xvf {}.tar.gz && rm {}.tar.gz && rm -rf {}) && Rscript -e \"p <- .libPaths(); p <- c('$(pwd)/library', p); .libPaths(p); BiocManager::install('{}', site_repository = 'https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/')\""
+          RUN mkdir -p library && cat /tmp/randompkgs | xargs -i bash -c "Rscript -e \"p <- .libPaths(); p <- c('$(pwd)/library', p); .libPaths(p); BiocManager::install('{}', site_repository = 'https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/')\""
           EOF
 
       - name: Set up QEMU
@@ -120,7 +120,7 @@ jobs:
           # Purge all but latest 3 run binaries
           ls -d logs/*/ | sort -n | sed "s#logs#js2:/gha-build/$(cat containername)/$(cat arch)#" | head -n -3 > /tmp/purgelist
           cat /tmp/purgelist
-          cat /tmp/purgelist | xargs -i -r purge_all {}
+          cat /tmp/purgelist | xargs -i -r bash -c 'purge_all {}'
           
           aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog
 
