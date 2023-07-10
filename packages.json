@@ -29867,7 +29867,6 @@
     "sparseMatrixStats": [
         "MatrixGenerics"
     ],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "Biobase",
