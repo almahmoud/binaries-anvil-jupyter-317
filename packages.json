@@ -29633,7 +29633,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
