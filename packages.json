@@ -22777,7 +22777,6 @@
         "pcaMethods",
         "zlibbioc"
     ],
-    "PhenoGeneRanker": [],
     "phenomis": [
         "Biobase",
         "BiocFileCache",
