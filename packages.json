@@ -21821,7 +21821,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "plotGrouper": [],
     "PLPE": [
         "Biobase",
         "BiocGenerics"
