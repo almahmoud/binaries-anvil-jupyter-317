@@ -130,9 +130,7 @@ jobs:
           
           if [ $countsrc -eq $countdst ]; then echo "All $countdst binaries copied"; else exit 1; fi 
           
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls gha-build > /tmp/buildls
-          echo $(cat /tmp/buildls | wc -l)
-          BUCKPREF="$(echo $SRCBUCK | sed 's#s3://gha-build/##')"
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$BUCKPREF/" > /tmp/buildls
           cat /tmp/buildls | grep "$BUCKPREF" | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
           cat /tmp/synclog | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/newtars
 
