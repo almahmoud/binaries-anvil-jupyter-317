@@ -14648,7 +14648,6 @@
         "zlibbioc"
     ],
     "HPAStainR": [],
-    "HPiP": [],
     "HTqPCR": [
         "Biobase",
         "BiocGenerics",
