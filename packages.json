@@ -1214,7 +1214,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "annotate",
