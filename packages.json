@@ -5995,7 +5995,6 @@
         "SummarizedExperiment",
         "xcms"
     ],
-    "ncRNAtools": [],
     "nearBynding": [
         "AnnotationDbi",
         "GenomicAlignments",
