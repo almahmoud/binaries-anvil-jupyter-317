@@ -6367,7 +6367,6 @@
     "SPsimSeq": [
         "AnnotationDbi"
     ],
-    "sRACIPE": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "graphite"
