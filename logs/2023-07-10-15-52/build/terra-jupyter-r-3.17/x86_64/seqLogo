@@ -71,7 +71,7 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpfdR7t5/downloaded_packages’
+	‘/tmp/RtmpYypD24/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -82,6 +82,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m12.104s
-user	0m9.642s
-sys	0m1.671s
+real	0m13.186s
+user	0m10.060s
+sys	0m1.433s
