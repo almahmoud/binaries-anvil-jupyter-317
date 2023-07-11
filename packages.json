@@ -6218,7 +6218,6 @@
         "XVector"
     ],
     "EBSeqHMM": [],
-    "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
         "BiocIO",
