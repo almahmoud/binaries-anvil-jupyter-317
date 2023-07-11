@@ -7305,7 +7305,6 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "rfaRm": [],
     "rfPred": [
         "Rsamtools"
     ],
