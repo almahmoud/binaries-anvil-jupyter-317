@@ -70,7 +70,7 @@ checking for gcc option to enable C11 features... none needed
 USE_LOCAL = ""
 Minor Version: 6
 Using local libjson code. Copying files from src/libjson/Source
-/tmp/Rtmp9Zn7Z4/R.INSTALL83398399a1/RJSONIO
+/tmp/Rtmp2T2Iyd/R.INSTALL84791b99f6/RJSONIO
 JSONAllocator.cpp
 JSONChildren.cpp
 JSONDebug.cpp
@@ -257,7 +257,7 @@ packaged installation of ‘RCy3’ as ‘RCy3_2.20.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (RCy3)
 
 The downloaded source packages are in
-	‘/tmp/RtmpYyAnUn/downloaded_packages’
+	‘/tmp/Rtmp4fdGzs/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -268,6 +268,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m54.744s
-user	0m46.631s
-sys	0m6.778s
+real	0m39.928s
+user	0m33.988s
+sys	0m4.772s
