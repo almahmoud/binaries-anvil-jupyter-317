@@ -6327,7 +6327,6 @@
         "GSVA",
         "annotate"
     ],
-    "TOAST": [],
     "TOP": [
         "AnnotationDbi",
         "ClassifyR",
