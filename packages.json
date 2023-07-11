@@ -20125,7 +20125,6 @@
         "XVector"
     ],
     "statTarget": [],
-    "STdeconvolve": [],
     "stepNorm": [],
     "stJoincount": [
         "DelayedArray",
