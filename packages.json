@@ -15716,7 +15716,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "AnnotationDbi",
         "BiocIO",
