@@ -6127,7 +6127,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "survtype": [],
     "sva": [
         "AnnotationDbi",
         "annotate",
