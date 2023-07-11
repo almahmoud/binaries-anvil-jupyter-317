@@ -959,9 +959,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "Cepo": [
         "AnnotationDbi",
         "GSEABase",
@@ -1638,9 +1636,7 @@
     ],
     "cyanoFilter": [],
     "cydar": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST",
         "scater",
@@ -1848,7 +1844,6 @@
     "diffcoexp": [
         "AnnotationDbi"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
@@ -6461,9 +6456,7 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TreeSummarizedExperiment": [],
     "trena": [
         "AnnotationDbi",
