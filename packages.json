@@ -3492,7 +3492,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ivygapSE": [],
     "karyoploteR": [
         "AnnotationDbi",
         "BSgenome",
