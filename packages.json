@@ -8843,7 +8843,6 @@
     "sRACIPE": [
         "SummarizedExperiment"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "KEGGREST",
