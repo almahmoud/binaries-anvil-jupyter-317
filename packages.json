@@ -3125,7 +3125,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
@@ -5599,7 +5598,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "Modstrings": [],
     "MOFA2": [],
     "mogsa": [
         "AnnotationDbi",
@@ -7603,7 +7601,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Modstrings",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -7619,7 +7616,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -7636,7 +7632,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -7653,7 +7648,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -9457,18 +9451,15 @@
     ],
     "triplex": [],
     "tRNA": [
-        "Modstrings",
         "Structstrings"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
