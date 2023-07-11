@@ -4648,7 +4648,6 @@
         "graphite",
         "mnem"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "DelayedArray",
         "RBGL",
