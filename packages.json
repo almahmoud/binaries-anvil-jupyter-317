@@ -13271,7 +13271,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "rcellminer": [],
     "rCGH": [
         "AnnotationDbi",
         "Biostrings",
