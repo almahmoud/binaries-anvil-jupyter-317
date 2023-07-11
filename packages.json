@@ -18164,7 +18164,6 @@
     "Streamer": [
         "RBGL"
     ],
-    "STROMA4": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
