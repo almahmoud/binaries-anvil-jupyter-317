@@ -6248,7 +6248,6 @@
         "GSEABase",
         "annotate"
     ],
-    "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tigre": [
         "AnnotationDbi",
