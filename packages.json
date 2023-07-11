@@ -6286,7 +6286,6 @@
         "MultiAssayExperiment"
     ],
     "RaggedExperiment": [],
-    "ramr": [],
     "ramwas": [
         "AnnotationDbi",
         "GenomicAlignments",
