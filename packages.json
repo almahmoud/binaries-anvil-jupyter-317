@@ -3666,8 +3666,7 @@
     "MatrixQCvis": [
         "AnnotationDbi",
         "AnnotationHub",
-        "ExperimentHub",
-        "proDA"
+        "ExperimentHub"
     ],
     "MatrixRider": [
         "AnnotationDbi",
@@ -5006,7 +5005,6 @@
         "rtracklayer"
     ],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "AnnotationDbi",
         "ChIPseeker",
