@@ -6934,7 +6934,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "AnnotationDbi",
         "KEGGREST",
