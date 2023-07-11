@@ -25,7 +25,7 @@ packaged installation of ‘basilisk’ as ‘basilisk_1.12.1_R_x86_64-pc-linux-
 * DONE (basilisk)
 
 The downloaded source packages are in
-	‘/tmp/RtmpHBOgvl/downloaded_packages’
+	‘/tmp/RtmpMBdCLj/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -36,6 +36,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m7.714s
-user	0m5.732s
-sys	0m0.737s
+real	0m10.269s
+user	0m7.370s
+sys	0m1.067s
