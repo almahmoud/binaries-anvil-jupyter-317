@@ -1250,7 +1250,6 @@
         "annotate",
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva",
         "vsn"
     ],
@@ -3127,8 +3126,7 @@
         "Biostrings",
         "KEGGREST",
         "epiNEM",
-        "graphite",
-        "mnem"
+        "graphite"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -4046,9 +4044,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistack": [
         "GenomicRanges",
         "SummarizedExperiment"
@@ -7275,7 +7271,6 @@
         "rtracklayer"
     ],
     "MMUPHin": [],
-    "mnem": [],
     "moanin": [
         "AnnotationDbi",
         "Biostrings",
@@ -7882,8 +7877,7 @@
         "SummarizedExperiment"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
