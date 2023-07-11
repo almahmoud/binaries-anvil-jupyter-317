@@ -9212,7 +9212,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "fastreeR": [],
     "fastseg": [
         "Biobase",
         "GenomeInfoDb",
