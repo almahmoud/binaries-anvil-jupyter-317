@@ -4556,7 +4556,6 @@
     "Nebulosa": [
         "SingleCellExperiment"
     ],
-    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
