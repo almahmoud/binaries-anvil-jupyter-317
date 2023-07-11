@@ -5103,8 +5103,7 @@
         "ncdfFlow"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -11996,9 +11995,7 @@
         "XVector"
     ],
     "mfa": [],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "Biostrings",
@@ -14153,8 +14150,7 @@
     ],
     "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "tkWidgets"
+        "OLIN"
     ],
     "omada": [],
     "OmaDB": [
@@ -21033,8 +21029,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "graph",
-        "tkWidgets"
+        "graph"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -21080,7 +21075,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
