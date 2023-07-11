@@ -3757,7 +3757,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "methylscaper": [],
     "MethylSeekR": [
         "AnnotationDbi",
         "BSgenome",
