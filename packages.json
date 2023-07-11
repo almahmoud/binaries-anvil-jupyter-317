@@ -4929,7 +4929,6 @@
     ],
     "flowMerge": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
         "flowWorkspace",
