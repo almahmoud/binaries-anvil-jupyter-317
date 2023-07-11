@@ -4655,7 +4655,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "procoil": [],
     "profileplyr": [
         "AnnotationDbi",
         "ChIPseeker",
