@@ -2421,7 +2421,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "FeatSeekR": [],
     "FELLA": [],
     "ffpe": [
         "AnnotationDbi",
