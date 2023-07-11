@@ -136,7 +136,7 @@ packaged installation of ‘illuminaio’ as ‘illuminaio_0.42.0_R_x86_64-pc-li
 * DONE (illuminaio)
 
 The downloaded source packages are in
-	‘/tmp/RtmpM1p1t0/downloaded_packages’
+	‘/tmp/RtmpiRhi37/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -147,9 +147,9 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m21.764s
-user	0m17.217s
-sys	0m3.164s
+real	0m21.027s
+user	0m17.387s
+sys	0m3.449s
 * installing *source* package ‘IlluminaDataTestFiles’ ...
 ** using staged installation
 ** inst
