@@ -6375,7 +6375,6 @@
     ],
     "ssPATHS": [],
     "ssviz": [],
-    "stageR": [],
     "standR": [
         "AnnotationDbi",
         "DropletUtils",
