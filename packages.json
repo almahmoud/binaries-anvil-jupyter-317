@@ -1198,7 +1198,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
@@ -18389,7 +18388,6 @@
         "zlibbioc"
     ],
     "pengls": [],
-    "PepsNMR": [],
     "pepStat": [
         "Biobase",
         "GenomeInfoDb",
