@@ -7400,7 +7400,6 @@
     ],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
