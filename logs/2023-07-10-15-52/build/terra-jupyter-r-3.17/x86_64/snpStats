@@ -128,7 +128,7 @@ packaged installation of ‘snpStats’ as ‘snpStats_1.50.0_R_x86_64-pc-linux-
 * DONE (snpStats)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpxo3bmj/downloaded_packages’
+	‘/tmp/Rtmp8cHfWm/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -139,6 +139,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m27.166s
-user	0m23.181s
-sys	0m2.464s
+real	0m25.537s
+user	0m21.382s
+sys	0m1.936s
