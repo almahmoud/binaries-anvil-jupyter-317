@@ -7474,14 +7474,12 @@
         "XVector",
         "rtracklayer"
     ],
-    "Maaslin2": [],
     "Macarron": [
         "AnnotationDbi",
         "Biostrings",
         "DelayedArray",
         "GenomicRanges",
         "KEGGREST",
-        "Maaslin2",
         "SummarizedExperiment",
         "XVector"
     ],
@@ -8707,9 +8705,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [],
     "moanin": [
         "AnnotationDbi",
