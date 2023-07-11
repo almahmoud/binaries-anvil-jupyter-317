@@ -6412,7 +6412,6 @@
         "TrajectoryUtils"
     ],
     "tscR": [],
-    "TTMap": [],
     "TVTB": [
         "AnnotationDbi",
         "BSgenome",
