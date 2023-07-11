@@ -2741,7 +2741,6 @@
         "GeomxTools"
     ],
     "GeomxTools": [],
-    "GeoTcgaData": [],
     "gep2pep": [
         "AnnotationDbi",
         "GSEABase",
