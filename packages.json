@@ -3110,7 +3110,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "ImmuneSpaceR": [],
     "infercnv": [],
     "InPAS": [
         "AnnotationDbi",
