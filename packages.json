@@ -16391,7 +16391,6 @@
         "BiocGenerics",
         "S4Vectors"
     ],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "Biobase",
