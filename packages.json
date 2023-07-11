@@ -519,7 +519,6 @@
         "rtracklayer",
         "wateRmelon"
     ],
-    "bigPint": [],
     "BindingSiteFinder": [
         "AnnotationDbi",
         "BSgenome",
