@@ -165,7 +165,7 @@ packaged installation of ‘GEOquery’ as ‘GEOquery_2.68.0_R_x86_64-pc-linux-
 * DONE (GEOquery)
 
 The downloaded source packages are in
-	‘/tmp/RtmpmAxayp/downloaded_packages’
+	‘/tmp/RtmphVFo6v/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -176,6 +176,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m32.456s
-user	0m27.388s
-sys	0m3.670s
+real	0m35.739s
+user	0m30.819s
+sys	0m4.198s
