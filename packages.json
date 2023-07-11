@@ -3123,7 +3123,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biostrings",
