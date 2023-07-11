@@ -552,7 +552,7 @@ packaged installation of ‘survcomp’ as ‘survcomp_1.50.0_R_x86_64-pc-linux-
 * DONE (survcomp)
 
 The downloaded source packages are in
-	‘/tmp/RtmpmPzCs3/downloaded_packages’
+	‘/tmp/RtmpFuArv4/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -563,6 +563,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	2m21.335s
-user	2m10.712s
-sys	0m16.044s
+real	1m52.264s
+user	1m44.263s
+sys	0m11.401s
