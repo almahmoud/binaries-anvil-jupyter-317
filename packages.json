@@ -1649,7 +1649,6 @@
         "RBGL"
     ],
     "biodbExpasy": [],
-    "biodbNcbi": [],
     "biodbUniprot": [],
     "biomaRt": [
         "AnnotationDbi",
