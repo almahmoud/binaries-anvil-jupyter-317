@@ -90,17 +90,17 @@ packaged installation of ‘SPIA’ as ‘SPIA_2.52.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (SPIA)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp9ktwPw/downloaded_packages’
+	‘/tmp/RtmpkIuOgt/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
   'googledrive', 'googlesheets4', 'haven', 'igraph', 'IRanges', 'jsonlite',
-  'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics', 'pbapply', 'pkgbuild',
-  'pkgload', 'processx', 'Rcpp', 'RcppAnnoy', 'RcppArmadillo', 'readxl',
-  'reticulate', 'rmarkdown', 'rstudioapi', 'scattermore', 'Seurat', 'shiny',
-  'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
-  'usethis', 'uwot', 'vctrs', 'xml2'
+  'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics', 'mgcv', 'pbapply',
+  'pkgbuild', 'pkgload', 'processx', 'Rcpp', 'RcppAnnoy', 'RcppArmadillo',
+  'readxl', 'reticulate', 'rmarkdown', 'rstudioapi', 'scattermore', 'Seurat',
+  'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse',
+  'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	4m50.452s
-user	4m42.203s
-sys	0m5.914s
+real	5m18.017s
+user	5m11.177s
+sys	0m5.485s
