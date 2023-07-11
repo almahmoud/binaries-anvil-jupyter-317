@@ -3007,7 +3007,6 @@
         "rtracklayer"
     ],
     "HTSFilter": [],
-    "HumanTranscriptomeCompendium": [],
     "iasva": [],
     "icetea": [
         "AnnotationDbi",
