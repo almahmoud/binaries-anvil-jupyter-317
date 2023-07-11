@@ -34,7 +34,7 @@ packaged installation of ‘densvis’ as ‘densvis_1.10.2_R_x86_64-pc-linux-gn
 * DONE (densvis)
 
 The downloaded source packages are in
-	‘/tmp/RtmpsHkJmC/downloaded_packages’
+	‘/tmp/RtmpbRJCNB/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -45,6 +45,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m31.726s
-user	0m27.583s
-sys	0m2.415s
+real	0m27.816s
+user	0m23.826s
+sys	0m2.073s
