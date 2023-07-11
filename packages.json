@@ -11765,7 +11765,6 @@
         "affy",
         "mzR",
         "pcaMethods",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -11774,7 +11773,6 @@
         "affy",
         "mzR",
         "pcaMethods",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -14086,7 +14084,6 @@
         "genefilter"
     ],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "CGHcall",
