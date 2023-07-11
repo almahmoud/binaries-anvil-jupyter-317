@@ -11601,7 +11601,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "sscore": [],
     "sscu": [
         "Biostrings"
     ],
