@@ -3704,7 +3704,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "geneRxCluster": [],
     "GENESIS": [
         "SeqArray",
         "SeqVarTools"
