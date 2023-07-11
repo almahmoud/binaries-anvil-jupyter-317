@@ -4497,7 +4497,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "AnnotationDbi",
         "AnnotationHub",
