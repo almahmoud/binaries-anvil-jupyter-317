@@ -1282,7 +1282,6 @@
         "exomeCopy"
     ],
     "CNVRanger": [
-        "GDSArray",
         "RaggedExperiment"
     ],
     "CNVrd2": [
@@ -2553,7 +2552,6 @@
         "enrichplot",
         "pathview"
     ],
-    "GDSArray": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
@@ -6623,9 +6621,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "AnnotationDbi",
         "AnnotationHub",
