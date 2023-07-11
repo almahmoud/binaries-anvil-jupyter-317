@@ -7138,7 +7138,6 @@
     ],
     "GENESIS": [
         "Biostrings",
-        "GWASTools",
         "GenomeInfoDb",
         "GenomicRanges",
         "SeqArray",
@@ -8058,13 +8057,11 @@
         "rtracklayer",
         "snpStats"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
         "DelayedArray",
-        "GWASTools",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9654,7 +9651,6 @@
     "mBPCR": [
         "Biostrings",
         "DelayedArray",
-        "GWASTools",
         "GenomeInfoDb",
         "GenomicRanges",
         "S4Arrays",
