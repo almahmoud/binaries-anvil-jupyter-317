@@ -2016,7 +2016,6 @@
         "GOstats",
         "GSEABase",
         "KEGGREST",
-        "RCy3",
         "XVector",
         "annotate",
         "genefilter"
@@ -2268,7 +2267,6 @@
         "GOSemSim",
         "GenomicRanges",
         "KEGGREST",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -4088,8 +4086,7 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "DESeq2",
@@ -5616,9 +5613,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [
         "Biostrings",
         "KEGGREST",
@@ -8537,7 +8532,6 @@
         "DOSE",
         "GOSemSim",
         "KEGGREST",
-        "RCy3",
         "XVector",
         "clusterProfiler",
         "enrichplot"
@@ -9314,9 +9308,7 @@
         "HDF5Array",
         "S4Arrays"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
@@ -10033,8 +10025,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "ncRNAtools": [
         "GenomicRanges",
@@ -10144,7 +10135,6 @@
         "GenomicRanges",
         "HDF5Array",
         "KEGGREST",
-        "RCy3",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -11913,7 +11903,6 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCy3": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
@@ -12114,7 +12103,6 @@
         "GenomicRanges",
         "Gviz",
         "KEGGREST",
-        "RCy3",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -15453,7 +15441,6 @@
         "GenomicRanges",
         "KEGGREST",
         "MultiAssayExperiment",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -15691,7 +15678,6 @@
     "transomics2cytoscape": [
         "Biostrings",
         "KEGGREST",
-        "RCy3",
         "XVector"
     ],
     "TransView": [
