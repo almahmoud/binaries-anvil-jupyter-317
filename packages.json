@@ -5702,7 +5702,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "decoupleR",
         "graph",
         "zlibbioc"
     ],
@@ -6764,7 +6763,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "Biobase",
         "BiocIO",
@@ -7896,7 +7894,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "decoupleR",
         "interactiveDisplayBase",
         "progeny",
         "quantiseqr",
@@ -19220,8 +19217,7 @@
     ],
     "profileScoreDist": [],
     "progeny": [
-        "Biobase",
-        "decoupleR"
+        "Biobase"
     ],
     "projectR": [
         "AnnotationDbi",
