@@ -3058,7 +3058,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "IgGeneUsage": [],
     "igvR": [
         "AnnotationDbi",
         "BSgenome",
