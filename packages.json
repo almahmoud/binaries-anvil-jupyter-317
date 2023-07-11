@@ -24154,7 +24154,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
