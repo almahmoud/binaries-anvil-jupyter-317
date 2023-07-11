@@ -10028,7 +10028,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "Rnits": [],
     "roar": [
         "Biostrings",
         "GenomicAlignments",
