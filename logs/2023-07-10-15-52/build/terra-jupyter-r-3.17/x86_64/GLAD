@@ -205,7 +205,7 @@ packaged installation of ‘GLAD’ as ‘GLAD_2.64.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (GLAD)
 
 The downloaded source packages are in
-	‘/tmp/RtmpyFw1Z7/downloaded_packages’
+	‘/tmp/RtmpOu0EI1/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -216,6 +216,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
   'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m41.543s
-user	0m35.951s
-sys	0m4.354s
+real	0m41.378s
+user	0m35.481s
+sys	0m4.022s
