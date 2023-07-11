@@ -1429,7 +1429,6 @@
         "KEGGREST",
         "MAST",
         "MultiAssayExperiment",
-        "NOISeq",
         "S4Arrays",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -3627,7 +3626,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NOISeq",
         "Rhtslib",
         "Rsamtools",
         "XVector",
@@ -10469,9 +10467,7 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "MetaVolcanoR": [
         "multtest"
     ],
@@ -12511,7 +12507,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy"
