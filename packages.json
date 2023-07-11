@@ -18460,7 +18460,6 @@
         "graph",
         "zlibbioc"
     ],
-    "pgca": [],
     "phantasus": [
         "AnnotationDbi",
         "Biobase",
