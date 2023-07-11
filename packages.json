@@ -5635,7 +5635,6 @@
     "safe": [
         "AnnotationDbi"
     ],
-    "SAIGEgds": [],
     "sampleClassifier": [
         "AnnotationDbi",
         "MGFM",
