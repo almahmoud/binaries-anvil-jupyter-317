@@ -1785,7 +1785,6 @@
         "scater",
         "scuttle"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
         "SingleCellExperiment",
