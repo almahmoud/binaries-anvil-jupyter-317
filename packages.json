@@ -16738,7 +16738,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "subSeq": [],
     "SummarizedBenchmark": [
         "DelayedArray",
         "GenomeInfoDb",
