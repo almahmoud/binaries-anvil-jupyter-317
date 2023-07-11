@@ -4979,7 +4979,6 @@
         "Biostrings",
         "NanoStringNCTools"
     ],
-    "GEOsubmission": [],
     "GeoTcgaData": [
         "GenomicRanges",
         "SummarizedExperiment"
