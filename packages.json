@@ -16035,8 +16035,7 @@
         "IRanges",
         "MsCoreUtils",
         "S4Vectors",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "IRanges",
@@ -20043,7 +20042,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "graph"
