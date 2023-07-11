@@ -17812,7 +17812,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "OmnipathR": [],
     "ompBAM": [
         "zlibbioc"
     ],
@@ -27735,9 +27734,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "Wrench": [],
     "xcms": [
         "Biobase",
