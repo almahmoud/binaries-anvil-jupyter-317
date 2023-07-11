@@ -6003,7 +6003,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "DeepPINCS": [],
     "deepSNV": [
         "AnnotationDbi",
         "BSgenome",
@@ -9350,9 +9349,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GenVisR": [
         "AnnotationDbi",
         "BSgenome",
@@ -23894,7 +23891,6 @@
     "VAExprs": [
         "BiocNeighbors",
         "BiocSingular",
-        "DeepPINCS",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
