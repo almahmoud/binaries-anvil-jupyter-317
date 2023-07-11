@@ -1414,8 +1414,7 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -4238,9 +4237,7 @@
     ],
     "MEIGOR": [],
     "Melissa": [],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "MeSHDbi": [
         "AnnotationDbi",
         "KEGGREST"
@@ -7961,7 +7958,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "uSORT": [],
     "VAExprs": [
         "BiocSingular",
