@@ -1713,7 +1713,6 @@
         "monocle",
         "rtracklayer"
     ],
-    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "AnnotationDbi",
