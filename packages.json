@@ -6318,7 +6318,6 @@
     "SubCellBarCode": [
         "AnnotationDbi"
     ],
-    "SummarizedBenchmark": [],
     "surfaltr": [
         "AnnotationDbi",
         "biomaRt"
