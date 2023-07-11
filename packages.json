@@ -1989,8 +1989,7 @@
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
-        "ExperimentHub",
-        "quantiseqr"
+        "ExperimentHub"
     ],
     "EasyCellType": [
         "AnnotationDbi",
@@ -4811,7 +4810,6 @@
         "genefilter",
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "AnnotationDbi",
         "GenomicAlignments",
