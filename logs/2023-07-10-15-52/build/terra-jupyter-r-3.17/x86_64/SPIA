@@ -28,7 +28,7 @@ packaged installation of ‘SPIA’ as ‘SPIA_2.52.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (SPIA)
 
 The downloaded source packages are in
-	‘/tmp/RtmpBeTpSJ/downloaded_packages’
+	‘/tmp/Rtmpo2Q6bK/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -39,6 +39,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m9.037s
-user	0m5.973s
-sys	0m0.659s
+real	0m7.890s
+user	0m6.440s
+sys	0m0.904s
