@@ -149,7 +149,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "BSgenome",
@@ -472,7 +471,6 @@
     ],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
         "MAST",
@@ -3707,7 +3705,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "TreeSummarizedExperiment",
         "mia",
@@ -4299,9 +4296,7 @@
         "topGO"
     ],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
         "annotate",
