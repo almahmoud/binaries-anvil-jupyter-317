@@ -2945,7 +2945,6 @@
         "rtracklayer"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "SingleCellExperiment",
