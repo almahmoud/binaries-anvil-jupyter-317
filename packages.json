@@ -11435,9 +11435,7 @@
         "affy",
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "Biostrings",
         "DelayedArray",
@@ -13384,7 +13382,6 @@
         "enrichplot",
         "graphite"
     ],
-    "ReadqPCR": [],
     "rebook": [],
     "receptLoss": [
         "DelayedArray",
