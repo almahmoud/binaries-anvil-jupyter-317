@@ -15942,7 +15942,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "pepStat": [
         "GenomeInfoDb",
         "GenomicRanges",
