@@ -4649,7 +4649,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PrInCE": [],
     "proActiv": [
         "AnnotationDbi",
         "GenomicAlignments",
