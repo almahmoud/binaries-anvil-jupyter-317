@@ -5288,7 +5288,6 @@
         "enrichplot",
         "graphite"
     ],
-    "receptLoss": [],
     "recount": [
         "AnnotationDbi",
         "BSgenome",
