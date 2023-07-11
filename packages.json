@@ -3278,7 +3278,6 @@
         "beachmat",
         "scuttle"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "DelayedArray",
         "flowClust",
