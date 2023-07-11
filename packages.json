@@ -2817,7 +2817,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "Rsamtools",
-        "Structstrings",
         "biomaRt",
         "rtracklayer",
         "tRNA",
@@ -7968,7 +7967,6 @@
         "rtracklayer"
     ],
     "struct": [],
-    "Structstrings": [],
     "structToolbox": [
         "struct"
     ],
@@ -8386,18 +8384,14 @@
         "sva"
     ],
     "triplex": [],
-    "tRNA": [
-        "Structstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
-        "Structstrings",
         "rtracklayer",
         "tRNA"
     ],
