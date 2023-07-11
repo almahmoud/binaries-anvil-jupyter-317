@@ -16375,7 +16375,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "SpeCond": [],
     "Spectra": [],
     "SpectralTAD": [
         "DelayedArray",
