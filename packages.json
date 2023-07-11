@@ -18829,7 +18829,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pmm": [],
     "pmp": [
         "Biobase",
         "DelayedArray",
