@@ -870,7 +870,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "annotate",
         "biomaRt",
@@ -888,7 +887,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
@@ -1274,9 +1272,7 @@
     "CNVPanelizer": [
         "exomeCopy"
     ],
-    "CNVRanger": [
-        "RaggedExperiment"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "AnnotationDbi",
         "BSgenome",
@@ -1352,7 +1348,6 @@
     ],
     "compartmap": [
         "GenomicAlignments",
-        "RaggedExperiment",
         "rtracklayer"
     ],
     "compEpiTools": [
@@ -4315,9 +4310,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "OncoScore": [
         "AnnotationDbi",
         "biomaRt"
@@ -4848,7 +4841,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RaggedExperiment": [],
     "ramwas": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -5352,7 +5344,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
@@ -6211,7 +6202,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RaggedExperiment",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6241,7 +6231,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
