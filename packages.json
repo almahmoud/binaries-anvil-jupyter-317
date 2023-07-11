@@ -3735,7 +3735,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "GenomAutomorphism": [],
     "genomeIntervals": [],
     "GenomicAlignments": [
         "Rsamtools",
