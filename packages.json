@@ -15,8 +15,7 @@
         "genefilter"
     ],
     "ACE": [
-        "QDNAseq",
-        "Rsamtools"
+        "QDNAseq"
     ],
     "ADaCGH2": [
         "AnnotationDbi",
@@ -65,7 +64,6 @@
         "KEGGREST",
         "OrganismDbi",
         "ReportingTools",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -106,7 +104,6 @@
         "KEGGREST",
         "OrganismDbi",
         "ReportingTools",
-        "Rsamtools",
         "VariantAnnotation",
         "affycoretools",
         "annotate",
@@ -127,7 +124,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -146,7 +142,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "SingleCellExperiment",
         "SpatialExperiment",
         "VariantAnnotation",
@@ -197,7 +192,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -214,7 +208,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -226,7 +219,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -239,7 +231,6 @@
     ],
     "amplican": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "Anaquin": [
@@ -255,8 +246,7 @@
         "scuttle"
     ],
     "AneuFinder": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "animalcules": [
         "DESeq2",
@@ -269,7 +259,6 @@
     "annmap": [
         "AnnotationDbi",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "genefilter"
     ],
@@ -296,7 +285,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -307,7 +295,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "regioneR",
         "rtracklayer"
@@ -322,7 +309,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -347,7 +333,6 @@
         "GenomicScores",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -361,7 +346,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -395,7 +379,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -422,7 +405,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "SingleCellExperiment",
         "TFBSTools",
         "annotate",
@@ -444,7 +426,6 @@
         "GenomicScores",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "biomaRt",
@@ -459,7 +440,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -469,8 +449,7 @@
         "AnnotationDbi",
         "AnnotationHub",
         "GenomicAlignments",
-        "KEGGREST",
-        "Rsamtools"
+        "KEGGREST"
     ],
     "atSNP": [
         "AnnotationDbi",
@@ -478,7 +457,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "motifStack",
@@ -505,8 +483,7 @@
     ],
     "awst": [],
     "BaalChIP": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "BadRegionFinder": [
         "AnnotationDbi",
@@ -514,7 +491,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -523,7 +499,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "genefilter",
         "rtracklayer",
@@ -535,7 +510,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -552,13 +526,11 @@
     "barcodetrackR": [],
     "basecallQC": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "Basic4Cseq": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "BASiCS": [
@@ -576,8 +548,7 @@
         "scuttle"
     ],
     "BasicSTARRseq": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "batchelor": [
         "BiocSingular",
@@ -607,7 +578,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -623,7 +593,6 @@
     "BEAT": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead",
         "rtracklayer"
     ],
@@ -653,7 +622,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -675,7 +643,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -694,7 +661,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -731,7 +697,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -795,7 +760,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "ensembldb",
@@ -811,7 +775,6 @@
         "KEGGREST",
         "OrganismDbi",
         "QDNAseq",
-        "Rsamtools",
         "VariantAnnotation",
         "annotatr",
         "biomaRt",
@@ -825,7 +788,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "globaltest",
         "rtracklayer"
@@ -835,7 +797,6 @@
         "DESeq2",
         "DEXSeq",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -879,7 +840,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -892,7 +852,6 @@
         "BSgenome",
         "DSS",
         "GenomicAlignments",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -905,7 +864,6 @@
         "GenomicFiles",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -921,35 +879,29 @@
         "BSgenome",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "breakpointR": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "BRGenomics": [
         "DESeq2",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "BSgenome": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "BSgenomeForge": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "bsseq": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "BubbleTree": [
@@ -958,7 +910,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -971,7 +922,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -982,7 +932,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "plyranges",
@@ -999,7 +948,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -1018,7 +966,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1033,7 +980,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -1056,7 +1002,6 @@
         "InteractionSet",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1083,7 +1028,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -1093,7 +1037,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -1128,7 +1071,6 @@
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rsamtools",
         "TCGAutils",
         "annotate",
         "biomaRt",
@@ -1151,7 +1093,6 @@
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rsamtools",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
@@ -1194,12 +1135,9 @@
     ],
     "CellBarcode": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
-    "cellbaseR": [
-        "Rsamtools"
-    ],
+    "cellbaseR": [],
     "CellBench": [
         "SingleCellExperiment"
     ],
@@ -1261,7 +1199,6 @@
     "CexoR": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "genomation",
         "rtracklayer",
         "seqPattern"
@@ -1269,7 +1206,6 @@
     "cfDNAPro": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "plyranges",
         "rtracklayer"
     ],
@@ -1291,7 +1227,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -1313,9 +1248,7 @@
     "CHETAH": [
         "SingleCellExperiment"
     ],
-    "ChIC": [
-        "Rsamtools"
-    ],
+    "ChIC": [],
     "chihaya": [],
     "chimeraviz": [
         "AnnotationDbi",
@@ -1324,7 +1257,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1334,20 +1266,17 @@
     "ChIPanalyser": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "ChIPComp": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "chipenrich": [
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "rtracklayer"
     ],
     "ChIPexoQual": [
@@ -1356,7 +1285,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1370,7 +1298,6 @@
         "GenomicFeatures",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -1385,7 +1312,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "apeglm",
         "biomaRt",
@@ -1400,24 +1326,20 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "enrichplot",
         "rtracklayer"
     ],
     "chipseq": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "ChIPseqR": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "ChIPsim": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "ChIPXpress": [
@@ -1429,7 +1351,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "rtracklayer"
     ],
@@ -1441,7 +1362,6 @@
     "ChromSCape": [
         "BiocSingular",
         "GenomicAlignments",
-        "Rsamtools",
         "SingleCellExperiment",
         "batchelor",
         "rtracklayer",
@@ -1450,12 +1370,10 @@
         "scuttle"
     ],
     "chromstaR": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "chromswitch": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "chromVAR": [
@@ -1464,7 +1382,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -1481,7 +1398,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1496,7 +1412,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
@@ -1510,7 +1425,6 @@
         "KEGGREST",
         "Rbowtie2",
         "Rhisat2",
-        "Rsamtools",
         "SGSeq",
         "ShortRead",
         "biomaRt",
@@ -1532,7 +1446,6 @@
     "cleanUpdTSeq": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "clipper": [
@@ -1540,7 +1453,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "qpgraph",
@@ -1549,7 +1461,6 @@
     "cliProfiler": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "cliqueMS": [
@@ -1583,14 +1494,12 @@
         "oligoClasses"
     ],
     "cn.mops": [
-        "Rsamtools",
         "exomeCopy"
     ],
     "CNEr": [
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "rtracklayer"
     ],
@@ -1607,7 +1516,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1625,7 +1533,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1637,7 +1544,6 @@
         "rtracklayer"
     ],
     "CNVPanelizer": [
-        "Rsamtools",
         "exomeCopy"
     ],
     "CNVRanger": [
@@ -1650,7 +1556,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -1663,7 +1568,6 @@
         "BSgenome",
         "GenomicAlignments",
         "MIRA",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -1675,7 +1579,6 @@
     "CODEX": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "CoGAPS": [
@@ -1690,7 +1593,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -1701,7 +1603,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1716,7 +1617,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1730,7 +1630,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "bumphunter",
         "rtracklayer"
@@ -1739,7 +1638,6 @@
         "BiocSingular",
         "GenomicAlignments",
         "RaggedExperiment",
-        "Rsamtools",
         "rtracklayer"
     ],
     "compEpiTools": [
@@ -1749,7 +1647,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1776,7 +1673,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RUVSeq",
-        "Rsamtools",
         "ShortRead",
         "biomaRt",
         "ensembldb",
@@ -1795,7 +1691,6 @@
     ],
     "consensusSeekeR": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "consICA": [
@@ -1810,7 +1705,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "exomeCopy",
@@ -1821,7 +1715,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -1835,7 +1728,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1883,7 +1775,6 @@
     ],
     "CoverageView": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "covRNA": [
@@ -1898,7 +1789,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "rtracklayer"
@@ -1907,14 +1797,12 @@
     "crisprBowtie": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "crisprBase",
         "rtracklayer"
     ],
     "crisprBwa": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "crisprBase",
         "rtracklayer"
     ],
@@ -1926,7 +1814,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "crisprBase",
@@ -1943,7 +1830,6 @@
     "CRISPRseek": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "crisprseekplus": [
@@ -1956,7 +1842,6 @@
         "GenomicFeatures",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -1965,8 +1850,7 @@
     "CrispRVariants": [
         "AnnotationDbi",
         "GenomicAlignments",
-        "KEGGREST",
-        "Rsamtools"
+        "KEGGREST"
     ],
     "crisprVerse": [
         "AnnotationDbi",
@@ -1977,7 +1861,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1998,7 +1881,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2021,9 +1903,7 @@
         "oligoClasses",
         "sva"
     ],
-    "csaw": [
-        "Rsamtools"
-    ],
+    "csaw": [],
     "csdR": [
         "AnnotationDbi",
         "KEGGREST"
@@ -2033,7 +1913,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2061,7 +1940,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2079,7 +1957,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2124,7 +2001,6 @@
     ],
     "dada2": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "dagLogo": [
@@ -2133,7 +2009,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "UniProt.ws",
         "annotate",
@@ -2147,7 +2022,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -2160,7 +2034,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -2174,7 +2047,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "plyranges",
         "rtracklayer"
@@ -2208,7 +2080,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2218,7 +2089,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -2229,7 +2099,6 @@
     ],
     "DeepBlueR": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "deepSNV": [
@@ -2238,7 +2107,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2251,7 +2119,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2274,7 +2141,6 @@
         "DSS",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "bsseq",
         "genefilter",
@@ -2289,7 +2155,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -2303,7 +2168,6 @@
         "GenomicFiles",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2321,7 +2185,6 @@
         "GenomicFeatures",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -2354,7 +2217,6 @@
         "AnnotationDbi",
         "DESeq2",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -2365,7 +2227,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GreyListChIP",
-        "Rsamtools",
         "ShortRead",
         "apeglm",
         "rtracklayer",
@@ -2384,7 +2245,6 @@
         "BSgenome",
         "GenomicAlignments",
         "InteractionSet",
-        "Rsamtools",
         "csaw",
         "rtracklayer"
     ],
@@ -2395,7 +2255,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "ensembldb",
@@ -2422,12 +2281,10 @@
     "divergence": [],
     "DMCFB": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "DMCHMM": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "DMRcate": [
@@ -2440,7 +2297,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -2461,7 +2317,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -2475,7 +2330,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotatr",
         "biomaRt",
         "bsseq",
@@ -2488,7 +2342,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2498,7 +2351,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2518,14 +2370,12 @@
     "doseR": [],
     "doubletrouble": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer",
         "syntenet"
     ],
     "dpeak": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "DropletUtils": [
@@ -2537,7 +2387,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "UniProt.ws",
         "biomaRt",
         "ensembldb",
@@ -2555,7 +2404,6 @@
     "DSS": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -2580,7 +2428,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "biomaRt"
     ],
@@ -2592,7 +2439,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "biomaRt",
         "rtracklayer"
@@ -2640,7 +2486,6 @@
         "Gviz",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "TCGAbiolinks",
         "VariantAnnotation",
         "biomaRt",
@@ -2654,7 +2499,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -2667,7 +2511,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -2699,7 +2542,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "clusterProfiler",
@@ -2713,7 +2555,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2723,7 +2564,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2734,7 +2574,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2751,7 +2590,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "enrichplot",
         "genomation",
@@ -2760,20 +2598,17 @@
     ],
     "epidecodeR": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "epigenomix": [
         "AnnotationDbi",
         "KEGGREST",
-        "Rsamtools",
         "beadarray"
     ],
     "epigraHMM": [
         "BSgenome",
         "GenomicAlignments",
         "GreyListChIP",
-        "Rsamtools",
         "csaw",
         "rtracklayer"
     ],
@@ -2784,7 +2619,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2798,7 +2632,6 @@
         "Gviz",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -2815,7 +2648,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer",
         "tRNA",
@@ -2827,7 +2659,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "bumphunter",
         "ensembldb",
@@ -2840,7 +2671,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "epivizrData",
@@ -2852,7 +2682,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -2863,7 +2692,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "bumphunter",
         "ensembldb",
@@ -2879,7 +2707,6 @@
         "GenomicFiles",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -2898,7 +2725,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "Rbowtie2",
-        "Rsamtools",
         "ShortRead",
         "TFBSTools",
         "annotate",
@@ -2927,7 +2753,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "SingleCellExperiment",
         "SpatialExperiment",
         "rtracklayer",
@@ -2939,9 +2764,7 @@
         "KEGGREST",
         "MLP"
     ],
-    "eudysbiome": [
-        "Rsamtools"
-    ],
+    "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment"
     ],
@@ -2951,7 +2774,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "SGSeq",
         "biomaRt",
         "rtracklayer"
@@ -2965,12 +2787,9 @@
     ],
     "ExCluster": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
-    "exomeCopy": [
-        "Rsamtools"
-    ],
+    "exomeCopy": [],
     "exomePeak2": [
         "AnnotationDbi",
         "BSgenome",
@@ -2978,7 +2797,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -2997,7 +2815,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3018,7 +2835,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3031,7 +2847,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer",
         "wiggleplotr"
@@ -3051,14 +2866,12 @@
     ],
     "FastqCleaner": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "FCBF": [],
     "fCCAC": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "genomation",
         "rtracklayer",
         "seqPattern"
@@ -3079,7 +2892,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3099,7 +2911,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -3109,16 +2920,13 @@
         "minfi",
         "rtracklayer"
     ],
-    "FilterFFPE": [
-        "Rsamtools"
-    ],
+    "FilterFFPE": [],
     "FindIT2": [
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3140,7 +2948,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "Rsamtools",
         "SingleCellExperiment",
         "VariantAnnotation",
         "bambu",
@@ -3177,7 +2984,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OUTRIDER",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3186,15 +2992,13 @@
         "oligoClasses"
     ],
     "FunChIP": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "funtooNorm": [
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -3209,7 +3013,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3221,7 +3024,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3239,7 +3041,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MLSeq",
-        "Rsamtools",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -3251,7 +3052,6 @@
     "gcapc": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "gCrisprTools": [],
@@ -3274,7 +3074,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3284,13 +3083,11 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "GeneBreak": [
-        "QDNAseq",
-        "Rsamtools"
+        "QDNAseq"
     ],
     "genefilter": [
         "AnnotationDbi",
@@ -3302,9 +3099,7 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "GeneGeneInteR": [
-        "Rsamtools"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [
         "AnnotationDbi",
         "KEGGREST",
@@ -3326,7 +3121,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3342,24 +3136,19 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "rtracklayer"
     ],
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer",
         "seqPattern"
     ],
-    "GenomicAlignments": [
-        "Rsamtools"
-    ],
+    "GenomicAlignments": [],
     "GenomicFeatures": [
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3369,7 +3158,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3380,7 +3168,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3392,7 +3179,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3406,7 +3192,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3426,7 +3211,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3460,7 +3244,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3478,7 +3261,6 @@
     ],
     "girafe": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "GISPA": [
@@ -3518,7 +3300,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3538,7 +3319,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3570,7 +3350,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3606,7 +3385,6 @@
     "GOTHiC": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead",
         "rtracklayer"
     ],
@@ -3621,7 +3399,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer",
@@ -3635,13 +3412,11 @@
     "GreyListChIP": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "GRmetrics": [],
     "groHMM": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "gscreend": [],
@@ -3674,7 +3449,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3702,7 +3476,6 @@
         "GenomicFeatures",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -3713,7 +3486,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3723,7 +3495,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3737,7 +3508,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3748,7 +3518,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3757,9 +3526,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "h5vc": [
-        "Rsamtools"
-    ],
+    "h5vc": [],
     "Harshlight": [],
     "HelloRanges": [
         "AnnotationDbi",
@@ -3767,7 +3534,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3782,7 +3548,6 @@
     "hiAnnotator": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "HiCBricks": [],
@@ -3798,7 +3563,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3827,7 +3591,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3843,13 +3606,11 @@
     "hiReadsProcessor": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "hiAnnotator",
         "rtracklayer"
     ],
     "HiTC": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "hpar": [
@@ -3864,7 +3625,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "VariantTools",
@@ -3886,7 +3646,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -3898,7 +3657,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -3912,7 +3670,6 @@
         "BSgenome",
         "CODEX",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "ideal": [
@@ -3925,7 +3682,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -3936,7 +3692,6 @@
     ],
     "IdeoViz": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "idiogram": [
@@ -3952,7 +3707,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -3966,7 +3720,6 @@
         "GenomicFeatures",
         "IVAS",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3988,7 +3741,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "cleanUpdTSeq",
         "plyranges",
@@ -4000,14 +3752,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "InTAD": [
         "GenomicAlignments",
         "MultiAssayExperiment",
-        "Rsamtools",
         "rtracklayer"
     ],
     "intansv": [
@@ -4017,7 +3767,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4048,7 +3797,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -4060,7 +3808,6 @@
     "IntOMICS": [],
     "IONiseR": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "ipdDb": [
@@ -4121,7 +3868,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "ensembldb",
@@ -4148,7 +3894,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -4159,7 +3904,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4173,7 +3917,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "plyranges",
@@ -4193,7 +3936,6 @@
         "DESeq2",
         "DSS",
         "GenomicAlignments",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -4219,7 +3961,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -4267,7 +4008,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4284,7 +4024,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "rtracklayer"
     ],
     "Macarron": [
@@ -4309,7 +4048,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -4320,7 +4058,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RnBeads",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4348,7 +4085,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "TRESS",
         "biomaRt",
         "rtracklayer"
@@ -4366,7 +4102,6 @@
     "mariner": [
         "GenomicAlignments",
         "InteractionSet",
-        "Rsamtools",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -4379,7 +4114,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4412,7 +4146,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -4448,7 +4181,6 @@
         "Gviz",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4456,8 +4188,7 @@
         "rtracklayer"
     ],
     "MDTS": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "MEAL": [
         "AnnotationDbi",
@@ -4467,7 +4198,6 @@
         "Gviz",
         "KEGGREST",
         "MultiDataSet",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -4486,7 +4216,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4508,7 +4237,6 @@
         "BSgenome",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -4564,7 +4292,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MWASTools",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "hpar",
@@ -4576,14 +4303,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
     "metagene2": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "metaMS": [
@@ -4604,7 +4329,6 @@
     ],
     "methInheritSim": [
         "GenomicAlignments",
-        "Rsamtools",
         "methylKit",
         "rtracklayer"
     ],
@@ -4618,7 +4342,6 @@
     "methrix": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "MethylAid": [
@@ -4626,7 +4349,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4640,7 +4362,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bsseq",
@@ -4661,7 +4382,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4676,7 +4396,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4690,13 +4409,11 @@
     ],
     "methylInheritance": [
         "GenomicAlignments",
-        "Rsamtools",
         "methylKit",
         "rtracklayer"
     ],
     "methylKit": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "methylPipe": [
@@ -4706,7 +4423,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4719,7 +4435,6 @@
         "BSgenome",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "geneplotter",
         "rtracklayer"
@@ -4728,7 +4443,6 @@
         "BSgenome",
         "DSS",
         "GenomicAlignments",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -4737,7 +4451,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4829,7 +4542,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4844,7 +4556,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4854,7 +4565,6 @@
     "MinimumDistance": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "VanillaICE",
         "crlmm",
         "oligoClasses",
@@ -4866,7 +4576,6 @@
     "MIRA": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -4933,7 +4642,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -4951,7 +4659,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "deepSNV",
@@ -4976,7 +4683,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "VariantTools",
         "biomaRt",
@@ -4987,7 +4693,6 @@
     "MMDiff2": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "moanin": [
@@ -5027,7 +4732,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -5043,13 +4747,11 @@
         "enrichplot"
     ],
     "mosaics": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "Motif2Site": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "motifbreakR": [
@@ -5061,7 +4763,6 @@
         "Gviz",
         "KEGGREST",
         "MotifDb",
-        "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -5073,7 +4774,6 @@
     ],
     "MotifDb": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "motifmatchr": [
@@ -5082,7 +4782,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -5093,7 +4792,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -5123,7 +4821,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -5198,7 +4895,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -5255,7 +4951,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5273,7 +4968,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "decompTumor2Sig",
@@ -5285,7 +4979,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5298,7 +4991,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5308,7 +5000,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5326,7 +5017,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -5345,7 +5035,6 @@
         "BiocSingular",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "bsseq",
         "rtracklayer"
     ],
@@ -5373,7 +5062,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "plyranges",
         "rtracklayer"
@@ -5423,7 +5111,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -5447,14 +5134,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "NormalyzerDE": [],
     "normr": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "npGSEA": [
@@ -5465,13 +5150,11 @@
     ],
     "nucleR": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "nullranges": [
         "GenomicAlignments",
         "InteractionSet",
-        "Rsamtools",
         "plyranges",
         "rtracklayer"
     ],
@@ -5482,7 +5165,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "genefilter",
         "rtracklayer"
@@ -5500,7 +5182,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RUVSeq",
-        "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
         "annotate",
@@ -5514,7 +5195,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -5532,7 +5212,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -5574,7 +5253,6 @@
         "HelloRanges",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5617,7 +5295,6 @@
     "ORFhunteR": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "ORFik": [
@@ -5627,7 +5304,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5636,7 +5312,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5645,13 +5320,11 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "OTUbase": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "OUTRIDER": [
@@ -5660,7 +5333,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5672,7 +5344,6 @@
         "KEGGREST",
         "Repitools",
         "Ringo",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -5699,7 +5370,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -5711,7 +5381,6 @@
         "DESeq2",
         "DEXSeq",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -5722,7 +5391,6 @@
         "KEGGREST"
     ],
     "panelcn.mops": [
-        "Rsamtools",
         "cn.mops",
         "exomeCopy"
     ],
@@ -5738,7 +5406,6 @@
     ],
     "PAST": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -5799,7 +5466,6 @@
     "periodicDNA": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "PFP": [
@@ -5849,8 +5515,7 @@
         "topGO"
     ],
     "PICS": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "Pigengene": [
         "AnnotationDbi",
@@ -5870,7 +5535,6 @@
         "Gviz",
         "KEGGREST",
         "PICS",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -5887,7 +5551,6 @@
     "pipeFrame": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "planttfhunter": [],
@@ -5903,20 +5566,17 @@
     ],
     "plotgardener": [
         "GenomicAlignments",
-        "Rsamtools",
         "plyranges",
         "rtracklayer"
     ],
     "plyranges": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "pmp": [],
     "podkat": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "pogos": [
@@ -5940,20 +5600,17 @@
     ],
     "pram": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "prebs": [
         "GenomicAlignments",
-        "RPA",
-        "Rsamtools"
+        "RPA"
     ],
     "preciseTAD": [
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rCGH",
         "rtracklayer"
@@ -5973,7 +5630,6 @@
         "GenomicScores",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -5989,7 +5645,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5998,7 +5653,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6012,7 +5666,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "biomaRt",
         "chipseq",
@@ -6068,7 +5721,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "Rcpi",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -6079,7 +5731,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -6103,7 +5754,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -6133,7 +5783,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -6145,7 +5794,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6166,9 +5814,7 @@
         "annotate",
         "genefilter"
     ],
-    "QDNAseq": [
-        "Rsamtools"
-    ],
+    "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment"
     ],
@@ -6178,7 +5824,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "rtracklayer"
@@ -6187,7 +5832,6 @@
     "qsea": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "qsmooth": [
@@ -6210,7 +5854,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -6229,7 +5872,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -6242,7 +5884,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6252,7 +5893,6 @@
     ],
     "r3Cseq": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "R453Plus1Toolbox": [
@@ -6261,7 +5901,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -6276,7 +5915,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt"
     ],
     "RareVariantVis": [
@@ -6287,27 +5925,22 @@
         "GenomicFeatures",
         "GenomicScores",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
     ],
     "Rbec": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead",
         "dada2"
     ],
-    "Rbowtie2": [
-        "Rsamtools"
-    ],
+    "Rbowtie2": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "genomation",
         "rtracklayer",
@@ -6318,7 +5951,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6352,7 +5984,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -6361,7 +5992,6 @@
     ],
     "recount3": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "recountmethylation": [
@@ -6369,7 +5999,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -6382,7 +6011,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6395,7 +6023,6 @@
         "GenomicFeatures",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -6415,13 +6042,11 @@
     "regioneR": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "regioneReloaded": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "regioneR",
         "rtracklayer"
     ],
@@ -6434,7 +6059,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -6450,7 +6074,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6464,7 +6087,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -6478,7 +6100,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "Ringo",
-        "Rsamtools",
         "annotate",
         "genefilter",
         "rtracklayer"
@@ -6495,7 +6116,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -6508,11 +6128,9 @@
     "RepViz": [
         "AnnotationDbi",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt"
     ],
     "ReQON": [
-        "Rsamtools",
         "seqbias"
     ],
     "RESOLVE": [
@@ -6522,7 +6140,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MutationalPatterns",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -6533,13 +6150,10 @@
         "ExperimentHub",
         "KEGGREST"
     ],
-    "rfPred": [
-        "Rsamtools"
-    ],
+    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "rGenomeTracks": [
@@ -6549,7 +6163,6 @@
     ],
     "RGMQL": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "RgnTX": [
@@ -6558,7 +6171,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "regioneR",
         "rtracklayer"
@@ -6568,7 +6180,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6578,7 +6189,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "goseq",
         "rtracklayer"
@@ -6588,7 +6198,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "SGSeq",
         "biomaRt",
         "rtracklayer"
@@ -6601,7 +6210,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "ORFik",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6611,7 +6219,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6622,7 +6229,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6639,7 +6245,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RUVSeq",
-        "Rsamtools",
         "ShortRead",
         "TFBSTools",
         "annotate",
@@ -6649,12 +6254,10 @@
     ],
     "rifi": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "rifiComparative": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "Ringo": [
@@ -6669,7 +6272,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6688,7 +6290,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer",
@@ -6696,7 +6297,6 @@
     ],
     "RJMCMCNucleosomes": [
         "GenomicAlignments",
-        "Rsamtools",
         "consensusSeekeR",
         "rtracklayer"
     ],
@@ -6708,7 +6308,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "regioneR",
         "rtracklayer"
@@ -6720,14 +6319,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "apeglm",
         "biomaRt",
         "rtracklayer"
     ],
     "rmspc": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "RNAAgeCalc": [
@@ -6737,7 +6334,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -6750,7 +6346,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "bumphunter",
         "rtracklayer"
@@ -6772,7 +6367,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6787,7 +6381,6 @@
         "Gviz",
         "KEGGREST",
         "RNAmodR",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6802,7 +6395,6 @@
         "Gviz",
         "KEGGREST",
         "RNAmodR",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6817,7 +6409,6 @@
         "Gviz",
         "KEGGREST",
         "RNAmodR",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -6832,7 +6423,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
@@ -6845,7 +6435,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -6856,7 +6445,6 @@
     ],
     "roar": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "ROCpAI": [],
@@ -6876,7 +6464,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -6894,11 +6481,9 @@
         "GOSemSim",
         "KEGGREST"
     ],
-    "Rsamtools": [],
     "rScudo": [],
     "RSVSim": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "RTCGAToolbox": [
@@ -6908,7 +6493,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rsamtools",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
@@ -6922,8 +6506,7 @@
         "RTNduals"
     ],
     "rtracklayer": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "rTRM": [
         "AnnotationDbi",
@@ -6934,7 +6517,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "MotifDb",
-        "Rsamtools",
         "rTRM",
         "rtracklayer"
     ],
@@ -6945,7 +6527,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "biomaRt",
         "rtracklayer"
@@ -6989,7 +6570,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -7002,7 +6582,6 @@
     ],
     "SCANVIS": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "SCArray": [
@@ -7019,8 +6598,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "GenomicAlignments",
-        "KEGGREST",
-        "Rsamtools"
+        "KEGGREST"
     ],
     "scater": [
         "BiocSingular",
@@ -7058,7 +6636,6 @@
     "scDblFinder": [
         "BiocSingular",
         "GenomicAlignments",
-        "Rsamtools",
         "SingleCellExperiment",
         "rtracklayer",
         "scater",
@@ -7087,7 +6664,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "SingleCellExperiment",
         "SingleCellSignalR",
         "SpatialExperiment",
@@ -7130,7 +6706,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotatr",
         "biomaRt",
         "bsseq",
@@ -7147,7 +6722,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RUVSeq",
-        "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
         "biomaRt",
@@ -7156,7 +6730,6 @@
     "SCOPE": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "scoreInvHap": [
@@ -7165,7 +6738,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -7182,7 +6754,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "MultiAssayExperiment",
-        "Rsamtools",
         "SingleCellExperiment",
         "biomaRt",
         "rtracklayer",
@@ -7202,7 +6773,6 @@
     ],
     "scRNAseqApp": [
         "GenomicAlignments",
-        "Rsamtools",
         "SingleCellExperiment",
         "TrajectoryUtils",
         "rtracklayer",
@@ -7215,7 +6785,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
         "VariantAnnotation",
@@ -7264,7 +6833,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "SingleCellExperiment",
         "biomaRt",
         "bumphunter",
@@ -7295,7 +6863,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "enrichplot",
         "rtracklayer"
@@ -7307,7 +6874,6 @@
         "GenomicFeatures",
         "HiLDA",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7330,7 +6896,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
@@ -7344,7 +6909,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -7359,7 +6923,6 @@
     "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "SeqSQC": [
@@ -7387,7 +6950,6 @@
     "sevenC": [
         "GenomicAlignments",
         "InteractionSet",
-        "Rsamtools",
         "rtracklayer"
     ],
     "SGCP": [
@@ -7405,7 +6967,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7414,7 +6975,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -7427,7 +6987,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -7436,13 +6995,10 @@
         "rtracklayer"
     ],
     "ShortRead": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "SIAMCAT": [],
-    "SICtools": [
-        "Rsamtools"
-    ],
+    "SICtools": [],
     "SigCheck": [
         "AnnotationDbi",
         "KEGGREST",
@@ -7470,7 +7026,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -7483,7 +7038,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "SingleCellExperiment",
         "annotate",
         "biomaRt",
@@ -7498,7 +7052,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -7517,9 +7070,7 @@
         "genefilter"
     ],
     "SimBu": [],
-    "SimFFPE": [
-        "Rsamtools"
-    ],
+    "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -7533,8 +7084,7 @@
         "KEGGREST"
     ],
     "single": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "SingleCellExperiment": [],
     "SingleCellSignalR": [
@@ -7556,7 +7106,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MAST",
-        "Rsamtools",
         "SingleCellExperiment",
         "SingleR",
         "TSCAN",
@@ -7586,7 +7135,6 @@
         "GenomicFiles",
         "KEGGREST",
         "QuasR",
-        "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
         "biomaRt",
@@ -7619,7 +7167,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7628,7 +7175,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -7656,7 +7202,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "goseq",
         "rtracklayer"
@@ -7676,14 +7221,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
     ],
     "soGGi": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead",
         "chipseq",
         "rtracklayer"
@@ -7695,7 +7238,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -7722,7 +7264,6 @@
     "SparseSignatures": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "spaSim": [
@@ -7776,7 +7317,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -7814,7 +7354,6 @@
     "spiky": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "splatter": [
@@ -7828,7 +7367,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "genefilter",
         "rtracklayer"
@@ -7839,7 +7377,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7856,7 +7393,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -7890,9 +7426,7 @@
         "graphite"
     ],
     "ssPATHS": [],
-    "ssviz": [
-        "Rsamtools"
-    ],
+    "ssviz": [],
     "stageR": [],
     "standR": [
         "AnnotationDbi",
@@ -7902,7 +7436,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "RUVSeq",
-        "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -7940,7 +7473,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7954,7 +7486,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -7983,7 +7514,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
         "biomaRt",
@@ -7995,7 +7525,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
         "biomaRt",
@@ -8019,12 +7548,10 @@
     "SynExtend": [],
     "syntenet": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "systemPipeR": [
         "GenomicAlignments",
-        "Rsamtools",
         "ShortRead"
     ],
     "systemPipeTools": [
@@ -8040,7 +7567,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8070,13 +7596,11 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "TCseq": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "TDbasedUFEadv": [
         "AnnotationDbi",
@@ -8103,9 +7627,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [
-        "Rsamtools"
-    ],
+    "TEQC": [],
     "terraTCGAdata": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -8113,7 +7635,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rsamtools",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
@@ -8124,7 +7645,6 @@
         "CNEr",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "rtracklayer"
     ],
@@ -8133,7 +7653,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8145,7 +7664,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "ORFik",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8153,7 +7671,6 @@
         "AnnotationDbi",
         "GSEABase",
         "KEGGREST",
-        "Rsamtools",
         "annotate"
     ],
     "tidybulk": [],
@@ -8198,7 +7715,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -8209,7 +7725,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -8242,9 +7757,7 @@
         "CoreGx",
         "MultiAssayExperiment"
     ],
-    "tracktables": [
-        "Rsamtools"
-    ],
+    "tracktables": [],
     "trackViewer": [
         "AnnotationDbi",
         "BSgenome",
@@ -8253,7 +7766,6 @@
         "Gviz",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8279,7 +7791,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "biomaRt",
         "chipseq",
@@ -8303,7 +7814,6 @@
     "traseR": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "traviz": [
@@ -8325,7 +7835,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "MotifDb",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8335,7 +7844,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8362,7 +7870,6 @@
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer",
         "tRNA"
     ],
@@ -8379,7 +7886,6 @@
         "GenomicFeatures",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8392,7 +7898,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8402,7 +7907,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -8418,7 +7922,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "Organism.dplyr",
-        "Rsamtools",
         "biomaRt",
         "plotgardener",
         "plyranges",
@@ -8432,7 +7935,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "Rbowtie2",
-        "Rsamtools",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -8447,7 +7949,6 @@
         "Gviz",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8464,7 +7965,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -8480,7 +7980,6 @@
     "VanillaICE": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "crlmm",
         "oligoClasses",
         "rtracklayer"
@@ -8488,7 +7987,6 @@
     "VarCon": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "VariantAnnotation": [
@@ -8497,7 +7995,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8513,7 +8010,6 @@
         "GenomicScores",
         "Gviz",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -8526,7 +8022,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -8535,7 +8030,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "ballgown",
         "genefilter",
@@ -8549,7 +8043,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -8595,8 +8088,7 @@
         "scuttle"
     ],
     "VplotR": [
-        "GenomicAlignments",
-        "Rsamtools"
+        "GenomicAlignments"
     ],
     "vsclust": [
         "MultiAssayExperiment"
@@ -8608,7 +8100,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
@@ -8625,7 +8116,6 @@
         "GreyListChIP",
         "InteractionSet",
         "KEGGREST",
-        "Rsamtools",
         "ShortRead",
         "apeglm",
         "biomaRt",
@@ -8643,7 +8133,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8658,7 +8147,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8670,7 +8158,6 @@
     "weitrix": [],
     "wiggleplotr": [
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "wpm": [],
@@ -8695,7 +8182,6 @@
     "XNAString": [
         "BSgenome",
         "GenomicAlignments",
-        "Rsamtools",
         "rtracklayer"
     ],
     "yamss": [],
@@ -8706,7 +8192,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "OrganismDbi",
-        "Rsamtools",
         "SomaticSignatures",
         "VariantAnnotation",
         "biomaRt",
@@ -8720,7 +8205,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8756,7 +8240,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
