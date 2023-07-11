@@ -12982,7 +12982,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "Biostrings",
         "MSnbase",
