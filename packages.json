@@ -12816,9 +12816,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -19258,7 +19256,6 @@
         "rtracklayer"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "txcutr": [
         "AnnotationDbi",
         "BiocIO",
