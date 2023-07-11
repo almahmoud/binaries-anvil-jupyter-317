@@ -1786,9 +1786,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
@@ -4737,7 +4735,6 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "openCyto": [],
     "openPrimeR": [],
     "openPrimeRui": [
         "openPrimeR"
