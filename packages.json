@@ -5216,7 +5216,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RMassBank": [],
     "Rmmquant": [
         "AnnotationDbi",
         "GenomicAlignments",
