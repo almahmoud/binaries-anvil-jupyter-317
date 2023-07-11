@@ -4276,9 +4276,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5107,7 +5105,6 @@
     ],
     "mpra": [],
     "MPRAnalyze": [],
-    "msa": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5526,9 +5523,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -7975,8 +7970,7 @@
     "surfaltr": [
         "AnnotationDbi",
         "KEGGREST",
-        "biomaRt",
-        "msa"
+        "biomaRt"
     ],
     "survtype": [],
     "sva": [
