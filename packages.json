@@ -1380,7 +1380,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "CompoundDb": [],
     "condiments": [
         "TrajectoryUtils",
         "distinct",
@@ -3563,7 +3562,6 @@
         "xcms"
     ],
     "MetaboAnnotation": [
-        "CompoundDb",
         "QFeatures"
     ],
     "metabolomicsWorkbenchR": [],
