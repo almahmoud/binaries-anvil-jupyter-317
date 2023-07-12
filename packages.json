@@ -4315,7 +4315,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "PathoStat": [],
     "pathRender": [
         "AnnotationDbi"
     ],
