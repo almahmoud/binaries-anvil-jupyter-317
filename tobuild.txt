@@ -1,3 +1,0 @@
-NBAMSeq
-spatialHeatmap
-Ringo
