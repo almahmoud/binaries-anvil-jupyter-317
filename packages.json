@@ -2373,7 +2373,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "FELLA": [],
     "ffpe": [
         "AnnotationDbi",
         "GenomicAlignments",
