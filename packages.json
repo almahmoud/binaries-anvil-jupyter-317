@@ -1672,7 +1672,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DeMixT": [
         "AnnotationDbi",
@@ -3061,8 +3060,7 @@
     ],
     "ISoLDE": [],
     "isomiRs": [
-        "AnnotationDbi",
-        "DEGreport"
+        "AnnotationDbi"
     ],
     "ITALICS": [
         "oligo",
