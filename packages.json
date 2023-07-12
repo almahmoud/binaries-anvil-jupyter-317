@@ -2341,7 +2341,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "phenomis": [],
     "phenoTest": [
         "Category",
         "GSEABase",
