@@ -2506,7 +2506,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "netboost": [],
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
