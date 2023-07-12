@@ -2849,7 +2849,6 @@
     "GWENA": [
         "AnnotationDbi"
     ],
-    "h5vc": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
