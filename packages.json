@@ -1730,7 +1730,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEsubs": [],
     "DExMA": [
         "AnnotationDbi",
         "annotate",
