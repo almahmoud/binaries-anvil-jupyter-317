@@ -854,7 +854,6 @@
     "GSReg": [
         "OrganismDbi"
     ],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
