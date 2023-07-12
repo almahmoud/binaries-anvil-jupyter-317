@@ -1335,7 +1335,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "PECA": [],
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
