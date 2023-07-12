@@ -5338,7 +5338,6 @@
         "rtracklayer"
     ],
     "scran": [],
-    "scReClassify": [],
     "scRNAseqApp": [
         "GenomicAlignments",
         "TrajectoryUtils",
