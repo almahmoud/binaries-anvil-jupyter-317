@@ -2311,7 +2311,6 @@
         "BSgenome"
     ],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "BSgenome",
         "GenomicFeatures",
