@@ -4684,7 +4684,6 @@
         "genefilter"
     ],
     "topGO": [],
-    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
