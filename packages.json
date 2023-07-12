@@ -1915,7 +1915,6 @@
         "bsseq"
     ],
     "NBAMSeq": [],
-    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "plyranges"
