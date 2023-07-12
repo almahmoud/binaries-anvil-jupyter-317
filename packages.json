@@ -2237,7 +2237,6 @@
         "rtracklayer"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "HiLDA": [
         "BSgenome",
         "GenomicFeatures",
