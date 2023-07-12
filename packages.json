@@ -4751,7 +4751,6 @@
         "chipseq",
         "rtracklayer"
     ],
-    "transformGamPoi": [],
     "tRanslatome": [
         "GOSemSim",
         "topGO"
