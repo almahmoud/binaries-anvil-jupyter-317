@@ -1710,7 +1710,6 @@
         "GenomicFeatures",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicFeatures",
         "GenomicScores",
