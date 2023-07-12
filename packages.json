@@ -155,7 +155,6 @@
         "beadarray",
         "genefilter"
     ],
-    "ASICS": [],
     "ASpli": [
         "BSgenome",
         "GenomicFeatures",
