@@ -265,9 +265,7 @@
         "dmrseq",
         "regioneR"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -453,7 +451,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "globaltest",
         "goseq",
         "lumi",
         "methylumi",
@@ -956,8 +953,7 @@
         "enrichplot"
     ],
     "EGSEA": [
-        "GSVA",
-        "globaltest"
+        "GSVA"
     ],
     "ELMER": [
         "BSgenome",
@@ -1282,10 +1278,7 @@
     "girafe": [],
     "GISPA": [],
     "glmSparseNet": [],
-    "GlobalAncova": [
-        "globaltest"
-    ],
-    "globaltest": [],
+    "GlobalAncova": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2692,9 +2685,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo"
     ],
