@@ -4363,7 +4363,6 @@
         "GSEABase",
         "GSVA",
         "GenomicFeatures",
-        "SingleR",
         "TSCAN",
         "annotate",
         "biomaRt",
@@ -4387,7 +4386,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase",
         "annotate"
