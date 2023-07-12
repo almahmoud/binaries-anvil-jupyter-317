@@ -1727,7 +1727,6 @@
         "bumphunter",
         "minfi"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mia": [],
     "miaViz": [
@@ -2529,7 +2528,6 @@
         "GenomicFeatures"
     ],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "SBGNview": [],
