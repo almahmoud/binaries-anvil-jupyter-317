@@ -670,7 +670,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "BSgenome",
@@ -2516,9 +2515,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "BSgenome",
         "ExperimentHub",
