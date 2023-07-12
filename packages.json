@@ -1723,7 +1723,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "GenomicFeatures",
