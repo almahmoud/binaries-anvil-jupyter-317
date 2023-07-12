@@ -1465,9 +1465,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
@@ -1993,7 +1991,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "SpatialExperiment",
         "spicyR"
