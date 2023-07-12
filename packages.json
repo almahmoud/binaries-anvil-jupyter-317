@@ -75,7 +75,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [],
     "ASpli": [
         "Gviz",
         "VariantAnnotation",
