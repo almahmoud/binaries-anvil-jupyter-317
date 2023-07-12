@@ -49,7 +49,7 @@ packaged installation of ‘MsFeatures’ as ‘MsFeatures_1.8.0_R_x86_64-pc-lin
 * DONE (MsFeatures)
 
 The downloaded source packages are in
-	‘/tmp/RtmpT1y4aZ/downloaded_packages’
+	‘/tmp/RtmpYip3wZ/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -60,6 +60,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m30.181s
-user	0m26.339s
-sys	0m2.294s
+real	0m24.416s
+user	0m21.516s
+sys	0m1.929s
