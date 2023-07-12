@@ -1567,7 +1567,6 @@
     "nearBynding": [
         "GenomicFeatures"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "zinbwave"
