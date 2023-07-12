@@ -1770,7 +1770,6 @@
         "SpatialExperiment",
         "ensembldb"
     ],
-    "scMerge": [],
     "scmeth": [
         "annotatr",
         "bsseq",
@@ -1873,7 +1872,6 @@
     "singleCellTK": [
         "GSVA",
         "ensembldb",
-        "scMerge",
         "sva",
         "zinbwave"
     ],
