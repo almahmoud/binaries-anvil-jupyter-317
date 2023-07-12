@@ -1268,9 +1268,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2645,7 +2643,6 @@
         "gmapR",
         "rtracklayer"
     ],
-    "HTSFilter": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
