@@ -2471,7 +2471,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "scAnnotatR": [],
     "SCATE": [
         "ExperimentHub"
     ],
