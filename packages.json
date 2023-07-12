@@ -488,7 +488,6 @@
         "oligoClasses"
     ],
     "chromPlot": [],
-    "ChromSCape": [],
     "chromVAR": [
         "BSgenome",
         "CNEr",
