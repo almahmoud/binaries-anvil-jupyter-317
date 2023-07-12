@@ -739,7 +739,6 @@
     "dasper": [
         "GenomicFeatures"
     ],
-    "dce": [],
     "debrowser": [
         "clusterProfiler",
         "enrichplot",
