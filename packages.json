@@ -1006,7 +1006,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GreyListChIP"
