@@ -3381,7 +3381,6 @@
         "genefilter",
         "topGO"
     ],
-    "PCAtools": [],
     "PDATK": [
         "biomaRt",
         "genefu"
