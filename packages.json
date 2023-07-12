@@ -322,9 +322,7 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "BioTIP": [],
     "biovizBase": [
         "BSgenome",
@@ -1037,7 +1035,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "pathview",
         "sva"
     ],
     "decompTumor2Sig": [
@@ -1246,7 +1243,6 @@
         "GSVA",
         "PADOG",
         "globaltest",
-        "pathview",
         "safe",
         "topGO"
     ],
@@ -1278,7 +1274,6 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "enrichplot": [
@@ -1564,8 +1559,7 @@
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "genbankr": [
         "BSgenome",
@@ -1730,7 +1724,6 @@
         "EnrichmentBrowser",
         "ExperimentHub",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "gsean": [
@@ -2039,8 +2032,7 @@
         "DOSE",
         "ExperimentHub",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [
         "GenomicFeatures",
@@ -2677,7 +2669,6 @@
     "PAST": [
         "rtracklayer"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -3282,9 +3273,7 @@
         "MGFM",
         "MGFR"
     ],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [
         "genefilter",
         "oligo",
@@ -4039,7 +4028,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "zinbwave": [
