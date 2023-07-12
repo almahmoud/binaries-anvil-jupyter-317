@@ -735,7 +735,6 @@
     "CTdata": [
         "ExperimentHub"
     ],
-    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
