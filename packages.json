@@ -1783,7 +1783,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "AnnotationDbi",
         "annotate",
