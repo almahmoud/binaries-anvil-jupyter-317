@@ -1752,7 +1752,6 @@
     "diffcoexp": [
         "AnnotationDbi"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "GenomicAlignments",
