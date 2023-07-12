@@ -47,7 +47,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -77,7 +76,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -2657,7 +2655,6 @@
         "annotate",
         "genefilter"
     ],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [
         "AnnotationDbi",
