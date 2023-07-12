@@ -12,9 +12,7 @@
         "annotate",
         "genefilter"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "annotate",
@@ -590,7 +588,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "QDNAseq",
         "VariantAnnotation",
         "annotatr",
         "biomaRt",
@@ -2488,9 +2485,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "AnnotationDbi",
         "annotate"
@@ -4658,7 +4653,6 @@
         "annotate",
         "genefilter"
     ],
-    "QDNAseq": [],
     "QFeatures": [],
     "qpgraph": [
         "AnnotationDbi",
