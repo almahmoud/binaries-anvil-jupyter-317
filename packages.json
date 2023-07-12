@@ -2848,10 +2848,8 @@
         "GenomicFeatures",
         "TCGAutils"
     ],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "RUVSeq": [
         "EDASeq",
