@@ -5706,7 +5706,6 @@
         "GSEABase",
         "annotate"
     ],
-    "SiPSiC": [],
     "SISPA": [
         "AnnotationDbi",
         "GSEABase",
