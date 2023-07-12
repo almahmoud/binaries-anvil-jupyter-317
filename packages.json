@@ -4443,7 +4443,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "splatter": [],
     "SpliceWiz": [
         "AnnotationHub",
         "BSgenome",
