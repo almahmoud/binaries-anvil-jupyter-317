@@ -2525,7 +2525,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "GENESIS": [],
     "GeneStructureTools": [
         "AnnotationDbi",
         "BSgenome",
