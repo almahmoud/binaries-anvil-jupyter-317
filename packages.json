@@ -402,7 +402,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -4348,7 +4347,6 @@
     ],
     "slingshot": [],
     "SMITE": [
-        "BioNet",
         "GenomicFeatures",
         "biomaRt",
         "goseq",
