@@ -2671,7 +2671,6 @@
         "xcms"
     ],
     "MetaboAnnotation": [],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "AnnotationHub",
         "ExperimentHub",
