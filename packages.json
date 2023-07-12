@@ -732,8 +732,7 @@
         "topGO"
     ],
     "condiments": [
-        "distinct",
-        "slingshot"
+        "distinct"
     ],
     "consensusDE": [
         "EDASeq",
@@ -2917,9 +2916,7 @@
         "VariantAnnotation"
     ],
     "scPipe": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "BSgenome",
         "GenomicFeatures",
@@ -3101,7 +3098,6 @@
     "slalom": [
         "GSEABase"
     ],
-    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "goseq"
@@ -3331,9 +3327,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [
         "topGO"
     ],
@@ -3348,9 +3342,7 @@
     "traseR": [
         "BSgenome"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "trena": [
         "BSgenome",
         "MotifDb"
