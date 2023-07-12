@@ -1971,7 +1971,6 @@
         "VariantAnnotation"
     ],
     "OncoScore": [],
-    "ontoProc": [],
     "oposSOM": [],
     "oppar": [
         "GSVA"
@@ -2070,9 +2069,7 @@
     "podkat": [
         "BSgenome"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "PPInfer": [],
     "preciseTAD": [
         "GenomicFeatures",
@@ -2826,7 +2823,6 @@
     "TEKRABber": [],
     "tenXplore": [
         "ExperimentHub",
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
