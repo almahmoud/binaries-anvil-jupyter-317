@@ -3386,7 +3386,6 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [],
     "phemd": [],
     "phenomis": [],
     "phenoTest": [
@@ -5034,9 +5033,7 @@
         "annotate",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [
         "BSgenome",
         "rtracklayer"
