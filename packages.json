@@ -597,9 +597,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "GSEABase",
@@ -884,9 +882,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "clusterExperiment": [
         "annotate",
         "genefilter",
@@ -1065,9 +1061,7 @@
         "ExperimentHub",
         "biomaRt"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "cosmosR": [
         "GSEABase",
         "annotate"
@@ -1817,8 +1811,7 @@
         "rtracklayer"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "BSgenome",
@@ -2350,8 +2343,7 @@
         "AnnotationHub"
     ],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IRISFGM": [
         "DOSE",
@@ -2443,8 +2435,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LRBaseDbi": [],
     "LRcell": [
@@ -2511,8 +2502,7 @@
         "rtracklayer"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maPredictDSC": [],
     "mariner": [
@@ -2620,9 +2610,7 @@
         "genefilter"
     ],
     "MesKit": [],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "MetaboSignal": [
         "AnnotationHub",
         "ExperimentHub",
@@ -2643,8 +2631,7 @@
         "rtracklayer"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -2894,9 +2881,7 @@
     "moanin": [
         "topGO"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [],
     "mogsa": [
         "GSEABase",
@@ -3085,9 +3070,7 @@
         "annotate",
         "genefilter"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "biomaRt",
@@ -3858,9 +3841,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "BgeeDB",
         "GenomicFeatures",
@@ -4921,7 +4902,6 @@
     "wiggleplotr": [
         "rtracklayer"
     ],
-    "xcms": [],
     "XDE": [
         "GeneMeta",
         "annotate",
