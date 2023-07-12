@@ -1627,7 +1627,6 @@
         "AnnotationDbi",
         "graphite"
     ],
-    "ddPCRclust": [],
     "debrowser": [
         "AnnotationDbi",
         "DOSE",
