@@ -2485,7 +2485,6 @@
         "AUCell",
         "GSVA",
         "GenomicFeatures",
-        "SingleCellSignalR",
         "SpatialExperiment",
         "ensembldb"
     ],
@@ -2628,7 +2627,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "ExperimentHub",
         "GSVA",
