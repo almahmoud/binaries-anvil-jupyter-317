@@ -3419,7 +3419,6 @@
         "AnnotationHub",
         "ontoProc"
     ],
-    "POWSC": [],
     "PPInfer": [
         "biomaRt"
     ],
