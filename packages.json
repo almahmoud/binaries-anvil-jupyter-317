@@ -171,9 +171,7 @@
         "dmrseq",
         "regioneR"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "BloodGen3Module": [],
     "bnbc": [
         "sva"
@@ -561,14 +559,12 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP",
         "systemPipeR"
     ],
     "diffHic": [],
     "diffUTR": [
-        "DEXSeq",
         "ensembldb"
     ],
     "DMRcate": [
@@ -943,7 +939,6 @@
     ],
     "interactiveDisplay": [],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles",
         "VariantAnnotation"
     ],
@@ -955,7 +950,6 @@
     ],
     "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "ensembldb",
         "sva",
         "tximeta"
@@ -1338,7 +1332,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "PanomiR": [
