@@ -4450,7 +4450,6 @@
         "AnnotationHub",
         "ontoProc"
     ],
-    "POMA": [],
     "POWSC": [],
     "PPInfer": [
         "AnnotationDbi",
