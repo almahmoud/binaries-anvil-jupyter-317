@@ -390,7 +390,6 @@
         "GSEABase",
         "annotate"
     ],
-    "BiocSet": [],
     "biomaRt": [],
     "BioMM": [
         "topGO"
@@ -637,9 +636,7 @@
         "genefilter",
         "rtracklayer"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -3661,7 +3658,6 @@
         "rtracklayer"
     ],
     "RegEnrich": [
-        "BiocSet",
         "DOSE",
         "GOSemSim"
     ],
@@ -4388,7 +4384,6 @@
     ],
     "Spaniel": [],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "annotate"
     ],
