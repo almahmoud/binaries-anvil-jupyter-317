@@ -1715,7 +1715,6 @@
         "bumphunter",
         "minfi"
     ],
-    "MGFR": [],
     "mia": [],
     "miaViz": [
         "mia"
@@ -2515,9 +2514,7 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SBGNview": [],
     "SCAN.UPC": [
         "oligo",
