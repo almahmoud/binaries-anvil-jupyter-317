@@ -1866,7 +1866,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "singleCellTK": [
         "GSVA",
         "ensembldb",
