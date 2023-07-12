@@ -3262,7 +3262,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "omicsPrint": [],
     "OncoScore": [
         "biomaRt"
     ],
