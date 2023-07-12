@@ -1533,7 +1533,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "metagene2": [],
     "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
