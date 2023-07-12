@@ -4904,7 +4904,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "AnnotationDbi",
         "BSgenome",
