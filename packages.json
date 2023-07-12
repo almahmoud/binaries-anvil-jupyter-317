@@ -5520,7 +5520,6 @@
     "ShortRead": [
         "GenomicAlignments"
     ],
-    "SICtools": [],
     "SigCheck": [
         "AnnotationDbi",
         "MLInterfaces",
