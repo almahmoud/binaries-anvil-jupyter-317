@@ -2771,7 +2771,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "surfaltr": [],
     "sva": [],
     "svaNUMT": [
         "BSgenome",
