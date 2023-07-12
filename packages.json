@@ -3435,7 +3435,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
-        "MWASTools",
         "biomaRt",
         "ensembldb",
         "hpar",
@@ -3984,7 +3983,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "MWASTools": [],
     "mygene": [
         "AnnotationDbi",
         "GenomicAlignments",
