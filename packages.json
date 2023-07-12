@@ -2905,7 +2905,6 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "BSgenome",
         "GenomicAlignments",
