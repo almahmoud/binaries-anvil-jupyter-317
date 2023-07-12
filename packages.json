@@ -642,7 +642,6 @@
         "bumphunter",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -852,9 +851,7 @@
         "ensembldb"
     ],
     "GreyListChIP": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [],
     "GSReg": [
         "OrganismDbi"
@@ -1995,9 +1992,7 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
