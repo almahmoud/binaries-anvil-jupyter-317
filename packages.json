@@ -1001,9 +1001,7 @@
         "TRESS"
     ],
     "MAIT": [],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -1354,7 +1352,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "podkat": [],
     "pogos": [],
     "preciseTAD": [
@@ -1898,8 +1895,7 @@
         "ensembldb"
     ],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [
         "regioneR"
