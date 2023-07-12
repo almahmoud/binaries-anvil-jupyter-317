@@ -313,7 +313,6 @@
         "scran"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [],
     "BatchQC": [
         "annotate",
         "genefilter",
@@ -843,7 +842,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "batchelor",
         "rtracklayer",
         "scater",
         "scran"
@@ -3084,7 +3082,6 @@
         "graphite"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -4183,7 +4180,6 @@
         "scran"
     ],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -4437,7 +4433,6 @@
         "SingleR",
         "TSCAN",
         "annotate",
-        "batchelor",
         "biomaRt",
         "celda",
         "ensembldb",
