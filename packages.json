@@ -66,9 +66,7 @@
     ],
     "AMARETTO": [],
     "amplican": [],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "annmap": [],
     "AnnotationHubData": [
         "GenomicFeatures",
@@ -169,7 +167,6 @@
     "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
-        "mia",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -1405,13 +1402,9 @@
         "bumphunter",
         "minfi"
     ],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
