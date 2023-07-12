@@ -14548,7 +14548,7 @@ packaged installation of ‘apeglm’ as ‘apeglm_1.22.1_R_x86_64-pc-linux-gnu.
 * DONE (apeglm)
 
 The downloaded source packages are in
-	‘/tmp/RtmpxNCNPU/downloaded_packages’
+	‘/tmp/RtmpLuWOqZ/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -14559,6 +14559,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	2m1.996s
-user	1m52.049s
-sys	0m9.614s
+real	2m9.308s
+user	1m58.321s
+sys	0m11.012s
