@@ -111,7 +111,7 @@ packaged installation of ‘made4’ as ‘made4_1.74.0_R_x86_64-pc-linux-gnu.ta
 * DONE (made4)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPqpx5Q/downloaded_packages’
+	‘/tmp/RtmpyhvJJR/downloaded_packages’
 Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
   'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb', 'GenomicFeatures',
@@ -122,6 +122,6 @@ Old packages: 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
   'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse',
   'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	1m37.353s
-user	1m29.316s
-sys	0m5.815s
+real	1m30.329s
+user	1m23.512s
+sys	0m6.000s
