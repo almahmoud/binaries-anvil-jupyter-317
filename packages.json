@@ -2663,7 +2663,6 @@
     "Metab": [
         "xcms"
     ],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "AnnotationHub",
         "ExperimentHub",
