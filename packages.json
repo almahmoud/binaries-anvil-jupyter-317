@@ -334,7 +334,6 @@
         "enrichplot"
     ],
     "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "frma",
         "oligo",
