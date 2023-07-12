@@ -5396,7 +5396,6 @@
         "scuttle"
     ],
     "scReClassify": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "GenomicAlignments",
         "TrajectoryUtils",
