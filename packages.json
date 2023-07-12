@@ -1592,7 +1592,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DExMA": [
         "AnnotationDbi",
         "annotate",
@@ -3966,9 +3965,7 @@
         "AnnotationDbi"
     ],
     "PharmacoGx": [],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "phenomis": [
         "ropls"
     ],
