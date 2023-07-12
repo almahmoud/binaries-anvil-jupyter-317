@@ -1743,7 +1743,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "goTools": [],
     "GRaNIE": [
         "GenomicFeatures",
         "ensembldb",
