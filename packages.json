@@ -280,7 +280,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
