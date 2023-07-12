@@ -1416,7 +1416,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -4413,7 +4412,6 @@
     "PCAtools": [],
     "PDATK": [
         "AnnotationDbi",
-        "CoreGx",
         "biomaRt",
         "genefu"
     ],
@@ -4445,9 +4443,7 @@
     "phantasus": [
         "AnnotationDbi"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny"
     ],
@@ -4802,9 +4798,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramwas": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -6285,9 +6279,7 @@
     "topGO": [
         "AnnotationDbi"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [
         "AnnotationDbi",
@@ -6621,7 +6613,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
