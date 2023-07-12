@@ -1847,7 +1847,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "MesKit": [],
     "Metab": [],
     "MetaboSignal": [
         "ExperimentHub",
