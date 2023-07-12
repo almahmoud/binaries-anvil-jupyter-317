@@ -1563,7 +1563,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [
         "CATALYST",
