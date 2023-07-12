@@ -1167,7 +1167,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fCCAC": [
         "BSgenome",
