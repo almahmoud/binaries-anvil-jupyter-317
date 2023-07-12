@@ -3753,7 +3753,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "missRows": [],
     "mitoClone2": [
         "AnnotationDbi",
         "BSgenome",
