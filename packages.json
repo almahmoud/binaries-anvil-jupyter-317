@@ -1237,7 +1237,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST",
         "scater"
