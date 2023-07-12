@@ -747,7 +747,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation"
     ],
