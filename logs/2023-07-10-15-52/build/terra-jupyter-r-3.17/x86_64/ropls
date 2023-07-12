@@ -28,7 +28,7 @@ packaged installation of ‘ropls’ as ‘ropls_1.32.0_R_x86_64-pc-linux-gnu.ta
 * DONE (ropls)
 
 The downloaded source packages are in
-	‘/tmp/RtmpnTmosk/downloaded_packages’
+	‘/tmp/RtmplS020g/downloaded_packages’
 Old packages: 'brgedata', 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom',
   'bslib', 'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats',
   'DESeq2', 'digest', 'downlit', 'future', 'gargle', 'GenomeInfoDb',
@@ -39,6 +39,6 @@ Old packages: 'brgedata', 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom',
   'scattermore', 'Seurat', 'shiny', 'sp', 'sparseMatrixStats', 'spatstat.geom',
   'spatstat.sparse', 'testthat', 'usethis', 'uwot', 'vctrs', 'xml2'
 
-real	0m35.820s
-user	0m31.831s
-sys	0m1.963s
+real	0m31.565s
+user	0m27.354s
+sys	0m1.540s
