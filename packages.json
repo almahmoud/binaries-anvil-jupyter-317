@@ -2077,7 +2077,6 @@
         "ontoProc"
     ],
     "PPInfer": [],
-    "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH"
