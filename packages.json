@@ -299,9 +299,7 @@
         "genomation"
     ],
     "cfDNAPro": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "DMRcate",
         "DSS",
@@ -387,7 +385,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
