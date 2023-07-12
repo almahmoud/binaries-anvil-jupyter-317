@@ -299,7 +299,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "celda": [],
     "CellBarcode": [],
     "cellHTS2": [
         "Category"
@@ -1875,7 +1874,6 @@
     "simplifyEnrichment": [],
     "singleCellTK": [
         "GSVA",
-        "celda",
         "ensembldb",
         "scMerge",
         "sva",
