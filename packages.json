@@ -2192,7 +2192,6 @@
         "AnnotationDbi",
         "MLP"
     ],
-    "eudysbiome": [],
     "EventPointer": [
         "AnnotationDbi",
         "BSgenome",
