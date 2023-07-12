@@ -1943,7 +1943,6 @@
     "spicyR": [
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
@@ -1966,9 +1965,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
