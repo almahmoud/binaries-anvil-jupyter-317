@@ -279,7 +279,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -1663,9 +1662,7 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
