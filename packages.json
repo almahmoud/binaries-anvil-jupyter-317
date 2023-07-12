@@ -300,7 +300,6 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [
         "annotate",
         "genefilter",
