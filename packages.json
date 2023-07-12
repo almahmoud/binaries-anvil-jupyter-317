@@ -329,13 +329,11 @@
     "ChIPQC": [
         "DiffBind",
         "GreyListChIP",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -922,7 +920,6 @@
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "icetea": [
@@ -1417,7 +1414,6 @@
     "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "rGREAT",
         "soGGi"
@@ -1816,9 +1812,7 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1927,9 +1921,7 @@
     ],
     "tradeSeq": [],
     "transcriptogramer": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "tRanslatome": [],
     "traseR": [],
     "traviz": [],
