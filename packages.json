@@ -5931,7 +5931,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "switchde": [],
     "syntenet": [
         "GenomicAlignments",
         "rtracklayer"
