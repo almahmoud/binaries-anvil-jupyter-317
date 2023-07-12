@@ -4498,7 +4498,6 @@
         "scater",
         "scran",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -5056,9 +5055,7 @@
     "VegaMC": [
         "biomaRt"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "ViSEAGO": [
         "AnnotationForge",
         "GOSemSim",
@@ -5157,7 +5154,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
