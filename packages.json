@@ -5832,7 +5832,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "SPOTlight": [],
     "SPsimSeq": [
         "AnnotationDbi"
     ],
