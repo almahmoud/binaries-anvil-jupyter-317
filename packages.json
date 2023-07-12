@@ -1162,7 +1162,6 @@
         "goseq",
         "pcaExplorer"
     ],
-    "idiogram": [],
     "igvR": [
         "GenomicFeatures",
         "VariantAnnotation"
