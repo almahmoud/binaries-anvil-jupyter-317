@@ -3986,7 +3986,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "NetActivity": [],
     "netboost": [
         "AnnotationDbi"
     ],
