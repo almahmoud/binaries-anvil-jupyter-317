@@ -1060,7 +1060,6 @@
     "metagene": [
         "ensembldb"
     ],
-    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
