@@ -1829,7 +1829,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
