@@ -528,7 +528,6 @@
     "eegc": [
         "clusterProfiler"
     ],
-    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
