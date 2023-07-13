@@ -397,9 +397,7 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -589,9 +587,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -675,9 +671,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [
         "SGSeq"
@@ -818,7 +812,6 @@
     "GSReg": [
         "OrganismDbi"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -1216,7 +1209,6 @@
     "NxtIRFcore": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "ODER": [
@@ -1243,9 +1235,7 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
@@ -1557,7 +1547,6 @@
     ],
     "scClassify": [],
     "scFeatures": [
-        "GSVA",
         "ensembldb"
     ],
     "scmeth": [
@@ -1632,7 +1621,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "ensembldb"
     ],
@@ -1646,7 +1634,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "GSVA",
         "ensembldb",
         "zinbwave"
     ],
@@ -1655,9 +1642,7 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "SISPA": [
-        "GSVA"
-    ],
+    "SISPA": [],
     "sitadela": [],
     "skewr": [
         "bumphunter",
@@ -1731,8 +1716,7 @@
     "SVMDO": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCGAutils": [],
     "TDbasedUFEadv": [
@@ -1759,9 +1743,7 @@
     "tLOH": [
         "VariantAnnotation"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "trackViewer": [
         "Gviz",
