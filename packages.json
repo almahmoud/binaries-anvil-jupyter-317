@@ -129,8 +129,7 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "BiocHubsShiny": [],
     "BioNERO": [],
@@ -233,18 +232,15 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CCPROMISE": [],
     "cellHTS2": [],
     "CEMiTool": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CeTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CexoR": [
         "genomation"
@@ -287,9 +283,7 @@
         "DiffBind",
         "GreyListChIP"
     ],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "ChIPXpress": [
         "frma",
         "oligo",
@@ -316,9 +310,7 @@
         "qpgraph"
     ],
     "clusterExperiment": [],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -458,8 +450,7 @@
     ],
     "dasper": [],
     "debrowser": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "decompTumor2Sig": [
         "VariantAnnotation"
@@ -542,13 +533,11 @@
     ],
     "easier": [],
     "EasyCellType": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "EDASeq": [],
     "eegc": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "EGSEA": [],
     "ELMER": [
@@ -564,11 +553,9 @@
     "ENmix": [
         "minfi"
     ],
-    "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr",
         "pipeFrame"
     ],
@@ -581,7 +568,6 @@
     ],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
         "genomation"
     ],
     "epigraHMM": [
@@ -626,7 +612,6 @@
         "ChIPseeker",
         "TFBSTools",
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr",
         "pipeFrame"
     ],
@@ -651,15 +636,13 @@
     ],
     "factR": [],
     "famat": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "fCCAC": [
         "genomation"
     ],
     "fcoex": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "fcScan": [
         "VariantAnnotation"
@@ -701,8 +684,7 @@
     ],
     "gcapc": [],
     "GDCRNATools": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "genbankr": [
         "VariantAnnotation"
@@ -755,8 +737,7 @@
     "gmoviz": [],
     "goseq": [],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GOstats": [],
     "GOTHiC": [],
@@ -848,8 +829,7 @@
         "VariantAnnotation"
     ],
     "IRISFGM": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
@@ -900,8 +880,7 @@
         "oligoClasses"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "magpie": [
         "TRESS"
@@ -945,9 +924,7 @@
         "wateRmelon"
     ],
     "MEDIPS": [],
-    "meshes": [
-        "enrichplot"
-    ],
+    "meshes": [],
     "meshr": [],
     "MetaboSignal": [
         "ensembldb",
@@ -958,8 +935,7 @@
         "ensembldb"
     ],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MethReg": [
         "sesame"
@@ -980,7 +956,6 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "enrichplot",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -1002,8 +977,7 @@
     "miaViz": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "mimager": [
         "oligo",
@@ -1030,13 +1004,11 @@
     "miRSM": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "miRspongeR"
     ],
     "miRspongeR": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "missMethyl": [
         "methylumi",
@@ -1058,8 +1030,7 @@
         "TFBSTools"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "Motif2Site": [],
     "motifbreakR": [
@@ -1096,8 +1067,7 @@
     "multiGSEA": [],
     "multiSight": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MungeSumstats": [
         "VariantAnnotation"
@@ -1185,8 +1155,7 @@
     ],
     "pairedGSEA": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "pcaExplorer": [
         "GOstats"
@@ -1198,15 +1167,13 @@
     ],
     "periodicDNA": [],
     "PFP": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "phenoTest": [],
     "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PING": [
         "Gviz",
@@ -1234,7 +1201,6 @@
     "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
         "rGREAT",
         "soGGi"
     ],
@@ -1301,9 +1267,7 @@
     ],
     "rCGH": [],
     "RcisTarget": [],
-    "ReactomePA": [
-        "enrichplot"
-    ],
+    "ReactomePA": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1489,7 +1453,6 @@
     "scTensor": [
         "GOstats",
         "ReactomePA",
-        "enrichplot",
         "meshr"
     ],
     "scTreeViz": [
@@ -1499,16 +1462,14 @@
         "epivizrData"
     ],
     "segmenter": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "selectKSigs": [
         "HiLDA"
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "seqCAT": [
         "VariantAnnotation"
@@ -1528,8 +1489,7 @@
     ],
     "SigCheck": [],
     "signatureSearch": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "signeR": [
         "VariantAnnotation"
@@ -1628,9 +1588,7 @@
         "ASSIGN"
     ],
     "TCGAutils": [],
-    "TDbasedUFEadv": [
-        "enrichplot"
-    ],
+    "TDbasedUFEadv": [],
     "tenXplore": [
         "restfulSE"
     ],
@@ -1643,8 +1601,7 @@
         "ORFik"
     ],
     "TimiRGeN": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "TitanCNA": [
         "VariantAnnotation"
