@@ -1712,7 +1712,6 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "singscore": [],
     "SISPA": [
         "GSVA"
     ],
@@ -1797,7 +1796,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
-        "singscore",
         "sva"
     ],
     "TCGAutils": [],
