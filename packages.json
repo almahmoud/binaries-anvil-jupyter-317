@@ -672,7 +672,6 @@
     "genbankr": [
         "VariantAnnotation"
     ],
-    "geneAttribution": [],
     "GeneStructureTools": [
         "Gviz",
         "VariantAnnotation",
