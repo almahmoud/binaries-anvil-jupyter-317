@@ -552,7 +552,6 @@
         "enrichplot"
     ],
     "EDASeq": [],
-    "edge": [],
     "eegc": [
         "clusterProfiler",
         "enrichplot"
