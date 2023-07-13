@@ -1023,7 +1023,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsDataHub": [],
     "msgbsR": [
         "OrganismDbi",
         "VariantAnnotation",
