@@ -1187,7 +1187,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NBAMSeq": [],
     "nearBynding": [],
     "netSmooth": [
         "clusterExperiment"
