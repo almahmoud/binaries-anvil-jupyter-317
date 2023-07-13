@@ -120,8 +120,7 @@
     ],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
-        "zinbwave"
+        "ANCOMBC"
     ],
     "BgeeCall": [],
     "BGmix": [],
@@ -335,9 +334,7 @@
         "qpgraph"
     ],
     "cliProfiler": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1193,8 +1190,7 @@
     "NBAMSeq": [],
     "nearBynding": [],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -1541,9 +1537,7 @@
         "ensembldb"
     ],
     "SCATE": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scClassify": [],
     "scFeatures": [
         "ensembldb"
@@ -1633,8 +1627,7 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "ensembldb",
-        "zinbwave"
+        "ensembldb"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -1846,7 +1839,6 @@
         "quantro"
     ],
     "zenith": [],
-    "zinbwave": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
