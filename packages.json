@@ -133,7 +133,6 @@
         "enrichplot"
     ],
     "BiocHubsShiny": [],
-    "BiocOncoTK": [],
     "BioNERO": [],
     "biovizBase": [
         "VariantAnnotation",
