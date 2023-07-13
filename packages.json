@@ -1101,7 +1101,6 @@
     ],
     "oppar": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "OUTRIDER": [],
     "OutSplice": [
@@ -1588,9 +1587,7 @@
     "tximeta": [
         "ensembldb"
     ],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "regioneR"
     ],
