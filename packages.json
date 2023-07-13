@@ -1591,7 +1591,6 @@
         "enrichplot",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "bumphunter",
