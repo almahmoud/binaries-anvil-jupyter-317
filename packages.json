@@ -1237,8 +1237,7 @@
     "OrganismDbi": [],
     "OUTRIDER": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "pageRank": [
@@ -1406,9 +1405,7 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "OrganismDbi",
@@ -1450,7 +1447,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "Ringo": [],
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
@@ -1620,9 +1616,7 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "cytomapper"
     ],
