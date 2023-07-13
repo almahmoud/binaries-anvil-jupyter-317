@@ -1754,7 +1754,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
