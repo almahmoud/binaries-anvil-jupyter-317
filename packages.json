@@ -543,8 +543,7 @@
     "enrichTF": [
         "TFBSTools",
         "clusterProfiler",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "ensembldb": [],
     "ensemblVEP": [
@@ -598,8 +597,7 @@
         "ChIPseeker",
         "TFBSTools",
         "clusterProfiler",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "EventPointer": [
         "SGSeq"
@@ -1148,7 +1146,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeFrame": [],
     "PloGO2": [
         "GOstats"
     ],
