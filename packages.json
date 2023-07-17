@@ -755,7 +755,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "meshr": [],
     "MetaboSignal": [
         "ensembldb",
         "hpar",
@@ -1179,8 +1178,7 @@
         "ggbio"
     ],
     "scTensor": [
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTreeViz": [
         "OrganismDbi",
