@@ -322,7 +322,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "VariantAnnotation",
