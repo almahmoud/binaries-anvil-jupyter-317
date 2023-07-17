@@ -759,9 +759,7 @@
         "VariantAnnotation"
     ],
     "OrganismDbi": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -853,7 +851,6 @@
         "biovizBase"
     ],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [
         "OrganismDbi",
         "VariantAnnotation",
