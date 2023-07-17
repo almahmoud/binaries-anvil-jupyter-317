@@ -71,8 +71,7 @@
         "OrganismDbi",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -1048,7 +1047,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "rGREAT",
         "soGGi"
     ],
     "pRolocGUI": [],
@@ -1152,7 +1150,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
