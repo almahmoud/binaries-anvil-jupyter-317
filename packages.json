@@ -639,7 +639,6 @@
     ],
     "HiLDA": [],
     "hiReadsProcessor": [],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -757,7 +756,6 @@
     ],
     "MetaboSignal": [
         "ensembldb",
-        "hpar",
         "mygene"
     ],
     "metagene": [
