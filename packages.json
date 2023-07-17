@@ -117,7 +117,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "annotatr",
-        "bsseq",
         "dmrseq",
         "regioneR"
     ],
@@ -129,8 +128,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -142,7 +140,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase",
@@ -206,7 +203,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "ensembldb",
         "goseq",
         "lumi",
@@ -282,8 +278,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "Cogito": [],
     "comapr": [
@@ -392,8 +387,7 @@
         "VariantAnnotation"
     ],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "derfinder": [
         "GenomicFiles",
@@ -424,7 +418,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "ensembldb",
         "methylumi",
         "minfi",
@@ -438,7 +431,6 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "DominoEffect": [
@@ -452,9 +444,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "EasyCellType": [],
     "eegc": [],
     "ELMER": [
@@ -715,8 +705,7 @@
         "VariantAnnotation"
     ],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lineagespot": [
@@ -792,7 +781,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -813,8 +801,7 @@
         "ensembldb"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -836,9 +823,7 @@
         "crlmm",
         "oligoClasses"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [],
     "miRSM": [
         "ReactomePA",
@@ -918,9 +903,7 @@
         "regioneR",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "netSmooth": [],
     "netZooR": [
         "minfi",
@@ -1191,7 +1174,6 @@
     ],
     "scmeth": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "scone": [
