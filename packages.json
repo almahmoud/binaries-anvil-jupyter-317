@@ -563,7 +563,6 @@
     "GARS": [
         "DaMiRseq"
     ],
-    "gcapc": [],
     "GDCRNATools": [],
     "genbankr": [
         "VariantAnnotation"
