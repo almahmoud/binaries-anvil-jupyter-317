@@ -89,7 +89,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [],
     "bambu": [],
     "bandle": [],
     "BBCAnalyzer": [
@@ -1400,9 +1399,7 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
