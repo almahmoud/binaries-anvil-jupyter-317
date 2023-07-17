@@ -362,7 +362,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "CTdata": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
