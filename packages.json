@@ -1014,7 +1014,6 @@
         "VariantAnnotation"
     ],
     "oppar": [],
-    "ORFik": [],
     "OrganismDbi": [],
     "OutSplice": [
         "Repitools"
@@ -1178,9 +1177,7 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -1442,9 +1439,7 @@
     ],
     "TFBSTools": [],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TimiRGeN": [],
     "TitanCNA": [
         "VariantAnnotation"
