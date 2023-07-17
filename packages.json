@@ -1330,7 +1330,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1457,9 +1456,7 @@
         "VariantAnnotation"
     ],
     "vissE": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
