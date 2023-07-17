@@ -638,7 +638,6 @@
         "ensembldb"
     ],
     "HiLDA": [],
-    "hiReadsProcessor": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
