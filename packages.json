@@ -198,7 +198,6 @@
         "RTCGAToolbox"
     ],
     "CBNplot": [],
-    "cellHTS2": [],
     "CEMiTool": [],
     "CeTF": [],
     "ChAMP": [
@@ -609,9 +608,7 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1134,9 +1131,7 @@
         "derfinder",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "VariantAnnotation",
@@ -1304,9 +1299,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [],
     "strandCheckR": [],
     "StructuralVariantAnnotation": [
