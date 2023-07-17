@@ -1,0 +1,81 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''GOTHiC'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'GOTHiC'
+also installing the dependency ‘HiCDataLymphoblast’
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/HiCDataLymphoblast_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 17203160 bytes (16.4 MB)
+==================================================
+downloaded 16.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/GOTHiC_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 1644078 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *source* package ‘HiCDataLymphoblast’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘HiCDataLymphoblast’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiCDataLymphoblast’ as ‘HiCDataLymphoblast_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiCDataLymphoblast)
+* installing *source* package ‘GOTHiC’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GOTHiC’ as ‘GOTHiC_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GOTHiC)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp9hjidX/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	1m2.020s
+user	0m55.363s
+sys	0m3.068s
+* installing *source* package ‘HiCDataLymphoblast’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘HiCDataLymphoblast’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiCDataLymphoblast’ as ‘HiCDataLymphoblast_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiCDataLymphoblast)
