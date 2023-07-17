@@ -1429,7 +1429,6 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
