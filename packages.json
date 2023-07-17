@@ -1409,7 +1409,6 @@
         "VariantAnnotation"
     ],
     "Voyager": [],
-    "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
