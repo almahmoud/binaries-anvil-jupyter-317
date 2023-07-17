@@ -288,7 +288,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -992,9 +991,7 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "minfi",
         "quantro",
