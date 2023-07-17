@@ -1053,7 +1053,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
         "rGREAT",
