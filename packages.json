@@ -98,9 +98,7 @@
     ],
     "ballgown": [],
     "bambu": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1056,10 +1054,7 @@
         "rGREAT",
         "soGGi"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "proteasy": [
         "ensembldb"
