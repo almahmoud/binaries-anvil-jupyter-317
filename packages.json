@@ -602,9 +602,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [
         "oligo",
         "oligoClasses"
@@ -1027,7 +1025,6 @@
     "oppar": [],
     "ORFik": [],
     "OrganismDbi": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
