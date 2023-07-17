@@ -321,10 +321,7 @@
     "customProDB": [
         "VariantAnnotation"
     ],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -584,9 +581,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "InPAS": [],
     "intansv": [
         "OrganismDbi",
@@ -1083,9 +1078,7 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
