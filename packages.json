@@ -36,9 +36,7 @@
     "AnnotationHubData": [
         "OrganismDbi"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -68,8 +66,7 @@
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "motifmatchr"
@@ -105,8 +102,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "annotatr",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BOBaFIT": [
         "OrganismDbi",
@@ -197,9 +193,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -231,15 +225,13 @@
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVrd2": [
         "VariantAnnotation"
@@ -274,16 +266,14 @@
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "crisprDesign": [
         "VariantAnnotation"
     ],
     "crisprseekplus": [
         "ChIPpeakAnno",
-        "GUIDEseq",
-        "regioneR"
+        "GUIDEseq"
     ],
     "crisprVerse": [
         "Gviz",
@@ -346,8 +336,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DiffBind": [],
     "diffUTR": [],
@@ -365,8 +354,7 @@
         "biovizBase"
     ],
     "dmrseq": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "DominoEffect": [
         "VariantAnnotation"
@@ -518,8 +506,7 @@
         "OrganismDbi"
     ],
     "GUIDEseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "Guitar": [],
     "Gviz": [
@@ -581,8 +568,7 @@
     ],
     "karyoploteR": [
         "VariantAnnotation",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "VariantAnnotation"
@@ -715,8 +701,7 @@
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiGSEA": [],
     "multiSight": [],
@@ -741,7 +726,6 @@
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -855,13 +839,9 @@
     "recountmethylation": [],
     "RedisParam": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -884,9 +864,7 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
@@ -905,13 +883,10 @@
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "RITAN": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -967,8 +942,7 @@
     "scClassify": [],
     "scFeatures": [],
     "scmeth": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "scone": [
         "RUVSeq"
@@ -1090,9 +1064,7 @@
     ],
     "tximeta": [],
     "Ularcirc": [],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -1129,8 +1101,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "regioneR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
