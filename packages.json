@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "OrganismDbi",
         "ReportingTools",
@@ -1352,7 +1350,6 @@
     "SMITE": [
         "goseq"
     ],
-    "snapCGH": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
