@@ -327,7 +327,6 @@
         "methylPipe"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq",
         "ensembldb"
     ],
@@ -403,9 +402,7 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "debrowser": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
@@ -482,7 +479,6 @@
         "bsseq"
     ],
     "EasyCellType": [],
-    "EDASeq": [],
     "eegc": [],
     "ELMER": [
         "Gviz",
@@ -605,8 +601,7 @@
         "VariantAnnotation"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "gcapc": [],
     "GDCRNATools": [],
@@ -976,7 +971,6 @@
     "nnSVG": [],
     "NoRCE": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1160,7 +1154,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1234,9 +1227,7 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
@@ -1256,7 +1247,6 @@
         "regioneR"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -1367,7 +1357,6 @@
     ],
     "SpotClean": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
