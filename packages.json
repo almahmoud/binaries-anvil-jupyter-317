@@ -828,7 +828,6 @@
         "GenomicScores",
         "VariantAnnotation"
     ],
-    "RCAS": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
