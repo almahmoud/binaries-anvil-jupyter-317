@@ -702,7 +702,6 @@
     "lisaClust": [
         "spicyR"
     ],
-    "LRcell": [],
     "lumi": [
         "methylumi",
         "minfi"
