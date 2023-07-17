@@ -278,9 +278,7 @@
         "Rhisat2",
         "SGSeq"
     ],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
@@ -1074,7 +1072,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "qpgraph": [],
     "qsvaR": [],
     "quantro": [
         "minfi"
