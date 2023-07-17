@@ -768,9 +768,7 @@
         "oligoClasses"
     ],
     "MAGeCKFlute": [],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -1388,7 +1386,6 @@
     ],
     "transcriptR": [],
     "trena": [],
-    "TRESS": [],
     "trigger": [],
     "tRNAscanImport": [],
     "tscR": [],
