@@ -827,9 +827,7 @@
         "ensembldb"
     ],
     "MetaPhOR": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "minfi"
@@ -1299,7 +1297,6 @@
         "VariantAnnotation"
     ],
     "SeqSQC": [],
-    "sesame": [],
     "SEtools": [],
     "SGCP": [],
     "SGSeq": [],
