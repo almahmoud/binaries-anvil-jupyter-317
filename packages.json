@@ -65,7 +65,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "OrganismDbi",
         "chromVAR",
@@ -1329,9 +1328,7 @@
         "VariantAnnotation"
     ],
     "TAPseq": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
     "terraTCGAdata": [],
