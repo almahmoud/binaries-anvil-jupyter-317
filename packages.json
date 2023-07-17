@@ -122,7 +122,6 @@
         "dmrseq",
         "regioneR"
     ],
-    "bnbc": [],
     "BOBaFIT": [
         "OrganismDbi",
         "VariantAnnotation",
