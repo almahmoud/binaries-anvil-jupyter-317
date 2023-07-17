@@ -1042,9 +1042,7 @@
         "ensembldb"
     ],
     "PloGO2": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -1113,7 +1111,6 @@
         "VariantAnnotation"
     ],
     "RCAS": [],
-    "rCGH": [],
     "RcisTarget": [],
     "ReactomePA": [],
     "recount": [
