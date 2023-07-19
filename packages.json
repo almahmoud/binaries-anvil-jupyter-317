@@ -48,7 +48,6 @@
         "GenomicScores"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
