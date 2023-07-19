@@ -744,7 +744,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
