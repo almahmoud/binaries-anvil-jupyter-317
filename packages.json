@@ -184,9 +184,7 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -511,7 +509,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "MIRA": [],
     "miRLAB": [],
     "miRSM": [],
     "mitoClone2": [
