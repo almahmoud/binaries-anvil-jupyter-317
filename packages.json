@@ -14,7 +14,6 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [],
     "alabaster": [
         "VariantAnnotation",
         "alabaster.vcf"
