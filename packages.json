@@ -260,7 +260,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "diffUTR": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
