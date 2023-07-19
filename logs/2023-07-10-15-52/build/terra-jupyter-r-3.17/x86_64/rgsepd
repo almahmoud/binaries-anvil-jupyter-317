@@ -1,0 +1,50 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''rgsepd'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'rgsepd'
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/rgsepd_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1254688 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *source* package ‘rgsepd’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+'select()' returned 1:1 mapping between keys and columns
+'select()' returned 1:1 mapping between keys and columns
+** testing if installed package can be loaded from final location
+'select()' returned 1:1 mapping between keys and columns
+'select()' returned 1:1 mapping between keys and columns
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rgsepd’ as ‘rgsepd_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rgsepd)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp5NywJL/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'tximeta', 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
+  'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
+  'digest', 'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	1m25.988s
+user	1m21.111s
+sys	0m2.754s
