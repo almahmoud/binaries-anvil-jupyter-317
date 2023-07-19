@@ -118,9 +118,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "VariantAnnotation"
     ],
@@ -606,7 +604,6 @@
         "oligoClasses"
     ],
     "PFP": [],
-    "phenoTest": [],
     "Pigengene": [],
     "PING": [
         "Gviz",
