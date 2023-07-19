@@ -14,9 +14,7 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "VariantAnnotation",
         "alabaster.vcf"
@@ -29,7 +27,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AnnotationHubData": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -352,9 +349,7 @@
     "esATAC": [
         "motifmatchr"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -529,7 +524,6 @@
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "methylPipe": [
