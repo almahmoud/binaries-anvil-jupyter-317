@@ -285,7 +285,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "esATAC": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
