@@ -45,7 +45,6 @@
     ],
     "ATACCoGAPS": [],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "GenomicScores"
     ],
     "ATACseqTFEA": [],
@@ -134,7 +133,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPXpress": [
         "frma",
@@ -200,7 +198,6 @@
         "VariantAnnotation"
     ],
     "crisprseekplus": [
-        "ChIPpeakAnno",
         "GUIDEseq"
     ],
     "crisprVerse": [
@@ -254,9 +251,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -364,9 +359,7 @@
         "VariantAnnotation"
     ],
     "GRaNIE": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "VariantAnnotation",
         "biovizBase"
@@ -513,7 +506,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "VariantAnnotation",
@@ -608,9 +600,7 @@
     ],
     "recountmethylation": [],
     "RedisParam": [],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -806,9 +796,7 @@
         "VariantAnnotation",
         "gwascat"
     ],
-    "vulcan": [
-        "ChIPpeakAnno"
-    ],
+    "vulcan": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
