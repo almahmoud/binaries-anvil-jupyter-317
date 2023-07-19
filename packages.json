@@ -509,7 +509,6 @@
         "biovizBase"
     ],
     "miaViz": [],
-    "MicrobiomeProfiler": [],
     "mimager": [
         "oligo",
         "oligoClasses"
