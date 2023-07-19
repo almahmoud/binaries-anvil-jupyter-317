@@ -1,0 +1,253 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''NoRCE'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'NoRCE'
+also installing the dependencies ‘TxDb.Hsapiens.UCSC.hg38.knownGene’, ‘TxDb.Drerio.UCSC.danRer10.refGene’, ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’, ‘TxDb.Celegans.UCSC.ce11.refGene’, ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’, ‘org.Mm.eg.db’, ‘org.Rn.eg.db’, ‘org.Dr.eg.db’, ‘org.Ce.eg.db’, ‘org.Dm.eg.db’
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 46645731 bytes (44.5 MB)
+==================================================
+downloaded 44.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Drerio.UCSC.danRer10.refGene_3.4.6.tar.gz'
+Content type 'application/x-gzip' length 6601634 bytes (6.3 MB)
+==================================================
+downloaded 6.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Dmelanogaster.UCSC.dm6.ensGene_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 5539488 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Celegans.UCSC.ce11.refGene_3.4.6.tar.gz'
+Content type 'application/x-gzip' length 8864052 bytes (8.5 MB)
+==================================================
+downloaded 8.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn6.refGene_3.4.6.tar.gz'
+Content type 'application/x-gzip' length 7633538 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Mm.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 78182157 bytes (74.6 MB)
+==================================================
+downloaded 74.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Rn.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 58824310 bytes (56.1 MB)
+==================================================
+downloaded 56.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Dr.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 32605220 bytes (31.1 MB)
+==================================================
+downloaded 31.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Ce.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 20347924 bytes (19.4 MB)
+==================================================
+downloaded 19.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Dm.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 31432669 bytes (30.0 MB)
+==================================================
+downloaded 30.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/NoRCE_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 2123166 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg38.knownGene)
+* installing *source* package ‘TxDb.Drerio.UCSC.danRer10.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Drerio.UCSC.danRer10.refGene’ as ‘TxDb.Drerio.UCSC.danRer10.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Drerio.UCSC.danRer10.refGene)
+* installing *source* package ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’ as ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene_3.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Dmelanogaster.UCSC.dm6.ensGene)
+* installing *source* package ‘TxDb.Celegans.UCSC.ce11.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Celegans.UCSC.ce11.refGene’ as ‘TxDb.Celegans.UCSC.ce11.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Celegans.UCSC.ce11.refGene)
+* installing *source* package ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’ as ‘TxDb.Rnorvegicus.UCSC.rn6.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Rnorvegicus.UCSC.rn6.refGene)
+* installing *source* package ‘org.Mm.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Mm.eg.db’ as ‘org.Mm.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Mm.eg.db)
+* installing *source* package ‘org.Rn.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Rn.eg.db’ as ‘org.Rn.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Rn.eg.db)
+* installing *source* package ‘org.Dr.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Dr.eg.db’ as ‘org.Dr.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Dr.eg.db)
+* installing *source* package ‘org.Ce.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Ce.eg.db’ as ‘org.Ce.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Ce.eg.db)
+* installing *source* package ‘org.Dm.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Dm.eg.db’ as ‘org.Dm.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Dm.eg.db)
+* installing *source* package ‘NoRCE’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NoRCE’ as ‘NoRCE_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NoRCE)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp31GK9n/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	14m46.884s
+user	14m23.959s
+sys	0m19.171s
+* installing *source* package ‘TxDb.Celegans.UCSC.ce11.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Celegans.UCSC.ce11.refGene’ as ‘TxDb.Celegans.UCSC.ce11.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Celegans.UCSC.ce11.refGene)
