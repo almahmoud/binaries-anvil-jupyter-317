@@ -641,7 +641,6 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
