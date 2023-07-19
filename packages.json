@@ -651,7 +651,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "RgnTX": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "VariantAnnotation",
