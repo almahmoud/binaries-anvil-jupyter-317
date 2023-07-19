@@ -417,9 +417,7 @@
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -721,7 +719,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
