@@ -294,7 +294,6 @@
         "VariantAnnotation"
     ],
     "esATAC": [],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -437,9 +436,7 @@
         "biovizBase"
     ],
     "methrix": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
