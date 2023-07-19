@@ -92,7 +92,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "VariantAnnotation",

@@ -1,0 +1,177 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''borealis'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'borealis'
+also installing the dependencies ‘gamlss.data’, ‘regioneR’, ‘gamlss’, ‘gamlss.dist’, ‘annotatr’
+
+trying URL 'https://cloud.r-project.org/src/contrib/gamlss.data_6.0-2.tar.gz'
+Content type 'application/x-gzip' length 944284 bytes (922 KB)
+==================================================
+downloaded 922 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/regioneR_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1918823 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/gamlss_5.4-12.tar.gz'
+Content type 'application/x-gzip' length 334035 bytes (326 KB)
+==================================================
+downloaded 326 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/gamlss.dist_6.0-5.tar.gz'
+Content type 'application/x-gzip' length 1589004 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/annotatr_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 2440959 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/borealis_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 418355 bytes (408 KB)
+==================================================
+downloaded 408 KB
+
+* installing *source* package ‘gamlss.data’ ...
+** package ‘gamlss.data’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gamlss.data’ as ‘gamlss.data_6.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gamlss.data)
+* installing *source* package ‘regioneR’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘regioneR’ as ‘regioneR_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (regioneR)
+* installing *source* package ‘gamlss.dist’ ...
+** package ‘gamlss.dist’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ST3.c -o ST3.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cdfSICHEL.c -o cdfSICHEL.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dDPOgetC5_C.c -o dDPOgetC5_C.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gamlss.dist_init.c -o gamlss.dist_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c getBI_C2.c -o getBI_C2.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tocdf.c -o tocdf.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tocdfSIbis.c -o tocdfSIbis.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofyPIG1.c -o tofyPIG1.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofyPIG2.c -o tofyPIG2.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofySI1.c -o tofySI1.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofySI2.c -o tofySI2.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofySICHEL1.c -o tofySICHEL1.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofySICHEL2.c -o tofySICHEL2.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofydel1.c -o tofydel1.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tofydel2.c -o tofydel2.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o gamlss.dist.so ST3.o cdfSICHEL.o dDPOgetC5_C.o gamlss.dist_init.o getBI_C2.o tocdf.o tocdfSIbis.o tofyPIG1.o tofyPIG2.o tofySI1.o tofySI2.o tofySICHEL1.o tofySICHEL2.o tofydel1.o tofydel2.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-gamlss.dist/00new/gamlss.dist/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gamlss.dist’ as ‘gamlss.dist_6.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gamlss.dist)
+* installing *source* package ‘gamlss’ ...
+** package ‘gamlss’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gamlss_init.c -o gamlss_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c genD.c -o genD.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o gamlss.so gamlss_init.o genD.o -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-gamlss/00new/gamlss/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gamlss’ as ‘gamlss_5.4-12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gamlss)
+* installing *source* package ‘annotatr’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotatr’ as ‘annotatr_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotatr)
+* installing *source* package ‘borealis’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘borealis’ as ‘borealis_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (borealis)
+
+The downloaded source packages are in
+	‘/tmp/RtmpeWBshr/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	2m40.492s
+user	2m31.031s
+sys	0m8.269s
