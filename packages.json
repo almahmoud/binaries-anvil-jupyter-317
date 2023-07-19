@@ -287,7 +287,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DeMixT": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation"
