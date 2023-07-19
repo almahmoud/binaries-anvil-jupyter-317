@@ -181,7 +181,6 @@
         "biovizBase",
         "methylPipe"
     ],
-    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
