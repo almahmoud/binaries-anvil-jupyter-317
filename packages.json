@@ -115,12 +115,9 @@
         "VariantAnnotation"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -687,7 +684,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RTCGAToolbox": [],
     "SCAN.UPC": [
         "oligo",
         "oligoClasses"
