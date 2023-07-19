@@ -44,8 +44,7 @@
         "oligoClasses"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpli": [
         "Gviz",
@@ -78,7 +77,6 @@
     "BGmix": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [
@@ -167,7 +165,6 @@
         "VariantAnnotation",
         "biovizBase",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -331,7 +328,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [
@@ -413,8 +409,7 @@
         "VariantAnnotation"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [
         "VariantAnnotation",
@@ -507,8 +502,7 @@
         "VariantAnnotation"
     ],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "iCNV": [],
     "ideal": [
@@ -551,16 +545,13 @@
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "methylumi",
         "oligoClasses"
     ],
     "MAGeCKFlute": [],
@@ -583,12 +574,10 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MetaboSignal": [],
@@ -603,7 +592,6 @@
         "ExperimentHubData"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [
@@ -614,7 +602,6 @@
     "methylSig": [
         "DSS"
     ],
-    "methylumi": [],
     "miaViz": [],
     "MicrobiomeProfiler": [],
     "mimager": [
@@ -622,8 +609,7 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [
         "VanillaICE",
@@ -636,9 +622,7 @@
         "miRspongeR"
     ],
     "miRspongeR": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
@@ -878,9 +862,7 @@
         "derfinder",
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -941,7 +923,6 @@
     "sitadela": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SMITE": [],
@@ -1050,8 +1031,7 @@
         "DiffBind"
     ],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "YAPSA": [
         "SomaticSignatures",
