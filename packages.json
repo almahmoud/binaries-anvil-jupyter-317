@@ -93,9 +93,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -154,7 +152,6 @@
     "CeTF": [],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "Gviz",
         "VariantAnnotation",
         "biovizBase"
@@ -292,9 +289,7 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -312,7 +307,6 @@
     "DiffBind": [],
     "diffUTR": [],
     "DMRcate": [
-        "DSS",
         "Gviz",
         "VariantAnnotation",
         "biovizBase"
@@ -334,7 +328,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [],
     "EasyCellType": [],
     "eegc": [],
     "ELMER": [
@@ -516,9 +509,7 @@
     "katdetectr": [
         "VariantAnnotation"
     ],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
@@ -571,9 +562,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "miaViz": [],
     "MicrobiomeProfiler": [],
     "mimager": [
