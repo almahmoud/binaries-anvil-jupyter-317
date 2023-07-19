@@ -492,7 +492,6 @@
     ],
     "NanoMethViz": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "octad": [],
@@ -553,7 +552,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "quantro": [],
     "QuasR": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -768,9 +766,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
