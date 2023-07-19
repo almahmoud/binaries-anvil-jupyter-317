@@ -407,7 +407,6 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "gespeR": [],
     "ggbio": [
         "VariantAnnotation",
         "biovizBase"
