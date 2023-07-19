@@ -129,7 +129,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPQC": [],
     "ChIPXpress": [
         "frma",
         "oligo",
