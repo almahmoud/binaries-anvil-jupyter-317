@@ -726,7 +726,6 @@
         "epivizr"
     ],
     "segmenter": [],
-    "selectKSigs": [],
     "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
