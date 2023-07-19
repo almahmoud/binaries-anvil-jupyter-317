@@ -628,7 +628,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "RITAN": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
