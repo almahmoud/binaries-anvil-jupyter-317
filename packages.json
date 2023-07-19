@@ -161,7 +161,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -321,8 +320,7 @@
         "DSS",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "missMethyl"
+        "biovizBase"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -561,8 +559,7 @@
     "MEAL": [
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "missMethyl"
+        "biovizBase"
     ],
     "MEAT": [
         "wateRmelon"
@@ -578,9 +575,7 @@
         "AnnotationHubData",
         "ExperimentHubData"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -607,7 +602,6 @@
         "miRspongeR"
     ],
     "miRspongeR": [],
-    "missMethyl": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
