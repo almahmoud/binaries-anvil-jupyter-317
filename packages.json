@@ -259,7 +259,6 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
@@ -366,9 +365,7 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GDCRNATools": [],
     "genbankr": [
         "VariantAnnotation"
