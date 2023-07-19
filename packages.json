@@ -72,9 +72,7 @@
         "VariantAnnotation"
     ],
     "BGmix": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BindingSiteFinder": [
         "Gviz",
         "VariantAnnotation",
@@ -159,8 +157,7 @@
         "DSS",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "wateRmelon"
+        "biovizBase"
     ],
     "ChIC": [],
     "chimeraviz": [
@@ -557,9 +554,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboSignal": [],
     "metagene": [],
     "MetaPhOR": [],
@@ -893,9 +888,7 @@
         "VariantAnnotation"
     ],
     "sitadela": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SMITE": [],
     "SNPhood": [
         "VariantAnnotation"
@@ -1001,7 +994,6 @@
         "ChIPpeakAnno",
         "DiffBind"
     ],
-    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",

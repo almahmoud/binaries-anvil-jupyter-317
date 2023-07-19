@@ -1,0 +1,153 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''wateRmelon'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'wateRmelon'
+also installing the dependencies ‘RPMM’, ‘IlluminaHumanMethylationEPICanno.ilm10b2.hg19’, ‘IlluminaHumanMethylationEPICmanifest’, ‘FlowSorted.Blood.EPIC’, ‘FlowSorted.Blood.450k’
+
+trying URL 'https://cloud.r-project.org/src/contrib/RPMM_1.25.tar.gz'
+Content type 'application/x-gzip' length 118097 bytes (115 KB)
+==================================================
+downloaded 115 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/IlluminaHumanMethylationEPICanno.ilm10b2.hg19_0.6.0.tar.gz'
+Content type 'application/x-gzip' length 158636019 bytes (151.3 MB)
+==================================================
+downloaded 151.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/IlluminaHumanMethylationEPICmanifest_0.3.0.tar.gz'
+Content type 'application/x-gzip' length 17449851 bytes (16.6 MB)
+==================================================
+downloaded 16.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/FlowSorted.Blood.EPIC_2.4.2.tar.gz'
+Content type 'application/x-gzip' length 99186 bytes (96 KB)
+==================================================
+downloaded 96 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/FlowSorted.Blood.450k_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 175957334 bytes (167.8 MB)
+==================================================
+downloaded 167.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/wateRmelon_2.6.0.tar.gz'
+Content type 'application/x-gzip' length 3408560 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+* installing *source* package ‘RPMM’ ...
+** package ‘RPMM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RPMM’ as ‘RPMM_1.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RPMM)
+* installing *source* package ‘IlluminaHumanMethylationEPICanno.ilm10b2.hg19’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICanno.ilm10b2.hg19’ as ‘IlluminaHumanMethylationEPICanno.ilm10b2.hg19_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICanno.ilm10b2.hg19)
+* installing *source* package ‘IlluminaHumanMethylationEPICmanifest’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICmanifest’ as ‘IlluminaHumanMethylationEPICmanifest_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICmanifest)
+* installing *source* package ‘FlowSorted.Blood.EPIC’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FlowSorted.Blood.EPIC’ as ‘FlowSorted.Blood.EPIC_2.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FlowSorted.Blood.EPIC)
+* installing *source* package ‘FlowSorted.Blood.450k’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FlowSorted.Blood.450k’ as ‘FlowSorted.Blood.450k_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FlowSorted.Blood.450k)
+* installing *source* package ‘wateRmelon’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+Creating a generic function from function ‘as.methylumi’ in package ‘wateRmelon’
+Creating a generic function from function ‘adjustedDasen’ in package ‘wateRmelon’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package can be loaded from final location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘wateRmelon’ as ‘wateRmelon_2.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wateRmelon)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0wS4Qw/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	8m22.893s
+user	8m6.958s
+sys	0m15.370s
