@@ -62,7 +62,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "bioCancer": [],
     "biovizBase": [
         "VariantAnnotation"
     ],
