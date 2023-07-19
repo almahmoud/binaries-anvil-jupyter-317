@@ -280,10 +280,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -666,9 +663,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
