@@ -82,8 +82,7 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "VariantAnnotation",
-        "dmrseq"
+        "VariantAnnotation"
     ],
     "BOBaFIT": [
         "VariantAnnotation",
@@ -311,7 +310,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "dmrseq": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
