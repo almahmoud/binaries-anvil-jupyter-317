@@ -385,9 +385,7 @@
     "icetea": [
         "VariantAnnotation"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -534,7 +532,6 @@
         "VariantAnnotation"
     ],
     "pageRank": [],
-    "pcaExplorer": [],
     "pdInfoBuilder": [
         "oligo",
         "oligoClasses"
