@@ -201,8 +201,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "clipper": [],
     "cn.farms": [
@@ -398,9 +397,7 @@
     "esATAC": [
         "motifmatchr"
     ],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -827,9 +824,7 @@
     ],
     "RgnTX": [],
     "rgsepd": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "VariantAnnotation",
@@ -926,7 +921,6 @@
     ],
     "SEtools": [],
     "SGCP": [],
-    "SGSeq": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [],
