@@ -520,10 +520,7 @@
     ],
     "MIRA": [],
     "miRLAB": [],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
