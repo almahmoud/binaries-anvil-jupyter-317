@@ -630,7 +630,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "VariantAnnotation",
         "biovizBase",
