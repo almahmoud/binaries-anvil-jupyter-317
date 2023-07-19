@@ -1,0 +1,203 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''epivizrData'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'epivizrData'
+also installing the dependencies ‘rngtools’, ‘doRNG’, ‘org.Mm.eg.db’, ‘bumphunter’, ‘Mus.musculus’, ‘EnsDb.Mmusculus.v79’, ‘RMySQL’
+
+trying URL 'https://cloud.r-project.org/src/contrib/rngtools_1.5.2.tar.gz'
+Content type 'application/x-gzip' length 22753 bytes (22 KB)
+==================================================
+downloaded 22 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/doRNG_1.8.6.tar.gz'
+Content type 'application/x-gzip' length 288363 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/org.Mm.eg.db_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 78182157 bytes (74.6 MB)
+==================================================
+downloaded 74.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/bumphunter_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2481556 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/Mus.musculus_1.3.1.tar.gz'
+Content type 'application/x-gzip' length 1618 bytes
+==================================================
+downloaded 1618 bytes
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/EnsDb.Mmusculus.v79_2.99.0.tar.gz'
+Content type 'application/x-gzip' length 46050579 bytes (43.9 MB)
+==================================================
+downloaded 43.9 MB
+
+trying URL 'https://cloud.r-project.org/src/contrib/RMySQL_0.10.25.tar.gz'
+Content type 'application/x-gzip' length 53316 bytes (52 KB)
+==================================================
+downloaded 52 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/epivizrData_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 249216 bytes (243 KB)
+==================================================
+downloaded 243 KB
+
+* installing *source* package ‘rngtools’ ...
+** package ‘rngtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rngtools’ as ‘rngtools_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rngtools)
+* installing *source* package ‘org.Mm.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Mm.eg.db’ as ‘org.Mm.eg.db_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Mm.eg.db)
+* installing *source* package ‘EnsDb.Mmusculus.v79’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EnsDb.Mmusculus.v79’ as ‘EnsDb.Mmusculus.v79_2.99.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EnsDb.Mmusculus.v79)
+* installing *source* package ‘RMySQL’ ...
+** package ‘RMySQL’ successfully unpacked and MD5 sums checked
+** using staged installation
+Found mysql_config cflags and libs!
+Using PKG_CFLAGS=-I/usr/include/mysql 
+Using PKG_LIBS=-L/usr/lib/x86_64-linux-gnu -lmysqlclient -lpthread -ldl -lssl -lcrypto -lresolv -lm -lrt
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+rm -f RMySQL.so RMySQL-init.o connection.o db-apply.o driver.o exception.o fields.o result.o utils.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RMySQL-init.c -o RMySQL-init.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c connection.c -o connection.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c db-apply.c -o db-apply.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c driver.c -o driver.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c exception.c -o exception.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fields.c -o fields.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c result.c -o result.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I/usr/include/mysql       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utils.c -o utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o RMySQL.so RMySQL-init.o connection.o db-apply.o driver.o exception.o fields.o result.o utils.o -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lpthread -ldl -lssl -lcrypto -lresolv -lm -lrt -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-RMySQL/00new/RMySQL/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RMySQL’ as ‘RMySQL_0.10.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RMySQL)
+* installing *source* package ‘epivizrData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘epivizrData’ as ‘epivizrData_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epivizrData)
+* installing *source* package ‘doRNG’ ...
+** package ‘doRNG’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘doRNG’ as ‘doRNG_1.8.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doRNG)
+* installing *source* package ‘Mus.musculus’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Mus.musculus’ as ‘Mus.musculus_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Mus.musculus)
+* installing *source* package ‘bumphunter’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bumphunter’ as ‘bumphunter_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bumphunter)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0zSAo3/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	8m14.036s
+user	7m57.975s
+sys	0m14.650s
