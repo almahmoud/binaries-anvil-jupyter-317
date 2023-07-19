@@ -486,7 +486,6 @@
         "ensemblVEP",
         "gmapR"
     ],
-    "MoonlightR": [],
     "motifbreakR": [
         "Gviz",
         "VariantAnnotation",
