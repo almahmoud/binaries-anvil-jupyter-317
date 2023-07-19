@@ -45,7 +45,6 @@
     "ATACseqQC": [
         "GenomicScores"
     ],
-    "ATACseqTFEA": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
