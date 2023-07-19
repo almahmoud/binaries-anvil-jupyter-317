@@ -713,7 +713,6 @@
     "scTreeViz": [
         "epivizr"
     ],
-    "segmenter": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
