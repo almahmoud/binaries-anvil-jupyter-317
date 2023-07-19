@@ -162,7 +162,6 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
