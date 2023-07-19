@@ -43,9 +43,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpli": [
         "Gviz",
         "VariantAnnotation",
@@ -76,7 +74,6 @@
     ],
     "BGmix": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [
@@ -164,7 +161,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -406,9 +402,7 @@
     "fcScan": [
         "VariantAnnotation"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [
         "VariantAnnotation",
         "biovizBase",
@@ -499,9 +493,7 @@
     "icetea": [
         "VariantAnnotation"
     ],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iCNV": [],
     "ideal": [
         "pcaExplorer"
@@ -543,7 +535,6 @@
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -575,7 +566,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "MetaboSignal": [],
@@ -606,9 +596,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
@@ -918,7 +906,6 @@
     ],
     "sitadela": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SMITE": [],
@@ -1026,9 +1013,7 @@
         "ChIPpeakAnno",
         "DiffBind"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
