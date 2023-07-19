@@ -440,7 +440,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "IRISFGM": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
