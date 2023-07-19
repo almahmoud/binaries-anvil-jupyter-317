@@ -31,7 +31,6 @@
         "biovizBase"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -84,7 +83,6 @@
     ],
     "biscuiteer": [
         "VariantAnnotation",
-        "annotatr",
         "dmrseq"
     ],
     "BOBaFIT": [
@@ -313,9 +311,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -823,9 +819,7 @@
     ],
     "scanMiRApp": [],
     "scFeatures": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
