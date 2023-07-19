@@ -305,7 +305,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "eegc": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
