@@ -46,13 +46,10 @@
     "ATACCoGAPS": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -243,9 +240,7 @@
         "VariantAnnotation"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [
         "VariantAnnotation"
     ],
@@ -510,10 +505,8 @@
     "motifbreakR": [
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
-    "motifStack": [],
     "msgbsR": [
         "VariantAnnotation",
         "biovizBase",
@@ -546,7 +539,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -680,8 +672,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "RIPAT": [
         "VariantAnnotation",
