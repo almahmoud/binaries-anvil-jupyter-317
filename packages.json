@@ -710,7 +710,6 @@
         "oligoClasses"
     ],
     "scanMiRApp": [],
-    "scFeatures": [],
     "scone": [],
     "scoreInvHap": [
         "VariantAnnotation"
