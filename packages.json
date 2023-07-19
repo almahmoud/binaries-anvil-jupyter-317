@@ -725,7 +725,6 @@
         "epivizr"
     ],
     "segmenter": [],
-    "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
