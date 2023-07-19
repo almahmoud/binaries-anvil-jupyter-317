@@ -266,7 +266,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "enhancerHomologSearch": [],
     "enrichTF": [],
     "ensemblVEP": [
         "VariantAnnotation"
