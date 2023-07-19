@@ -42,7 +42,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ATACCoGAPS": [],
     "ATACseqQC": [
         "GenomicScores"
     ],

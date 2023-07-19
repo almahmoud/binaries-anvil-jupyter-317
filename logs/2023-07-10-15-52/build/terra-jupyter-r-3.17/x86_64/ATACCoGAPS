@@ -1,0 +1,67 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''ATACCoGAPS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'ATACCoGAPS'
+also installing the dependency ‘Mus.musculus’
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/Mus.musculus_1.3.1.tar.gz'
+Content type 'application/x-gzip' length 1618 bytes
+==================================================
+downloaded 1618 bytes
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/ATACCoGAPS_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 2913174 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *source* package ‘Mus.musculus’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Mus.musculus’ as ‘Mus.musculus_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Mus.musculus)
+* installing *source* package ‘ATACCoGAPS’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ATACCoGAPS’ as ‘ATACCoGAPS_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ATACCoGAPS)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp5lNp99/downloaded_packages’
+Old packages: 'affy', 'affydata', 'CoGAPS', 'cytolib', 'flowCore',
+  'RProtoBufLib', 'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib',
+  'cpp11', 'curl', 'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2',
+  'digest', 'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	1m24.268s
+user	1m18.175s
+sys	0m4.336s
