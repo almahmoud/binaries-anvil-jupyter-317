@@ -1,0 +1,151 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''BUSpaRse'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.20), R 4.3.0 (2023-04-21)
+Installing package(s) 'BUSpaRse'
+also installing the dependencies ‘zeallot’, ‘TENxBUSData’, ‘TxDb.Hsapiens.UCSC.hg38.knownGene’, ‘BSgenome.Hsapiens.UCSC.hg38’
+
+trying URL 'https://cloud.r-project.org/src/contrib/zeallot_0.1.0.tar.gz'
+Content type 'application/x-gzip' length 32549 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/TENxBUSData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 226594 bytes (221 KB)
+==================================================
+downloaded 221 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0.tar.gz'
+Content type 'application/x-gzip' length 46645731 bytes (44.5 MB)
+==================================================
+downloaded 44.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+Content type 'application/x-gzip' length 731245539 bytes (697.4 MB)
+==================================================
+downloaded 697.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/BUSpaRse_1.14.1.tar.gz'
+Content type 'application/x-gzip' length 589146 bytes (575 KB)
+==================================================
+downloaded 575 KB
+
+* installing *source* package ‘zeallot’ ...
+** package ‘zeallot’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zeallot’ as ‘zeallot_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zeallot)
+* installing *source* package ‘TENxBUSData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TENxBUSData’ as ‘TENxBUSData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TENxBUSData)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg38.knownGene_3.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg38.knownGene)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38’ as ‘BSgenome.Hsapiens.UCSC.hg38_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38)
+* installing *source* package ‘BUSpaRse’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include' -I'/usr/local/lib/R/site-library/RcppProgress/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include' -I'/usr/local/lib/R/site-library/RcppProgress/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-cRDaP8/r-base-4.3.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fill_cell_gene.cpp -o fill_cell_gene.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o BUSpaRse.so RcppExports.o fill_cell_gene.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-BUSpaRse/00new/BUSpaRse/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BUSpaRse’ as ‘BUSpaRse_1.14.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BUSpaRse)
+
+The downloaded source packages are in
+	‘/tmp/RtmpsKguuZ/downloaded_packages’
+Old packages: 'affy', 'affydata', 'cytolib', 'flowCore', 'RProtoBufLib',
+  'AnnotationDbi', 'BiocManager', 'biomaRt', 'broom', 'bslib', 'cpp11', 'curl',
+  'dbplyr', 'DelayedArray', 'DelayedMatrixStats', 'DESeq2', 'digest',
+  'downlit', 'ExperimentHub', 'future', 'gargle', 'GenomeInfoDb',
+  'GenomicFeatures', 'googledrive', 'googlesheets4', 'haven', 'igraph',
+  'IRanges', 'jsonlite', 'KernSmooth', 'locfit', 'Matrix', 'MatrixGenerics',
+  'mgcv', 'openssl', 'pbapply', 'pkgbuild', 'pkgload', 'processx', 'Rcpp',
+  'RcppAnnoy', 'RcppArmadillo', 'readxl', 'remotes', 'reticulate', 'rmarkdown',
+  'rstudioapi', 'sass', 'scattermore', 'Seurat', 'shiny', 'sp',
+  'sparseMatrixStats', 'spatstat.geom', 'spatstat.sparse', 'testthat',
+  'usethis', 'uwot', 'vctrs', 'xml2'
+
+real	4m49.721s
+user	4m30.078s
+sys	0m14.513s
+* installing *source* package ‘TENxBUSData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TENxBUSData’ as ‘TENxBUSData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TENxBUSData)
