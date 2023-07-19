@@ -776,7 +776,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantFiltering": [
         "GenomicScores",
