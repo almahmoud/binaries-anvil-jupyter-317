@@ -583,7 +583,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
