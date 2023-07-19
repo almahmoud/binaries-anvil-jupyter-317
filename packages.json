@@ -154,7 +154,6 @@
         "VariantAnnotation",
         "gwascat"
     ],
-    "clipper": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
