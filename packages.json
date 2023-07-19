@@ -309,7 +309,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "GARS": [],
     "genbankr": [
         "VariantAnnotation"
     ],
