@@ -212,7 +212,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "conumee": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
