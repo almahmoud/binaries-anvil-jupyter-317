@@ -466,7 +466,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "miaViz": [],
     "mimager": [
         "oligo",
         "oligoClasses"
