@@ -592,7 +592,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [],
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
