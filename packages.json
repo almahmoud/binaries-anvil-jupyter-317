@@ -266,7 +266,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "enrichTF": [],
     "ensemblVEP": [
         "VariantAnnotation"
     ],
