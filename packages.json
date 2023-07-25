@@ -108,10 +108,7 @@
     "cardelino": [
         "VariantAnnotation"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
