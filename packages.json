@@ -555,7 +555,6 @@
         "derfinder"
     ],
     "RedisParam": [],
-    "REDseq": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
