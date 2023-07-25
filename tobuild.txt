@@ -1,6 +1,0 @@
-GenomicScores
-ideal
-epivizrStandalone
-methylclock
-yarn
-scTreeViz
