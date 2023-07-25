@@ -481,9 +481,7 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "ODER": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -749,7 +747,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "yarn": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
