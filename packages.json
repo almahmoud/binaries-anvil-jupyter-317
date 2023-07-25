@@ -639,7 +639,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scTreeViz": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
