@@ -186,9 +186,7 @@
     "crisprDesign": [
         "VariantAnnotation"
     ],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -336,7 +334,6 @@
         "VariantAnnotation"
     ],
     "GRaNIE": [],
-    "GUIDEseq": [],
     "Gviz": [
         "VariantAnnotation",
         "biovizBase"
