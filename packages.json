@@ -413,7 +413,6 @@
         "biovizBase"
     ],
     "methrix": [],
-    "methylclock": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
