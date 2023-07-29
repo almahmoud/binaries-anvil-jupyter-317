@@ -1,0 +1,11 @@
+singleCellTK
+GenomicScores
+oligoClasses
+trena
+methrix
+EpiCompare
+vulcan
+VariantAnnotation
+TDbasedUFEadv
+GRaNIE
+scanMiRApp
