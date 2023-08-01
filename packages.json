@@ -918,7 +918,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "AneuFinder": [
@@ -2312,7 +2311,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zinbwave",
         "zlibbioc"
     ],
@@ -2531,7 +2529,6 @@
         "graphite",
         "minet",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "BiocCheck": [
@@ -3831,7 +3828,6 @@
         "ggtree",
         "rtracklayer",
         "snpStats",
-        "treeio",
         "zlibbioc"
     ],
     "Cardinal": [
@@ -3995,7 +3991,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "cBioPortalData": [
@@ -4051,7 +4046,6 @@
         "graphite",
         "interactiveDisplayBase",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "cbpManager": [
@@ -4350,7 +4344,6 @@
         "impute",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "censcyt": [
@@ -4428,7 +4421,6 @@
         "graph",
         "qvalue",
         "snpStats",
-        "treeio",
         "zlibbioc"
     ],
     "CexoR": [
@@ -4879,7 +4871,6 @@
         "ggtree",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "chipseq": [
@@ -5485,7 +5476,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "clusterStab": [
@@ -5904,7 +5894,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "Cogito": [
@@ -7695,7 +7684,6 @@
         "pathview",
         "qvalue",
         "sva",
-        "treeio",
         "zlibbioc"
     ],
     "DECIPHER": [
@@ -9129,7 +9117,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "easyRNASeq": [
@@ -9282,7 +9269,6 @@
         "ggtree",
         "limma",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "EGAD": [
@@ -9520,7 +9506,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "enrichTF": [
@@ -9558,7 +9543,6 @@
         "qvalue",
         "rtracklayer",
         "seqLogo",
-        "treeio",
         "zlibbioc"
     ],
     "ensembldb": [
@@ -9677,7 +9661,6 @@
         "qvalue",
         "rtracklayer",
         "seqPattern",
-        "treeio",
         "zlibbioc"
     ],
     "epidecodeR": [
@@ -10111,7 +10094,6 @@
         "qvalue",
         "rtracklayer",
         "seqLogo",
-        "treeio",
         "zlibbioc"
     ],
     "escape": [
@@ -10290,7 +10272,6 @@
         "interactiveDisplayBase",
         "limma",
         "orthogene",
-        "treeio",
         "zlibbioc"
     ],
     "ExCluster": [
@@ -10436,7 +10417,6 @@
         "rhdf5filters",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "ExploreModelMatrix": [
@@ -10552,7 +10532,6 @@
         "ggtree",
         "qvalue",
         "rWikiPathways",
-        "treeio",
         "zlibbioc"
     ],
     "farms": [
@@ -10671,7 +10650,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "fcScan": [
@@ -11572,7 +11550,6 @@
         "limma",
         "pathview",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "GDSArray": [
@@ -12403,7 +12380,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "GGPA": [],
@@ -12433,16 +12409,12 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GIGSEA": [],
     "girafe": [
@@ -12795,7 +12767,6 @@
         "ggtree",
         "goProfiles",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "goSTAG": [
@@ -14632,7 +14603,6 @@
         "scran",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "iSEE": [
@@ -15165,7 +15135,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "lionessR": [
@@ -15404,7 +15373,6 @@
         "XVector",
         "ggtree",
         "msa",
-        "treeio",
         "zlibbioc"
     ],
     "m6Aboost": [
@@ -15617,7 +15585,6 @@
         "interactiveDisplayBase",
         "pathview",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "magpie": [
@@ -16358,7 +16325,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "meshr": [
@@ -16650,7 +16616,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "metapone": [
@@ -16952,7 +16917,6 @@
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "methylInheritance": [
@@ -17237,7 +17201,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "miaSim": [
@@ -17255,7 +17218,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "miaViz": [
@@ -17290,7 +17252,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "MiChip": [
@@ -17396,7 +17357,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "MicrobiomeProfiler": [
@@ -17416,7 +17376,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "MicrobiotaProcess": [
@@ -17434,7 +17393,6 @@
         "XVector",
         "ggtree",
         "ggtreeExtra",
-        "treeio",
         "zlibbioc"
     ],
     "microRNA": [
@@ -17461,7 +17419,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "midasHLA": [
@@ -17837,7 +17794,6 @@
         "preprocessCore",
         "qvalue",
         "rqubic",
-        "treeio",
         "zlibbioc"
     ],
     "miRspongeR": [
@@ -17866,7 +17822,6 @@
         "graphite",
         "miRBaseConverter",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "missMethyl": [
@@ -18291,7 +18246,6 @@
         "ggtree",
         "limma",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "mosaics": [
@@ -19206,7 +19160,6 @@
         "qvalue",
         "rWikiPathways",
         "ropls",
-        "treeio",
         "zlibbioc"
     ],
     "multtest": [
@@ -20758,8 +20711,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "S4Vectors",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Oscope": [
         "EBSeq"
@@ -21051,7 +21003,6 @@
         "multtest",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "panp": [
@@ -21421,7 +21372,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "pgca": [],
@@ -21552,8 +21502,7 @@
         "graph"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhIPData": [
         "Biobase",
@@ -21683,7 +21632,6 @@
         "impute",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "PING": [
@@ -22270,7 +22218,6 @@
         "rGREAT",
         "rtracklayer",
         "soGGi",
-        "treeio",
         "zlibbioc"
     ],
     "profileScoreDist": [
@@ -23503,7 +23450,6 @@
         "graph",
         "graphite",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "ReadqPCR": [
@@ -25891,8 +25837,7 @@
     ],
     "SCBN": [],
     "scBubbletree": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [
         "Biobase",
@@ -26661,7 +26606,6 @@
         "meshr",
         "qvalue",
         "schex",
-        "treeio",
         "zlibbioc"
     ],
     "scTGIF": [
@@ -26845,7 +26789,6 @@
         "ggtree",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "selectKSigs": [
@@ -26960,7 +26903,6 @@
         "rtracklayer",
         "seqArchR",
         "seqPattern",
-        "treeio",
         "zlibbioc"
     ],
     "SeqArray": [
@@ -27443,7 +27385,6 @@
         "qvalue",
         "rhdf5",
         "rhdf5filters",
-        "treeio",
         "zlibbioc"
     ],
     "signeR": [
@@ -27803,7 +27744,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "treeio",
         "tximport",
         "zellkonverter",
         "zinbwave",
@@ -27952,8 +27892,7 @@
         "zlibbioc"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "AnnotationDbi",
@@ -29600,7 +29539,6 @@
         "SummarizedExperiment",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "TADCompare": [
@@ -29622,8 +29560,7 @@
         "zlibbioc"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [
         "AnnotationDbi",
@@ -29798,7 +29735,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "tximport",
         "zlibbioc"
     ],
@@ -30136,7 +30072,6 @@
         "qvalue",
         "rWikiPathways",
         "tkWidgets",
-        "treeio",
         "zlibbioc"
     ],
     "TIN": [
@@ -30639,7 +30574,6 @@
     "TreeAndLeaf": [
         "RedeR"
     ],
-    "treeio": [],
     "treekoR": [
         "Biobase",
         "BiocGenerics",
@@ -30663,7 +30597,6 @@
         "ggtree",
         "hopach",
         "limma",
-        "treeio",
         "zlibbioc"
     ],
     "TreeSummarizedExperiment": [
@@ -30680,7 +30613,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "TREG": [
