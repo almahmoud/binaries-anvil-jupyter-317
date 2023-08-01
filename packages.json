@@ -25281,7 +25281,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "rsemmed": [],
     "RSVSim": [
         "Biobase",
         "BiocGenerics",
