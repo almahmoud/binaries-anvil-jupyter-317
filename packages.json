@@ -16860,7 +16860,6 @@
         "limma",
         "zlibbioc"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "AnnotationDbi",
