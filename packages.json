@@ -19796,7 +19796,6 @@
         "minet",
         "zlibbioc"
     ],
-    "NetPathMiner": [],
     "netprioR": [],
     "netresponse": [
         "BiocGenerics",
