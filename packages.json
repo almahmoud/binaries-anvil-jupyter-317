@@ -16831,7 +16831,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "MassArray": [],
     "massiR": [
         "Biobase",
         "BiocGenerics"
