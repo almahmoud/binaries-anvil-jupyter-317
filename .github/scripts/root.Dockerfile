@@ -1,4 +1,4 @@
-FROM us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.1.11 as initial
+FROM us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1 as initial
 USER root
 COPY .github/scripts/deps_json.R /tmp/bioc_build/deps_json.R
 COPY .github/scripts/get_container_name.sh /tmp/bioc_build/get_container_name.sh

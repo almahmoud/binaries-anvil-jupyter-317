@@ -1,4 +1,4 @@
-FROM us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.1.11 as build
+FROM us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1 as build
 ARG LIBRARY
 ARG PKG
 ARG PLATFORM
