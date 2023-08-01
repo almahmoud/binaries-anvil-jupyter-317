@@ -9832,7 +9832,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "eds": [],
     "eegc": [
         "AnnotationDbi",
         "Biobase",
@@ -29505,7 +29504,6 @@
         "densvis",
         "dir.expiry",
         "edgeR",
-        "eds",
         "ensembldb",
         "genefilter",
         "ggtree",
