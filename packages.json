@@ -24976,7 +24976,6 @@
         "zlibbioc"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
         "BSgenome",
