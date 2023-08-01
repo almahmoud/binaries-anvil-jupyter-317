@@ -11943,7 +11943,6 @@
     ],
     "gdsfmt": [],
     "GEM": [],
-    "gemini": [],
     "gemma.R": [
         "Biobase",
         "BiocGenerics",
