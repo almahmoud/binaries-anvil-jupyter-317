@@ -20109,7 +20109,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "pepXMLTab": [],
     "PERFect": [
         "Biobase",
         "BiocGenerics",
