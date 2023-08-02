@@ -9395,7 +9395,6 @@
         "vsn",
         "xcms"
     ],
-    "metabCombiner": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "CompoundDb",
