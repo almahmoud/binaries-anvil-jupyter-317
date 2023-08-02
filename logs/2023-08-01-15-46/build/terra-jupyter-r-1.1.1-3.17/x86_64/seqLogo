@@ -71,11 +71,11 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpnCnjCZ/downloaded_packages’
+	‘/tmp/RtmpuWdx85/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m15.588s
-user	0m12.770s
-sys	0m2.070s
+real	0m13.725s
+user	0m11.157s
+sys	0m1.814s
