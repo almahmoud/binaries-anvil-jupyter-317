@@ -11194,7 +11194,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
