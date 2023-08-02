@@ -1141,9 +1141,7 @@
     "CHETAH": [
         "SingleCellExperiment"
     ],
-    "ChIC": [
-        "genomeIntervals"
-    ],
+    "ChIC": [],
     "chihaya": [],
     "chimeraviz": [
         "AnnotationDbi",
@@ -2241,8 +2239,7 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "ShortRead",
-        "biomaRt",
-        "genomeIntervals"
+        "biomaRt"
     ],
     "EBSEA": [
         "DESeq2"
@@ -2908,7 +2905,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "genomeIntervals": [],
     "GenomicAlignments": [],
     "GenomicFeatures": [
         "AnnotationDbi",
@@ -3020,8 +3016,7 @@
     ],
     "girafe": [
         "GenomicAlignments",
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "AnnotationDbi",
@@ -4462,7 +4457,6 @@
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
-        "genomeIntervals",
         "ggbio",
         "rtracklayer"
     ],
