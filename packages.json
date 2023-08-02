@@ -13730,7 +13730,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "sscore": [],
     "sscu": [
         "Biostrings",
         "XVector"
