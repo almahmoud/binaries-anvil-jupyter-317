@@ -19492,7 +19492,6 @@
         "scuttle"
     ],
     "statTarget": [],
-    "stepNorm": [],
     "stJoincount": [
         "DelayedArray",
         "DelayedMatrixStats",
