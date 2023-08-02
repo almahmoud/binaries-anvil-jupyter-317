@@ -17385,7 +17385,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "occugene": [],
     "OCplus": [
         "Biobase",
         "multtest"
