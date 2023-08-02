@@ -25,11 +25,11 @@ packaged installation of ‘basilisk’ as ‘basilisk_1.12.1_R_x86_64-pc-linux-
 * DONE (basilisk)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpcry51g/downloaded_packages’
+	‘/tmp/Rtmpy3FEKi/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m8.193s
-user	0m5.856s
-sys	0m0.782s
+real	0m8.486s
+user	0m5.814s
+sys	0m0.873s
