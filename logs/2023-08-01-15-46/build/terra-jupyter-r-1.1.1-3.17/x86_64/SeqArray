@@ -97,11 +97,11 @@ packaged installation of ‘SeqArray’ as ‘SeqArray_1.40.1_R_x86_64-pc-linux-
 * DONE (SeqArray)
 
 The downloaded source packages are in
-	‘/tmp/RtmpvMojBg/downloaded_packages’
+	‘/tmp/RtmpRzIcDa/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	1m42.704s
-user	1m33.786s
-sys	0m6.692s
+real	1m13.688s
+user	1m5.661s
+sys	0m4.324s
