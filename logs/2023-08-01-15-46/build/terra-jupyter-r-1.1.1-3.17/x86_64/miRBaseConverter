@@ -52,11 +52,11 @@ packaged installation of ‘miRBaseConverter’ as ‘miRBaseConverter_1.24.0_R_
 * DONE (miRBaseConverter)
 
 The downloaded source packages are in
-	‘/tmp/RtmpBsmA05/downloaded_packages’
+	‘/tmp/Rtmp07TaU1/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m15.054s
-user	0m12.318s
-sys	0m1.455s
+real	0m21.496s
+user	0m16.718s
+sys	0m1.826s
