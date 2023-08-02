@@ -2635,7 +2635,6 @@
         "DESeq2",
         "SummarizedExperiment"
     ],
-    "DelayedDataFrame": [],
     "DelayedTensor": [
         "BiocSingular",
         "HDF5Array",
@@ -10154,7 +10153,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray",
         "SeqArray",
         "SummarizedExperiment"
