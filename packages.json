@@ -3374,7 +3374,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "ImmuneSpaceR": [],
     "infercnv": [
         "SingleCellExperiment"
     ],
