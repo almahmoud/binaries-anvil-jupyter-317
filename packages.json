@@ -5471,7 +5471,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "ctsGE": [],
     "CTSV": [
         "DelayedArray",
         "DelayedMatrixStats",
