@@ -459,9 +459,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "MLInterfaces",
@@ -2058,7 +2056,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "SingleCellExperiment"
     ],
     "diffHic": [
@@ -2191,7 +2188,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "scuttle"
