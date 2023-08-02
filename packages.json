@@ -3743,7 +3743,6 @@
         "biomaRt"
     ],
     "mpra": [],
-    "MPRAnalyze": [],
     "MQmetrics": [],
     "MsDataHub": [
         "AnnotationHub",
