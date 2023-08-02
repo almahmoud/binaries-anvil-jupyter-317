@@ -4869,9 +4869,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "BiocNeighbors",
         "DelayedArray",
@@ -11488,7 +11486,6 @@
         "XVector"
     ],
     "mfa": [],
-    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "Biostrings",
@@ -20183,7 +20180,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "Mfuzz",
         "MultiAssayExperiment",
         "RCy3",
         "S4Arrays",
