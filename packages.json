@@ -7046,7 +7046,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "fabia": [],
     "factR": [
         "AnnotationDbi",
         "BiocIO",
@@ -8929,9 +8928,7 @@
         "XVector",
         "rhdf5"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harshlight": [
         "Biostrings",
         "GenomeInfoDb",
@@ -11853,7 +11850,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fabia",
         "graphite",
         "miRspongeR",
         "rqubic"
@@ -12173,9 +12169,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "MOSim": [
         "IRanges"
     ],
