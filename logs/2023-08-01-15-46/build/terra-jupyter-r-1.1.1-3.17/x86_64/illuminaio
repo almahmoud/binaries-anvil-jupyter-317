@@ -136,14 +136,14 @@ packaged installation of ‘illuminaio’ as ‘illuminaio_0.42.0_R_x86_64-pc-li
 * DONE (illuminaio)
 
 The downloaded source packages are in
-	‘/tmp/RtmpnynVY2/downloaded_packages’
+	‘/tmp/RtmpB53bi0/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m25.421s
-user	0m20.364s
-sys	0m3.886s
+real	0m22.141s
+user	0m17.999s
+sys	0m3.352s
 * installing *source* package ‘IlluminaDataTestFiles’ ...
 ** using staged installation
 ** inst
