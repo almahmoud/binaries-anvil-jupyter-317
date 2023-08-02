@@ -5313,7 +5313,6 @@
         "annotate",
         "genefilter"
     ],
-    "SimBu": [],
     "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
