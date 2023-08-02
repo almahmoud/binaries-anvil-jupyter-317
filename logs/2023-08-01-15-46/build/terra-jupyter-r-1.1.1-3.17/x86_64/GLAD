@@ -205,11 +205,11 @@ packaged installation of ‘GLAD’ as ‘GLAD_2.64.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (GLAD)
 
 The downloaded source packages are in
-	‘/tmp/RtmpEGIYw7/downloaded_packages’
+	‘/tmp/RtmpcvRRtZ/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m45.156s
-user	0m35.725s
-sys	0m4.357s
+real	0m53.016s
+user	0m46.110s
+sys	0m5.481s
