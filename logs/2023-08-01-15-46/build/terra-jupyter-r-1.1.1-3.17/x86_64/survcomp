@@ -552,11 +552,11 @@ packaged installation of ‘survcomp’ as ‘survcomp_1.50.0_R_x86_64-pc-linux-
 * DONE (survcomp)
 
 The downloaded source packages are in
-	‘/tmp/RtmpAthd8Z/downloaded_packages’
+	‘/tmp/Rtmp29JFn3/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	2m18.498s
-user	2m7.824s
-sys	0m13.774s
+real	1m54.289s
+user	1m42.506s
+sys	0m11.236s
