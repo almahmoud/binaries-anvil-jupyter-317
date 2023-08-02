@@ -2186,7 +2186,6 @@
     "doseR": [],
     "doubletrouble": [
         "GenomicAlignments",
-        "MSA2dist",
         "rtracklayer",
         "syntenet"
     ],
@@ -4441,7 +4440,6 @@
     "mpra": [],
     "MPRAnalyze": [],
     "MQmetrics": [],
-    "MSA2dist": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
