@@ -8396,7 +8396,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "ggtreeDendro": [],
     "girafe": [
         "Biostrings",
         "DelayedArray",
