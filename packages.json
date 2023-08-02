@@ -5093,7 +5093,6 @@
         "graphite",
         "mnem"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "DelayedArray",
         "IRanges",
