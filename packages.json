@@ -7803,7 +7803,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "infercnv": [
         "DelayedArray",
         "GenomeInfoDb",
