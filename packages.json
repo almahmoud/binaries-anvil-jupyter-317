@@ -22465,7 +22465,6 @@
         "zlibbioc"
     ],
     "SCFA": [],
-    "scFeatureFilter": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
