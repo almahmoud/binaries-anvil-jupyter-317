@@ -3658,13 +3658,10 @@
         "rtracklayer"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GeoTcgaData": [
         "SummarizedExperiment"
     ],
@@ -5735,7 +5732,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "AnnotationDbi"
     ],
@@ -8324,8 +8320,7 @@
         "scuttle"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "DropletUtils",
@@ -8352,8 +8347,7 @@
         "scuttle"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "spatzie": [
         "AnnotationDbi",
