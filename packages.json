@@ -5868,7 +5868,6 @@
         "mnem",
         "multtest"
     ],
-    "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
         "DelayedArray",
