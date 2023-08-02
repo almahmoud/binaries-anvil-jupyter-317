@@ -15221,7 +15221,6 @@
         "graph",
         "rhdf5"
     ],
-    "oppti": [],
     "optimalFlow": [
         "S4Vectors",
         "flowCore",
