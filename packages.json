@@ -4310,10 +4310,7 @@
     "ontoProc": [
         "AnnotationHub"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "oposSOM": [
         "biomaRt"
