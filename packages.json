@@ -5651,7 +5651,6 @@
     "flowMerge": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
         "S4Arrays",
