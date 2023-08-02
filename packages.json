@@ -5769,7 +5769,6 @@
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
     "tigre": [
         "annotate"
     ],
