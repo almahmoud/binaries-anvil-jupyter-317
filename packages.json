@@ -1678,7 +1678,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "Rsamtools",
         "exomeCopy"
