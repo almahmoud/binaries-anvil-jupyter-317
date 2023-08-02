@@ -6119,7 +6119,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "BiocIO",
