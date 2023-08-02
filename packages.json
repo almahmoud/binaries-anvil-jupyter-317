@@ -21042,7 +21042,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "tomoseqr": [],
     "TOP": [
         "AnnotationDbi",
         "Biostrings",
