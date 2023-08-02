@@ -128,11 +128,11 @@ packaged installation of ‘snpStats’ as ‘snpStats_1.50.0_R_x86_64-pc-linux-
 * DONE (snpStats)
 
 The downloaded source packages are in
-	‘/tmp/RtmpJoMtOk/downloaded_packages’
+	‘/tmp/Rtmpj6OCZj/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m34.868s
-user	0m30.116s
-sys	0m2.886s
+real	0m24.972s
+user	0m21.925s
+sys	0m2.179s
