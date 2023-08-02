@@ -904,7 +904,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -4737,9 +4736,7 @@
     ],
     "MEDME": [],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [],
     "MeSHDbi": [
         "AnnotationDbi"
