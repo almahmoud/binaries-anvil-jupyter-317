@@ -28,11 +28,11 @@ packaged installation of ‘Modstrings’ as ‘Modstrings_1.16.0_R_x86_64-pc-li
 * DONE (Modstrings)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpf4Bn8a/downloaded_packages’
+	‘/tmp/RtmpHtdpgh/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m23.779s
-user	0m20.834s
-sys	0m1.436s
+real	0m23.829s
+user	0m19.631s
+sys	0m1.525s
