@@ -522,8 +522,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "biomformat"
+        "XVector"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -1295,7 +1294,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "biomformat",
         "densvis",
         "genefilter",
         "mia",
@@ -1504,7 +1502,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "biomformat": [],
     "BioMM": [
         "AnnotationDbi",
         "Biostrings",
@@ -3373,7 +3370,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -8915,7 +8911,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "biomformat",
         "genefilter",
         "phyloseq",
         "sva"
@@ -9642,14 +9637,12 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeExplorer": [
@@ -9659,8 +9652,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "biomformat"
+        "XVector"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -9683,7 +9675,6 @@
         "TreeSummarizedExperiment",
         "XVector",
         "beachmat",
-        "biomformat",
         "densvis",
         "mia",
         "phyloseq",
@@ -11729,7 +11720,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [
@@ -11847,7 +11837,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "periodicDNA": [
@@ -11973,8 +11962,7 @@
     "phyloseq": [
         "Biostrings",
         "GenomeInfoDb",
-        "XVector",
-        "biomformat"
+        "XVector"
     ],
     "Pi": [
         "GenomeInfoDb",
@@ -12206,7 +12194,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -12953,7 +12940,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "Rcpi": [
@@ -12992,7 +12978,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -13945,7 +13930,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "rprimer": [
@@ -15222,7 +15206,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "SICtools": [
@@ -15375,7 +15358,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "SimFFPE": [
@@ -16137,7 +16119,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "biomformat",
         "phyloseq"
     ],
     "sRACIPE": [
