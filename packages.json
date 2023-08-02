@@ -7137,7 +7137,6 @@
         "rtracklayer"
     ],
     "fabia": [],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "BiocIO",
