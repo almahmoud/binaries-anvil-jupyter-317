@@ -130,9 +130,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "APL": [
-        "topGO"
-    ],
+    "APL": [],
     "appreci8R": [
         "BSgenome",
         "GenomicFeatures",
@@ -296,9 +294,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "BGmix": [],
     "BicARE": [
         "GSEABase"
@@ -342,9 +338,7 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BioMM": [
-        "topGO"
-    ],
+    "BioMM": [],
     "BioNAR": [],
     "BioNERO": [
         "genefilter",
@@ -590,9 +584,7 @@
     "CelliD": [
         "scater"
     ],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [
         "scater"
@@ -883,8 +875,7 @@
         "biovizBase",
         "ensembldb",
         "methylPipe",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "condiments": [
         "distinct",
@@ -907,9 +898,7 @@
     "consensusSeekeR": [
         "rtracklayer"
     ],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicFeatures",
@@ -1338,8 +1327,7 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "globaltest",
-        "topGO"
+        "globaltest"
     ],
     "ELMER": [
         "BSgenome",
@@ -1620,9 +1608,7 @@
     "flowDensity": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "FoldGO": [
-        "topGO"
-    ],
+    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "GenomicFeatures",
@@ -1815,9 +1801,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -1837,8 +1821,7 @@
     "GRaNIE": [
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "GreyListChIP": [
         "BSgenome",
@@ -1987,8 +1970,7 @@
         "genefilter",
         "goseq",
         "pcaExplorer",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "IdeoViz": [
         "rtracklayer"
@@ -2524,9 +2506,7 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "xcms"
     ],
@@ -2810,9 +2790,7 @@
     ],
     "oligoClasses": [],
     "omada": [],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicade4": [],
     "omicRexposome": [
         "genefilter",
@@ -2908,8 +2886,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "topGO"
+        "genefilter"
     ],
     "PDATK": [
         "genefu"
@@ -2947,8 +2924,7 @@
     "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "PICS": [],
     "Pigengene": [
@@ -3088,8 +3064,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [],
     "puma": [
@@ -3389,8 +3364,7 @@
         "BgeeDB",
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "RJMCMCNucleosomes": [
         "consensusSeekeR",
@@ -4134,7 +4108,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "topGO": [],
     "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
@@ -4148,9 +4121,7 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
         "ShortRead",
@@ -4158,9 +4129,7 @@
         "rtracklayer"
     ],
     "transformGamPoi": [],
-    "tRanslatome": [
-        "topGO"
-    ],
+    "tRanslatome": [],
     "traseR": [
         "BSgenome",
         "rtracklayer"
@@ -4299,9 +4268,7 @@
     "velociraptor": [
         "zellkonverter"
     ],
-    "ViSEAGO": [
-        "topGO"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "ExperimentHub",
         "GSEABase"
