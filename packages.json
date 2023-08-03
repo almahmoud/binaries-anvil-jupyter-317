@@ -3788,7 +3788,6 @@
         "scater",
         "scran",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -4264,9 +4263,7 @@
     ],
     "VDJdive": [],
     "VegaMC": [],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "ViSEAGO": [],
     "vissE": [
         "ExperimentHub",
@@ -4347,7 +4344,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
