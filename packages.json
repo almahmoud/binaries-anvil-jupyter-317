@@ -2281,7 +2281,6 @@
         "GWASTools",
         "oligoClasses"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "BSgenome",
         "GenomicFeatures",
