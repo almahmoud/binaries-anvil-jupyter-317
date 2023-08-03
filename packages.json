@@ -759,7 +759,6 @@
     "CSSQ": [
         "GenomicFeatures"
     ],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "DropletUtils",
