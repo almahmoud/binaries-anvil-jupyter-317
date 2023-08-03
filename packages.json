@@ -227,7 +227,6 @@
     ],
     "BgeeDB": [],
     "BGmix": [],
-    "BicARE": [],
     "bigmelon": [
         "GenomicFeatures",
         "bumphunter",
@@ -1907,7 +1906,6 @@
         "TCGAbiolinks"
     ],
     "miRSM": [
-        "BicARE",
         "DOSE",
         "ReactomePA",
         "SPONGE",
