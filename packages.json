@@ -456,7 +456,6 @@
         "rtracklayer",
         "wateRmelon"
     ],
-    "bigPint": [],
     "BindingSiteFinder": [
         "BSgenome",
         "GenomicAlignments",
