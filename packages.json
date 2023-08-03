@@ -2283,7 +2283,6 @@
     "MouseFM": [],
     "MQmetrics": [],
     "MsDataHub": [],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2303,9 +2302,7 @@
         "sva"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [],
     "MSstatsLiP": [
         "MSstats",
