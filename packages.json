@@ -398,9 +398,7 @@
     "blima": [
         "beadarray"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [
         "ExperimentHub"
     ],
@@ -1368,7 +1366,6 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "PADOG",
         "globaltest",
         "topGO"
     ],
@@ -2929,7 +2926,6 @@
         "sva"
     ],
     "padma": [],
-    "PADOG": [],
     "pageRank": [
         "BSgenome",
         "CNEr",
