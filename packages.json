@@ -1217,7 +1217,6 @@
     "flowDensity": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "GenomicFeatures",
