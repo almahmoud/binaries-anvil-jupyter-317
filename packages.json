@@ -1734,9 +1734,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiLDA": [
         "BSgenome",
         "GenomicFeatures",
@@ -2382,7 +2380,6 @@
         "rtracklayer"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [],
     "multiSight": [
         "DOSE",
         "ReactomePA",
