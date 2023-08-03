@@ -1201,7 +1201,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "DEGreport": [],
     "deltaCaptureC": [],
     "DeMixT": [
         "BSgenome",
@@ -2177,9 +2176,7 @@
         "sva",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
