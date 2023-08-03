@@ -413,7 +413,6 @@
         "GSEABase",
         "annotate"
     ],
-    "BiocSet": [],
     "BioMM": [
         "topGO"
     ],
@@ -650,7 +649,6 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
@@ -3731,7 +3729,6 @@
     ],
     "RefPlus": [],
     "RegEnrich": [
-        "BiocSet",
         "DOSE",
         "GOSemSim"
     ],
@@ -4481,7 +4478,6 @@
         "scuttle"
     ],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "annotate"
     ],
