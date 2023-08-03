@@ -1540,9 +1540,7 @@
         "scater",
         "scuttle"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
@@ -2554,7 +2552,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLP": [],
     "MMAPPR2": [
         "BSgenome",
         "GenomicFeatures",
