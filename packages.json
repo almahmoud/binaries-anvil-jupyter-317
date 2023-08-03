@@ -1249,7 +1249,6 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "rtracklayer"
