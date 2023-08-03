@@ -2651,11 +2651,11 @@ packaged installation of ‘scater’ as ‘scater_1.28.0_R_x86_64-pc-linux-gnu.
 * DONE (scater)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpv3pE4c/downloaded_packages’
+	‘/tmp/RtmpmJEI4e/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	4m36.639s
-user	4m14.467s
-sys	0m21.838s
+real	6m22.568s
+user	5m55.770s
+sys	0m28.238s
