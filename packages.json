@@ -3550,7 +3550,6 @@
         "rtracklayer",
         "scran"
     ],
-    "scGPS": [],
     "scMerge": [
         "batchelor",
         "scater",
