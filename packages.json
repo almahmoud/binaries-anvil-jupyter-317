@@ -35,9 +35,7 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "alabaster": [
         "BSgenome",
         "GenomicFeatures",
@@ -68,8 +66,7 @@
     "AMARETTO": [],
     "amplican": [],
     "ANCOMBC": [
-        "mia",
-        "scater"
+        "mia"
     ],
     "annmap": [],
     "AnnotationHubData": [
@@ -192,7 +189,6 @@
         "sva"
     ],
     "BayesSpace": [
-        "scater",
         "scran"
     ],
     "BBCAnalyzer": [
@@ -208,7 +204,6 @@
         "ANCOMBC",
         "Maaslin2",
         "mia",
-        "scater",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -393,8 +388,7 @@
         "GenomicFeatures"
     ],
     "CATALYST": [
-        "FlowSOM",
-        "scater"
+        "FlowSOM"
     ],
     "categoryCompare": [
         "GOstats"
@@ -420,18 +414,13 @@
         "PROMISE"
     ],
     "celda": [
-        "scater",
         "scran"
     ],
     "CellBarcode": [],
     "cellHTS2": [],
-    "CelliD": [
-        "scater"
-    ],
+    "CelliD": [],
     "cellmigRation": [],
-    "CellMixS": [
-        "scater"
-    ],
+    "CellMixS": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -526,7 +515,6 @@
     "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
-        "scater",
         "scran"
     ],
     "chromswitch": [],
@@ -654,7 +642,6 @@
     ],
     "condiments": [
         "distinct",
-        "scater",
         "slingshot"
     ],
     "consensusDE": [
@@ -781,8 +768,7 @@
     ],
     "cytofQC": [
         "CATALYST",
-        "FlowSOM",
-        "scater"
+        "FlowSOM"
     ],
     "CytoGLMM": [],
     "cytomapper": [
@@ -902,9 +888,7 @@
     "Dino": [
         "scran"
     ],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -1122,8 +1106,7 @@
         "GSVA"
     ],
     "escheR": [
-        "SpatialExperiment",
-        "scater"
+        "SpatialExperiment"
     ],
     "esetVis": [],
     "EventPointer": [
@@ -1206,7 +1189,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "scater",
         "scran"
     ],
     "flowCut": [
@@ -1526,7 +1508,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "scater",
         "scran"
     ],
     "iSEEhub": [],
@@ -1683,9 +1664,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [
-        "scater"
-    ],
+    "MEB": [],
     "MEDIPS": [
         "BSgenome"
     ],
@@ -1787,19 +1766,15 @@
         "bumphunter",
         "minfi"
     ],
-    "mia": [
-        "scater"
-    ],
+    "mia": [],
     "miaSim": [],
     "miaViz": [
-        "mia",
-        "scater"
+        "mia"
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "mia",
-        "scater"
+        "mia"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1994,7 +1969,6 @@
         "VariantAnnotation"
     ],
     "muscat": [
-        "scater",
         "variancePartition"
     ],
     "musicatk": [
@@ -2048,7 +2022,6 @@
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
-        "scater",
         "zinbwave"
     ],
     "netZooR": [
@@ -2178,9 +2151,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "peco": [
-        "scater"
-    ],
+    "peco": [],
     "periodicDNA": [
         "BSgenome"
     ],
@@ -2215,7 +2186,6 @@
         "ensembldb"
     ],
     "pipeComp": [
-        "scater",
         "scran"
     ],
     "pipeFrame": [
@@ -2653,7 +2623,6 @@
     "scAnnotatR": [],
     "SCANVIS": [],
     "SCATE": [],
-    "scater": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -2662,7 +2631,6 @@
         "Cepo"
     ],
     "scDblFinder": [
-        "scater",
         "scran"
     ],
     "scDD": [
@@ -2679,7 +2647,6 @@
     ],
     "scMerge": [
         "batchelor",
-        "scater",
         "scran"
     ],
     "scmeth": [
@@ -2731,12 +2698,9 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "scater",
         "scran"
     ],
-    "scviR": [
-        "scater"
-    ],
+    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2829,7 +2793,6 @@
         "ensembldb",
         "scDblFinder",
         "scMerge",
-        "scater",
         "scran",
         "sva",
         "zinbwave"
@@ -2884,7 +2847,6 @@
         "ggbio"
     ],
     "Spaniel": [
-        "scater",
         "scran"
     ],
     "sparrow": [],
@@ -2905,7 +2867,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "scater",
         "scran"
     ],
     "SpatialOmicsOverlay": [
@@ -3102,9 +3063,7 @@
     "TRESS": [
         "GenomicFeatures"
     ],
-    "tricycle": [
-        "scater"
-    ],
+    "tricycle": [],
     "trigger": [
         "sva"
     ],
@@ -3155,9 +3114,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "VAExprs": [
-        "scater"
-    ],
+    "VAExprs": [],
     "VanillaICE": [
         "BSgenome",
         "crlmm",
