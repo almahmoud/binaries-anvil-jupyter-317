@@ -88,7 +88,6 @@
         "rtracklayer"
     ],
     "airpart": [
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -203,7 +202,6 @@
         "rtracklayer"
     ],
     "apComplex": [],
-    "apeglm": [],
     "APL": [
         "topGO"
     ],
@@ -964,7 +962,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "biomaRt",
         "chipseq",
         "rtracklayer",
@@ -1550,7 +1547,6 @@
         "DOSE",
         "GOSemSim",
         "annotate",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1668,7 +1664,6 @@
         "GenomicAlignments",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -4759,7 +4754,6 @@
     "Rmmquant": [
         "GenomicAlignments",
         "GenomicFeatures",
-        "apeglm",
         "biomaRt",
         "rtracklayer"
     ],
@@ -5708,7 +5702,6 @@
         "enrichplot"
     ],
     "TEKRABber": [
-        "apeglm",
         "biomaRt"
     ],
     "TENxIO": [],
@@ -6069,7 +6062,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "biomaRt",
         "csaw",
         "ensembldb",
