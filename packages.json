@@ -1807,7 +1807,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "microSTASIS": [],
     "midasHLA": [],
     "mimager": [
         "oligo",
