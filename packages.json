@@ -50,15 +50,12 @@
         "GenomicFeatures",
         "SpatialExperiment",
         "VariantAnnotation",
-        "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.sce": [],
     "alabaster.spatial": [
         "DropletUtils",
-        "SpatialExperiment",
-        "alabaster.sce"
+        "SpatialExperiment"
     ],
     "alabaster.vcf": [
         "BSgenome",
