@@ -3530,7 +3530,6 @@
         "Cepo",
         "GSEABase"
     ],
-    "sccomp": [],
     "scDblFinder": [
         "rtracklayer",
         "scater",
