@@ -146,11 +146,11 @@ packaged installation of ‘PADOG’ as ‘PADOG_1.42.0_R_x86_64-pc-linux-gnu.ta
 * DONE (PADOG)
 
 The downloaded source packages are in
-	‘/tmp/RtmpmaLaoz/downloaded_packages’
+	‘/tmp/RtmpB2YuNz/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	1m28.616s
-user	1m20.076s
-sys	0m7.789s
+real	1m17.168s
+user	1m11.599s
+sys	0m5.948s
