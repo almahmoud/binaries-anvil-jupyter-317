@@ -23,7 +23,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "ADImpute": [],
     "AffiXcan": [],
     "affycoretools": [
         "AnnotationForge",
