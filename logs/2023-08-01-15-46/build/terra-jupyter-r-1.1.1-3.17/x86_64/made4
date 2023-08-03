@@ -111,11 +111,11 @@ packaged installation of ‘made4’ as ‘made4_1.74.0_R_x86_64-pc-linux-gnu.ta
 * DONE (made4)
 
 The downloaded source packages are in
-	‘/tmp/RtmpVdOa4O/downloaded_packages’
+	‘/tmp/Rtmp21rV1N/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	1m47.530s
-user	1m38.384s
-sys	0m6.399s
+real	1m47.697s
+user	1m36.634s
+sys	0m6.665s
