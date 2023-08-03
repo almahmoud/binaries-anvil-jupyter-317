@@ -49,11 +49,11 @@ packaged installation of ‘MsFeatures’ as ‘MsFeatures_1.8.0_R_x86_64-pc-lin
 * DONE (MsFeatures)
 
 The downloaded source packages are in
-	‘/tmp/RtmpgvtiQ1/downloaded_packages’
+	‘/tmp/RtmpfDiFe6/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m27.422s
-user	0m23.563s
-sys	0m2.161s
+real	0m27.471s
+user	0m23.871s
+sys	0m2.328s
