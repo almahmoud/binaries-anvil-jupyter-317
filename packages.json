@@ -660,7 +660,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BUScorrect": [],
     "BUSpaRse": [
         "BSgenome",
         "GenomicAlignments",
