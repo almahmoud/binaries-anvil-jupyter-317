@@ -28,11 +28,11 @@ packaged installation of ‘ropls’ as ‘ropls_1.32.0_R_x86_64-pc-linux-gnu.ta
 * DONE (ropls)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp8x3sXg/downloaded_packages’
+	‘/tmp/RtmpS8im5h/downloaded_packages’
 Old packages: 'BiocManager', 'cpp11', 'DelayedArray', 'ExperimentHub', 'fs',
   'gargle', 'igraph', 'MatrixGenerics', 'openssl', 'remotes', 'S4Arrays',
   'sass', 'scran', 'spatial', 'spatstat.geom'
 
-real	0m29.155s
-user	0m26.430s
-sys	0m1.547s
+real	0m29.256s
+user	0m26.741s
+sys	0m1.620s
