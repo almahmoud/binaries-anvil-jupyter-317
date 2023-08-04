@@ -909,9 +909,7 @@
     "Doscheda": [],
     "DOSE": [],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dpeak": [
         "BSgenome"
     ],
@@ -2853,7 +2851,6 @@
         "DOSE"
     ],
     "synergyfinder": [],
-    "syntenet": [],
     "systemPipeR": [],
     "TADCompare": [],
     "TAPseq": [
