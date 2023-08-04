@@ -1611,7 +1611,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "meshr": [],
     "Metab": [
         "xcms"
     ],
@@ -2583,8 +2582,7 @@
     "scTensor": [
         "DOSE",
         "ReactomePA",
-        "enrichplot",
-        "meshr"
+        "enrichplot"
     ],
     "scTGIF": [],
     "scTreeViz": [
