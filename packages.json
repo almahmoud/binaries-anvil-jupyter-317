@@ -616,9 +616,7 @@
         "ensembldb",
         "methylPipe"
     ],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "consensusDE": [
         "EDASeq",
         "GenomicFeatures",
@@ -2556,9 +2554,7 @@
     ],
     "scPipe": [],
     "scran": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "BSgenome",
         "GenomicFeatures",
@@ -2694,7 +2690,6 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "goseq"
@@ -2888,9 +2883,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq"
@@ -2899,9 +2892,7 @@
     "traseR": [
         "BSgenome"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
