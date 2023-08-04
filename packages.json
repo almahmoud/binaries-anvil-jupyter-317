@@ -3006,7 +3006,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "VAExprs": [],
     "VanillaICE": [
         "BSgenome",
         "crlmm",
