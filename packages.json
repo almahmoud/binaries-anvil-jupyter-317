@@ -221,7 +221,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [
         "GenomicFeatures"
     ],
