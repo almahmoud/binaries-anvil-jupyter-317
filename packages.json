@@ -372,7 +372,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "celda": [],
     "cellHTS2": [],
     "CelliD": [],
     "cellmigRation": [],
@@ -2566,7 +2565,6 @@
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
-        "celda",
         "ensembldb",
         "scDblFinder",
         "sva",
