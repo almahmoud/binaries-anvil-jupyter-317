@@ -2111,7 +2111,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "peco": [],
     "periodicDNA": [
         "BSgenome"
     ],
