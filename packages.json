@@ -2114,7 +2114,6 @@
     ],
     "PPInfer": [],
     "pqsfinder": [],
-    "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH"
