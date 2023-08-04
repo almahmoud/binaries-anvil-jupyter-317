@@ -224,7 +224,6 @@
         "sva"
     ],
     "BioNetStat": [],
-    "BioTIP": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
