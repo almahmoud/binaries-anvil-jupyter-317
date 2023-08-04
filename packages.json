@@ -174,7 +174,6 @@
         "BASiCS",
         "scran"
     ],
-    "batchelor": [],
     "BatchQC": [
         "sva"
     ],
@@ -498,7 +497,6 @@
     ],
     "ChromHeatMap": [],
     "ChromSCape": [
-        "batchelor",
         "scran"
     ],
     "chromVAR": [
@@ -1898,7 +1896,6 @@
         "enrichplot"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -2565,7 +2562,6 @@
         "scran"
     ],
     "scMerge": [
-        "batchelor",
         "scran"
     ],
     "scmeth": [
@@ -2699,7 +2695,6 @@
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
-        "batchelor",
         "celda",
         "ensembldb",
         "scDblFinder",
