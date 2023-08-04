@@ -1639,7 +1639,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "BSgenome",
         "GenomicFeatures",
