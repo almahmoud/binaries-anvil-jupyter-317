@@ -1603,7 +1603,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
