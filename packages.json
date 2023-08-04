@@ -2449,7 +2449,6 @@
         "AUCell",
         "GSVA",
         "GenomicFeatures",
-        "SingleCellSignalR",
         "ensembldb"
     ],
     "scmeth": [
@@ -2569,7 +2568,6 @@
         "VariantAnnotation"
     ],
     "simpleSeg": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
