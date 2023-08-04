@@ -619,7 +619,6 @@
         "methylPipe"
     ],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "consensusDE": [
@@ -856,7 +855,6 @@
     "Dino": [
         "scran"
     ],
-    "distinct": [],
     "DMCFB": [],
     "DMRcate": [
         "BSgenome",
