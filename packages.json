@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [],
     "affycoretools": [
         "BSgenome",
@@ -2620,7 +2618,6 @@
         "GenomicFeatures",
         "goseq"
     ],
-    "snapCGH": [],
     "snm": [],
     "SNPhood": [
         "BSgenome",
