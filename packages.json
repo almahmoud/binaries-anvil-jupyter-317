@@ -2030,7 +2030,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [],
     "pipeFrame": [
         "BSgenome"
     ],
