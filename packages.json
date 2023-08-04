@@ -1,7 +1,6 @@
 {
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAMgui": [],
     "affycoretools": [
@@ -2657,9 +2656,7 @@
         "GenomicFeatures",
         "goseq"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snm": [],
     "SNPhood": [
         "BSgenome",
@@ -2810,7 +2807,6 @@
         "ORFik"
     ],
     "TFutils": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "DOSE",
         "clusterProfiler",
