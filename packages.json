@@ -370,9 +370,7 @@
     "CAMERA": [
         "xcms"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -2123,7 +2121,6 @@
     "phemd": [
         "destiny"
     ],
-    "phenoTest": [],
     "PhenStat": [],
     "PhosR": [],
     "PhyloProfile": [
