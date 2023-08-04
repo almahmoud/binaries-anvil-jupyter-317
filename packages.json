@@ -2626,7 +2626,6 @@
     "SparseSignatures": [
         "BSgenome"
     ],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
