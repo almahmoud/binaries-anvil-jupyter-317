@@ -2647,7 +2647,6 @@
         "epivizrData",
         "scran"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
