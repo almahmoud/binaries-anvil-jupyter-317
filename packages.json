@@ -394,9 +394,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [
         "scran"
     ],
@@ -2155,7 +2153,6 @@
         "MLInterfaces",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
