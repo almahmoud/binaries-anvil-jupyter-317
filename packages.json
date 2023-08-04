@@ -6,7 +6,6 @@
     "ADAMgui": [],
     "affycoretools": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
         "ReportingTools",
@@ -18,7 +17,6 @@
     ],
     "AgiMicroRna": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
         "ReportingTools",
@@ -151,9 +149,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "AUCell": [],
     "BaalChIP": [],
     "BadRegionFinder": [
@@ -388,9 +384,7 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1318,9 +1312,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [
         "GenomicFeatures"
     ],
@@ -1334,7 +1326,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [],
     "GOTHiC": [
         "BSgenome"
     ],
@@ -1443,7 +1434,6 @@
         "CODEX"
     ],
     "ideal": [
-        "GOstats",
         "GenomicFeatures",
         "goseq",
         "pcaExplorer"
@@ -1779,7 +1769,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "GOstats",
         "GenomicFeatures",
         "bumphunter",
         "lumi",
@@ -1801,7 +1790,6 @@
         "bsseq"
     ],
     "miRLAB": [
-        "GOstats",
         "TCGAbiolinks"
     ],
     "miRSM": [
@@ -2017,7 +2005,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "GOstats",
         "GenomicFeatures",
         "bumphunter",
         "minfi",
@@ -2134,9 +2121,7 @@
         "DOSE"
     ],
     "PAST": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "pdInfoBuilder": [
         "oligo",
@@ -2181,9 +2166,7 @@
     "pipeFrame": [
         "BSgenome"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -2408,7 +2391,6 @@
     ],
     "ReportingTools": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
@@ -2675,7 +2657,6 @@
     ],
     "scTensor": [
         "DOSE",
-        "GOstats",
         "ReactomePA",
         "enrichplot",
         "meshr"
@@ -2725,9 +2706,7 @@
         "sva"
     ],
     "sevenC": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "SGSeq": [
         "GenomicFeatures"
     ],
