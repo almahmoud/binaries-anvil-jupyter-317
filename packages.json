@@ -820,7 +820,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "Dino": [],
     "DMCFB": [],
     "DMRcate": [
         "BSgenome",
