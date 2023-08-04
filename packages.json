@@ -1049,8 +1049,7 @@
         "ensembldb"
     ],
     "factR": [
-        "GenomicFeatures",
-        "wiggleplotr"
+        "GenomicFeatures"
     ],
     "famat": [
         "DOSE",
@@ -2893,7 +2892,6 @@
     "wavClusteR": [
         "GenomicFeatures"
     ],
-    "wiggleplotr": [],
     "xcms": [],
     "Xeva": [
         "PharmacoGx"
