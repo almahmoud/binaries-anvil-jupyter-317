@@ -1,5 +1,0 @@
-imcRtools
-simpleSeg
-BASiCStan
-cytoviewer
-ADaCGH2
