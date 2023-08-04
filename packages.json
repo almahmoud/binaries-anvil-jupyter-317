@@ -2321,7 +2321,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "BSgenome",
         "GenomicFeatures",
