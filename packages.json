@@ -1739,9 +1739,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "BSgenome",
         "GenomicFeatures",
@@ -2728,7 +2726,6 @@
     "VarCon": [
         "BSgenome"
     ],
-    "variancePartition": [],
     "VariantAnnotation": [
         "BSgenome",
         "GenomicFeatures"
@@ -2808,8 +2805,7 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "variancePartition"
+        "EnrichmentBrowser"
     ],
     "zinbwave": [],
     "ZygosityPredictor": [
