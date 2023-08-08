@@ -1105,7 +1105,6 @@
         "bumphunter",
         "minfi"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "BSgenome",
         "GenomicFeatures",
