@@ -207,7 +207,6 @@
     "BiocOncoTK": [
         "GenomicFeatures"
     ],
-    "BioMM": [],
     "BioNAR": [],
     "BioNERO": [
         "sva"
