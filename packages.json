@@ -680,9 +680,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -713,9 +711,7 @@
         "GenomicFeatures"
     ],
     "dce": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "clusterProfiler",
@@ -1076,10 +1072,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowPloidy": [],
     "FlowSOM": [],
     "FRASER": [
