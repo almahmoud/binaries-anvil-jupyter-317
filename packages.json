@@ -684,7 +684,6 @@
         "flowDensity"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "FlowSOM",
         "diffcyt"
     ],
@@ -692,7 +691,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "CytoGLMM": [],
     "cytoviewer": [],
     "dagLogo": [
         "BSgenome",
