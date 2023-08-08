@@ -213,7 +213,6 @@
     "BioNERO": [
         "sva"
     ],
-    "BioNetStat": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
