@@ -778,7 +778,6 @@
         "regioneR"
     ],
     "DESpace": [],
-    "destiny": [],
     "DExMA": [
         "sva"
     ],
@@ -1963,9 +1962,7 @@
         "enrichplot"
     ],
     "PharmacoGx": [],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "PhenStat": [],
     "PhosR": [],
     "PhyloProfile": [
