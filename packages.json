@@ -2641,7 +2641,6 @@
         "GenomicFeatures",
         "RUVSeq"
     ],
-    "staRank": [],
     "StarBioTrek": [],
     "strandCheckR": [
         "GenomicFeatures"
