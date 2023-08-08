@@ -365,7 +365,6 @@
         "enrichplot"
     ],
     "CelliD": [],
-    "cellmigRation": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
