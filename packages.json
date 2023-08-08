@@ -1135,8 +1135,7 @@
         "GenomicFeatures"
     ],
     "GENESIS": [
-        "GWASTools",
-        "SeqVarTools"
+        "GWASTools"
     ],
     "GeneStructureTools": [
         "BSgenome",
@@ -2452,7 +2451,6 @@
     ],
     "SeqGSEA": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
         "sva"
