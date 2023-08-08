@@ -138,7 +138,6 @@
         "motifStack"
     ],
     "AUCell": [],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "BSgenome",
         "GenomicFeatures",
