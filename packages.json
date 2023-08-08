@@ -1525,7 +1525,6 @@
     ],
     "MetaboSignal": [
         "GenomicFeatures",
-        "MWASTools",
         "ensembldb",
         "mygene"
     ],
@@ -1789,7 +1788,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "MWASTools": [],
     "mygene": [
         "GenomicFeatures"
     ],
