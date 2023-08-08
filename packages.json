@@ -1518,7 +1518,6 @@
     "MEDIPS": [
         "BSgenome"
     ],
-    "MEDME": [],
     "meshes": [
         "DOSE",
         "enrichplot"
