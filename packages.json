@@ -609,7 +609,6 @@
     "cosmiq": [
         "xcms"
     ],
-    "COTAN": [],
     "countsimQC": [],
     "cpvSNP": [
         "GenomicFeatures"
