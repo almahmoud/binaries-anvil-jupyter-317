@@ -1,7 +1,0 @@
-qmtools
-MLInterfaces
-pmm
-LRcell
-Maaslin2
-chipenrich
-omicsViewer
