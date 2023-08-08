@@ -1136,7 +1136,6 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "GeneGeneInteR": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools"
