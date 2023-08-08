@@ -1937,7 +1937,6 @@
         "ontoProc"
     ],
     "PPInfer": [],
-    "pqsfinder": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH"
