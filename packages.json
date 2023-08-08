@@ -1921,7 +1921,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "pairedGSEA": [
         "DEXSeq",
         "sva"
