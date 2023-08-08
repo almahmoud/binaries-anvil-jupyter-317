@@ -344,9 +344,7 @@
     "casper": [
         "GenomicFeatures"
     ],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "cbaf": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -371,7 +369,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "Cepo": [],
@@ -682,12 +679,10 @@
     ],
     "cyanoFilter": [],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "dagLogo": [
         "BSgenome",
@@ -776,9 +771,7 @@
         "BSgenome",
         "GreyListChIP"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "diffHic": [
         "BSgenome"
     ],
@@ -1072,7 +1065,6 @@
         "ggbio"
     ],
     "flowCut": [],
-    "FlowSOM": [],
     "FRASER": [
         "BSgenome",
         "GenomicFeatures",
@@ -1507,9 +1499,7 @@
         "ensembldb",
         "mygene"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metagene": [
         "GenomicFeatures",
         "ensembldb"
@@ -2678,7 +2668,6 @@
         "BSgenome"
     ],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trena": [
