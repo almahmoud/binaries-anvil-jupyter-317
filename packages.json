@@ -448,8 +448,7 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -794,8 +793,7 @@
     "DEXSeq": [],
     "DiffBind": [
         "BSgenome",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffcyt": [
         "FlowSOM"
@@ -2684,7 +2682,6 @@
         "DOSE"
     ],
     "synergyfinder": [],
-    "systemPipeR": [],
     "TADCompare": [],
     "TAPseq": [
         "BSgenome",
@@ -2877,8 +2874,7 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ensembldb",
-        "regioneR",
-        "systemPipeR"
+        "regioneR"
     ],
     "waddR": [],
     "wateRmelon": [
