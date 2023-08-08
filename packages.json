@@ -1180,7 +1180,6 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [],
-    "GEWIST": [],
     "ggbio": [
         "BSgenome",
         "GenomicFeatures",
