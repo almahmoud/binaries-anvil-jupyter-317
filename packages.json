@@ -1222,7 +1222,6 @@
     "goseq": [
         "GenomicFeatures"
     ],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
