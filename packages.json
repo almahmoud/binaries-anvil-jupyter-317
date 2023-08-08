@@ -506,7 +506,6 @@
         "oligoClasses"
     ],
     "CNEr": [],
-    "CNORfuzzy": [],
     "CNVfilteR": [
         "BSgenome",
         "CopyNumberPlots",
