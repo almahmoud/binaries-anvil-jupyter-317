@@ -1185,10 +1185,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
-    "GeomxTools": [],
+    "GeoDiff": [],
     "GEWIST": [],
     "ggbio": [
         "BSgenome",
@@ -2573,13 +2570,9 @@
     "SparseSignatures": [
         "BSgenome"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "BSgenome",
         "CNEr",
