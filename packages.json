@@ -369,7 +369,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cellHTS2": [],
     "CelliD": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -1202,9 +1201,7 @@
     ],
     "GEOexplorer": [],
     "GeomxTools": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [],
     "ggbio": [
         "BSgenome",
@@ -2327,9 +2324,7 @@
         "GenomicFeatures",
         "bumphunter"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2648,9 +2643,7 @@
         "GenomicFeatures",
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [],
     "strandCheckR": [
         "GenomicFeatures"
