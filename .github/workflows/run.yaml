@@ -144,6 +144,7 @@ jobs:
         uses: almahmoud/free-root-space@main
         with:
           verbose: true
+          remove-cache: false
 
       - uses: actions/checkout@v3
 
