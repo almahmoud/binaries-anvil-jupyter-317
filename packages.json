@@ -365,9 +365,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "Cepo": [],
     "CeTF": [
         "DOSE",
@@ -674,9 +672,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "dagLogo": [
         "BSgenome",
@@ -764,7 +760,6 @@
         "BSgenome",
         "GreyListChIP"
     ],
-    "diffcyt": [],
     "diffHic": [
         "BSgenome"
     ],
@@ -2606,9 +2601,7 @@
     "traseR": [
         "BSgenome"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "trena": [
         "BSgenome"
     ],
