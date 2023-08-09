@@ -2274,7 +2274,6 @@
         "ensembldb"
     ],
     "rrvgo": [],
-    "RTCGA": [],
     "RTCGAToolbox": [
         "GenomicFeatures",
         "TCGAutils"
@@ -2561,7 +2560,6 @@
     ],
     "TDbasedUFEadv": [
         "DOSE",
-        "RTCGA",
         "enrichplot"
     ],
     "TEKRABber": [],
