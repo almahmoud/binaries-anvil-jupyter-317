@@ -675,7 +675,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
