@@ -1572,7 +1572,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "midasHLA": [],
     "mimager": [
         "oligo",
         "oligoClasses"
