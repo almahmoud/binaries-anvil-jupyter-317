@@ -991,9 +991,7 @@
         "GenomicFeatures",
         "SGSeq"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "exomePeak2": [
         "BSgenome",
         "GenomicFeatures"
@@ -1848,7 +1846,6 @@
     "OrganismDbi": [
         "GenomicFeatures"
     ],
-    "orthogene": [],
     "OUTRIDER": [
         "GenomicFeatures"
     ],
