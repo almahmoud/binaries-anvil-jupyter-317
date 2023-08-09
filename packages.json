@@ -848,7 +848,6 @@
         "GenomicFeatures"
     ],
     "edge": [
-        "snm",
         "sva"
     ],
     "eegc": [
@@ -2486,7 +2485,6 @@
         "GenomicFeatures",
         "goseq"
     ],
-    "snm": [],
     "SNPhood": [
         "BSgenome",
         "GenomicFeatures",
