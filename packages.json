@@ -2283,12 +2283,8 @@
         "GenomicFeatures",
         "TCGAutils"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "rTRMui": [],
