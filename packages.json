@@ -342,7 +342,6 @@
     "casper": [
         "GenomicFeatures"
     ],
-    "CATALYST": [],
     "cbaf": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -678,9 +677,7 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "dagLogo": [
         "BSgenome",
         "CNEr",
