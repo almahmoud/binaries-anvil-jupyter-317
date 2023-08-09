@@ -2530,7 +2530,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "survtype": [],
     "sva": [],
     "svaNUMT": [
         "BSgenome",
