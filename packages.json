@@ -671,7 +671,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "CyTOFpower": [],
     "cytofQC": [],
     "dagLogo": [
         "BSgenome",
