@@ -703,7 +703,6 @@
         "GenomicFeatures"
     ],
     "dce": [],
-    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "clusterProfiler",
