@@ -2568,7 +2568,6 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
