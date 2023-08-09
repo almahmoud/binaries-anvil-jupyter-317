@@ -214,6 +214,7 @@ jobs:
           mkdir -p $(pwd)/${{ steps.versions.outputs.library }}
           cat /tmp/biocdeps | xargs -i bash -c "if grep 'tar.gz$' lists/{}; then bash .github/scripts/download_artifact.sh {} $(pwd)/${{ steps.versions.outputs.library }} ${{github.repository}}; else echo 'Skipping {}'; fi"
           ls $(pwd)/${{ steps.versions.outputs.library }}
+          du -h --max-depth=1 $(pwd)/${{ steps.versions.outputs.library }}/
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
