@@ -2004,7 +2004,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "pvca": [],
     "Pviz": [
         "BSgenome",
         "GenomicFeatures",
