@@ -1667,7 +1667,6 @@
     "MSPrep": [
         "sva"
     ],
-    "MSstatsLiP": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
