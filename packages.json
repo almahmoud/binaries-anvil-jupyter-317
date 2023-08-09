@@ -1266,7 +1266,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "BSgenome",
         "DEXSeq",
