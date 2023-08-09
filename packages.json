@@ -1672,13 +1672,8 @@
     "MSPrep": [
         "sva"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
+    "MSstatsShiny": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
