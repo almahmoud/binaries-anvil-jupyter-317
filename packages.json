@@ -171,7 +171,6 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "Maaslin2",
         "mia",
         "zinbwave"
     ],
@@ -1391,10 +1390,7 @@
     "m6Aboost": [
         "BSgenome"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MADSEQ": [
         "BSgenome",
         "GenomicFeatures",
@@ -1639,9 +1635,7 @@
     "MMDiff2": [
         "BSgenome"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "moanin": [],
     "MobilityTransformR": [
         "xcms"
