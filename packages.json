@@ -2417,7 +2417,6 @@
         "bumphunter",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces"
     ],
