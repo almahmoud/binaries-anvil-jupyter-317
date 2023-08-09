@@ -1829,7 +1829,6 @@
     "omada": [],
     "OmaDB": [],
     "omicRexposome": [
-        "rexposome",
         "sva"
     ],
     "OmicsLonDA": [],
@@ -2147,7 +2146,6 @@
         "VariantAnnotation"
     ],
     "restfulSE": [],
-    "rexposome": [],
     "rGADEM": [
         "BSgenome"
     ],
