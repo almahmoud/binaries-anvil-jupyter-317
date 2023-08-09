@@ -1479,7 +1479,6 @@
         "ensembldb",
         "mygene"
     ],
-    "MetaCyto": [],
     "metagene": [
         "GenomicFeatures",
         "ensembldb"
