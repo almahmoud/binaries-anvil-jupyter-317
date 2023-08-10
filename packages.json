@@ -1535,7 +1535,6 @@
     "miRSM": [
         "DOSE",
         "ReactomePA",
-        "SPONGE",
         "clusterProfiler",
         "enrichplot",
         "miRspongeR"
@@ -1543,7 +1542,6 @@
     "miRspongeR": [
         "DOSE",
         "ReactomePA",
-        "SPONGE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2410,7 +2408,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "SPONGE": [],
     "sSNAPPY": [],
     "standR": [
         "EDASeq",
