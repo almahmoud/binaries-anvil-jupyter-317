@@ -1404,7 +1404,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "Metab": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
