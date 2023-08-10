@@ -314,7 +314,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CAMERA": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -992,9 +991,7 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "BSgenome",
         "GenomicFeatures",
@@ -1260,9 +1257,7 @@
         "VariantAnnotation"
     ],
     "ipdDb": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "DOSE",
         "clusterProfiler",
@@ -1310,9 +1305,7 @@
         "VariantAnnotation"
     ],
     "lipidr": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "GenomicFeatures",
         "bumphunter",
@@ -1346,9 +1339,7 @@
         "GenomicFeatures",
         "TRESS"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maser": [
         "BSgenome",
         "GenomicFeatures",
@@ -1413,9 +1404,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
