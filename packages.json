@@ -664,7 +664,6 @@
     "dasper": [
         "GenomicFeatures"
     ],
-    "dce": [],
     "debrowser": [
         "DOSE",
         "clusterProfiler",
