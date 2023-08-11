@@ -1338,7 +1338,6 @@
         "GenomicFeatures",
         "TRESS"
     ],
-    "MAIT": [],
     "maser": [
         "BSgenome",
         "GenomicFeatures",
