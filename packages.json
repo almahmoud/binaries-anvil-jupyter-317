@@ -16497,7 +16497,6 @@
         "impute",
         "preprocessCore"
     ],
-    "ModCon": [],
     "Modstrings": [
         "BiocGenerics",
         "Biostrings",
