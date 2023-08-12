@@ -14030,7 +14030,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "HDTD": [],
     "heatmaps": [
         "BiocGenerics",
         "Biostrings",
