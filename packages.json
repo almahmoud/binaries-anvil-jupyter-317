@@ -13089,7 +13089,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ibh": [],
     "iBMQ": [
         "Biobase",
         "BiocGenerics"
