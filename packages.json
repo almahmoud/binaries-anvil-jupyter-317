@@ -10643,7 +10643,6 @@
         "affyio",
         "preprocessCore"
     ],
-    "FScanR": [],
     "FunChIP": [
         "Biobase",
         "BiocGenerics",
