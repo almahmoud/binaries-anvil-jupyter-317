@@ -12163,7 +12163,6 @@
         "sparseMatrixStats",
         "treeio"
     ],
-    "ISAnalytics": [],
     "iSEE": [
         "Biobase",
         "ComplexHeatmap",
