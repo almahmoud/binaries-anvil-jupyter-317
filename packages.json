@@ -7169,7 +7169,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "dcanr": [],
     "dce": [
         "AnnotationDbi",
         "Biobase",
