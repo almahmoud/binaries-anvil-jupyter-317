@@ -44,5 +44,3 @@ ls /tmp/tmp/tars | awk -F'_' '{print $1}' | grep -v "$PKG" | xargs -i bash -c 'i
 Rscript -e "install.packages('maketools')"
 
 ls /tmp/tmp/tars | awk -F'_' '{print $1}' | xargs -i Rscript -e "p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); sysd <- maketools::package_sysdeps('{}'); if (nrow(sysd) > 0) { library(jsonlite); fileConn <- file('/tmp/tmp/{}-sysdeps'); writeLines(prettify(toJSON(sysd)), fileConn); close(fileConn); }"
-
-du -h --max-depth=2 "$LIBRARY/"

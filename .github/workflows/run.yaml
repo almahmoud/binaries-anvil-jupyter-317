@@ -144,7 +144,6 @@ jobs:
         uses: almahmoud/free-root-space@main
         with:
           verbose: true
-          remove-cache: false
 
       - uses: actions/checkout@v3
 
@@ -206,18 +205,17 @@ jobs:
           theme: dark
           comment_on_pr: false
 
-#       - name: Get dependency artifacts 
-#         run: |
-#           # Install gh cli, jq, time, collectl
-#           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt-get update -y && DEBIAN_FRONTEND=noninteractive sudo apt-get --no-install-recommends install gh jq time -y
-#           PKG=${{ matrix.pkg }}
-#           mkdir -p $(pwd)/${{ steps.versions.outputs.library }}
-#           cat /tmp/biocdeps | xargs -i bash -c "if grep 'tar.gz$' lists/{}; then bash .github/scripts/download_artifact.sh {} $(pwd)/${{ steps.versions.outputs.library }} ${{github.repository}}; else echo 'Skipping {}'; fi"
-#           ls $(pwd)/${{ steps.versions.outputs.library }}
-#           du -h --max-depth=1 $(pwd)/${{ steps.versions.outputs.library }}/
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         continue-on-error: true
+      - name: Get dependency artifacts 
+        run: |
+          # Install gh cli, jq, time, collectl
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt-get update -y && DEBIAN_FRONTEND=noninteractive sudo apt-get --no-install-recommends install gh jq time -y
+          PKG=${{ matrix.pkg }}
+          mkdir -p $(pwd)/${{ steps.versions.outputs.library }}
+          cat /tmp/biocdeps | xargs -i bash -c "if grep 'tar.gz$' lists/{}; then bash .github/scripts/download_artifact.sh {} $(pwd)/${{ steps.versions.outputs.library }} ${{github.repository}}; else echo 'Skipping {}'; fi"
+          ls $(pwd)/${{ steps.versions.outputs.library }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
