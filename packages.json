@@ -15240,7 +15240,6 @@
         "genefilter",
         "geneplotter",
         "interactiveDisplayBase",
-        "pfamAnalyzeR",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -22013,7 +22012,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pfamAnalyzeR": [],
     "PFP": [
         "AnnotationDbi",
         "Biobase",
