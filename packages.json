@@ -6459,8 +6459,7 @@
         "Biobase",
         "BiocGenerics",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -15344,8 +15343,7 @@
     "Mfuzz": [
         "Biobase",
         "BiocGenerics",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -18106,8 +18104,7 @@
     "OLINgui": [
         "OLIN",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -26841,8 +26838,7 @@
         "qvalue",
         "rWikiPathways",
         "tkWidgets",
-        "treeio",
-        "widgetTools"
+        "treeio"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -26898,9 +26894,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -28378,7 +28372,6 @@
         "sparseMatrixStats",
         "topconfects"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocGenerics",
