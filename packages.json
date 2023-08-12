@@ -17956,7 +17956,6 @@
         "XVector",
         "graph"
     ],
-    "NetPathMiner": [],
     "netresponse": [
         "BiocGenerics",
         "Rgraphviz",
