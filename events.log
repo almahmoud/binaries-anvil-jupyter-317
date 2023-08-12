@@ -1,4 +1,0 @@
-LAST SEEN   TYPE     REASON    OBJECT             MESSAGE
-56m         Normal   Pulled    pod/package-file   Successfully pulled image "us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.1.11" in 7m2.864224867s (7m2.864879975s including waiting)
-56m         Normal   Created   pod/package-file   Created container copy-packages
-56m         Normal   Started   pod/package-file   Started container copy-packages
