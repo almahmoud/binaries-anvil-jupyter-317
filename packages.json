@@ -8124,7 +8124,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "deltaGseg": [],
     "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
