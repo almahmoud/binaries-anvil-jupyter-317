@@ -21132,7 +21132,6 @@
     "rDGIdb": [],
     "RDRToolbox": [],
     "ReactomeGraph4R": [],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biobase",
