@@ -13734,7 +13734,6 @@
         "annotate",
         "genefilter",
         "graph",
-        "les",
         "zlibbioc"
     ],
     "GSVA": [
@@ -15798,7 +15797,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "les": [],
     "levi": [],
     "lfa": [],
     "limma": [],
