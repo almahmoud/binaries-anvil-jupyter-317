@@ -19114,7 +19114,6 @@
         "preprocessCore"
     ],
     "PANR": [],
-    "PanViz": [],
     "pareg": [
         "AnnotationDbi",
         "Biobase",
