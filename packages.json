@@ -2463,7 +2463,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4629,7 +4628,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -5486,11 +5484,8 @@
         "zlibbioc"
     ],
     "Clonality": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -16021,7 +16016,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "S4Vectors",
         "XVector",
         "affy",
@@ -16492,7 +16486,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -25447,7 +25440,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "ROC": [],
     "ROCpAI": [
         "Biobase",
         "BiocGenerics",
@@ -28422,7 +28414,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -29617,7 +29608,6 @@
         "zlibbioc"
     ],
     "statTarget": [
-        "ROC",
         "impute"
     ],
     "STdeconvolve": [
@@ -32294,7 +32284,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
