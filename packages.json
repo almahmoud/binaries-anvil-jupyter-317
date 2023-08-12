@@ -12386,8 +12386,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "ssrch"
+        "XVector"
     ],
     "hummingbird": [
         "Biobase",
@@ -25831,7 +25830,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ssrch": [],
     "ssviz": [
         "BiocGenerics",
         "Biostrings",
