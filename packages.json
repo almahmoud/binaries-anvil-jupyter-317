@@ -12463,7 +12463,6 @@
         "GEOquery",
         "impute"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "Biobase",
         "BiocGenerics",
