@@ -25517,7 +25517,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
