@@ -727,8 +727,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "ANCOMBC": [
         "Biobase",
@@ -926,8 +925,7 @@
     ],
     "anota": [
         "Biobase",
-        "multtest",
-        "qvalue"
+        "multtest"
     ],
     "anota2seq": [
         "Biobase",
@@ -941,8 +939,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "multtest",
-        "qvalue"
+        "multtest"
     ],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
@@ -2086,7 +2083,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "qvalue",
         "treeio"
     ],
     "BiocCheck": [
@@ -2714,7 +2710,6 @@
         "ggbio",
         "graph",
         "interactiveDisplayBase",
-        "qvalue",
         "rtracklayer"
     ],
     "branchpointer": [
@@ -3355,7 +3350,6 @@
         "graph",
         "graphite",
         "interactiveDisplayBase",
-        "qvalue",
         "treeio"
     ],
     "cbpManager": [
@@ -3601,7 +3595,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "censcyt": [
@@ -3669,7 +3662,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "snpStats",
         "treeio"
     ],
@@ -3803,7 +3795,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -4039,7 +4030,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "treeio"
     ],
@@ -4544,7 +4534,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "clusterStab": [
@@ -5909,7 +5898,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -6394,7 +6382,6 @@
         "ggtree",
         "graph",
         "pathview",
-        "qvalue",
         "sva",
         "treeio"
     ],
@@ -6461,7 +6448,6 @@
         "methylKit",
         "minfi",
         "multtest",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6566,9 +6552,7 @@
         "XVector",
         "edgeR"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "DelayedArray": [
         "IRanges",
         "S4Arrays",
@@ -6715,7 +6699,6 @@
         "biomaRt",
         "bumphunter",
         "derfinderHelper",
-        "qvalue",
         "rtracklayer"
     ],
     "derfinderHelper": [
@@ -6754,7 +6737,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "qvalue",
         "rtracklayer"
     ],
     "DEScan2": [
@@ -6847,8 +6829,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "graph",
-        "qvalue"
+        "graph"
     ],
     "DEWSeq": [
         "Biobase",
@@ -7366,8 +7347,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "fgsea",
-        "qvalue"
+        "fgsea"
     ],
     "doseR": [
         "Biobase",
@@ -7490,8 +7470,7 @@
         "annotate",
         "biomaRt",
         "oligo",
-        "oligoClasses",
-        "qvalue"
+        "oligoClasses"
     ],
     "DSS": [
         "BSgenome",
@@ -7573,7 +7552,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "easyRNASeq": [
@@ -7655,7 +7633,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "qvalue",
         "snm",
         "sva"
     ],
@@ -7693,7 +7670,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "EGAD": [
@@ -7891,7 +7867,6 @@
         "XVector",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "enrichTF": [
@@ -7924,7 +7899,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "qvalue",
         "rtracklayer",
         "treeio"
     ],
@@ -8027,7 +8001,6 @@
         "genomation",
         "ggtree",
         "interactiveDisplayBase",
-        "qvalue",
         "rtracklayer",
         "seqPattern",
         "treeio"
@@ -8314,8 +8287,7 @@
         "rtracklayer"
     ],
     "erccdashboard": [
-        "edgeR",
-        "qvalue"
+        "edgeR"
     ],
     "erma": [
         "AnnotationDbi",
@@ -8392,7 +8364,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "qvalue",
         "rtracklayer",
         "treeio"
     ],
@@ -8522,7 +8493,6 @@
         "biomaRt",
         "fgsea",
         "graph",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -8762,7 +8732,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rWikiPathways",
         "treeio"
     ],
@@ -8859,7 +8828,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "fcScan": [
@@ -8996,7 +8964,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "qvalue",
         "rtracklayer"
     ],
     "FISHalyseR": [
@@ -9012,8 +8979,7 @@
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "flagme": [
         "Biobase",
@@ -9634,7 +9600,6 @@
         "ggtree",
         "graph",
         "pathview",
-        "qvalue",
         "treeio"
     ],
     "GDSArray": [
@@ -10642,7 +10607,6 @@
         "fgsea",
         "ggtree",
         "goProfiles",
-        "qvalue",
         "treeio"
     ],
     "goSTAG": [
@@ -11919,7 +11883,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer"
     ],
     "intansv": [
@@ -12152,7 +12115,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "scater",
         "scran",
         "scuttle",
@@ -12960,7 +12922,6 @@
         "graph",
         "interactiveDisplayBase",
         "pathview",
-        "qvalue",
         "treeio"
     ],
     "magpie": [
@@ -13391,7 +13352,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -13548,7 +13508,6 @@
         "fgsea",
         "ggtree",
         "interactiveDisplayBase",
-        "qvalue",
         "treeio"
     ],
     "meshr": [
@@ -13676,7 +13635,6 @@
         "hpar",
         "interactiveDisplayBase",
         "mygene",
-        "qvalue",
         "rtracklayer"
     ],
     "MetaCyto": [
@@ -13786,7 +13744,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "treeio"
     ],
     "metapone": [
@@ -13831,7 +13788,6 @@
         "XVector",
         "fastseg",
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "MethPed": [
@@ -14034,7 +13990,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -14059,7 +14014,6 @@
         "XVector",
         "fastseg",
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "methylKit": [
@@ -14078,7 +14032,6 @@
         "SummarizedExperiment",
         "XVector",
         "fastseg",
-        "qvalue",
         "rtracklayer"
     ],
     "MethylMix": [],
@@ -14431,7 +14384,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "MicrobiotaProcess": [
@@ -14776,7 +14728,6 @@
         "graphite",
         "miRspongeR",
         "multtest",
-        "qvalue",
         "rqubic",
         "treeio"
     ],
@@ -14803,7 +14754,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "qvalue",
         "treeio"
     ],
     "missMethyl": [
@@ -15095,8 +15045,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "monaLisa": [
         "AnnotationDbi",
@@ -15151,7 +15100,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "mosaics": [
@@ -15518,7 +15466,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "qvalue",
         "vsn"
     ],
     "MSnbase": [
@@ -15554,7 +15501,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "qvalue",
         "vsn"
     ],
     "MSPrep": [
@@ -15870,7 +15816,6 @@
         "graphite",
         "mixOmics",
         "multtest",
-        "qvalue",
         "rWikiPathways",
         "ropls",
         "treeio"
@@ -16023,8 +15968,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "graph",
-        "qvalue"
+        "graph"
     ],
     "mygene": [
         "AnnotationDbi",
@@ -16350,8 +16294,7 @@
     ],
     "netresponse": [
         "Rgraphviz",
-        "graph",
-        "qvalue"
+        "graph"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -16557,7 +16500,6 @@
         "SummarizedExperiment",
         "XVector",
         "bamsignals",
-        "qvalue",
         "rtracklayer"
     ],
     "NPARC": [],
@@ -16719,7 +16661,6 @@
         "derfinderHelper",
         "megadepth",
         "plyranges",
-        "qvalue",
         "rtracklayer"
     ],
     "odseq": [
@@ -16863,7 +16804,6 @@
         "made4",
         "omicade4",
         "pcaMethods",
-        "qvalue",
         "rexposome",
         "sva"
     ],
@@ -17065,9 +17005,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "OrderedList": [
         "Biobase",
         "twilight"
@@ -17404,7 +17342,6 @@
         "ggtree",
         "graph",
         "multtest",
-        "qvalue",
         "treeio"
     ],
     "panp": [
@@ -17426,8 +17363,7 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "fgsea",
-        "qvalue"
+        "fgsea"
     ],
     "parglms": [],
     "PAST": [
@@ -17445,7 +17381,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -17700,7 +17635,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "treeio"
     ],
     "phantasus": [
@@ -17911,7 +17845,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "qvalue",
         "treeio"
     ],
     "PING": [
@@ -18394,7 +18327,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rGREAT",
         "rtracklayer",
         "soGGi",
@@ -18628,7 +18560,6 @@
         "derfinderHelper",
         "edgeR",
         "interactiveDisplayBase",
-        "qvalue",
         "recount",
         "rtracklayer"
     ],
@@ -19038,7 +18969,6 @@
     "qusage": [
         "Biobase"
     ],
-    "qvalue": [],
     "R3CPET": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -19084,7 +19014,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer"
     ],
     "R453Plus1Toolbox": [
@@ -19396,7 +19325,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "qvalue",
         "treeio"
     ],
     "ReadqPCR": [
@@ -19456,7 +19384,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "qvalue",
         "rtracklayer"
     ],
     "recount3": [
@@ -19594,8 +19521,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
-        "qvalue"
+        "fgsea"
     ],
     "regioneR": [
         "BSgenome",
@@ -19662,7 +19588,6 @@
         "derfinder",
         "derfinderHelper",
         "edgeR",
-        "qvalue",
         "rtracklayer"
     ],
     "regsplice": [
@@ -20114,7 +20039,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "qvalue",
         "rtracklayer"
     ],
     "RiboProfiling": [
@@ -20446,7 +20370,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "qvalue",
         "recount",
         "rtracklayer"
     ],
@@ -20618,8 +20541,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
@@ -20648,7 +20570,6 @@
         "derfinder",
         "derfinderHelper",
         "edgeR",
-        "qvalue",
         "recount",
         "rtracklayer"
     ],
@@ -20689,8 +20610,7 @@
     "Rnits": [
         "Biobase",
         "affy",
-        "affyio",
-        "qvalue"
+        "affyio"
     ],
     "roar": [
         "Biobase",
@@ -20730,8 +20650,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "rols": [
         "Biobase"
@@ -22028,7 +21947,6 @@
         "graphite",
         "interactiveDisplayBase",
         "meshr",
-        "qvalue",
         "schex",
         "treeio"
     ],
@@ -22143,8 +22061,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "sechm": [
         "Biobase",
@@ -22185,7 +22102,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "treeio"
     ],
@@ -22280,7 +22196,6 @@
         "fgsea",
         "ggtree",
         "heatmaps",
-        "qvalue",
         "rtracklayer",
         "seqArchR",
         "seqPattern",
@@ -22654,9 +22569,7 @@
         "Biobase",
         "multtest"
     ],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -22683,7 +22596,6 @@
         "ggtree",
         "graph",
         "interactiveDisplayBase",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "treeio"
@@ -24236,8 +24148,7 @@
         "XVector"
     ],
     "subSeq": [
-        "Biobase",
-        "qvalue"
+        "Biobase"
     ],
     "SUITOR": [],
     "SummarizedBenchmark": [
@@ -24374,8 +24285,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
-        "qvalue"
+        "fgsea"
     ],
     "SWATH2stats": [
         "AnnotationDbi",
@@ -24420,7 +24330,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "qvalue",
         "vsn"
     ],
     "synergyfinder": [],
@@ -24657,7 +24566,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio"
     ],
     "TEKRABber": [
@@ -24937,7 +24845,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "rWikiPathways",
         "tkWidgets",
         "treeio"
@@ -25297,7 +25204,6 @@
         "edgeR",
         "graph",
         "multtest",
-        "qvalue",
         "topGO"
     ],
     "transomics2cytoscape": [
@@ -25492,7 +25398,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "qvalue",
         "sva"
     ],
     "trio": [
@@ -26193,8 +26098,7 @@
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "qvalue"
+        "XVector"
     ],
     "vsn": [
         "Biobase",
@@ -26352,7 +26256,6 @@
         "annaffy",
         "gcrma",
         "multtest",
-        "qvalue",
         "vsn"
     ],
     "weitrix": [
