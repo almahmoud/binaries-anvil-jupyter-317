@@ -1402,7 +1402,6 @@
         "rtracklayer"
     ],
     "bioassayR": [],
-    "biobroom": [],
     "bioCancer": [
         "AnnotationDbi",
         "Biostrings",
@@ -17101,9 +17100,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "tracktables": [
         "Biostrings",
         "GenomeInfoDb",
