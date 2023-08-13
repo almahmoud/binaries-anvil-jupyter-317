@@ -14119,7 +14119,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "DelayedArray",
         "DelayedMatrixStats",
