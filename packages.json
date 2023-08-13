@@ -5873,7 +5873,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "AnnotationDbi",
         "Biostrings",
