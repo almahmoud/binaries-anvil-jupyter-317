@@ -275,16 +275,16 @@ packaged installation of ‘emojifont’ as ‘emojifont_0.5.5_R_x86_64-pc-linux
 * DONE (emojifont)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp6ZDO0b/downloaded_packages’
+	‘/tmp/Rtmp4lwKDg/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
   'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
   'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
 
-real	2m7.436s
-user	1m56.158s
-sys	0m11.000s
+real	1m57.312s
+user	1m47.004s
+sys	0m9.161s
 * installing *source* package ‘emojifont’ ...
 ** package ‘emojifont’ successfully unpacked and MD5 sums checked
 ** using staged installation
