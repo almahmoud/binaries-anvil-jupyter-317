@@ -17636,7 +17636,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ROSeq": [],
     "ROTS": [],
     "RPA": [
         "Biostrings",
