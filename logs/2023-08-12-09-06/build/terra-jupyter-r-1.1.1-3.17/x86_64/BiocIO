@@ -1,0 +1,39 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''BiocIO'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.21), R 4.3.1 (2023-06-16)
+Installing package(s) 'BiocIO'
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/BiocIO_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 231333 bytes (225 KB)
+==================================================
+downloaded 225 KB
+
+* installing *source* package ‘BiocIO’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocIO’ as ‘BiocIO_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocIO)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyDx0qh/downloaded_packages’
+Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
+  'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
+  'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
+  'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
+  'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
+
+real	0m9.650s
+user	0m7.221s
+sys	0m0.939s
