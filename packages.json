@@ -16094,7 +16094,6 @@
         "annotate",
         "genefilter"
     ],
-    "qckitfastq": [],
     "qcmetrics": [
         "S4Vectors"
     ],
