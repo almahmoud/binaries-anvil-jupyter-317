@@ -1,0 +1,102 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''OPWeight'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.21), R 4.3.1 (2023-06-16)
+Installing package(s) 'OPWeight'
+also installing the dependencies ‘bookdown’, ‘airway’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.35.tar.gz'
+Content type 'application/x-gzip' length 859032 bytes (838 KB)
+==================================================
+downloaded 838 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/airway_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 24755566 bytes (23.6 MB)
+==================================================
+downloaded 23.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/BiocStyle_2.28.0.tar.gz'
+Content type 'application/x-gzip' length 772922 bytes (754 KB)
+==================================================
+downloaded 754 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/OPWeight_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 471892 bytes (460 KB)
+==================================================
+downloaded 460 KB
+
+* installing *source* package ‘bookdown’ ...
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.35_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘airway’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘airway’ as ‘airway_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (airway)
+* installing *source* package ‘OPWeight’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘OPWeight’ as ‘OPWeight_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (OPWeight)
+* installing *source* package ‘BiocStyle’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpl4wZWf/downloaded_packages’
+Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
+  'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
+  'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
+  'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
+  'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
+
+real	0m26.085s
+user	0m22.200s
+sys	0m2.513s
