@@ -12666,7 +12666,6 @@
         "Biobase",
         "affy"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biobase",
