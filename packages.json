@@ -2747,7 +2747,6 @@
     ],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "ConsensusClusterPlus": [],
@@ -4931,7 +4930,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -8967,9 +8965,7 @@
         "annotate",
         "beachmat"
     ],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
