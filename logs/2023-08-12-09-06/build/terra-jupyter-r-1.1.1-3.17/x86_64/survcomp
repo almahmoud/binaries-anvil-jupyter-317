@@ -552,13 +552,13 @@ packaged installation of ‘survcomp’ as ‘survcomp_1.50.0_R_x86_64-pc-linux-
 * DONE (survcomp)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp5jiWy3/downloaded_packages’
+	‘/tmp/Rtmp9d7e64/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
   'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
   'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
 
-real	2m9.573s
-user	1m58.584s
-sys	0m14.969s
+real	1m52.023s
+user	1m42.412s
+sys	0m11.624s
