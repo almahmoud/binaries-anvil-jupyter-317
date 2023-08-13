@@ -18623,7 +18623,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ScreenR": [],
     "scRepertoire": [
         "DelayedArray",
         "GenomeInfoDb",
