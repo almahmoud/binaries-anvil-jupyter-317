@@ -3258,9 +3258,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "ConsensusClusterPlus",
         "DESeq2",
@@ -7912,7 +7910,6 @@
         "SummarizedExperiment",
         "xcms"
     ],
-    "NCIgraph": [],
     "ncRNAtools": [
         "GenomicRanges"
     ],
