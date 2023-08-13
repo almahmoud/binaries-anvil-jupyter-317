@@ -395,8 +395,7 @@
     ],
     "altcdfenvs": [
         "Biostrings",
-        "XVector",
-        "makecdfenv"
+        "XVector"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -6915,8 +6914,7 @@
     "Harshlight": [
         "Biostrings",
         "XVector",
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -8094,7 +8092,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biostrings",
