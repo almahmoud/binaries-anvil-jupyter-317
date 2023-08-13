@@ -4931,7 +4931,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
         "flowClust"
