@@ -14768,7 +14768,6 @@
         "rtracklayer",
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "DelayedArray",
         "GenomicRanges",
