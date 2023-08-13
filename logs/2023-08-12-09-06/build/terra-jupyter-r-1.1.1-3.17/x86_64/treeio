@@ -353,13 +353,13 @@ packaged installation of ‘ggtree’ as ‘ggtree_3.8.2_R_x86_64-pc-linux-gnu.t
 * DONE (ggtree)
 
 The downloaded source packages are in
-	‘/tmp/RtmpvlhkbV/downloaded_packages’
+	‘/tmp/Rtmpjo9Fa3/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
   'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
   'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
 
-real	2m2.379s
-user	1m53.531s
-sys	0m10.751s
+real	2m20.140s
+user	2m9.752s
+sys	0m13.035s
