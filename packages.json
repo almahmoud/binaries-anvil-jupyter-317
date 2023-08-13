@@ -10789,7 +10789,6 @@
         "KEGGREST",
         "PPInfer",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -11728,7 +11727,6 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "STRINGdb",
         "XVector"
     ],
     "ImmuneSpaceR": [
@@ -16314,7 +16312,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -18034,7 +18031,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -18644,7 +18640,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "graph",
@@ -20162,7 +20157,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
@@ -24000,7 +23994,6 @@
         "RBGL",
         "graph"
     ],
-    "STRINGdb": [],
     "STROMA4": [
         "Biobase"
     ],
@@ -24481,7 +24474,6 @@
         "KEGGREST",
         "RTCGA",
         "S4Vectors",
-        "STRINGdb",
         "TDbasedUFE",
         "XVector",
         "enrichplot",
@@ -26288,9 +26280,7 @@
         "marray",
         "piano"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "Biobase",
