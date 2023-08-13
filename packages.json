@@ -9960,7 +9960,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "IHW",
         "IRanges",
         "KEGGREST",
         "RBGL",
@@ -10058,7 +10057,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "DelayedArray",
         "GenomeInfoDb",
