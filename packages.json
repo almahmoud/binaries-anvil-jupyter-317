@@ -3250,7 +3250,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "ConsensusClusterPlus",
         "CytoGLMM",
