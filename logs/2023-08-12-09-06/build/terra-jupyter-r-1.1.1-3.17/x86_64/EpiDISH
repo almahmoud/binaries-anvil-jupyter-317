@@ -275,13 +275,13 @@ packaged installation of ‘GEOquery’ as ‘GEOquery_2.68.0_R_x86_64-pc-linux-
 * DONE (GEOquery)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpjnqv54/downloaded_packages’
+	‘/tmp/Rtmpn8bDi0/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'htmltools',
   'igraph', 'MatrixGenerics', 'nlme', 'openssl', 'progressr', 'promises',
   'purrr', 'RcppArmadillo', 'remotes', 'reticulate', 'S4Arrays', 'sass',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'tinytex', 'xfun'
 
-real	1m4.561s
-user	0m56.420s
-sys	0m8.532s
+real	0m53.476s
+user	0m48.640s
+sys	0m6.829s
