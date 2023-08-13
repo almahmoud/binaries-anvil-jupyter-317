@@ -12710,7 +12710,6 @@
         "rtracklayer"
     ],
     "plotGrouper": [],
-    "PLPE": [],
     "plyranges": [
         "Biostrings",
         "DelayedArray",
