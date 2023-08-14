@@ -7349,8 +7349,7 @@
         "biomaRt"
     ],
     "ReQON": [
-        "Rsamtools",
-        "seqbias"
+        "Rsamtools"
     ],
     "RESOLVE": [
         "AnnotationDbi",
@@ -8281,7 +8280,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "seqbias": [],
     "seqCAT": [
         "AnnotationDbi",
         "BSgenome",
