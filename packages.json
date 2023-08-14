@@ -4830,7 +4830,6 @@
     ],
     "ShortRead": [],
     "SIAMCAT": [],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "annotate",
