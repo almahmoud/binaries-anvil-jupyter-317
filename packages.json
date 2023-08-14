@@ -2101,9 +2101,7 @@
         "scuttle",
         "slingshot"
     ],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
@@ -3753,7 +3751,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowPloidy": [],
     "FlowSOM": [
         "ConsensusClusterPlus"
