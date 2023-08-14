@@ -79,24 +79,18 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses",
         "rtracklayer"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "AnnotationDbi",
         "KEGGREST",
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "AnnotationDbi",
         "GSEABase",
@@ -129,7 +123,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses",
@@ -405,7 +398,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter"
     ],
     "artMS": [
@@ -729,9 +721,7 @@
         "topGO"
     ],
     "BGmix": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "AnnotationDbi",
         "GSEABase",
@@ -3656,7 +3646,6 @@
     "gCrisprTools": [
         "SummarizedExperiment"
     ],
-    "gcrma": [],
     "GCSscore": [],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -4964,8 +4953,7 @@
     ],
     "maPredictDSC": [
         "AnnotationDbi",
-        "KEGGREST",
-        "gcrma"
+        "KEGGREST"
     ],
     "mariner": [
         "GenomicAlignments",
@@ -4994,9 +4982,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "massiR": [],
     "MAST": [
         "SingleCellExperiment",
@@ -5497,7 +5483,6 @@
     "mimager": [
         "SummarizedExperiment",
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -7340,8 +7325,7 @@
         "rtracklayer"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "AnnotationDbi",
@@ -9958,8 +9942,7 @@
     "webbioc": [
         "AnnotationDbi",
         "KEGGREST",
-        "annaffy",
-        "gcrma"
+        "annaffy"
     ],
     "weitrix": [
         "SummarizedExperiment"
