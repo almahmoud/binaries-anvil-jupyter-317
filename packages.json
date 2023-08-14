@@ -9130,14 +9130,12 @@
         "Rsamtools",
         "SummarizedExperiment"
     ],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "AnnotationDbi",
         "DOSE",
         "GOSemSim",
         "KEGGREST",
         "RTCGA",
-        "TDbasedUFE",
         "enrichplot"
     ],
     "TEKRABber": [
