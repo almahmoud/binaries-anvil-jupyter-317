@@ -1722,7 +1722,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "cleaver": [],
     "clippda": [],
     "clipper": [
         "AnnotationDbi",
@@ -7009,7 +7008,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "cleaver",
         "rtracklayer"
     ],
     "ProteoMM": [
@@ -9248,9 +9246,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "synapter": [
-        "cleaver"
-    ],
+    "synapter": [],
     "synergyfinder": [],
     "SynExtend": [
         "DECIPHER"
