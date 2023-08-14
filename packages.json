@@ -672,7 +672,6 @@
         "rtracklayer"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "BSgenome",
         "GenomicAlignments",
