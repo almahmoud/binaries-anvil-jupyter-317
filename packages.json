@@ -5498,7 +5498,6 @@
         "scuttle",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "AnnotationDbi",
         "BSgenome",
