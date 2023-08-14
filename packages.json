@@ -11183,7 +11183,6 @@
         "genefilter",
         "sva"
     ],
-    "trio": [],
     "triplex": [
         "GenomicRanges"
     ],
