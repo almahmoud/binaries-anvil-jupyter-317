@@ -261,7 +261,6 @@
         "SummarizedExperiment"
     ],
     "ANCOMBC": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -435,9 +434,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "AnnotationDbi",
         "KEGGREST",
@@ -702,7 +699,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "KEGGREST",
         "MAST",
@@ -2474,7 +2470,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "AnnotationDbi",
         "BSgenome",
@@ -5445,7 +5440,6 @@
         "biomaRt"
     ],
     "mia": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -5459,7 +5453,6 @@
         "TreeSummarizedExperiment"
     ],
     "miaViz": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -5481,7 +5474,6 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "DECIPHER",
         "DESeq2",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -6430,11 +6422,8 @@
         "SummarizedExperiment"
     ],
     "openCyto": [],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "OpenStats": [],
@@ -8010,7 +7999,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -8183,7 +8171,6 @@
         "SummarizedExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "scmap": [
@@ -9239,9 +9226,7 @@
     ],
     "synapter": [],
     "synergyfinder": [],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "SynMut": [],
     "syntenet": [
         "GenomicAlignments",
