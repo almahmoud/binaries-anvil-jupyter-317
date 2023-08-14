@@ -2774,7 +2774,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "AnnotationDbi",
         "AnnotationHub",
