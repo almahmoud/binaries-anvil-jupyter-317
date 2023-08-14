@@ -8275,7 +8275,6 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "AnnotationDbi",
         "BSgenome",
@@ -8291,7 +8290,6 @@
         "clusterProfiler",
         "enrichplot",
         "rtracklayer",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
