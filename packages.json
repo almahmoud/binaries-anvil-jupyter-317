@@ -2305,7 +2305,6 @@
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "Biostrings",
@@ -6606,9 +6605,7 @@
     "megadepth": [
         "GenomicRanges"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth",
         "GenomicRanges"
