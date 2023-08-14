@@ -674,7 +674,6 @@
         "rtracklayer"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "BDMMAcorrect": [
         "SummarizedExperiment"
     ],
