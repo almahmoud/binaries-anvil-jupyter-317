@@ -5845,10 +5845,7 @@
         "MSstats",
         "MSstatsTMT"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsSampleSize": [
         "MSstats"
     ],
