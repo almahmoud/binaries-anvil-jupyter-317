@@ -2410,7 +2410,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "biomaRt",
-        "megadepth",
         "plyranges",
         "rtracklayer"
     ],
@@ -5095,7 +5094,6 @@
         "rtracklayer"
     ],
     "MEDME": [],
-    "megadepth": [],
     "Melissa": [
         "BPRMeth"
     ],
@@ -6253,7 +6251,6 @@
         "bumphunter",
         "dasper",
         "derfinder",
-        "megadepth",
         "plyranges",
         "rtracklayer"
     ],
