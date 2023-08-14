@@ -779,7 +779,6 @@
         "rtracklayer"
     ],
     "CAMERA": [
-        "MsFeatures",
         "xcms"
     ],
     "canceR": [
@@ -1177,7 +1176,6 @@
         "rtracklayer"
     ],
     "cliqueMS": [
-        "MsFeatures",
         "xcms"
     ],
     "clusterExperiment": [
@@ -1412,7 +1410,6 @@
         "biomaRt"
     ],
     "cosmiq": [
-        "MsFeatures",
         "xcms"
     ],
     "cosmosR": [
@@ -2361,7 +2358,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "FLAMES": [
@@ -3057,7 +3053,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "IRISFGM": [
@@ -3195,7 +3190,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "LoomExperiment": [
@@ -3277,7 +3271,6 @@
     "MAI": [],
     "MAIT": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -3414,7 +3407,6 @@
     ],
     "MesKit": [],
     "Metab": [
-        "MsFeatures",
         "xcms"
     ],
     "MetaboAnnotation": [
@@ -3454,7 +3446,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -3774,7 +3765,6 @@
         "topGO"
     ],
     "MobilityTransformR": [
-        "MsFeatures",
         "xcms"
     ],
     "MODA": [],
@@ -3866,7 +3856,6 @@
         "MultiAssayExperiment",
         "QFeatures"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "GenomicAlignments",
@@ -4063,7 +4052,6 @@
         "genefilter"
     ],
     "ncGTW": [
-        "MsFeatures",
         "xcms"
     ],
     "nearBynding": [
@@ -5042,7 +5030,6 @@
         "rtracklayer"
     ],
     "Risa": [
-        "MsFeatures",
         "xcms"
     ],
     "RITAN": [
@@ -6580,9 +6567,7 @@
         "rtracklayer"
     ],
     "wpm": [],
-    "xcms": [
-        "MsFeatures"
-    ],
+    "xcms": [],
     "xcore": [
         "MultiAssayExperiment"
     ],
