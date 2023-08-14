@@ -9308,7 +9308,6 @@
         "annotate",
         "genefilter"
     ],
-    "topdownr": [],
     "topGO": [
         "AnnotationDbi",
         "KEGGREST"
