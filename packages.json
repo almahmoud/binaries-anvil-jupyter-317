@@ -4251,7 +4251,6 @@
     "RepViz": [
         "biomaRt"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "BSgenome",
         "GenomicFeatures",
