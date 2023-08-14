@@ -2321,7 +2321,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GNET2": [],
     "GOexpress": [
         "biomaRt"
     ],
