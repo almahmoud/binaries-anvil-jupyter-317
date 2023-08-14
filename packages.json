@@ -1820,7 +1820,6 @@
         "scuttle"
     ],
     "discordant": [],
-    "DiscoRhythm": [],
     "distinct": [
         "SingleCellExperiment",
         "scater",
