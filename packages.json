@@ -3219,7 +3219,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "ConsensusClusterPlus",
         "DESeq2",
