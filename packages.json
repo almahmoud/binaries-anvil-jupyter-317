@@ -4838,10 +4838,7 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "oposSOM": [
         "AnnotationDbi",
