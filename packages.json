@@ -4993,7 +4993,6 @@
         "genefilter",
         "topGO"
     ],
-    "PCAtools": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
