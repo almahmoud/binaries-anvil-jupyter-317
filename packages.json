@@ -4425,7 +4425,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "planttfhunter": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
