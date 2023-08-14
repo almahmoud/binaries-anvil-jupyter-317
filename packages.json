@@ -3432,7 +3432,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
