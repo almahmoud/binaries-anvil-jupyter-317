@@ -9628,7 +9628,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "AnnotationDbi",
         "KEGGREST",
