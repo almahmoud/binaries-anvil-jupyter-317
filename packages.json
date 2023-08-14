@@ -2800,7 +2800,6 @@
     "idiogram": [
         "annotate"
     ],
-    "IFAA": [],
     "igvR": [
         "BSgenome",
         "GenomicAlignments",
