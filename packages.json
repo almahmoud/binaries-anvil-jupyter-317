@@ -1896,7 +1896,6 @@
         "biomaRt"
     ],
     "cogena": [],
-    "cogeqc": [],
     "Cogito": [
         "AnnotationDbi",
         "GenomicAlignments",
