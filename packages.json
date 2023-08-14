@@ -4760,7 +4760,6 @@
         "derfinder",
         "rtracklayer"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationHub",
         "BSgenome",
