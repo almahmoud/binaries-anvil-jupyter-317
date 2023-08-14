@@ -1621,7 +1621,6 @@
         "scuttle"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
         "SingleCellExperiment",
