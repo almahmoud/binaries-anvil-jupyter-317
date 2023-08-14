@@ -2601,7 +2601,6 @@
     ],
     "doubletrouble": [
         "GenomicAlignments",
-        "MSA2dist",
         "Rsamtools",
         "SummarizedExperiment",
         "rtracklayer",
@@ -5316,7 +5315,6 @@
         "SummarizedExperiment"
     ],
     "MQmetrics": [],
-    "MSA2dist": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
