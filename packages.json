@@ -6192,7 +6192,6 @@
         "SummarizedExperiment",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "DESeq2",
         "SummarizedExperiment"
