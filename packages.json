@@ -7757,7 +7757,6 @@
         "SummarizedExperiment"
     ],
     "RPA": [],
-    "rprimer": [],
     "Rqc": [
         "AnnotationDbi",
         "BSgenome",
