@@ -3566,10 +3566,7 @@
     "FlowSOM": [
         "ConsensusClusterPlus"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "fmcsR": [],
     "FoldGO": [
         "AnnotationDbi",
