@@ -4489,7 +4489,6 @@
         "scuttle"
     ],
     "IMMAN": [],
-    "ImmuneSpaceR": [],
     "infercnv": [
         "SingleCellExperiment",
         "SummarizedExperiment"
