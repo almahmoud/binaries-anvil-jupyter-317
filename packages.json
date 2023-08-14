@@ -1831,7 +1831,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "Dune": [],
     "easier": [
         "AnnotationHub",
         "ExperimentHub"
