@@ -262,7 +262,6 @@
     ],
     "ASICS": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -556,7 +555,6 @@
     "BioQC": [],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -3172,7 +3170,6 @@
     ],
     "lipidr": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -3350,7 +3347,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "MultiDataSet",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -3920,7 +3916,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -3937,7 +3932,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationHub",
         "graphite"
@@ -3955,7 +3949,6 @@
         "DOSE",
         "GOSemSim",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ReactomePA",
         "biosigner",
         "clusterProfiler",
@@ -4195,7 +4188,6 @@
     ],
     "omicplotR": [],
     "omicRexposome": [
-        "MultiDataSet",
         "annotate",
         "genefilter",
         "made4",
@@ -4388,7 +4380,6 @@
     ],
     "phenomis": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "phenoTest": [
@@ -5171,8 +5162,7 @@
     "ROCpAI": [],
     "RolDE": [],
     "ropls": [
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "Rqc": [
         "BSgenome",
@@ -5188,7 +5178,6 @@
     ],
     "rqt": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "rqubic": [],
