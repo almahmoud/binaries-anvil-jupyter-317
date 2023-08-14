@@ -5371,7 +5371,6 @@
         "annotate",
         "genefilter"
     ],
-    "SimBu": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
