@@ -3784,7 +3784,6 @@
         "ensembldb"
     ],
     "tradeSeq": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq"
