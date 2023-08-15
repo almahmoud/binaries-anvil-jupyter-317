@@ -3976,7 +3976,6 @@
         "ShortRead",
         "chipseq"
     ],
-    "transformGamPoi": [],
     "tRanslatome": [],
     "traseR": [
         "BSgenome"
