@@ -1320,7 +1320,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEWSeq": [],
     "DExMA": [
         "annotate",
         "genefilter",
