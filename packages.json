@@ -3738,7 +3738,6 @@
     "strandCheckR": [
         "GenomicFeatures"
     ],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "BSgenome",
         "GenomicFeatures",
