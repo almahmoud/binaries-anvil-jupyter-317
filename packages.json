@@ -1677,7 +1677,6 @@
     "esetVis": [
         "MLP"
     ],
-    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
