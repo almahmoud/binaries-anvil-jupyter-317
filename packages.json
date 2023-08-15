@@ -3791,7 +3791,6 @@
     "TCGAutils": [
         "GenomicFeatures"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "RTCGA",
