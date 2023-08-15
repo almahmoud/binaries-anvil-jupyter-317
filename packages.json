@@ -2721,7 +2721,6 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [],
     "phemd": [
         "destiny"
     ],
@@ -3965,9 +3964,7 @@
         "annotate",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [
         "BSgenome"
     ],
