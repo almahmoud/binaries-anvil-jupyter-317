@@ -2486,7 +2486,6 @@
     "Metab": [
         "xcms"
     ],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "ExperimentHub",
         "GenomicFeatures",
