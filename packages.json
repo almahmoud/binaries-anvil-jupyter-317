@@ -1716,9 +1716,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
@@ -2369,7 +2367,6 @@
     ],
     "LinkHD": [],
     "lipidr": [],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "DropletUtils",
