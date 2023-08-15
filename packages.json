@@ -38,7 +38,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -62,7 +61,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -2262,7 +2260,6 @@
         "annotate",
         "genefilter"
     ],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [
         "biomaRt"
