@@ -1176,7 +1176,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "ConsensusClusterPlus",
         "CytoGLMM",
