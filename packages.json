@@ -120,7 +120,6 @@
         "ShortRead"
     ],
     "ANCOMBC": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
@@ -318,7 +317,6 @@
     "benchdamic": [
         "ANCOMBC",
         "Maaslin2",
-        "TreeSummarizedExperiment",
         "annotate",
         "genefilter",
         "mia",
@@ -615,9 +613,7 @@
         "genefilter",
         "rtracklayer"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1683,8 +1679,7 @@
     ],
     "ExperimentSubset": [
         "DropletUtils",
-        "SpatialExperiment",
-        "TreeSummarizedExperiment"
+        "SpatialExperiment"
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
@@ -2658,21 +2653,16 @@
         "annotate"
     ],
     "mia": [
-        "TreeSummarizedExperiment",
         "scater"
     ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
@@ -2682,9 +2672,7 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "microSTASIS": [
-        "TreeSummarizedExperiment"
-    ],
+    "microSTASIS": [],
     "midasHLA": [],
     "mimager": [
         "oligo",
@@ -4571,7 +4559,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "BSgenome",
         "MotifDb",
