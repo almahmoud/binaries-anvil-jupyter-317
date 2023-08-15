@@ -3774,7 +3774,6 @@
         "annotate",
         "genefilter"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
