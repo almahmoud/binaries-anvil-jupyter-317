@@ -251,21 +251,16 @@
     "Basic4Cseq": [
         "BSgenome"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
     "BatchQC": [
         "annotate",
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
@@ -347,9 +342,7 @@
     ],
     "BioQC": [],
     "biosigner": [],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
@@ -565,9 +558,7 @@
         "annotate"
     ],
     "celaref": [],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "CellBarcode": [],
     "cellHTS2": [
         "Category",
@@ -700,8 +691,7 @@
     ],
     "chromPlot": [],
     "ChromSCape": [
-        "ConsensusClusterPlus",
-        "scran"
+        "ConsensusClusterPlus"
     ],
     "chromstaR": [],
     "chromswitch": [],
@@ -733,9 +723,7 @@
         "Rhisat2",
         "SGSeq"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "ClassifyR": [
         "annotate",
         "genefilter"
@@ -1169,9 +1157,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "discordant": [],
     "distinct": [],
     "DMCFB": [],
@@ -1523,8 +1509,7 @@
         "bambu",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "scran"
+        "ggbio"
     ],
     "flowCut": [
         "flowDensity"
@@ -1959,8 +1944,7 @@
     "IRISFGM": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "scran"
+        "enrichplot"
     ],
     "iSEEhex": [],
     "iSEEhub": [
@@ -2488,9 +2472,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "MSnID": [],
     "MSPrep": [
         "annotate",
@@ -2543,9 +2525,7 @@
         "enrichplot",
         "graphite"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "GenomicFeatures",
@@ -2834,9 +2814,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "pipeFrame": [
         "BSgenome"
     ],
@@ -3378,12 +3356,8 @@
         "GSEABase",
         "annotate"
     ],
-    "scDblFinder": [
-        "scran"
-    ],
-    "scDD": [
-        "scran"
-    ],
+    "scDblFinder": [],
+    "scDD": [],
     "scFeatures": [
         "AUCell",
         "GSEABase",
@@ -3392,13 +3366,10 @@
         "SingleCellSignalR",
         "SpatialExperiment",
         "annotate",
-        "ensembldb",
-        "scran"
+        "ensembldb"
     ],
     "scGPS": [],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "scmeth": [
         "BSgenome",
         "GenomicFeatures",
@@ -3420,7 +3391,6 @@
         "VariantAnnotation"
     ],
     "scPipe": [],
-    "scran": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3456,8 +3426,7 @@
         "bumphunter",
         "ensembldb",
         "epivizr",
-        "epivizrData",
-        "scran"
+        "epivizrData"
     ],
     "scviR": [],
     "segmenter": [
@@ -3579,9 +3548,7 @@
     ],
     "simplifyEnrichment": [],
     "single": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "ExperimentHub",
         "GSEABase",
@@ -3594,7 +3561,6 @@
         "genefilter",
         "scDblFinder",
         "scMerge",
-        "scran",
         "sva",
         "zinbwave"
     ],
@@ -3660,9 +3626,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "sparrow": [
         "GSEABase",
         "annotate"
@@ -3685,8 +3649,7 @@
     ],
     "spatialHeatmap": [
         "annotate",
-        "genefilter",
-        "scran"
+        "genefilter"
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools"
