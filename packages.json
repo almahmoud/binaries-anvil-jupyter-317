@@ -826,8 +826,7 @@
         "methylPipe"
     ],
     "condiments": [
-        "distinct",
-        "slingshot"
+        "distinct"
     ],
     "ConsensusClusterPlus": [],
     "consensusDE": [
@@ -3318,9 +3317,7 @@
         "VariantAnnotation"
     ],
     "scPipe": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "BSgenome",
         "GenomicFeatures",
@@ -3518,7 +3515,6 @@
         "GSEABase",
         "annotate"
     ],
-    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "goseq"
@@ -3787,9 +3783,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
@@ -3799,9 +3793,7 @@
     "traseR": [
         "BSgenome"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "ConsensusClusterPlus",
         "FlowSOM",
