@@ -1761,7 +1761,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "FunChIP": [],
     "funtooNorm": [
         "GenomicFeatures",
         "annotate",
