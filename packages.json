@@ -1531,7 +1531,6 @@
         "ConsensusClusterPlus",
         "FlowSOM"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "csaw",
