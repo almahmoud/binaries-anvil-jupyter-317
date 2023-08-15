@@ -1044,7 +1044,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -3299,7 +3298,6 @@
     "PDATK": [
         "AIMS",
         "ConsensusClusterPlus",
-        "CoreGx",
         "genefu"
     ],
     "pdInfoBuilder": [
@@ -3324,9 +3322,7 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny"
     ],
@@ -3587,9 +3583,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramr": [],
     "ramwas": [],
     "RAREsim": [],
@@ -4661,9 +4655,7 @@
         "annotate",
         "genefilter"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
@@ -4896,7 +4888,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
