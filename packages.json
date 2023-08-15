@@ -97,14 +97,12 @@
         "GenomicFeatures",
         "SpatialExperiment",
         "VariantAnnotation",
-        "alabaster.mae",
         "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
         "rtracklayer",
         "scuttle"
     ],
-    "alabaster.mae": [],
     "alabaster.spatial": [
         "DropletUtils",
         "SpatialExperiment",
