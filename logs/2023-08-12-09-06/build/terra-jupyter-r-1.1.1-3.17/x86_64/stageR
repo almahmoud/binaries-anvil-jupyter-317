@@ -29,14 +29,14 @@ packaged installation of ‘stageR’ as ‘stageR_1.22.0_R_x86_64-pc-linux-gnu.
 * DONE (stageR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpqOy5jX/downloaded_packages’
+	‘/tmp/Rtmp2KasbS/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'ggplot2',
-  'htmltools', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme', 'openssl',
+  'htmltools', 'httr', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme', 'openssl',
   'patchwork', 'progressr', 'promises', 'purrr', 'RcppArmadillo', 'remotes',
   'reticulate', 'rmarkdown', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny',
   'spatial', 'spatstat.geom', 'survival', 'tinytex', 'xfun'
 
-real	0m21.313s
-user	0m18.467s
-sys	0m1.668s
+real	0m29.294s
+user	0m25.350s
+sys	0m1.962s
