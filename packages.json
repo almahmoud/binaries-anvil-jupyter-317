@@ -1448,7 +1448,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEFormats": [],
     "DegNorm": [
         "GenomicFeatures",
         "biomaRt",
@@ -4173,7 +4172,6 @@
     ],
     "regionReport": [
         "BSgenome",
-        "DEFormats",
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation",
