@@ -1,0 +1,63 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''MsExperiment'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.21), R 4.3.1 (2023-06-16)
+Installing package(s) 'MsExperiment'
+also installing the dependency ‘rpx’
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/rpx_2.8.0.tar.gz'
+Content type 'application/x-gzip' length 309034 bytes (301 KB)
+==================================================
+downloaded 301 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/MsExperiment_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 1945476 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *source* package ‘rpx’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rpx’ as ‘rpx_2.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rpx)
+* installing *source* package ‘MsExperiment’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MsExperiment’ as ‘MsExperiment_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MsExperiment)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6KezLD/downloaded_packages’
+Old packages: 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
+  'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'ggplot2',
+  'htmltools', 'httr', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme', 'openssl',
+  'patchwork', 'progressr', 'promises', 'purrr', 'RcppArmadillo', 'remotes',
+  'reticulate', 'rmarkdown', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny',
+  'spatial', 'spatstat.geom', 'survival', 'tinytex', 'xfun'
+
+real	0m30.816s
+user	0m26.944s
+sys	0m2.108s
