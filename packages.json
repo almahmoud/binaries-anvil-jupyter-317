@@ -2883,7 +2883,6 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [],
     "MSnID": [],
     "MSPrep": [
         "annotate",
