@@ -111,7 +111,7 @@ packaged installation of ‘made4’ as ‘made4_1.74.0_R_x86_64-pc-linux-gnu.ta
 * DONE (made4)
 
 The downloaded source packages are in
-	‘/tmp/RtmpVbZ1qL/downloaded_packages’
+	‘/tmp/RtmpvJndYS/downloaded_packages’
 Old packages: 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'ggplot2',
   'htmltools', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme', 'openssl',
@@ -119,6 +119,6 @@ Old packages: 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'reticulate', 'rmarkdown', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny',
   'spatial', 'spatstat.geom', 'survival', 'tinytex', 'xfun'
 
-real	1m21.625s
-user	1m14.752s
-sys	0m5.291s
+real	1m15.895s
+user	1m9.513s
+sys	0m4.174s
