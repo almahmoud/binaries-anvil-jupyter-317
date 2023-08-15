@@ -317,7 +317,6 @@
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "TreeSummarizedExperiment",
         "annotate",
@@ -638,9 +637,7 @@
         "PROMISE",
         "annotate"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran"
@@ -2449,7 +2446,6 @@
         "rtracklayer"
     ],
     "massiR": [],
-    "MAST": [],
     "mastR": [
         "ExperimentHub",
         "GSEABase",
@@ -3331,9 +3327,7 @@
         "ontoProc"
     ],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [],
     "pqsfinder": [],
     "pram": [
@@ -4198,7 +4192,6 @@
         "GSEABase",
         "GSVA",
         "GenomicFeatures",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils",
         "annotate",
