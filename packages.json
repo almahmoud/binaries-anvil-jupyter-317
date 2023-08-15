@@ -871,7 +871,6 @@
     "clusterExperiment": [
         "annotate",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -2463,7 +2462,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "oligoClasses"
@@ -3033,7 +3031,6 @@
         "annotate",
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "scater",
         "zinbwave"
     ],
