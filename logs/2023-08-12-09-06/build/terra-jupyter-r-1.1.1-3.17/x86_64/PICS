@@ -1,0 +1,52 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''PICS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.17 (BiocManager 1.30.21), R 4.3.1 (2023-06-16)
+Installing package(s) 'PICS'
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/PICS_2.44.0.tar.gz'
+Content type 'application/x-gzip' length 717757 bytes (700 KB)
+==================================================
+downloaded 700 KB
+
+* installing *source* package ‘PICS’ ...
+** using staged installation
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GSL... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-YiVLKI/r-base-4.3.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pics.c -o pics.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-YiVLKI/r-base-4.3.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c segment.c -o segment.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o PICS.so pics.o segment.o -lgsl -lgslcblas -lm -L/usr/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-PICS/00new/PICS/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PICS’ as ‘PICS_2.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PICS)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7oiM7o/downloaded_packages’
+Old packages: 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
+  'DelayedMatrixStats', 'ExperimentHub', 'fs', 'gargle', 'gert', 'ggplot2',
+  'htmltools', 'httr', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme', 'openssl',
+  'patchwork', 'progressr', 'promises', 'purrr', 'RcppArmadillo', 'remotes',
+  'reticulate', 'rmarkdown', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny',
+  'spatial', 'spatstat.geom', 'survival', 'tinytex', 'xfun'
+
+real	0m38.910s
+user	0m33.725s
+sys	0m2.423s
