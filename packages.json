@@ -2840,7 +2840,6 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mbOmic": [],
     "mBPCR": [
         "GWASTools",
         "oligoClasses"
