@@ -31,7 +31,6 @@
         "ExperimentHub"
     ],
     "ADImpute": [],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "AnnotationForge",
