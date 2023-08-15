@@ -1690,7 +1690,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "AnnotationForge",
         "Category",
