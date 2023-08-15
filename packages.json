@@ -1446,9 +1446,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "GenomicFeatures",
         "annotate",
@@ -3471,7 +3469,6 @@
         "GSEABase",
         "GSVA",
         "GenomicFeatures",
-        "TSCAN",
         "annotate",
         "celda",
         "ensembldb",
@@ -3813,7 +3810,6 @@
     "tRNAscanImport": [
         "BSgenome"
     ],
-    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "BSgenome",
