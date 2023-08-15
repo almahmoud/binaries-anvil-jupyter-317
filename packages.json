@@ -2706,7 +2706,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "LineagePulse": [],
     "lineagespot": [
         "BSgenome",
         "GenomicFeatures",
