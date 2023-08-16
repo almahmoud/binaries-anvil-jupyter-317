@@ -1,4 +1,0 @@
-imcRtools
-Voyager
-simpleSeg
-cytoviewer
