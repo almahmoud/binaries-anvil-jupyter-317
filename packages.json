@@ -239,7 +239,6 @@
     "Basic4Cseq": [
         "BSgenome"
     ],
-    "BASiCStan": [],
     "BatchQC": [
         "annotate",
         "genefilter",
