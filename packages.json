@@ -1756,7 +1756,6 @@
         "hiAnnotator"
     ],
     "HiTC": [],
-    "hpar": [],
     "HTSeqGenie": [
         "BSgenome",
         "GenomicFeatures",
@@ -2073,7 +2072,6 @@
         "GenomicFeatures",
         "MWASTools",
         "ensembldb",
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
