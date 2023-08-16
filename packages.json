@@ -964,10 +964,7 @@
         "FlowSOM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "BSgenome",
         "CNEr",
@@ -1803,9 +1800,7 @@
         "GenomicFeatures",
         "IVAS"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "InPAS": [
         "BSgenome",
         "GenomicFeatures",
@@ -3369,9 +3364,7 @@
         "annotate",
         "genefilter"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [],
     "singleCellTK": [
         "GSEABase",
