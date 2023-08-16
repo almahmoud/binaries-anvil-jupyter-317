@@ -1761,9 +1761,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiLDA": [
         "BSgenome",
         "GenomicFeatures"
@@ -2426,7 +2424,6 @@
     "multiGSEA": [
         "graphite"
     ],
-    "multiHiCcompare": [],
     "multiSight": [
         "DOSE",
         "ReactomePA",
