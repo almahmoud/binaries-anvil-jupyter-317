@@ -1413,7 +1413,6 @@
         "enrichplot"
     ],
     "fastLiquidAssociation": [],
-    "FastqCleaner": [],
     "fCCAC": [
         "BSgenome",
         "genomation"
