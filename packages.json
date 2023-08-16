@@ -3358,7 +3358,6 @@
         "annotate",
         "genefilter"
     ],
-    "simpleSeg": [],
     "simplifyEnrichment": [],
     "singleCellTK": [
         "GSEABase",
