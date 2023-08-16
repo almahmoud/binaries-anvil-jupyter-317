@@ -335,7 +335,6 @@
     ],
     "BioQC": [],
     "biosigner": [],
-    "BioTIP": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
