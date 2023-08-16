@@ -2519,7 +2519,6 @@
         "GenomicFeatures"
     ],
     "NormalyzerDE": [],
-    "normr": [],
     "npGSEA": [
         "GSEABase",
         "annotate"
