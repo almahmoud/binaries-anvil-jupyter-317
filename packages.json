@@ -3443,7 +3443,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "annotate",
         "genefilter"
@@ -3767,9 +3766,7 @@
         "GSEABase",
         "annotate"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "BSgenome",
         "GenomicFeatures",
