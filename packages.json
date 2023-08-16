@@ -3671,7 +3671,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq"
