@@ -698,7 +698,6 @@
         "Rhisat2",
         "SGSeq"
     ],
-    "CiteFuse": [],
     "ClassifyR": [
         "annotate",
         "genefilter"
