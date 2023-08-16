@@ -2289,7 +2289,6 @@
         "genefilter",
         "graphite"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [
         "BSgenome",
         "CNEr",
