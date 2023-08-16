@@ -2666,7 +2666,6 @@
         "annotate",
         "genefilter"
     ],
-    "peco": [],
     "periodicDNA": [
         "BSgenome"
     ],
