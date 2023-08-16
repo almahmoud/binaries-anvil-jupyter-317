@@ -72,7 +72,6 @@
         "OrganismDbi"
     ],
     "AIMS": [],
-    "airpart": [],
     "alabaster": [
         "BSgenome",
         "GenomicFeatures",
