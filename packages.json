@@ -251,7 +251,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
