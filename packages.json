@@ -3241,7 +3241,6 @@
         "ensembldb"
     ],
     "scGPS": [],
-    "scMerge": [],
     "scmeth": [
         "BSgenome",
         "GenomicFeatures",
@@ -3422,7 +3421,6 @@
         "ensembldb",
         "genefilter",
         "scDblFinder",
-        "scMerge",
         "sva",
         "zinbwave"
     ],
