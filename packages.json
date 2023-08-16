@@ -3459,7 +3459,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [],
     "sparrow": [
         "GSEABase",
         "annotate"
