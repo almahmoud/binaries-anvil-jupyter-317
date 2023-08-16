@@ -1948,7 +1948,6 @@
     "macat": [
         "annotate"
     ],
-    "MACSr": [],
     "MADSEQ": [
         "BSgenome",
         "GenomicFeatures",
