@@ -823,7 +823,6 @@
         "genefilter",
         "minfi"
     ],
-    "copa": [],
     "CopyNumberPlots": [
         "BSgenome",
         "GenomicFeatures",
