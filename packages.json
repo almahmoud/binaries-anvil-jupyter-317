@@ -690,7 +690,6 @@
     "cleanUpdTSeq": [
         "BSgenome"
     ],
-    "clippda": [],
     "clipper": [
         "GenomicFeatures",
         "annotate",
