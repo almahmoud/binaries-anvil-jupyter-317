@@ -478,9 +478,7 @@
         "genefilter",
         "phenoTest"
     ],
-    "CancerSubtypes": [
-        "ConsensusClusterPlus"
-    ],
+    "CancerSubtypes": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -490,7 +488,6 @@
         "GenomicFeatures"
     ],
     "CATALYST": [
-        "ConsensusClusterPlus",
         "FlowSOM"
     ],
     "Category": [
@@ -548,7 +545,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "diffcyt"
     ],
@@ -659,9 +655,7 @@
         "annotate"
     ],
     "chromPlot": [],
-    "ChromSCape": [
-        "ConsensusClusterPlus"
-    ],
+    "ChromSCape": [],
     "chromstaR": [],
     "chromswitch": [],
     "chromVAR": [
@@ -806,7 +800,6 @@
         "ensembldb",
         "methylPipe"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "EDASeq",
         "GenomicFeatures",
@@ -952,14 +945,12 @@
         "flowDensity"
     ],
     "CyTOFpower": [
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
         "CATALYST",
-        "ConsensusClusterPlus",
         "FlowSOM"
     ],
     "CytoGLMM": [],
@@ -1025,9 +1016,7 @@
     "DegNorm": [
         "GenomicFeatures"
     ],
-    "DEGreport": [
-        "ConsensusClusterPlus"
-    ],
+    "DEGreport": [],
     "DeMixT": [
         "BSgenome",
         "DSS",
@@ -1081,7 +1070,6 @@
     ],
     "diffcoexp": [],
     "diffcyt": [
-        "ConsensusClusterPlus",
         "FlowSOM"
     ],
     "diffHic": [
@@ -1434,9 +1422,7 @@
     ],
     "flowDensity": [],
     "flowPloidy": [],
-    "FlowSOM": [
-        "ConsensusClusterPlus"
-    ],
+    "FlowSOM": [],
     "fmcsR": [],
     "FoldGO": [],
     "FRASER": [
@@ -1860,7 +1846,6 @@
         "tximeta"
     ],
     "isomiRs": [
-        "ConsensusClusterPlus",
         "DEGreport"
     ],
     "ITALICS": [
@@ -2060,7 +2045,6 @@
         "mygene"
     ],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM"
     ],
     "metagene": [
@@ -2614,7 +2598,6 @@
     ],
     "PDATK": [
         "AIMS",
-        "ConsensusClusterPlus",
         "genefu"
     ],
     "pdInfoBuilder": [
@@ -3654,7 +3637,6 @@
         "BSgenome"
     ],
     "treekoR": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "diffcyt"
     ],
