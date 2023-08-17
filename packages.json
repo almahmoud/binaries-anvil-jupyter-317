@@ -2196,8 +2196,7 @@
         "clusterProfiler",
         "enrichplot",
         "graphite",
-        "miRspongeR",
-        "rqubic"
+        "miRspongeR"
     ],
     "miRspongeR": [
         "DOSE",
@@ -3089,7 +3088,6 @@
         "ensembldb"
     ],
     "rqt": [],
-    "rqubic": [],
     "rrvgo": [],
     "RTCGA": [],
     "RTCGAToolbox": [
