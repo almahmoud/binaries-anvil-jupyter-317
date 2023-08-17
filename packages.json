@@ -478,7 +478,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "CancerSubtypes": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
