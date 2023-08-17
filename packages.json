@@ -13,7 +13,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "annotate",
         "genefilter",
