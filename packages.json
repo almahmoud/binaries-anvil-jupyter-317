@@ -1490,7 +1490,6 @@
     "geneplotter": [
         "annotate"
     ],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools"
@@ -1737,7 +1736,6 @@
         "csaw"
     ],
     "iCheck": [
-        "GeneSelectMMD",
         "GenomicFeatures",
         "annotate",
         "bumphunter",
