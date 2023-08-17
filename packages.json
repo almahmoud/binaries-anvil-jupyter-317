@@ -3237,7 +3237,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SeqGate": [],
     "SeqGSEA": [],
     "seqsetvis": [],
     "SeqSQC": [],
