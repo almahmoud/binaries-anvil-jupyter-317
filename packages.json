@@ -1476,7 +1476,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneExpressionSignature": [],
     "genefilter": [
         "annotate"
     ],
