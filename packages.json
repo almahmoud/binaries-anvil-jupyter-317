@@ -1946,7 +1946,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "massiR": [],
     "mastR": [
         "GSEABase",
         "annotate"
