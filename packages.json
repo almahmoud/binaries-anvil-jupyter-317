@@ -296,7 +296,6 @@
         "enrichplot",
         "graphite"
     ],
-    "BiocFHIR": [],
     "biocGraph": [
         "annotate",
         "geneplotter"
