@@ -670,7 +670,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "BSgenome",
