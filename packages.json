@@ -1015,7 +1015,6 @@
     "DegNorm": [
         "GenomicFeatures"
     ],
-    "DEGreport": [],
     "DeMixT": [
         "BSgenome",
         "DSS",
@@ -1844,9 +1843,7 @@
         "sva",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
