@@ -9,7 +9,6 @@
         "genefilter"
     ],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -321,7 +320,6 @@
     ],
     "biscuiteer": [
         "BSgenome",
-        "CGHcall",
         "GenomicFeatures",
         "OrganismDbi",
         "QDNAseq",
@@ -554,15 +552,12 @@
         "BSgenome",
         "plyranges"
     ],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "annotate",
         "genefilter"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "BSgenome",
@@ -1449,7 +1444,6 @@
         "GenomicFeatures"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefilter": [
@@ -2724,9 +2718,7 @@
         "annotate",
         "genefilter"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qmtools": [],
     "qpgraph": [
         "GenomicFeatures",
