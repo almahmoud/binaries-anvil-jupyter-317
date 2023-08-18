@@ -70,7 +70,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "AIMS": [],
     "alabaster": [
         "BSgenome",
         "GenomicFeatures",
@@ -802,7 +801,6 @@
         "ensembldb"
     ],
     "consensusOV": [
-        "AIMS",
         "GSEABase",
         "GSVA",
         "annotate",
@@ -1479,9 +1477,7 @@
     "genefilter": [
         "annotate"
     ],
-    "genefu": [
-        "AIMS"
-    ],
+    "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [
         "annotate",
@@ -2574,7 +2570,6 @@
         "genefilter"
     ],
     "PDATK": [
-        "AIMS",
         "genefu"
     ],
     "pdInfoBuilder": [
@@ -3291,7 +3286,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "AIMS",
         "GSEABase",
         "GSVA",
         "GenomicFeatures",
