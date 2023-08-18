@@ -1436,7 +1436,6 @@
     "gcapc": [
         "BSgenome"
     ],
-    "GCSscore": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
