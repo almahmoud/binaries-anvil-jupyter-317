@@ -8,9 +8,7 @@
         "annotate",
         "genefilter"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "annotate",
         "genefilter",
@@ -321,7 +319,6 @@
         "BSgenome",
         "GenomicFeatures",
         "OrganismDbi",
-        "QDNAseq",
         "VariantAnnotation",
         "annotatr",
         "bsseq",
@@ -1440,9 +1437,7 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "annotate"
     ],
@@ -2714,7 +2709,6 @@
         "annotate",
         "genefilter"
     ],
-    "QDNAseq": [],
     "qmtools": [],
     "qpgraph": [
         "GenomicFeatures",
