@@ -1,5 +1,0 @@
-beadarray
-CGHcall
-CGHregions
-genefu
-psygenet2r
