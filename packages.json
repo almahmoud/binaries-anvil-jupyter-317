@@ -218,7 +218,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "BAGS": [],
     "ballgown": [
         "annotate",
         "genefilter",
