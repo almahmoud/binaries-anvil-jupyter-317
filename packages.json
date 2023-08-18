@@ -314,7 +314,6 @@
     "BioNetStat": [
         "pathview"
     ],
-    "BioQC": [],
     "biosigner": [],
     "biovizBase": [
         "BSgenome",
