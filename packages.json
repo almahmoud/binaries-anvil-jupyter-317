@@ -260,7 +260,6 @@
     "BgeeCall": [
         "GenomicFeatures"
     ],
-    "BgeeDB": [],
     "BGmix": [],
     "BicARE": [
         "GSEABase",
@@ -2713,9 +2712,7 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [],
     "puma": [
         "oligo",
@@ -2974,7 +2971,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "GenomicFeatures",
         "ensembldb"
     ],
