@@ -1094,9 +1094,7 @@
     "Doscheda": [],
     "DOSE": [],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dpeak": [
         "BSgenome"
     ],
@@ -3445,7 +3443,6 @@
     ],
     "synapter": [],
     "synergyfinder": [],
-    "syntenet": [],
     "systemPipeR": [],
     "TADCompare": [],
     "TAPseq": [
