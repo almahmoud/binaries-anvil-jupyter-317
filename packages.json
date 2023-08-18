@@ -285,7 +285,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "ReactomePA",
