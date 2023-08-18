@@ -558,7 +558,6 @@
         "genefilter"
     ],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "BSgenome",
         "DMRcate",
