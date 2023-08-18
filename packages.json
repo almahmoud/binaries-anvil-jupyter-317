@@ -827,7 +827,6 @@
         "annotate",
         "genefilter"
     ],
-    "covEB": [],
     "covRNA": [
         "annotate",
         "genefilter"
