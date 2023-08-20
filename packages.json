@@ -12058,7 +12058,6 @@
         "cytolib",
         "flowCore"
     ],
-    "immunotation": [],
     "infercnv": [
         "Biobase",
         "DelayedArray",
