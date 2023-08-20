@@ -13277,7 +13277,6 @@
         "preprocessCore"
     ],
     "MANOR": [],
-    "MantelCorr": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biobase",
