@@ -7329,7 +7329,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
         "AnnotationFilter",
