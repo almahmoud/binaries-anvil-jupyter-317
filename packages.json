@@ -5761,7 +5761,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "CoRegNet": [],
     "CoreGx": [
         "Biobase",
         "BiocParallel",
