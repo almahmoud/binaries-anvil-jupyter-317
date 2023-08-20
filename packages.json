@@ -22032,7 +22032,6 @@
         "XVector",
         "annotate"
     ],
-    "semisup": [],
     "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
