@@ -5679,7 +5679,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "decoupleR",
         "graph"
     ],
     "COTAN": [
@@ -6757,7 +6756,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "Biobase",
         "BiocIO",
@@ -7904,7 +7902,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "decoupleR",
         "interactiveDisplayBase",
         "preprocessCore",
         "progeny",
@@ -19323,8 +19320,7 @@
     ],
     "profileScoreDist": [],
     "progeny": [
-        "Biobase",
-        "decoupleR"
+        "Biobase"
     ],
     "projectR": [
         "AnnotationDbi",
