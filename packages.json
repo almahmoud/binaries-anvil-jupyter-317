@@ -13413,7 +13413,6 @@
         "interactiveDisplayBase",
         "limma"
     ],
-    "matchBox": [],
     "MatrixQCvis": [
         "AnnotationDbi",
         "AnnotationHub",
