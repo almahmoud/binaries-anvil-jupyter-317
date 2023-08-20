@@ -17096,7 +17096,6 @@
     "RCyjs": [
         "graph"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
