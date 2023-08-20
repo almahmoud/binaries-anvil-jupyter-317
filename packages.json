@@ -1747,7 +1747,6 @@
     "biocViews": [
         "RBGL"
     ],
-    "biodbChebi": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
@@ -13970,7 +13969,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biodbChebi",
         "ropls"
     ],
     "phenopath": [
