@@ -12964,10 +12964,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -18484,8 +18481,7 @@
     ],
     "plotGrouper": [],
     "PLPE": [
-        "Biobase",
-        "LPE"
+        "Biobase"
     ],
     "plyranges": [
         "Biobase",
