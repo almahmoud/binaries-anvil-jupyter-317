@@ -10390,7 +10390,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "genomes": [],
     "GenomicAlignments": [
         "Biobase",
         "Biostrings",
