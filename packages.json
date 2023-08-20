@@ -1139,7 +1139,6 @@
         "genefilter",
         "limma",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi",
         "multtest",
@@ -13902,7 +13901,6 @@
         "limma",
         "rtracklayer"
     ],
-    "mdqc": [],
     "MDTS": [
         "Biobase",
         "Biostrings",
