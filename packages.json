@@ -929,7 +929,6 @@
         "edgeR",
         "multtest"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
