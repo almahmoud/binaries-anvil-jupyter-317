@@ -5431,7 +5431,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "CNVgears": [],
     "cnvGSA": [
         "BiocGenerics",
         "GenomeInfoDb",
