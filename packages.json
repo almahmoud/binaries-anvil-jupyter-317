@@ -6715,7 +6715,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "BiocIO",
