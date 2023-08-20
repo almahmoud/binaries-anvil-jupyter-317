@@ -5488,7 +5488,6 @@
         "Spectra",
         "XVector"
     ],
-    "ComPrAn": [],
     "concordexR": [
         "BiocParallel",
         "DelayedArray",
