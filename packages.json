@@ -13405,7 +13405,6 @@
         "geneplotter",
         "interactiveDisplayBase",
         "limma",
-        "pfamAnalyzeR",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -19405,7 +19404,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "pfamAnalyzeR": [],
     "PFP": [
         "AnnotationDbi",
         "Biobase",
