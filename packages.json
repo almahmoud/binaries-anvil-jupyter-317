@@ -7750,7 +7750,6 @@
         "ggtree",
         "qvalue"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "Biobase",
