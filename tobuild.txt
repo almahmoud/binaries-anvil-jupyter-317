@@ -1,9 +1,0 @@
-KinSwingR
-scTHI
-PCAN
-XINA
-COMPASS
-ChemmineR
-TreeAndLeaf
-ompBAM
-graph
