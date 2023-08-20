@@ -11966,7 +11966,6 @@
         "ggtree",
         "treeio"
     ],
-    "GGPA": [],
     "ggspavis": [
         "Biobase",
         "BiocGenerics",
