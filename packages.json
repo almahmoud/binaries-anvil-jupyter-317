@@ -19850,7 +19850,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "statTarget": [],
     "STdeconvolve": [],
     "stepNorm": [
         "marray"
