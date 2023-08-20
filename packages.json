@@ -1364,8 +1364,7 @@
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqQC": [
         "AnnotationDbi",
@@ -1410,8 +1409,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqTFEA": [
         "AnnotationDbi",
@@ -1438,8 +1436,7 @@
         "annotate",
         "limma",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "atena": [
         "AnnotationDbi",
@@ -1486,8 +1483,7 @@
         "XVector",
         "annotate",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "attract": [
         "AnnotationDbi",
@@ -4591,8 +4587,7 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "CHRONOS": [
         "AnnotationDbi",
@@ -6759,8 +6754,7 @@
         "annotate",
         "biomaRt",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "DAMEfinder": [
         "AnnotationDbi",
@@ -8511,8 +8505,7 @@
         "XVector",
         "annotate",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "EnMCB": [],
     "ENmix": [
@@ -8640,7 +8633,6 @@
         "pipeFrame",
         "qvalue",
         "rtracklayer",
-        "seqLogo",
         "treeio"
     ],
     "ensembldb": [
@@ -9144,7 +9136,6 @@
         "pipeFrame",
         "qvalue",
         "rtracklayer",
-        "seqLogo",
         "treeio"
     ],
     "escape": [
@@ -13068,8 +13059,7 @@
         "genefilter",
         "geneplotter",
         "limma",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "InterMineR": [
         "Biobase",
@@ -14369,8 +14359,7 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "matter": [
         "BiocParallel"
@@ -16464,8 +16453,7 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "monocle": [
         "Biobase",
@@ -16580,8 +16568,7 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifcounter": [
         "Biostrings",
@@ -16631,8 +16618,7 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifStack": [
         "AnnotationDbi",
@@ -16657,8 +16643,7 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "MouseFM": [
         "AnnotationDbi",
@@ -17577,7 +17562,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -18881,8 +18865,7 @@
         "XVector",
         "annotate",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PAIRADISE": [
         "Biobase",
@@ -19946,8 +19929,7 @@
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PrInCE": [
         "Biobase",
@@ -20472,8 +20454,7 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "seqLogo"
+        "XVector"
     ],
     "pwOmics": [
         "AnnotationDbi",
@@ -21741,8 +21722,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rGenomeTracks": [
         "AnnotationDbi",
@@ -22009,8 +21989,7 @@
         "edgeR",
         "limma",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rifi": [
         "Biobase",
@@ -24350,7 +24329,6 @@
         "XVector",
         "biomaRt"
     ],
-    "seqLogo": [],
     "seqPattern": [
         "Biostrings",
         "GenomeInfoDb",
@@ -25703,8 +25681,7 @@
         "biovizBase",
         "ensembldb",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "speckle": [
         "Biobase",
@@ -25973,8 +25950,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "splots": [],
     "SPONGE": [
@@ -26971,8 +26947,7 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "TFEA.ChIP": [
         "AnnotationDbi",
