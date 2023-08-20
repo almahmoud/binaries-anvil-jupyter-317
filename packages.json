@@ -12113,7 +12113,6 @@
     "iChip": [
         "limma"
     ],
-    "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
         "Biobase",
