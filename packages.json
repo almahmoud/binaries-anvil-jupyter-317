@@ -105,7 +105,6 @@
         "Glimma",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rsamtools",
@@ -174,7 +173,6 @@
         "Glimma",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rsamtools",
@@ -206,7 +204,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -390,7 +387,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -532,7 +528,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -590,7 +585,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector"
     ],
@@ -626,7 +620,6 @@
         "HDF5Array",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -757,7 +750,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -788,7 +780,6 @@
         "HDF5Array",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -858,7 +849,6 @@
         "GOstats",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -1307,7 +1297,6 @@
         "graphite"
     ],
     "BiocCheck": [
-        "RBGL",
         "biocViews"
     ],
     "biocGraph": [
@@ -1357,7 +1346,6 @@
         "annotate"
     ],
     "BiocPkgTools": [
-        "RBGL",
         "biocViews"
     ],
     "BiocSet": [
@@ -1379,9 +1367,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "biocViews": [
-        "RBGL"
-    ],
+    "biocViews": [],
     "biomaRt": [
         "AnnotationDbi",
         "Biostrings",
@@ -1423,7 +1409,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RBGL",
         "XVector"
     ],
     "BioNetStat": [
@@ -1505,7 +1490,6 @@
         "KEGGREST",
         "OrganismDbi",
         "QDNAseq",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -1602,7 +1586,6 @@
         "Biostrings",
         "CellNOptR",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -1623,7 +1606,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -1674,7 +1656,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -1859,7 +1840,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -1909,7 +1889,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -1956,7 +1935,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -1969,7 +1947,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "biomaRt",
@@ -2030,7 +2007,6 @@
         "Biostrings",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "genefilter"
@@ -2043,7 +2019,6 @@
         "GOstats",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "XVector",
@@ -2202,7 +2177,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "genefilter",
@@ -2245,7 +2219,6 @@
         "scuttle"
     ],
     "CellNOptR": [
-        "RBGL",
         "Rgraphviz"
     ],
     "CellTrails": [
@@ -2504,7 +2477,6 @@
         "GenomicRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -2689,7 +2661,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "biomaRt"
     ],
@@ -2704,7 +2675,6 @@
         "GenomicRanges",
         "Gviz",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -2813,7 +2783,6 @@
         "GenomicRanges",
         "KEGGREST",
         "KEGGgraph",
-        "RBGL",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -2927,22 +2896,18 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORfuzzy": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORode": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNTools": [
@@ -3598,7 +3563,6 @@
         "GenomicRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -3809,7 +3773,6 @@
     ],
     "cyanoFilter": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
@@ -3881,7 +3844,6 @@
     "cytoMEM": [],
     "CytoML": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
@@ -3895,7 +3857,6 @@
         "ComplexHeatmap",
         "DelayedArray",
         "PeacoQC",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowAI",
@@ -4013,7 +3974,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "epiNEM",
@@ -4022,7 +3982,6 @@
     ],
     "ddPCRclust": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowDensity",
@@ -4158,7 +4117,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RBGL",
         "RCy3",
         "Rgraphviz"
     ],
@@ -4274,7 +4232,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -4300,7 +4257,6 @@
         "GenomicRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -4343,7 +4299,6 @@
         "DESeq2",
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector"
@@ -5188,7 +5143,6 @@
         "HDF5Array",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5205,7 +5159,6 @@
         "siggenes"
     ],
     "epiNEM": [
-        "RBGL",
         "Rgraphviz",
         "mnem"
     ],
@@ -5245,7 +5198,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5266,7 +5218,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5286,7 +5237,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5305,7 +5255,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5329,7 +5278,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5449,7 +5397,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SGSeq",
@@ -5527,7 +5474,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -5739,7 +5685,6 @@
         "siggenes"
     ],
     "fgga": [
-        "RBGL",
         "Rgraphviz"
     ],
     "FilterFFPE": [
@@ -5778,7 +5723,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -5802,7 +5746,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -5832,7 +5775,6 @@
     "flowClust": [],
     "flowCut": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowDensity",
@@ -5842,7 +5784,6 @@
     ],
     "flowDensity": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowViz",
@@ -5854,7 +5795,6 @@
     ],
     "flowGate": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowWorkspace",
@@ -5872,7 +5812,6 @@
     "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowViz",
@@ -5887,7 +5826,6 @@
     "flowViz": [],
     "flowVS": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowStats",
@@ -5897,7 +5835,6 @@
     ],
     "flowWorkspace": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "ncdfFlow"
@@ -6340,7 +6277,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -6381,7 +6317,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -6471,7 +6406,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "biomaRt",
@@ -6498,7 +6432,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -6511,7 +6444,6 @@
     ],
     "ggcyto": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowWorkspace",
@@ -6635,7 +6567,6 @@
         "GOstats",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -6724,7 +6655,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "topGO"
@@ -6754,7 +6684,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -6894,7 +6823,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -6946,7 +6874,6 @@
         "GenomicRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -7369,7 +7296,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -7485,7 +7411,6 @@
     ],
     "ImmuneSpaceR": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowWorkspace",
@@ -7559,7 +7484,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -7587,7 +7511,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "genefilter"
@@ -7668,7 +7591,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -8034,7 +7956,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -8240,7 +8161,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -8426,7 +8346,6 @@
         "Gviz",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -8544,7 +8463,6 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "Melissa": [
@@ -8582,7 +8500,6 @@
         "GSEABase",
         "KEGGREST",
         "MeSHDbi",
-        "RBGL",
         "XVector",
         "annotate",
         "genefilter"
@@ -8689,7 +8606,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -8832,7 +8748,6 @@
         "HDF5Array",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -9172,7 +9087,6 @@
         "GenomicRanges",
         "HDF5Array",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -9273,7 +9187,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SummarizedExperiment",
@@ -9313,7 +9226,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "S4Arrays",
@@ -9334,7 +9246,6 @@
         "DOSE",
         "GOSemSim",
         "KEGGREST",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "SPONGE",
@@ -9552,7 +9463,6 @@
         "rtracklayer"
     ],
     "monocle": [
-        "RBGL",
         "biocViews"
     ],
     "MoonlightR": [
@@ -9752,7 +9662,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -10151,7 +10060,6 @@
         "HDF5Array",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -10233,7 +10141,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RBGL",
         "RCy3",
         "Rgraphviz"
     ],
@@ -10266,7 +10173,6 @@
         "XVector"
     ],
     "nempi": [
-        "RBGL",
         "Rgraphviz",
         "epiNEM",
         "mnem"
@@ -10349,7 +10255,6 @@
         "GenomicRanges",
         "HDF5Array",
         "KEGGREST",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "Rsamtools",
@@ -10714,7 +10619,6 @@
     ],
     "openCyto": [
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowClust",
@@ -10819,7 +10723,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -11045,7 +10948,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SummarizedExperiment",
@@ -11091,7 +10993,6 @@
     "PeacoQC": [
         "ComplexHeatmap",
         "DelayedArray",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "flowWorkspace",
@@ -11180,7 +11081,6 @@
     "phemd": [
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -11212,7 +11112,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "biomaRt",
@@ -11343,7 +11242,6 @@
         "GOstats",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -11987,7 +11885,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -12103,7 +12000,6 @@
         "XVector",
         "dada2"
     ],
-    "RBGL": [],
     "RBM": [],
     "Rbowtie2": [
         "Biostrings",
@@ -12281,7 +12177,6 @@
         "GenomicRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -12446,7 +12341,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -12673,7 +12567,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -12768,7 +12661,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -12903,7 +12795,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "cellHTS2",
@@ -13274,7 +13165,6 @@
         "rtracklayer"
     ],
     "RVS": [
-        "RBGL",
         "Rgraphviz"
     ],
     "S4Arrays": [],
@@ -13853,7 +13743,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -13892,7 +13781,6 @@
         "GenomicRanges",
         "KEGGREST",
         "MeSHDbi",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "S4Arrays",
@@ -13932,7 +13820,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -14201,7 +14088,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SummarizedExperiment",
@@ -14305,7 +14191,6 @@
     "sigFeature": [
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -14677,7 +14562,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -14747,7 +14631,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -15096,7 +14979,6 @@
         "Biostrings",
         "ComplexHeatmap",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "XVector",
         "biomaRt"
@@ -15217,7 +15099,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "annotate",
         "cellHTS2",
@@ -15278,9 +15159,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "struct": [
         "DelayedArray",
         "GenomicRanges",
@@ -16309,7 +16188,6 @@
         "Gviz",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -16349,7 +16227,6 @@
         "XVector"
     ],
     "uSORT": [
-        "RBGL",
         "biocViews",
         "monocle"
     ],
@@ -16435,7 +16312,6 @@
         "Gviz",
         "HDF5Array",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -16623,7 +16499,6 @@
         "GreyListChIP",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -16791,7 +16666,6 @@
         "GenomicRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SomaticSignatures",
