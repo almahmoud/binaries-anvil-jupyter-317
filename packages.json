@@ -432,7 +432,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -1342,7 +1341,6 @@
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
         "rsbml"
     ],
     "bigmelon": [
@@ -7583,7 +7581,6 @@
         "GenomeInfoDb",
         "XVector",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "HDF5Array": [
@@ -7848,10 +7845,8 @@
         "XVector"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "DelayedArray",
         "GenomeInfoDb",
