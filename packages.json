@@ -1548,7 +1548,6 @@
         "RBGL"
     ],
     "biodbKegg": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biomaRt": [
         "AnnotationDbi",
