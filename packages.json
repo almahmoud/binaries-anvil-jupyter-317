@@ -12207,7 +12207,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment"
     ],
-    "TPP": [],
     "tracktables": [
         "Biostrings",
         "GenomicRanges",
