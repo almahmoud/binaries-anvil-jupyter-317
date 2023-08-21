@@ -7909,8 +7909,7 @@
     "netOmics": [
         "AnnotationDbi",
         "Biostrings",
-        "KEGGREST",
-        "RandomWalkRestartMH"
+        "KEGGREST"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -9254,7 +9253,6 @@
         "SummarizedExperiment",
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
