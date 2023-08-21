@@ -6643,7 +6643,6 @@
         "ncdfFlow"
     ],
     "fmcsR": [],
-    "fobitools": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biostrings",
