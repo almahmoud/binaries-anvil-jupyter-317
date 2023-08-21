@@ -1332,7 +1332,6 @@
         "XVector",
         "pathview"
     ],
-    "BioQC": [],
     "biosigner": [
         "DelayedArray",
         "GenomicRanges",
