@@ -12532,7 +12532,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "scde": [],
     "scds": [
         "DelayedArray",
         "GenomicRanges",
