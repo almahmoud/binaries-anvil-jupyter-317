@@ -8302,7 +8302,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "MetID": [],
     "MetNet": [
         "DelayedArray",
         "GenomicRanges",
