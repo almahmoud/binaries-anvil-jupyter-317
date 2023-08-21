@@ -2423,7 +2423,6 @@
         "biomaRt",
         "geNetClassifier",
         "genefilter",
-        "hopach",
         "phenoTest"
     ],
     "CancerSubtypes": [
@@ -8804,7 +8803,6 @@
     ],
     "hmdbQuery": [],
     "HMMcopy": [],
-    "hopach": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13786,8 +13784,7 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "PhenStat": [],
     "philr": [],
@@ -16585,7 +16582,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "hopach",
         "rhdf5"
     ],
     "sccomp": [
@@ -19671,8 +19667,7 @@
         "SummarizedExperiment",
         "XVector",
         "diffcyt",
-        "flowCore",
-        "hopach"
+        "flowCore"
     ],
     "TreeSummarizedExperiment": [
         "Biostrings",
