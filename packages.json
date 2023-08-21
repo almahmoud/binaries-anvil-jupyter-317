@@ -10193,7 +10193,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RVS": [],
     "safe": [
         "AnnotationDbi",
         "Biostrings",
