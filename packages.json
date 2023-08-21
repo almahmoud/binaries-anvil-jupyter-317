@@ -7305,7 +7305,6 @@
     "MOFA2": [
         "HDF5Array"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
