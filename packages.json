@@ -16401,7 +16401,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "spkTools": [],
     "splatter": [
         "DelayedArray",
         "DelayedMatrixStats",
