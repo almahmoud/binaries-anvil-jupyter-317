@@ -23,7 +23,6 @@
     ],
     "a4Classif": [],
     "ABarray": [],
-    "ABSSeq": [],
     "ACE": [
         "Biostrings",
         "CGHbase",
