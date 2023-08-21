@@ -4561,7 +4561,6 @@
     ],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowWorkspace",
         "ncdfFlow"
