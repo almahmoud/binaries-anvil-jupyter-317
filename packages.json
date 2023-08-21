@@ -12055,7 +12055,6 @@
         "XVector"
     ],
     "RcwlPipelines": [],
-    "RCyjs": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
