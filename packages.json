@@ -9150,7 +9150,6 @@
         "XVector",
         "rhdf5"
     ],
-    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
