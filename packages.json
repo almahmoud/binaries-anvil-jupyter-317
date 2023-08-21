@@ -5793,7 +5793,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "infercnv": [
         "GenomicRanges",
         "SingleCellExperiment",
