@@ -49,7 +49,7 @@ packaged installation of ‘rols’ as ‘rols_2.28.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (rols)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp0YiIkm/downloaded_packages’
+	‘/tmp/Rtmp027DSn/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'gert',
   'ggplot2', 'htmltools', 'httr', 'igraph', 'Matrix', 'MatrixGenerics', 'nlme',
@@ -58,6 +58,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	1m11.146s
-user	1m7.161s
-sys	0m2.369s
+real	1m17.324s
+user	1m12.934s
+sys	0m2.681s
