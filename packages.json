@@ -3448,7 +3448,6 @@
         "genefilter",
         "geneplotter",
         "rtracklayer",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -5817,7 +5816,6 @@
         "annotate",
         "biomaRt"
     ],
-    "satuRn": [],
     "SBGNview": [
         "AnnotationDbi",
         "pathview"
