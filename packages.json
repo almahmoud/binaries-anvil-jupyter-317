@@ -784,7 +784,6 @@
         "rtracklayer"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "AnnotationDbi",
         "BSgenome",
