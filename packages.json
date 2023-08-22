@@ -1840,7 +1840,6 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "debCAM": [],
     "debrowser": [
         "AnnotationDbi",
         "DESeq2",
