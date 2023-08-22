@@ -1249,7 +1249,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead",
@@ -2423,7 +2422,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "annotate",
@@ -5272,7 +5270,6 @@
         "ShortRead",
         "dada2"
     ],
-    "Rbowtie2": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -7058,7 +7055,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rbowtie2",
         "ShortRead",
         "annotate",
         "biomaRt",
