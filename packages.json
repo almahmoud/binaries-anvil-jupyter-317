@@ -1892,7 +1892,6 @@
         "rtracklayer"
     ],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "KEGGREST",
@@ -5439,9 +5438,7 @@
     ],
     "MEDME": [],
     "megadepth": [],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth"
     ],
