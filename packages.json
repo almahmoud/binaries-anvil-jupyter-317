@@ -6962,13 +6962,11 @@
     "TCseq": [
         "GenomicAlignments"
     ],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "AnnotationDbi",
         "DOSE",
         "GOSemSim",
         "RTCGA",
-        "TDbasedUFE",
         "enrichplot"
     ],
     "TEKRABber": [
