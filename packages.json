@@ -6667,7 +6667,6 @@
     "ToxicoGx": [
         "CoreGx"
     ],
-    "tracktables": [],
     "trackViewer": [
         "AnnotationDbi",
         "BSgenome",
