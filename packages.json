@@ -3643,7 +3643,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "made4": [],
     "MADSEQ": [
         "AnnotationDbi",
         "BSgenome",
@@ -4741,9 +4740,7 @@
         "AnnotationDbi",
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
@@ -4752,7 +4749,6 @@
         "MultiDataSet",
         "annotate",
         "genefilter",
-        "made4",
         "omicade4",
         "rexposome",
         "sva"
