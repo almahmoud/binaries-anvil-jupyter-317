@@ -584,7 +584,6 @@
     "BiocSet": [
         "AnnotationDbi"
     ],
-    "BiocSklearn": [],
     "biomaRt": [
         "AnnotationDbi"
     ],
