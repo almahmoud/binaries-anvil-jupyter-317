@@ -6580,7 +6580,6 @@
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
     "tigre": [
         "AnnotationDbi",
         "annotate"
