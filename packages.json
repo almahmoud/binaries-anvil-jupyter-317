@@ -3329,7 +3329,6 @@
         "annotate"
     ],
     "IFAA": [],
-    "IgGeneUsage": [],
     "igvR": [
         "AnnotationDbi",
         "BSgenome",
