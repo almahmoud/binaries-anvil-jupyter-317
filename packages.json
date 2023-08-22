@@ -2137,9 +2137,7 @@
     "CytoML": [
         "openCyto"
     ],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -6013,7 +6011,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "PeacoQC": [],
     "peakPantheR": [],
     "PECA": [
         "AnnotationDbi",
