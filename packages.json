@@ -6555,7 +6555,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "AnnotationDbi",
         "GenomicAlignments",
