@@ -3438,7 +3438,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "marr": [],
     "maser": [
         "AnnotationDbi",
         "BSgenome",
