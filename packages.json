@@ -3187,7 +3187,6 @@
         "rtracklayer"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IONiseR": [
         "GenomicAlignments",
         "ShortRead"
