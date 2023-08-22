@@ -6020,7 +6020,6 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6028,8 +6027,7 @@
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "rtracklayer",
-        "scanMiR"
+        "rtracklayer"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
