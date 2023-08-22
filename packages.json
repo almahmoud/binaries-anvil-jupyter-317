@@ -4327,7 +4327,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "MPRAnalyze": [],
     "MQmetrics": [],
     "MsDataHub": [
         "AnnotationDbi",
