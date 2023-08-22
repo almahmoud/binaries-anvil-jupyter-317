@@ -3069,7 +3069,6 @@
     ],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
