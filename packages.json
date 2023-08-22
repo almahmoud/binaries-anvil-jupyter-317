@@ -143,7 +143,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "BSgenome",
@@ -482,7 +481,6 @@
         "PhIPData"
     ],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
         "DESeq2",
@@ -3877,7 +3875,6 @@
         "DESeq2"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "TreeSummarizedExperiment",
@@ -4509,9 +4506,7 @@
         "topGO"
     ],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
         "MultiDataSet",
