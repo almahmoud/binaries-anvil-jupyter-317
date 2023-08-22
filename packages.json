@@ -3116,7 +3116,6 @@
         "AnnotationDbi",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
@@ -4254,7 +4253,6 @@
         "ExperimentHub",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
@@ -9196,7 +9194,6 @@
         "InteractionSet",
         "SummarizedExperiment"
     ],
-    "SPIA": [],
     "SPIAT": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -10338,7 +10335,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
