@@ -6528,7 +6528,6 @@
         "diffcyt"
     ],
     "TreeSummarizedExperiment": [],
-    "TREG": [],
     "trena": [
         "AnnotationDbi",
         "BSgenome",
