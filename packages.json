@@ -7065,7 +7065,6 @@
         "safe",
         "variancePartition"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "AnnotationDbi",
         "annotate",
