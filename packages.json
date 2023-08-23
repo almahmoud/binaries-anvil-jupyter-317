@@ -2933,7 +2933,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
