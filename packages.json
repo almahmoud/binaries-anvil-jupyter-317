@@ -5804,7 +5804,6 @@
         "graphite",
         "miRNAtap"
     ],
-    "stJoincount": [],
     "strandCheckR": [
         "AnnotationDbi",
         "GenomicAlignments",
