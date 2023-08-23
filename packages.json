@@ -393,10 +393,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BasicSTARRseq": [
         "GenomicAlignments"
     ],
