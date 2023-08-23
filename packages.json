@@ -3114,15 +3114,12 @@
         "scater",
         "scran"
     ],
-    "iSEEhex": [],
     "iSEEhub": [
         "AnnotationDbi",
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "isobar": [
         "AnnotationDbi",
         "biomaRt"
