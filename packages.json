@@ -397,12 +397,9 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
     "BasicSTARRseq": [
         "GenomicAlignments"
@@ -413,9 +410,7 @@
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -554,9 +549,7 @@
         "MultiDataSet",
         "ropls"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "AnnotationDbi",
         "BSgenome",
@@ -872,9 +865,7 @@
         "PROMISE",
         "annotate"
     ],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "CellBarcode": [
         "GenomicAlignments",
         "ShortRead"
@@ -1065,8 +1056,7 @@
     ],
     "ChromSCape": [
         "GenomicAlignments",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "chromstaR": [
         "GenomicAlignments"
@@ -1122,9 +1112,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "ClassifyR": [
         "AnnotationDbi",
         "annotate",
@@ -1793,9 +1781,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "distinct": [],
     "DMCFB": [
         "GenomicAlignments",
@@ -2361,8 +2347,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "flowCut": [
         "flowDensity"
@@ -3074,8 +3059,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "scran"
+        "enrichplot"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -3879,9 +3863,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "mslp": [
         "AnnotationDbi"
     ],
@@ -3959,9 +3941,7 @@
         "graphite",
         "ropls"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "AnnotationDbi",
         "BSgenome",
@@ -4433,9 +4413,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "pipeFrame": [
         "BSgenome",
         "GenomicAlignments",
@@ -5343,12 +5321,9 @@
     ],
     "scDblFinder": [
         "GenomicAlignments",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
-    "scDD": [
-        "scran"
-    ],
+    "scDD": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
@@ -5361,13 +5336,10 @@
         "annotate",
         "biomaRt",
         "ensembldb",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "scGPS": [],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "scmeth": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5410,7 +5382,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "scran": [],
     "scRNAseqApp": [
         "GenomicAlignments",
         "rtracklayer",
@@ -5462,8 +5433,7 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "scviR": [],
     "segmenter": [
@@ -5662,9 +5632,7 @@
     "single": [
         "GenomicAlignments"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5681,7 +5649,6 @@
         "rtracklayer",
         "scDblFinder",
         "scMerge",
-        "scran",
         "sva",
         "zinbwave"
     ],
@@ -5780,9 +5747,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "sparrow": [
         "AnnotationDbi",
         "BiocSet",
@@ -5810,8 +5775,7 @@
     "spatialHeatmap": [
         "AnnotationDbi",
         "annotate",
-        "genefilter",
-        "scran"
+        "genefilter"
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools"
