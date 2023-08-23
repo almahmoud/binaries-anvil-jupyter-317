@@ -143,7 +143,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "AMOUNTAIN": [],
     "amplican": [
         "GenomicAlignments",
         "ShortRead"
@@ -3713,7 +3712,6 @@
         "xcms"
     ],
     "MODA": [
-        "AMOUNTAIN",
         "AnnotationDbi"
     ],
     "mogsa": [
