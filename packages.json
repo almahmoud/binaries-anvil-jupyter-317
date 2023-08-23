@@ -5459,7 +5459,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "SCnorm": [],
     "scone": [
         "AnnotationDbi",
         "EDASeq",
