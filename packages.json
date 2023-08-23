@@ -1650,9 +1650,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DELocal": [],
     "DeMixT": [
         "AnnotationDbi",
@@ -3972,7 +3970,6 @@
     "ncGTW": [
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [
         "AnnotationDbi",
         "GenomicAlignments",
