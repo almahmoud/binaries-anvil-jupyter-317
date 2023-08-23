@@ -1835,7 +1835,6 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "GenomicAlignments",
