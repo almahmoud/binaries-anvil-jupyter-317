@@ -249,7 +249,6 @@
         "AnnotationDbi",
         "MSstats"
     ],
-    "ASGSCA": [],
     "ASICS": [
         "MultiDataSet",
         "ropls"
