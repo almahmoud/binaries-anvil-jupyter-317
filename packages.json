@@ -1754,7 +1754,6 @@
     "DEGraph": [
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -3226,8 +3225,7 @@
         "tximeta"
     ],
     "isomiRs": [
-        "AnnotationDbi",
-        "DEGreport"
+        "AnnotationDbi"
     ],
     "ITALICS": [
         "oligo",
