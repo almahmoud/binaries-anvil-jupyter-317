@@ -5438,7 +5438,6 @@
         "scater",
         "scran"
     ],
-    "scMET": [],
     "scmeth": [
         "AnnotationDbi",
         "AnnotationHub",
