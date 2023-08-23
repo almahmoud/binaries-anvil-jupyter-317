@@ -291,7 +291,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "AnnotationDbi",
         "BSgenome",
