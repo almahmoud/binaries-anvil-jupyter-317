@@ -2501,7 +2501,6 @@
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "MLSeq",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -3842,7 +3841,6 @@
     "MLP": [
         "AnnotationDbi"
     ],
-    "MLSeq": [],
     "MMAPPR2": [
         "AnnotationDbi",
         "BSgenome",
