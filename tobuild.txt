@@ -1,0 +1,15 @@
+MoleculeExperiment
+alabaster.spatial
+BASiCStan
+SPIAT
+SpotClean
+ggspavis
+stJoincount
+Statial
+cytomapper
+SpatialFeatureExperiment
+spaSim
+nnSVG
+CTSV
+DESpace
+spatialDE
