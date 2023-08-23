@@ -6081,7 +6081,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
