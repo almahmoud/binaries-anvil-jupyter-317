@@ -5295,7 +5295,6 @@
         "rtracklayer"
     ],
     "scGPS": [],
-    "scMerge": [],
     "scmeth": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5602,7 +5601,6 @@
         "genefilter",
         "rtracklayer",
         "scDblFinder",
-        "scMerge",
         "sva",
         "zinbwave"
     ],
