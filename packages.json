@@ -5806,7 +5806,6 @@
         "graphite",
         "miRNAtap"
     ],
-    "Statial": [],
     "stJoincount": [],
     "strandCheckR": [
         "AnnotationDbi",
