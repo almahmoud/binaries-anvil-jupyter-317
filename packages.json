@@ -3448,7 +3448,6 @@
     "Metab": [
         "xcms"
     ],
-    "MetaboAnnotation": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
