@@ -1303,8 +1303,7 @@
         "topGO"
     ],
     "condiments": [
-        "distinct",
-        "slingshot"
+        "distinct"
     ],
     "consensusDE": [
         "AnnotationDbi",
@@ -5384,8 +5383,7 @@
     ],
     "scRNAseqApp": [
         "GenomicAlignments",
-        "rtracklayer",
-        "slingshot"
+        "rtracklayer"
     ],
     "scruff": [
         "AnnotationDbi",
@@ -5702,7 +5700,6 @@
         "GSEABase",
         "annotate"
     ],
-    "slingshot": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
@@ -6129,9 +6126,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [
         "AnnotationDbi",
         "biomaRt",
@@ -6156,9 +6151,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
