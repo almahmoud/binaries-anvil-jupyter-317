@@ -3048,7 +3048,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "iSEEu": [],
     "isobar": [
         "AnnotationDbi",
         "biomaRt"
