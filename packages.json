@@ -2844,7 +2844,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "HMMcopy": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -4590,7 +4589,6 @@
     "qsea": [
         "BSgenome",
         "GenomicAlignments",
-        "HMMcopy",
         "rtracklayer"
     ],
     "qsmooth": [
