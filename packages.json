@@ -5287,7 +5287,6 @@
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
-        "SingleCellSignalR",
         "annotate",
         "biomaRt",
         "ensembldb",
@@ -5583,7 +5582,6 @@
     "single": [
         "GenomicAlignments"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "AnnotationDbi",
         "AnnotationHub",
