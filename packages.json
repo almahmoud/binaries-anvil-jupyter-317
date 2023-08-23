@@ -3124,7 +3124,6 @@
         "CAMERA",
         "xcms"
     ],
-    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi"
     ],
