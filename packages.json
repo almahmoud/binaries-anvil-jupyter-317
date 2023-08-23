@@ -410,7 +410,6 @@
     "BasicSTARRseq": [
         "GenomicAlignments"
     ],
-    "batchelor": [],
     "BatchQC": [
         "AnnotationDbi",
         "annotate",
@@ -1077,7 +1076,6 @@
     ],
     "ChromSCape": [
         "GenomicAlignments",
-        "batchelor",
         "rtracklayer",
         "scater",
         "scran"
@@ -3994,7 +3992,6 @@
         "ropls"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -5411,7 +5408,6 @@
     ],
     "scGPS": [],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -5726,7 +5722,6 @@
         "GenomicFeatures",
         "TSCAN",
         "annotate",
-        "batchelor",
         "biomaRt",
         "celda",
         "ensembldb",
