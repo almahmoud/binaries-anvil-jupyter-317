@@ -3511,7 +3511,6 @@
         "xcms"
     ],
     "MetaboAnnotation": [],
-    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
