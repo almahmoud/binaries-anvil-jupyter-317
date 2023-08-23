@@ -913,7 +913,6 @@
         "ShortRead"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "AnnotationDbi",
         "Category",
