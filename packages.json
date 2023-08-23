@@ -105,12 +105,10 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "VariantAnnotation",
-        "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
         "rtracklayer"
     ],
-    "alabaster.spatial": [],
     "alabaster.vcf": [
         "AnnotationDbi",
         "BSgenome",
