@@ -3727,7 +3727,6 @@
         "genefilter",
         "graphite"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [
         "AnnotationDbi",
         "BSgenome",
