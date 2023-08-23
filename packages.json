@@ -5422,7 +5422,6 @@
     "scDD": [
         "scran"
     ],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
@@ -5772,7 +5771,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "sva",
         "zellkonverter",
