@@ -3545,7 +3545,6 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "AnnotationDbi",
         "DOSE",
