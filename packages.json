@@ -4033,7 +4033,6 @@
         "rtracklayer",
         "yarn"
     ],
-    "nnSVG": [],
     "nondetects": [],
     "NoRCE": [
         "AnnotationDbi",
