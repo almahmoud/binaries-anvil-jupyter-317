@@ -6109,7 +6109,6 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "systemPipeTools": [],
     "TADCompare": [],
     "TAPseq": [
         "AnnotationDbi",
