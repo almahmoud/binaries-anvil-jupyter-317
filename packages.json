@@ -2013,7 +2013,6 @@
         "snm",
         "sva"
     ],
-    "EDIRquery": [],
     "eegc": [
         "AnnotationDbi",
         "DOSE",
