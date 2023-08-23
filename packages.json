@@ -3891,7 +3891,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "AnnotationDbi",
         "BSgenome",
@@ -3924,9 +3923,7 @@
         "sva"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [],
     "MSstatsLiP": [
         "MSstats",
