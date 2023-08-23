@@ -5406,7 +5406,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "scp": [],
     "scPipe": [
         "AnnotationDbi",
         "GenomicAlignments",
