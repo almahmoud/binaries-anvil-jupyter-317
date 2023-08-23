@@ -1858,7 +1858,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "GenomicAlignments",
         "rtracklayer"
@@ -6076,7 +6075,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "scuttle"
     ],
     "spicyR": [
