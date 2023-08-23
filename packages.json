@@ -2000,7 +2000,6 @@
         "ShortRead",
         "biomaRt"
     ],
-    "EBSEA": [],
     "EDASeq": [
         "AnnotationDbi",
         "GenomicAlignments",
