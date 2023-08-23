@@ -2337,7 +2337,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "FScanR": [],
     "FunChIP": [
         "GenomicAlignments"
     ],
