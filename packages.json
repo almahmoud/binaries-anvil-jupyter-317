@@ -4509,7 +4509,6 @@
         "ontoProc"
     ],
     "POMA": [],
-    "POWSC": [],
     "PPInfer": [
         "AnnotationDbi",
         "biomaRt"
