@@ -5700,7 +5700,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
