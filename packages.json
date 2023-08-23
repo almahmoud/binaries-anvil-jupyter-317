@@ -2149,8 +2149,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "rtracklayer",
-        "tRNAdbImport"
+        "rtracklayer"
     ],
     "epivizr": [
         "AnnotationDbi",
@@ -6324,7 +6323,6 @@
         "genefilter",
         "sva"
     ],
-    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
