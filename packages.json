@@ -105,7 +105,6 @@
     "alabaster": [
         "AnnotationDbi",
         "BSgenome",
-        "DropletUtils",
         "GenomicAlignments",
         "GenomicFeatures",
         "SpatialExperiment",
@@ -116,7 +115,6 @@
         "rtracklayer"
     ],
     "alabaster.spatial": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "alabaster.vcf": [
@@ -1557,7 +1555,6 @@
         "AnnotationHub"
     ],
     "CTSV": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "cummeRbund": [
@@ -1600,11 +1597,9 @@
     ],
     "CytoGLMM": [],
     "cytomapper": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "cytoviewer": [
-        "DropletUtils",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -1767,7 +1762,6 @@
         "rtracklayer"
     ],
     "DESpace": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "destiny": [],
@@ -1916,7 +1910,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -2231,7 +2224,6 @@
     "escheR": [
         "AnnotationDbi",
         "AnnotationHub",
-        "DropletUtils",
         "ExperimentHub",
         "GenomicAlignments",
         "SpatialExperiment",
@@ -2288,7 +2280,6 @@
         "rtracklayer"
     ],
     "ExperimentSubset": [
-        "DropletUtils",
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
@@ -2383,7 +2374,6 @@
     "FLAMES": [
         "AnnotationDbi",
         "BSgenome",
-        "DropletUtils",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -2651,7 +2641,6 @@
     ],
     "ggmanh": [],
     "ggspavis": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "girafe": [
@@ -3027,7 +3016,6 @@
         "rtracklayer"
     ],
     "imcRtools": [
-        "DropletUtils",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -3220,7 +3208,6 @@
     "lisaClust": [
         "AnnotationDbi",
         "ClassifyR",
-        "DropletUtils",
         "SpatialExperiment",
         "annotate",
         "genefilter",
@@ -3831,7 +3818,6 @@
         "graphite"
     ],
     "MoleculeExperiment": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "monaLisa": [
@@ -4149,7 +4135,6 @@
         "yarn"
     ],
     "nnSVG": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "nondetects": [],
@@ -5393,9 +5378,7 @@
         "genefilter",
         "zinbwave"
     ],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "AnnotationDbi",
         "Cepo",
@@ -5414,7 +5397,6 @@
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
-        "DropletUtils",
         "GSEABase",
         "GSVA",
         "GenomicAlignments",
@@ -5472,7 +5454,6 @@
     "scp": [],
     "scPipe": [
         "AnnotationDbi",
-        "DropletUtils",
         "GenomicAlignments",
         "biomaRt",
         "rtracklayer"
@@ -5722,7 +5703,6 @@
     "SimBu": [],
     "SimFFPE": [],
     "simpleSeg": [
-        "DropletUtils",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -5739,7 +5719,6 @@
     "singleCellTK": [
         "AnnotationDbi",
         "AnnotationHub",
-        "DropletUtils",
         "ExperimentHub",
         "GSEABase",
         "GSVA",
@@ -5856,7 +5835,6 @@
         "rtracklayer"
     ],
     "Spaniel": [
-        "DropletUtils",
         "scater",
         "scran"
     ],
@@ -5872,21 +5850,16 @@
         "rtracklayer"
     ],
     "spaSim": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "spatialDE": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [
-        "DropletUtils"
-    ],
+    "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
@@ -5918,13 +5891,11 @@
     ],
     "SpectralTAD": [],
     "SPIAT": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "spicyR": [
         "AnnotationDbi",
         "ClassifyR",
-        "DropletUtils",
         "SpatialExperiment",
         "annotate",
         "genefilter"
@@ -5978,7 +5949,6 @@
         "biomaRt"
     ],
     "SpotClean": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "SPsimSeq": [
@@ -5991,7 +5961,6 @@
     "ssviz": [],
     "standR": [
         "AnnotationDbi",
-        "DropletUtils",
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6016,11 +5985,9 @@
         "miRNAtap"
     ],
     "Statial": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "stJoincount": [
-        "DropletUtils",
         "SpatialExperiment"
     ],
     "strandCheckR": [
@@ -6490,7 +6457,6 @@
         "annotate"
     ],
     "Voyager": [
-        "DropletUtils",
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
