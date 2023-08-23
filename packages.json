@@ -5720,7 +5720,6 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "SPIAT": [],
     "spicyR": [
         "AnnotationDbi",
         "ClassifyR",
