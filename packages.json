@@ -1548,10 +1548,7 @@
         "FlowSOM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [
         "GenomicAlignments",
         "ShortRead"
@@ -2942,9 +2939,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
@@ -5566,9 +5561,7 @@
     ],
     "SimBu": [],
     "SimFFPE": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "AnnotationDbi",
         "GOSemSim"
