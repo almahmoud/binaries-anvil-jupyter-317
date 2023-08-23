@@ -4308,7 +4308,6 @@
         "annotate",
         "genefilter"
     ],
-    "peco": [],
     "periodicDNA": [
         "BSgenome",
         "GenomicAlignments",
