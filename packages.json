@@ -5388,7 +5388,6 @@
         "epivizrData",
         "rtracklayer"
     ],
-    "scviR": [],
     "segmenter": [
         "AnnotationDbi",
         "ChIPseeker",
