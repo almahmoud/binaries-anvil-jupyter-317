@@ -3063,7 +3063,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ILoReg": [],
     "IMAS": [
         "AnnotationDbi",
         "GenomicAlignments",
