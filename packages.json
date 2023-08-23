@@ -1292,9 +1292,7 @@
         "rtracklayer",
         "topGO"
     ],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "consensusDE": [
         "AnnotationDbi",
         "EDASeq",
@@ -1763,7 +1761,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "distinct": [],
     "DMCFB": [
         "GenomicAlignments",
         "rtracklayer"
