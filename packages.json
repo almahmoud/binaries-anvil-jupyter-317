@@ -2860,9 +2860,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -3924,7 +3922,6 @@
         "AnnotationHub",
         "graphite"
     ],
-    "multiHiCcompare": [],
     "multiMiR": [
         "AnnotationDbi"
     ],
