@@ -2881,7 +2881,6 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiContacts": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
