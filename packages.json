@@ -5769,7 +5769,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "SpotClean": [],
     "SPsimSeq": [
         "AnnotationDbi"
     ],
