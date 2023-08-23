@@ -5816,7 +5816,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "splatter": [],
     "SpliceWiz": [
         "AnnotationDbi",
         "AnnotationHub",
