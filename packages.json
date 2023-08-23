@@ -99,7 +99,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "airpart": [],
     "alabaster": [
         "AnnotationDbi",
         "BSgenome",
