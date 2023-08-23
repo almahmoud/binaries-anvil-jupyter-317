@@ -5560,7 +5560,6 @@
     ],
     "SimBu": [],
     "SimFFPE": [],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "AnnotationDbi",
         "GOSemSim"
