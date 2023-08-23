@@ -5325,7 +5325,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "SCArray.sat": [],
     "SCATE": [
         "AnnotationDbi",
         "AnnotationHub",
