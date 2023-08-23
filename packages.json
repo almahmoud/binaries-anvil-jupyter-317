@@ -2228,7 +2228,6 @@
         "AnnotationDbi",
         "GSEABase",
         "GSVA",
-        "UCell",
         "annotate"
     ],
     "escheR": [
@@ -6362,7 +6361,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationDbi",
         "AnnotationHub",
