@@ -14212,7 +14212,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "hierGWAS": [],
     "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
