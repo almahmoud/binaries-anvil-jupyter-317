@@ -4343,7 +4343,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "planttfhunter": [],
     "PloGO2": [
         "AnnotationDbi",
         "AnnotationForge",
