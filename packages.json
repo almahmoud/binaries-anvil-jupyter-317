@@ -417,7 +417,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "AnnotationDbi",
