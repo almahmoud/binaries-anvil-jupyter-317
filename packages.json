@@ -1444,7 +1444,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "AnnotationDbi",
         "Biostrings",
