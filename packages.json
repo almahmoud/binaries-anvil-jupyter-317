@@ -20210,10 +20210,7 @@
         "graph"
     ],
     "Rdisop": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biobase",
