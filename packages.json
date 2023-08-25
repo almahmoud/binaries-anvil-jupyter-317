@@ -1342,7 +1342,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "XVector",
         "annotate",
         "beachmat",
@@ -8931,7 +8930,6 @@
         "rtracklayer"
     ],
     "Maaslin2": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "Macarron": [
@@ -8944,7 +8942,6 @@
         "Maaslin2",
         "S4Arrays",
         "SummarizedExperiment",
-        "Wrench",
         "XVector",
         "metagenomeSeq"
     ],
@@ -9263,7 +9260,6 @@
         "XVector"
     ],
     "mbQTL": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "MCbiclust": [
@@ -9565,9 +9561,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "metagenomeSeq": [
-        "Wrench"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "DelayedArray",
@@ -9986,7 +9980,6 @@
     "microbiomeDASim": [
         "Biostrings",
         "GenomeInfoDb",
-        "Wrench",
         "XVector",
         "biomformat",
         "metagenomeSeq",
@@ -10000,7 +9993,6 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "Wrench",
         "XVector",
         "biomformat",
         "metagenomeSeq",
@@ -10025,7 +10017,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "XVector",
         "beachmat",
         "biomformat",
@@ -10421,7 +10412,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "mnem": [],
@@ -18406,7 +18396,6 @@
         "XVector"
     ],
     "wppi": [],
-    "Wrench": [],
     "xcms": [
         "DelayedArray",
         "GenomeInfoDb",
