@@ -3803,7 +3803,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "ceRNAnetsim": [],
     "CeTF": [
         "AnnotationDbi",
         "Biobase",
