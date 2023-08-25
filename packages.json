@@ -22998,7 +22998,6 @@
         "graph",
         "rtracklayer"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
