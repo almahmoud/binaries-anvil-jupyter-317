@@ -2156,7 +2156,6 @@
         "biocViews",
         "graph"
     ],
-    "BiocDockerManager": [],
     "BiocFHIR": [
         "graph"
     ],
