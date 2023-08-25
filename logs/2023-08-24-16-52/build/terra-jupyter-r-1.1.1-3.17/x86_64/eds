@@ -56,7 +56,7 @@ packaged installation of ‘eds’ as ‘eds_1.2.0_R_x86_64-pc-linux-gnu.tar.gz�
 * DONE (eds)
 
 The downloaded source packages are in
-	‘/tmp/RtmpxRA8R0/downloaded_packages’
+	‘/tmp/Rtmp2wONx6/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'gert',
   'ggplot2', 'gtable', 'htmltools', 'httr', 'igraph', 'Matrix',
@@ -65,6 +65,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	3m16.714s
-user	3m5.535s
-sys	0m4.973s
+real	2m48.884s
+user	2m41.028s
+sys	0m3.589s
