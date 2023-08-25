@@ -981,7 +981,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "AWFisher": [],
     "awst": [
         "DelayedArray",
         "GenomeInfoDb",
