@@ -3196,7 +3196,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "cycle": [],
     "cydar": [
         "DelayedArray",
         "GenomicRanges",
