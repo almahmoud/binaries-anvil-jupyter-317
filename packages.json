@@ -41,7 +41,6 @@
         "KEGGREST",
         "XVector",
         "aCGH",
-        "affy",
         "annotate",
         "genefilter",
         "snapCGH",
@@ -105,11 +104,8 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "affy": [],
     "affycomp": [],
-    "affyContam": [
-        "affy"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -134,7 +130,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -149,7 +144,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "gcrma"
     ],
     "affylmGUI": [
@@ -158,7 +152,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "affyPLM",
         "gcrma"
     ],
@@ -166,12 +159,9 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "gcrma"
     ],
-    "AffyRNADegradation": [
-        "affy"
-    ],
+    "AffyRNADegradation": [],
     "AGDEX": [
         "AnnotationDbi",
         "Biostrings",
@@ -214,7 +204,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
         "affycoretools",
         "annotate",
         "biomaRt",
@@ -473,7 +462,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -758,7 +746,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "affyContam",
         "annotate",
         "biomaRt",
@@ -779,7 +766,6 @@
         "GenomicRanges",
         "KEGGREST",
         "XVector",
-        "affy",
         "affyPLM",
         "annotate",
         "beadarray",
@@ -1100,7 +1086,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -1386,7 +1371,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "gcrma"
     ],
     "BicARE": [
@@ -1421,7 +1405,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -1800,7 +1783,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "epiNEM",
         "genefilter",
@@ -2081,7 +2063,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -2179,7 +2160,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -2448,7 +2428,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "vsn"
@@ -2639,7 +2618,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -2874,7 +2852,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "frma",
         "oligo",
         "oligoClasses"
@@ -3145,13 +3122,11 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
     "CluMSID": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "clusterExperiment": [
@@ -3763,9 +3738,7 @@
         "XVector",
         "piano"
     ],
-    "Cormotif": [
-        "affy"
-    ],
+    "Cormotif": [],
     "corral": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -3805,7 +3778,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -4072,7 +4044,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "oligo",
@@ -4403,7 +4374,6 @@
     ],
     "DAPAR": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "dasper": [
@@ -4669,7 +4639,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn"
     ],
     "derfinder": [
@@ -5147,7 +5116,6 @@
         "sva"
     ],
     "Doscheda": [
-        "affy",
         "vsn"
     ],
     "DOSE": [
@@ -5242,7 +5210,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "oligo",
@@ -6016,9 +5983,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "ExiMiR": [
-        "affy"
-    ],
+    "ExiMiR": [],
     "exomeCopy": [
         "Biostrings",
         "GenomeInfoDb",
@@ -6156,9 +6121,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "farms": [
-        "affy"
-    ],
+    "farms": [],
     "fastLiquidAssociation": [
         "AnnotationDbi",
         "Biostrings",
@@ -6285,7 +6248,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -6341,7 +6303,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -6526,13 +6487,10 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "oligo",
         "oligoClasses"
     ],
-    "frmaTools": [
-        "affy"
-    ],
+    "frmaTools": [],
     "FunChIP": [
         "Biostrings",
         "DelayedArray",
@@ -6684,8 +6642,7 @@
     "gcrma": [
         "Biostrings",
         "GenomeInfoDb",
-        "XVector",
-        "affy"
+        "XVector"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -7095,9 +7052,7 @@
         "NanoStringNCTools",
         "XVector"
     ],
-    "GEOsubmission": [
-        "affy"
-    ],
+    "GEOsubmission": [],
     "GeoTcgaData": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -7124,7 +7079,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -7748,7 +7702,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "altcdfenvs",
         "makecdfenv"
     ],
@@ -7973,9 +7926,7 @@
         "KEGGREST",
         "XVector"
     ],
-    "HTqPCR": [
-        "affy"
-    ],
+    "HTqPCR": [],
     "HTSeqGenie": [
         "AnnotationDbi",
         "BSgenome",
@@ -8069,7 +8020,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8437,7 +8387,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -8836,7 +8785,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -8845,9 +8793,7 @@
         "GenomicRanges",
         "XVector"
     ],
-    "logitT": [
-        "affy"
-    ],
+    "logitT": [],
     "LOLA": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -8895,7 +8841,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -9070,20 +9015,16 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [
-        "affy"
-    ],
+    "makecdfenv": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "gcrma"
     ],
     "mariner": [
@@ -9138,7 +9079,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "gcrma"
     ],
     "MAST": [
@@ -9179,7 +9119,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "proDA",
         "vsn"
     ],
@@ -9352,7 +9291,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -9472,7 +9410,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -9572,7 +9509,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -10093,7 +10029,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "affyPLM",
         "gcrma",
         "oligo",
@@ -10118,7 +10053,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -10438,7 +10372,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -10780,17 +10713,14 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
-        "affy",
         "msmsEDA",
         "vsn"
     ],
     "MSnbase": [
-        "affy",
         "vsn"
     ],
     "MSnID": [
@@ -10801,7 +10731,6 @@
         "KEGGREST",
         "MSnbase",
         "XVector",
-        "affy",
         "msmsEDA",
         "msmsTests",
         "vsn"
@@ -10863,13 +10792,11 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "affy",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -11266,7 +11193,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn",
         "xcms"
     ],
@@ -11452,8 +11378,7 @@
         "scuttle"
     ],
     "nondetects": [
-        "HTqPCR",
-        "affy"
+        "HTqPCR"
     ],
     "NoRCE": [
         "AnnotationDbi",
@@ -11478,7 +11403,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn"
     ],
     "NormqPCR": [],
@@ -11967,7 +11891,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -12094,9 +12017,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [
-        "affy"
-    ],
+    "panp": [],
     "pareg": [
         "AnnotationDbi",
         "Biostrings",
@@ -12213,7 +12134,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "PECA": [
@@ -12222,7 +12142,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "genefilter"
     ],
@@ -12479,9 +12398,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "plier": [
-        "affy"
-    ],
+    "plier": [],
     "PloGO2": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -12619,7 +12536,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "biomformat",
         "phyloseq",
         "rhdf5"
@@ -12638,7 +12554,6 @@
         "SummarizedExperiment",
         "XVector",
         "aCGH",
-        "affy",
         "biomaRt",
         "rCGH",
         "rtracklayer"
@@ -12683,7 +12598,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "proActiv": [
@@ -12786,7 +12700,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -12804,7 +12717,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -12834,7 +12746,6 @@
     "Prostar": [
         "DAPAR",
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "proteasy": [
@@ -12890,7 +12801,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "vsn"
@@ -12942,7 +12852,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "affy",
         "rhdf5",
         "vsn"
     ],
@@ -12954,7 +12863,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "oligo",
         "oligoClasses"
     ],
@@ -12977,11 +12885,8 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "pvac": [
-        "affy"
-    ],
+    "pvac": [],
     "pvca": [
-        "affy",
         "vsn"
     ],
     "Pviz": [
@@ -13060,9 +12965,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "qpcrNorm": [
-        "affy"
-    ],
+    "qpcrNorm": [],
     "qpgraph": [
         "AnnotationDbi",
         "Biostrings",
@@ -13085,7 +12988,6 @@
         "GenomeInfoDb",
         "MSnbase",
         "XVector",
-        "affy",
         "vsn"
     ],
     "qsea": [
@@ -13376,7 +13278,6 @@
         "SummarizedExperiment",
         "XVector",
         "aCGH",
-        "affy",
         "biomaRt",
         "rtracklayer"
     ],
@@ -13544,7 +13445,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "affyPLM",
         "gcrma"
     ],
@@ -13685,7 +13585,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "rtracklayer",
@@ -14017,7 +13916,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "vsn"
@@ -14055,7 +13953,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "biocViews",
         "vsn",
         "xcms"
@@ -14116,7 +14013,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "affy",
         "vsn"
     ],
     "Rmmquant": [
@@ -14198,7 +14094,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -14356,9 +14251,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "Rnits": [
-        "affy"
-    ],
+    "Rnits": [],
     "roar": [
         "Biostrings",
         "DelayedArray",
@@ -14409,7 +14302,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "affy",
         "biomformat",
         "phyloseq",
         "rhdf5"
@@ -14697,7 +14589,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "oligo",
@@ -15850,7 +15741,6 @@
         "KEGGREST",
         "Ringo",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "vsn"
@@ -16098,7 +15988,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -16160,7 +16049,6 @@
         "KEGGREST",
         "XVector",
         "aCGH",
-        "affy",
         "annotate",
         "genefilter",
         "tilingArray",
@@ -16667,9 +16555,7 @@
         "XVector"
     ],
     "SRAdb": [],
-    "sscore": [
-        "affy"
-    ],
+    "sscore": [],
     "sscu": [
         "Biostrings",
         "GenomeInfoDb",
@@ -16745,7 +16631,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -16761,9 +16646,7 @@
         "graphite",
         "miRNAtap"
     ],
-    "STATegRa": [
-        "affy"
-    ],
+    "STATegRa": [],
     "Statial": [
         "DelayedArray",
         "DelayedMatrixStats",
@@ -16985,7 +16868,6 @@
         "GenomeInfoDb",
         "MSnbase",
         "XVector",
-        "affy",
         "cleaver",
         "vsn"
     ],
@@ -17333,7 +17215,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annotate",
         "genefilter",
         "vsn"
@@ -17476,7 +17357,6 @@
         "GenomeInfoDb",
         "MSnbase",
         "XVector",
-        "affy",
         "vsn"
     ],
     "topGO": [
@@ -17818,7 +17698,6 @@
         "XVector"
     ],
     "TurboNorm": [
-        "affy",
         "convert"
     ],
     "TVTB": [
@@ -17957,8 +17836,7 @@
         "rtracklayer"
     ],
     "unifiedWMWqPCR": [
-        "HTqPCR",
-        "affy"
+        "HTqPCR"
     ],
     "UniProt.ws": [
         "AnnotationDbi",
@@ -18251,9 +18129,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "vsn": [
-        "affy"
-    ],
+    "vsn": [],
     "vtpnet": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -18327,7 +18203,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -18361,7 +18236,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "affy",
         "annaffy",
         "gcrma",
         "vsn"
@@ -18404,7 +18278,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "vsn"
     ],
     "xcore": [
