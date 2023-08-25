@@ -5781,7 +5781,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "Rbwa",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -20101,7 +20100,6 @@
     "rbsurv": [
         "Biobase"
     ],
-    "Rbwa": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
