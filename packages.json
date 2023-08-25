@@ -3786,7 +3786,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "CFAssay": [],
     "cfDNAPro": [
         "BSgenome",
         "Biobase",
