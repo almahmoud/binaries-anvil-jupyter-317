@@ -12500,7 +12500,6 @@
         "sva",
         "tximeta"
     ],
-    "ISoLDE": [],
     "isomiRs": [
         "AnnotationDbi",
         "Biobase",
