@@ -243,7 +243,6 @@
         "XVector",
         "apeglm",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -509,7 +508,6 @@
         "TreeSummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "mia",
         "scater",
         "scuttle"
@@ -1194,7 +1192,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "densvis",
         "rhdf5",
         "scater",
         "scran",
@@ -1315,7 +1312,6 @@
         "annotate",
         "beachmat",
         "biomformat",
-        "densvis",
         "genefilter",
         "metagenomeSeq",
         "mia",
@@ -2197,7 +2193,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "flowCore",
         "scater",
         "scuttle"
@@ -2348,7 +2343,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "densvis",
         "scater",
         "scran",
         "scuttle"
@@ -2410,7 +2404,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -2435,7 +2428,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -2862,7 +2854,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "densvis",
         "rtracklayer",
         "scater",
         "scran",
@@ -3519,7 +3510,6 @@
         "TrajectoryUtils",
         "XVector",
         "beachmat",
-        "densvis",
         "distinct",
         "scater",
         "scuttle",
@@ -4170,7 +4160,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "flowCore",
         "scater",
         "scuttle"
@@ -4574,7 +4563,6 @@
         "rtracklayer",
         "sva"
     ],
-    "densvis": [],
     "DEP": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -4865,7 +4853,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -5849,7 +5836,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "rhdf5",
         "rtracklayer",
         "scater",
@@ -6277,7 +6263,6 @@
         "biomaRt",
         "biovizBase",
         "bluster",
-        "densvis",
         "ensembldb",
         "ggbio",
         "rhdf5",
@@ -8343,7 +8328,6 @@
         "beachmat",
         "bluster",
         "clusterProfiler",
-        "densvis",
         "enrichplot",
         "scater",
         "scran",
@@ -9247,7 +9231,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -9798,7 +9781,6 @@
         "TreeSummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -9830,7 +9812,6 @@
         "TreeSummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "mia",
         "scater",
         "scuttle"
@@ -9886,7 +9867,6 @@
         "XVector",
         "beachmat",
         "biomformat",
-        "densvis",
         "metagenomeSeq",
         "mia",
         "phyloseq",
@@ -10921,7 +10901,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle",
         "variancePartition"
@@ -11223,7 +11202,6 @@
         "annotate",
         "beachmat",
         "clusterExperiment",
-        "densvis",
         "genefilter",
         "mbkmeans",
         "rhdf5",
@@ -12083,7 +12061,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -12294,7 +12271,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "densvis",
         "scater",
         "scran",
         "scuttle"
@@ -14618,7 +14594,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scuttle"
     ],
     "scBFA": [
@@ -14705,7 +14680,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "densvis",
         "rtracklayer",
         "scater",
         "scran",
@@ -14841,7 +14815,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "densvis",
         "scater",
         "scran",
         "scuttle"
@@ -15144,7 +15117,6 @@
         "biomaRt",
         "bluster",
         "bumphunter",
-        "densvis",
         "ensembldb",
         "epivizr",
         "epivizrData",
@@ -15176,7 +15148,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -15782,7 +15753,6 @@
         "biomaRt",
         "bluster",
         "celda",
-        "densvis",
         "ensembldb",
         "genefilter",
         "rhdf5",
@@ -16057,7 +16027,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "densvis",
         "rhdf5",
         "scater",
         "scran",
@@ -16189,7 +16158,6 @@
         "annotate",
         "beachmat",
         "bluster",
-        "densvis",
         "genefilter",
         "scater",
         "scran",
@@ -17528,7 +17496,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
@@ -17795,7 +17762,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "densvis",
         "scater",
         "scuttle"
     ],
