@@ -10092,7 +10092,6 @@
         "SeqArray",
         "XVector"
     ],
-    "gemini": [],
     "gemma.R": [
         "Biobase",
         "DelayedArray",
