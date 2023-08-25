@@ -3233,9 +3233,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "DESeq2",
         "GenomicRanges",
@@ -7903,7 +7901,6 @@
         "vsn",
         "xcms"
     ],
-    "NCIgraph": [],
     "ncRNAtools": [
         "GenomicRanges"
     ],
