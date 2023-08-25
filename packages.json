@@ -14020,7 +14020,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [],
     "struct": [
         "DelayedArray",
         "GenomicRanges",
