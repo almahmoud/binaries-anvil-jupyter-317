@@ -4237,7 +4237,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cqn": [],
     "CRImage": [
         "aCGH",
         "multtest"
@@ -7811,8 +7810,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "cqn"
+        "XVector"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -9589,7 +9587,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "cqn",
         "genefilter",
         "sva"
     ],
@@ -19719,9 +19716,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twilight": [],
     "txcutr": [
         "AnnotationDbi",
