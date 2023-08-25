@@ -6923,7 +6923,6 @@
         "rhdf5filters",
         "scuttle"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [
         "DelayedArray",
         "GenomeInfoDb",
