@@ -1027,7 +1027,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "graphite"
     ],
     "biocGraph": [
@@ -1540,7 +1539,6 @@
         "KEGGREST",
         "annotate",
         "biomaRt",
-        "geNetClassifier",
         "genefilter",
         "phenoTest"
     ],
@@ -4829,7 +4827,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
         "Biostrings",
