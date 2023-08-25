@@ -321,8 +321,7 @@
         "rtracklayer"
     ],
     "altcdfenvs": [
-        "Biostrings",
-        "makecdfenv"
+        "Biostrings"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -5456,8 +5455,7 @@
     ],
     "Harshlight": [
         "Biostrings",
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "HDF5Array": [],
     "heatmaps": [
@@ -6366,7 +6364,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [
         "AnnotationDbi",
         "Biostrings",
