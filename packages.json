@@ -3514,7 +3514,6 @@
         "IRanges",
         "XVector"
     ],
-    "clippda": [],
     "clipper": [
         "AnnotationDbi",
         "Biostrings",
