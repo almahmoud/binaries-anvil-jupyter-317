@@ -166,7 +166,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "gcrma",
         "genefilter",
@@ -256,7 +255,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "gcrma",
         "genefilter",
@@ -343,7 +341,6 @@
         "alabaster.vcf",
         "beachmat",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -446,7 +443,6 @@
         "alabaster.sce",
         "alabaster.se",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -753,7 +749,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "multtest"
     ],
     "APAlyzer": [
@@ -941,7 +936,6 @@
         "XVector",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "rtracklayer"
     ],
@@ -961,7 +955,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -1035,7 +1028,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "motifStack",
         "multtest",
@@ -1141,12 +1133,9 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "pcaMethods"
     ],
-    "AWFisher": [
-        "edgeR"
-    ],
+    "AWFisher": [],
     "awst": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -1202,7 +1191,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -1236,8 +1224,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "bandle": [
         "AnnotationDbi",
@@ -1312,7 +1299,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -1332,7 +1318,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "glmGamPoi",
         "rhdf5",
         "rhdf5filters",
@@ -1375,7 +1360,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -1395,7 +1379,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -1500,8 +1483,7 @@
         "PhIPData",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "benchdamic": [
         "ALDEx2",
@@ -1533,7 +1515,6 @@
         "beachmat",
         "biomformat",
         "densvis",
-        "edgeR",
         "genefilter",
         "metagenomeSeq",
         "mia",
@@ -1828,7 +1809,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -1852,9 +1832,7 @@
         "XVector",
         "pathview"
     ],
-    "BioQC": [
-        "edgeR"
-    ],
+    "BioQC": [],
     "biosigner": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -1886,7 +1864,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -2044,7 +2021,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -2063,7 +2039,6 @@
         "XVector",
         "affy",
         "annotate",
-        "edgeR",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -2427,7 +2402,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "ggbio",
@@ -2728,7 +2702,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "scater",
         "scran",
         "scuttle"
@@ -2869,7 +2842,6 @@
         "XVector",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore"
     ],
     "Cepo": [
@@ -3006,7 +2978,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "globaltest",
@@ -3316,7 +3287,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "rtracklayer",
         "scater",
         "scran",
@@ -3432,7 +3402,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "edgeR",
         "gwascat",
         "rtracklayer",
         "universalmotif"
@@ -3472,7 +3441,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -3593,7 +3561,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "mbkmeans",
         "rhdf5",
@@ -3795,8 +3762,7 @@
         "S4Arrays",
         "SeqArray",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -4016,9 +3982,7 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "compcodeR": [
-        "edgeR"
-    ],
+    "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4112,7 +4076,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "pcaMethods",
         "rtracklayer"
@@ -4292,8 +4255,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "CoSIA": [
         "AnnotationDbi",
@@ -4351,7 +4313,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "CoverageView": [
@@ -4615,7 +4576,6 @@
         "XVector",
         "affy",
         "annotate",
-        "edgeR",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -4636,8 +4596,7 @@
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "csdR": [
         "AnnotationDbi",
@@ -4700,7 +4659,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -4803,7 +4761,6 @@
         "XVector",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore"
     ],
     "cytofQC": [
@@ -4855,7 +4812,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -4909,7 +4865,6 @@
         "XVector",
         "beachmat",
         "cytomapper",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -4989,7 +4944,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -5032,7 +4986,6 @@
         "RBGL",
         "Rgraphviz",
         "XVector",
-        "edgeR",
         "epiNEM",
         "graphite",
         "mnem",
@@ -5079,7 +5032,6 @@
         "annotate",
         "apeglm",
         "clusterProfiler",
-        "edgeR",
         "enrichplot",
         "genefilter",
         "pathview",
@@ -5184,8 +5136,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "DegNorm": [
         "AnnotationDbi",
@@ -5221,8 +5172,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "DEGseq": [],
     "DelayedArray": [
@@ -5296,7 +5246,6 @@
         "annotate",
         "beachmat",
         "bsseq",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -5424,7 +5373,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -5449,8 +5397,7 @@
         "RBGL",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -5471,7 +5418,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -5542,7 +5488,6 @@
         "SummarizedExperiment",
         "XVector",
         "cytolib",
-        "edgeR",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -5555,8 +5500,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "diffHic": [
         "BSgenome",
@@ -5572,7 +5516,6 @@
         "SummarizedExperiment",
         "XVector",
         "csaw",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -5597,7 +5540,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -5620,7 +5562,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -5735,7 +5676,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "methylumi",
@@ -5860,7 +5800,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -5884,8 +5823,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "doubletrouble": [
         "Biostrings",
@@ -5920,8 +5858,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "DropletUtils": [
         "DelayedArray",
@@ -5935,7 +5872,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -6058,7 +5994,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
         "genomeIntervals"
     ],
     "EBarrays": [],
@@ -6101,12 +6036,10 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "snm",
         "sva"
     ],
-    "edgeR": [],
     "EDIRquery": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -6132,7 +6065,6 @@
         "SummarizedExperiment",
         "XVector",
         "clusterProfiler",
-        "edgeR",
         "enrichplot"
     ],
     "EGAD": [
@@ -6161,7 +6093,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "edgeR",
         "gage",
         "globaltest",
         "multtest",
@@ -6179,8 +6110,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "ELMER": [
         "AnnotationDbi",
@@ -6284,7 +6214,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "graphite",
         "pathview",
         "safe"
@@ -6450,7 +6379,6 @@
         "XVector",
         "bamsignals",
         "csaw",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -6638,9 +6566,7 @@
         "epivizrData",
         "rtracklayer"
     ],
-    "erccdashboard": [
-        "edgeR"
-    ],
+    "erccdashboard": [],
     "erma": [
         "AnnotationDbi",
         "BSgenome",
@@ -6671,8 +6597,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "esATAC": [
         "AnnotationDbi",
@@ -6753,7 +6678,6 @@
         "XVector",
         "beachmat",
         "densvis",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6918,7 +6842,6 @@
         "TreeSummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -6957,7 +6880,6 @@
         "biomaRt",
         "biovizBase",
         "csaw",
-        "edgeR",
         "ensembldb",
         "rtracklayer"
     ],
@@ -7244,7 +7166,6 @@
         "biovizBase",
         "bluster",
         "densvis",
-        "edgeR",
         "ensembldb",
         "ggbio",
         "rhdf5",
@@ -7575,7 +7496,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -7645,7 +7565,6 @@
         "XVector",
         "biomaRt",
         "clusterProfiler",
-        "edgeR",
         "enrichplot",
         "pathview"
     ],
@@ -8204,7 +8123,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -8243,8 +8161,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "glmGamPoi": [
         "DelayedArray",
@@ -8616,7 +8533,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "graphite",
         "pathview",
         "safe"
@@ -8883,8 +8799,7 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "biomaRt",
-        "edgeR"
+        "biomaRt"
     ],
     "hiAnnotator": [
         "BSgenome",
@@ -8955,7 +8870,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "multiHiCcompare",
         "rhdf5",
         "rhdf5filters"
@@ -9120,8 +9034,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
@@ -9177,7 +9090,6 @@
         "XVector",
         "biomaRt",
         "csaw",
-        "edgeR",
         "rtracklayer"
     ],
     "iCheck": [
@@ -9371,7 +9283,6 @@
         "XVector",
         "beachmat",
         "cytomapper",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -9405,8 +9316,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "infinityFlow": [
         "cytolib",
@@ -9547,7 +9457,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "geneplotter",
         "rtracklayer"
@@ -9646,7 +9555,6 @@
         "bluster",
         "clusterProfiler",
         "densvis",
-        "edgeR",
         "enrichplot",
         "scater",
         "scran",
@@ -9745,7 +9653,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -9768,8 +9675,7 @@
         "KEGGREST",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "ITALICS": [
         "Biostrings",
@@ -9930,7 +9836,6 @@
         "XVector",
         "annotate",
         "cqn",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -10055,7 +9960,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -10187,7 +10091,6 @@
     ],
     "Maaslin2": [
         "Wrench",
-        "edgeR",
         "metagenomeSeq"
     ],
     "Macarron": [
@@ -10203,7 +10106,6 @@
         "SummarizedExperiment",
         "Wrench",
         "XVector",
-        "edgeR",
         "metagenomeSeq"
     ],
     "macat": [
@@ -10457,8 +10359,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "annotate",
-        "edgeR"
+        "annotate"
     ],
     "MatrixQCvis": [
         "AnnotationDbi",
@@ -10518,7 +10419,6 @@
         "XVector",
         "annotate",
         "biomformat",
-        "edgeR",
         "genefilter",
         "multtest",
         "phyloseq",
@@ -10641,7 +10541,6 @@
         "biomaRt",
         "biovizBase",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "methylumi",
@@ -10700,7 +10599,6 @@
         "XVector",
         "beachmat",
         "densvis",
-        "edgeR",
         "scater",
         "scuttle"
     ],
@@ -10719,7 +10617,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
         "rtracklayer"
     ],
     "MEDME": [
@@ -11198,9 +11095,7 @@
         "rtracklayer"
     ],
     "MethylMix": [],
-    "methylMnM": [
-        "edgeR"
-    ],
+    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11455,7 +11350,6 @@
         "beachmat",
         "biomformat",
         "densvis",
-        "edgeR",
         "metagenomeSeq",
         "mia",
         "multtest",
@@ -11526,8 +11420,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "beachmat",
-        "edgeR"
+        "beachmat"
     ],
     "mimager": [
         "Biostrings",
@@ -11863,8 +11756,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "MMAPPR2": [
         "AnnotationDbi",
@@ -11905,7 +11797,6 @@
     "MMUPHin": [
         "Maaslin2",
         "Wrench",
-        "edgeR",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -11923,7 +11814,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "topGO"
     ],
     "MobilityTransformR": [
@@ -11998,7 +11888,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -12088,7 +11977,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "rtracklayer"
     ],
     "motifbreakR": [
@@ -12304,7 +12192,6 @@
         "biomaRt",
         "biovizBase",
         "easyRNASeq",
-        "edgeR",
         "ensembldb",
         "genomeIntervals",
         "ggbio",
@@ -12324,7 +12211,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -12350,7 +12236,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "edgeR",
         "msmsEDA",
         "mzR",
         "pcaMethods",
@@ -12375,7 +12260,6 @@
         "MsCoreUtils",
         "XVector",
         "affy",
-        "edgeR",
         "msmsEDA",
         "msmsTests",
         "mzR",
@@ -12394,7 +12278,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "pcaMethods",
         "sva"
@@ -12587,7 +12470,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -12660,7 +12542,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -12699,7 +12580,6 @@
         "XVector",
         "beachmat",
         "densvis",
-        "edgeR",
         "scater",
         "scuttle",
         "variancePartition"
@@ -12835,7 +12715,6 @@
         "biomaRt",
         "biovizBase",
         "csaw",
-        "edgeR",
         "ensembldb",
         "motifStack",
         "multtest",
@@ -13053,7 +12932,6 @@
         "beachmat",
         "clusterExperiment",
         "densvis",
-        "edgeR",
         "genefilter",
         "mbkmeans",
         "rhdf5",
@@ -13089,7 +12967,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "edgeR",
         "genefilter",
         "minfi",
         "multtest",
@@ -13147,7 +13024,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -13301,7 +13177,6 @@
         "annotate",
         "beachmat",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -13443,7 +13318,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "made4",
         "omicade4",
@@ -13741,7 +13615,6 @@
         "affy",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -13763,7 +13636,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -13841,7 +13713,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "geneplotter",
         "sva"
@@ -13921,7 +13792,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -14197,8 +14067,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "PhosR": [
         "DelayedArray",
@@ -14310,7 +14179,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "scater",
         "scran",
         "scuttle"
@@ -14456,9 +14324,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ppcseq": [
-        "edgeR"
-    ],
+    "ppcseq": [],
     "PPInfer": [
         "AnnotationDbi",
         "Biostrings",
@@ -14730,9 +14596,7 @@
         "XVector",
         "annotate"
     ],
-    "PROPER": [
-        "edgeR"
-    ],
+    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "Biostrings",
@@ -14741,7 +14605,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -14841,7 +14704,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "recount",
         "rtracklayer"
     ],
@@ -15068,7 +14930,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -15090,7 +14951,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -15402,7 +15262,6 @@
         "IRanges",
         "XVector",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -15643,7 +15502,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "rtracklayer"
     ],
     "regsplice": [
@@ -15653,8 +15511,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "regutools": [
         "AnnotationDbi",
@@ -15728,7 +15585,6 @@
         "XVector",
         "affy",
         "annotate",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -15761,7 +15617,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "ggbio",
@@ -16059,7 +15914,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "edgeR",
         "motifStack",
         "rtracklayer"
     ],
@@ -16437,7 +16291,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "recount",
         "rtracklayer"
     ],
@@ -16526,9 +16379,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ROSeq": [
-        "edgeR"
-    ],
+    "ROSeq": [],
     "ROTS": [],
     "RPA": [
         "Biostrings",
@@ -16757,7 +16608,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
         "rtracklayer"
     ],
     "RVS": [
@@ -16877,7 +16727,6 @@
         "XVector",
         "affy",
         "annotate",
-        "edgeR",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -17013,7 +16862,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "zinbwave"
     ],
@@ -17031,7 +16879,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -17097,7 +16944,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "rtracklayer",
         "scater",
         "scran",
@@ -17117,7 +16963,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle"
     ],
@@ -17132,7 +16977,6 @@
         "XVector"
     ],
     "scde": [
-        "edgeR",
         "pcaMethods"
     ],
     "scds": [
@@ -17175,7 +17019,6 @@
         "beachmat",
         "biomaRt",
         "bluster",
-        "edgeR",
         "ensembldb",
         "multtest",
         "rhdf5",
@@ -17252,7 +17095,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "scater",
         "scran",
         "scuttle"
@@ -17323,7 +17165,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -17405,7 +17246,6 @@
         "XVector",
         "beachmat",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17425,7 +17265,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "scuttle"
     ],
     "scReClassify": [
@@ -17447,9 +17286,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ScreenR": [
-        "edgeR"
-    ],
+    "ScreenR": [],
     "scRepertoire": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -17589,7 +17426,6 @@
         "bluster",
         "bumphunter",
         "densvis",
-        "edgeR",
         "ensembldb",
         "epivizr",
         "epivizrData",
@@ -17869,7 +17705,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sechm",
         "sva"
@@ -18187,7 +18022,6 @@
         "rhdf5filters"
     ],
     "SIMD": [
-        "edgeR",
         "methylMnM"
     ],
     "SimFFPE": [
@@ -18213,7 +18047,6 @@
         "XVector",
         "beachmat",
         "cytomapper",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18263,7 +18096,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "multtest",
         "scran",
         "scuttle"
@@ -18307,7 +18139,6 @@
         "bluster",
         "celda",
         "densvis",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "multtest",
@@ -18371,8 +18202,7 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "annotate",
-        "edgeR"
+        "annotate"
     ],
     "SiPSiC": [
         "DelayedArray",
@@ -18616,7 +18446,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -18636,8 +18465,7 @@
         "KEGGREST",
         "S4Arrays",
         "XVector",
-        "annotate",
-        "edgeR"
+        "annotate"
     ],
     "SparseArray": [
         "IRanges",
@@ -18672,7 +18500,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18700,7 +18527,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18726,7 +18552,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18745,7 +18570,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18769,7 +18593,6 @@
         "beachmat",
         "bluster",
         "densvis",
-        "edgeR",
         "genefilter",
         "scater",
         "scran",
@@ -18822,8 +18645,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "SpeCond": [],
     "Spectra": [
@@ -18863,7 +18685,6 @@
         "XVector",
         "beachmat",
         "dittoSeq",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -18888,7 +18709,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -18929,7 +18749,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "scuttle"
     ],
     "SpliceWiz": [
@@ -19042,7 +18861,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -19079,7 +18897,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -19118,7 +18935,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
         "graphite"
     ],
     "ssPATHS": [
@@ -19171,7 +18987,6 @@
         "XVector",
         "beachmat",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -19205,8 +19020,7 @@
         "miRNAtap"
     ],
     "STATegRa": [
-        "affy",
-        "edgeR"
+        "affy"
     ],
     "Statial": [
         "DelayedArray",
@@ -19222,7 +19036,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -19244,7 +19057,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -19380,7 +19192,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "svaNUMT": [
@@ -19585,7 +19396,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -19635,8 +19445,7 @@
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "TDbasedUFE": [
         "GenomeInfoDb",
@@ -20091,7 +19900,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils",
         "XVector",
-        "edgeR",
         "slingshot"
     ],
     "TrajectoryUtils": [
@@ -20170,7 +19978,6 @@
         "SummarizedExperiment",
         "XVector",
         "anota",
-        "edgeR",
         "multtest",
         "topGO"
     ],
@@ -20228,7 +20035,6 @@
         "XVector",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore",
         "hopach"
     ],
@@ -20324,7 +20130,6 @@
         "KEGGREST",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -20437,8 +20242,7 @@
         "rtracklayer"
     ],
     "tweeDEseq": [
-        "cqn",
-        "edgeR"
+        "cqn"
     ],
     "twilight": [],
     "twoddpcr": [],
@@ -20747,7 +20551,6 @@
         "XVector",
         "annotate",
         "ballgown",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -20815,8 +20618,7 @@
         "IRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "viper": [],
     "ViSEAGO": [
@@ -20859,7 +20661,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -20936,7 +20737,6 @@
         "apeglm",
         "biomaRt",
         "csaw",
-        "edgeR",
         "ensembldb",
         "multtest",
         "regioneR",
@@ -21074,8 +20874,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "edgeR"
+        "XVector"
     ],
     "XDE": [
         "AnnotationDbi",
@@ -21183,7 +20982,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "edgeR",
         "genefilter",
         "minfi",
         "multtest",
@@ -21220,7 +21018,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "graphite",
         "pathview",
         "safe",
@@ -21248,7 +21045,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "ZygosityPredictor": [
