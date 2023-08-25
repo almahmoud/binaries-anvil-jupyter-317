@@ -17938,7 +17938,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "scRecover": [],
     "screenCounter": [
         "DelayedArray",
         "GenomeInfoDb",
