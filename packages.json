@@ -3468,7 +3468,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "diggit": [],
     "Dino": [
         "BiocSingular",
         "DelayedMatrixStats",
