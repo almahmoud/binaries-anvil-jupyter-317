@@ -13484,7 +13484,6 @@
         "XVector",
         "dada2"
     ],
-    "RBioFormats": [],
     "RBM": [],
     "Rbowtie2": [
         "Biostrings",
@@ -16573,7 +16572,6 @@
         "GenomeInfoDb",
         "GeomxTools",
         "NanoStringNCTools",
-        "RBioFormats",
         "XVector"
     ],
     "spatzie": [
