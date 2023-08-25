@@ -3145,8 +3145,7 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "piano"
+        "XVector"
     ],
     "Cormotif": [],
     "corral": [
@@ -10185,8 +10184,7 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "genefu",
-        "piano"
+        "genefu"
     ],
     "pdInfoBuilder": [
         "Biostrings",
@@ -10274,8 +10272,7 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "piano"
+        "XVector"
     ],
     "phemd": [
         "DelayedArray",
@@ -10345,7 +10342,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "piano": [],
     "PICS": [
         "Biostrings",
         "DelayedArray",
@@ -11079,8 +11075,7 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "piano"
+        "XVector"
     ],
     "RaggedExperiment": [
         "DelayedArray",
@@ -14638,8 +14633,7 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "piano"
+        "XVector"
     ],
     "TPP": [],
     "tracktables": [
@@ -15435,8 +15429,7 @@
         "MultiAssayExperiment",
         "PharmacoGx",
         "SummarizedExperiment",
-        "XVector",
-        "piano"
+        "XVector"
     ],
     "XNAString": [
         "BSgenome",
