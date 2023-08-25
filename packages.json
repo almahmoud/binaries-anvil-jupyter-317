@@ -6665,7 +6665,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "Biostrings",
