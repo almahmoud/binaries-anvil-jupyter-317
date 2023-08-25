@@ -10303,7 +10303,6 @@
         "XVector",
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "Biostrings",
         "DelayedArray",
