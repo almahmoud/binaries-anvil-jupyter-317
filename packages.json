@@ -5615,7 +5615,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "CORREP": [],
     "coseq": [
         "Biobase",
         "DESeq2",
