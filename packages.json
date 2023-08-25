@@ -4914,9 +4914,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [
         "BiocSingular",
         "DelayedArray",
@@ -14531,8 +14529,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTNduals": [
         "DelayedArray",
@@ -14541,8 +14538,7 @@
         "RTN",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTNsurvival": [
         "DelayedArray",
@@ -14552,8 +14548,7 @@
         "RTNduals",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTopper": [],
     "rtracklayer": [
@@ -18206,7 +18201,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -18317,8 +18311,7 @@
         "ensembldb",
         "regioneR",
         "rtracklayer",
-        "systemPipeR",
-        "viper"
+        "systemPipeR"
     ],
     "waddR": [
         "DelayedArray",
