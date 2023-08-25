@@ -8364,7 +8364,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "InTAD": [
@@ -12632,7 +12631,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "plgem": [],
     "plier": [
         "affy"
     ],
