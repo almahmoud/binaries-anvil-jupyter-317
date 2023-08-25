@@ -10262,7 +10262,6 @@
         "Biostrings",
         "XVector"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "DelayedArray",
         "DelayedMatrixStats",
