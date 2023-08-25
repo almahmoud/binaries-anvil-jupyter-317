@@ -665,7 +665,6 @@
     ],
     "batchelor": [
         "BiocSingular",
-        "ResidualMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "scuttle"
@@ -1647,7 +1646,6 @@
     "ChromSCape": [
         "BiocSingular",
         "GenomicAlignments",
-        "ResidualMatrix",
         "Rsamtools",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -6129,7 +6127,6 @@
     ],
     "mumosa": [
         "BiocSingular",
-        "ResidualMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "batchelor",
@@ -7637,7 +7634,6 @@
         "Rsamtools",
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "AnnotationDbi",
         "BSgenome",
@@ -8356,7 +8352,6 @@
     ],
     "scMerge": [
         "BiocSingular",
-        "ResidualMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "batchelor",
@@ -8871,7 +8866,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "MAST",
-        "ResidualMatrix",
         "Rsamtools",
         "SingleCellExperiment",
         "SingleR",
