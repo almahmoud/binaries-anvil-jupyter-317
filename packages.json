@@ -7428,7 +7428,6 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "MsBackendMsp": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
