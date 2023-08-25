@@ -2996,7 +2996,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
