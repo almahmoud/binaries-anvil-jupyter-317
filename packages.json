@@ -6075,7 +6075,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
         "Biostrings",
