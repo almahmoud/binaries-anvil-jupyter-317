@@ -3379,7 +3379,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "IFAA": [],
     "igvR": [
         "AnnotationDbi",
         "BSgenome",
