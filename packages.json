@@ -533,7 +533,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BDMMAcorrect": [],
     "beadarray": [
         "AnnotationDbi"
     ],
