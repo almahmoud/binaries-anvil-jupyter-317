@@ -4446,7 +4446,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "AnnotationDbi"
     ],
