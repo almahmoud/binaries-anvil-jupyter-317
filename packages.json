@@ -5486,7 +5486,6 @@
         "derfinder",
         "rtracklayer"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationDbi",
         "AnnotationHub",
