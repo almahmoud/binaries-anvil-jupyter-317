@@ -977,7 +977,6 @@
     "cellbaseR": [
         "Rsamtools"
     ],
-    "CellBench": [],
     "cellHTS2": [
         "AnnotationDbi",
         "Category",
