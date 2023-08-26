@@ -3862,9 +3862,7 @@
         "CompoundDb",
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
@@ -6755,10 +6753,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "AnnotationDbi",
         "BSgenome",
