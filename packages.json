@@ -3817,7 +3817,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "lefser": [],
     "LineagePulse": [
         "SingleCellExperiment"
     ],
