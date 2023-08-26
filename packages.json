@@ -483,7 +483,6 @@
     "beadarray": [
         "AnnotationDbi"
     ],
-    "BEARscc": [],
     "BEAT": [
         "BSgenome",
         "GenomicAlignments",
