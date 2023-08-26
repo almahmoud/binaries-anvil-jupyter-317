@@ -6585,7 +6585,6 @@
         "GenomicFeatures",
         "MAST",
         "Rsamtools",
-        "SingleR",
         "TSCAN",
         "TrajectoryUtils",
         "annotate",
@@ -6618,7 +6617,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SingleR": [],
     "singscore": [
         "AnnotationDbi",
         "GSEABase",
