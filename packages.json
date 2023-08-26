@@ -5086,7 +5086,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "AnnotationDbi",
         "Category",
