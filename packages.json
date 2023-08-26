@@ -3786,7 +3786,6 @@
         "GWASTools",
         "oligoClasses"
     ],
-    "MBQN": [],
     "MCbiclust": [
         "AnnotationDbi"
     ],
