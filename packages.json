@@ -2769,7 +2769,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "FCBF": [],
     "fCCAC": [
         "BSgenome",
         "GenomicAlignments",
@@ -2781,7 +2780,6 @@
     "fcoex": [
         "AnnotationDbi",
         "DOSE",
-        "FCBF",
         "GOSemSim",
         "SingleCellExperiment",
         "clusterProfiler",
