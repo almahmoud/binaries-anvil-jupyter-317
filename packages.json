@@ -6708,7 +6708,6 @@
         "AnnotationDbi",
         "graphite"
     ],
-    "ssPATHS": [],
     "ssviz": [
         "Rsamtools"
     ],
