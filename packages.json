@@ -3320,7 +3320,6 @@
         "rtracklayer"
     ],
     "HTSFilter": [],
-    "HumanTranscriptomeCompendium": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
