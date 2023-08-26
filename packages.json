@@ -2154,12 +2154,9 @@
         "scuttle"
     ],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
-    "CytoPipeline": [
-        "ggcyto"
-    ],
+    "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -3251,9 +3248,7 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowPloidy": [],
     "FlowSOM": [],
     "flowVS": [],
@@ -3585,7 +3580,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggcyto": [],
     "ggmanh": [
         "SeqArray"
     ],
