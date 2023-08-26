@@ -5016,7 +5016,6 @@
         "RaggedExperiment"
     ],
     "omicsViewer": [],
-    "oncomix": [],
     "OncoScore": [
         "AnnotationDbi",
         "biomaRt"
