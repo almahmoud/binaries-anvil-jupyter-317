@@ -125,25 +125,18 @@
         "VariantAnnotation",
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
         "rtracklayer",
         "scuttle"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
         "DropletUtils",
         "SpatialExperiment",
         "alabaster.sce",
-        "alabaster.se",
         "scuttle"
     ],
     "alabaster.vcf": [
@@ -153,7 +146,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "VariantAnnotation",
-        "alabaster.se",
         "biomaRt",
         "rtracklayer"
     ],
