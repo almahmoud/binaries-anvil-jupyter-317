@@ -1787,7 +1787,6 @@
         "scuttle",
         "slingshot"
     ],
-    "CONFESS": [],
     "consensusDE": [
         "AnnotationDbi",
         "DESeq2",
