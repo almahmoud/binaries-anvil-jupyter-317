@@ -2187,7 +2187,6 @@
         "openCyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
         "ggcyto"
     ],
     "cytoviewer": [
@@ -6125,7 +6124,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "PeacoQC": [],
     "peakPantheR": [],
     "PECA": [
         "AnnotationDbi",
