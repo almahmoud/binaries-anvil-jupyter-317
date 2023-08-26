@@ -1323,7 +1323,6 @@
         "scran",
         "scuttle"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "GenomicAlignments",
         "Rsamtools",
