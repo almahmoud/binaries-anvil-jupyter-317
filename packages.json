@@ -2205,7 +2205,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "Dune": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
