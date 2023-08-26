@@ -4631,7 +4631,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "mpra": [],
     "MPRAnalyze": [],
     "MQmetrics": [],
     "MSA2dist": [],
