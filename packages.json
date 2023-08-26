@@ -952,7 +952,6 @@
         "enrichplot",
         "graphite"
     ],
-    "ccfindR": [],
     "ccmap": [
         "AnnotationDbi"
     ],
