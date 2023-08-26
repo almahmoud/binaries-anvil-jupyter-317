@@ -2775,7 +2775,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "AnnotationDbi",
         "DOSE",
