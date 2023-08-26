@@ -3681,7 +3681,6 @@
         "rtracklayer"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IONiseR": [
         "GenomicAlignments",
         "Rsamtools",
