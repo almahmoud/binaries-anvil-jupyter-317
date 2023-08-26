@@ -437,7 +437,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rsamtools"
