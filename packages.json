@@ -477,7 +477,6 @@
         "genefilter",
         "pRoloc"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "GenomicAlignments",
         "Rsamtools",
