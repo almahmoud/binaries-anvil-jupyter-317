@@ -3179,7 +3179,6 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "SingleCellExperiment",
