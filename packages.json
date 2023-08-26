@@ -4096,7 +4096,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "IMMAN": [],
     "infercnv": [
         "SingleCellExperiment",
         "SummarizedExperiment"
