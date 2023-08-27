@@ -2012,7 +2012,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "GenomicAlignments",
         "Rsamtools",
@@ -6610,7 +6609,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "scuttle"
     ],
     "spicyR": [
