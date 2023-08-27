@@ -390,7 +390,6 @@
         "GSEABase",
         "annotate"
     ],
-    "autonomics": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rsamtools"
