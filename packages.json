@@ -5784,7 +5784,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SingleCellSignalR",
         "SpatialExperiment",
         "annotate",
         "biomaRt",
@@ -6116,7 +6115,6 @@
         "GenomicAlignments",
         "Rsamtools"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "AnnotationDbi",
         "AnnotationHub",
