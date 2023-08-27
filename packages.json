@@ -2817,7 +2817,6 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggspavis": [],
     "girafe": [
         "GenomicAlignments",
         "Rsamtools",
