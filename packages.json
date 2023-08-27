@@ -4598,7 +4598,6 @@
         "AnnotationDbi",
         "topGO"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
         "MultiDataSet",
