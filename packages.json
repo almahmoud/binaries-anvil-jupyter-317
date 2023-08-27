@@ -6336,7 +6336,6 @@
         "miRNAtap"
     ],
     "Statial": [],
-    "stJoincount": [],
     "strandCheckR": [
         "AnnotationDbi",
         "GenomicAlignments",
