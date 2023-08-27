@@ -3162,7 +3162,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "AnnotationDbi",
         "BSgenome",
@@ -3178,7 +3177,6 @@
         "rtracklayer"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -4341,9 +4339,7 @@
         "AnnotationHub",
         "graphite"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "multiMiR": [
         "AnnotationDbi"
     ],
@@ -6446,9 +6442,7 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment"
@@ -6640,9 +6634,7 @@
         "ShortRead"
     ],
     "systemPipeTools": [],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TAPseq": [
         "AnnotationDbi",
         "BSgenome",
