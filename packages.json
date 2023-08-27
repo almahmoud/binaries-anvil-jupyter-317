@@ -583,7 +583,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "BioTIP": [],
     "biovizBase": [
         "AnnotationDbi",
         "BSgenome",
