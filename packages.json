@@ -7168,7 +7168,6 @@
         "rtracklayer"
     ],
     "xcms": [],
-    "xcore": [],
     "XDE": [
         "AnnotationDbi",
         "GeneMeta",
