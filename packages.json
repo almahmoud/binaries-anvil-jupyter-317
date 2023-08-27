@@ -5950,7 +5950,6 @@
         "GSEABase",
         "annotate"
     ],
-    "sccomp": [],
     "scDblFinder": [
         "GenomicAlignments",
         "Rsamtools",
