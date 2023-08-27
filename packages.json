@@ -3367,7 +3367,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "infercnv": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
