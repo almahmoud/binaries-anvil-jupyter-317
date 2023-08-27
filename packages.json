@@ -3451,18 +3451,13 @@
         "scran",
         "scuttle"
     ],
-    "iSEE": [],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
     "iSEEhub": [
         "AnnotationDbi",
         "AnnotationHub",
-        "ExperimentHub",
-        "iSEE"
+        "ExperimentHub"
     ],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [
