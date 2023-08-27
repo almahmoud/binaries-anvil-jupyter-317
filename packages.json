@@ -6040,7 +6040,6 @@
     "scran": [
         "scuttle"
     ],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "GenomicAlignments",
         "Rsamtools",
