@@ -4674,14 +4674,12 @@
         "AnnotationDbi",
         "topGO"
     ],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
         "MultiDataSet",
         "annotate",
         "genefilter",
-        "omicade4",
         "rexposome",
         "sva"
     ],
