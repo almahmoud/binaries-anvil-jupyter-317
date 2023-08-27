@@ -447,7 +447,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -2958,7 +2957,6 @@
         "genefilter"
     ],
     "Glimma": [],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "AnnotationDbi",
         "biomaRt"
@@ -7001,9 +6999,7 @@
         "chipseq",
         "rtracklayer"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "AnnotationDbi",
