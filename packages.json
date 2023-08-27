@@ -441,7 +441,6 @@
         "GenomicAlignments",
         "Rsamtools"
     ],
-    "batchelor": [],
     "BatchQC": [
         "AnnotationDbi",
         "annotate",
@@ -1157,7 +1156,6 @@
     "ChromSCape": [
         "GenomicAlignments",
         "Rsamtools",
-        "batchelor",
         "rtracklayer",
         "scater",
         "scran"
@@ -4334,7 +4332,6 @@
         "ropls"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -5887,7 +5884,6 @@
     ],
     "scGPS": [],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -6234,7 +6230,6 @@
         "Rsamtools",
         "TSCAN",
         "annotate",
-        "batchelor",
         "biomaRt",
         "celda",
         "ensembldb",
