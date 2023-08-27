@@ -5828,7 +5828,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "SCArray.sat": [],
     "SCATE": [
         "AnnotationDbi",
         "AnnotationHub",
