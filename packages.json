@@ -440,7 +440,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [],
     "BBCAnalyzer": [
         "AnnotationDbi",
         "BSgenome",
