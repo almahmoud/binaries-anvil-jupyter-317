@@ -3125,7 +3125,6 @@
         "rtracklayer"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
