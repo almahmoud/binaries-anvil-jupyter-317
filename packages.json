@@ -111,16 +111,13 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
         "rtracklayer"
     ],
-    "alabaster.spatial": [
-        "SpatialExperiment"
-    ],
+    "alabaster.spatial": [],
     "alabaster.vcf": [
         "AnnotationDbi",
         "BSgenome",
@@ -1646,9 +1643,7 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "AnnotationDbi",
         "BSgenome",
@@ -1689,11 +1684,8 @@
         "FlowSOM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [
@@ -1866,9 +1858,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
@@ -2371,7 +2361,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "Rsamtools",
-        "SpatialExperiment",
         "rtracklayer"
     ],
     "esetVis": [
@@ -2432,7 +2421,6 @@
         "rtracklayer"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
@@ -2832,9 +2820,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "girafe": [
         "GenomicAlignments",
         "Rsamtools",
@@ -3236,7 +3222,6 @@
         "rtracklayer"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "InPAS": [
@@ -3437,7 +3422,6 @@
     "lisaClust": [
         "AnnotationDbi",
         "ClassifyR",
-        "SpatialExperiment",
         "annotate",
         "genefilter",
         "spicyR"
@@ -4079,9 +4063,7 @@
         "genefilter",
         "graphite"
     ],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "monaLisa": [
         "AnnotationDbi",
         "BSgenome",
@@ -4405,9 +4387,7 @@
         "rtracklayer",
         "yarn"
     ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NoRCE": [
         "AnnotationDbi",
@@ -5784,7 +5764,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SpatialExperiment",
         "annotate",
         "biomaRt",
         "ensembldb",
@@ -6103,7 +6082,6 @@
         "Rsamtools"
     ],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [
@@ -6247,19 +6225,12 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "AnnotationDbi",
         "annotate",
@@ -6286,13 +6257,10 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "SPIAT": [
-        "SpatialExperiment"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "AnnotationDbi",
         "ClassifyR",
-        "SpatialExperiment",
         "annotate",
         "genefilter"
     ],
@@ -6347,9 +6315,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPsimSeq": [
         "AnnotationDbi"
     ],
@@ -6368,7 +6334,6 @@
         "RUVSeq",
         "Rsamtools",
         "ShortRead",
-        "SpatialExperiment",
         "biomaRt",
         "rtracklayer"
     ],
@@ -6386,12 +6351,8 @@
         "graphite",
         "miRNAtap"
     ],
-    "Statial": [
-        "SpatialExperiment"
-    ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
+    "stJoincount": [],
     "strandCheckR": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -6906,7 +6867,6 @@
         "annotate"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "VplotR": [
