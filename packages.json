@@ -5989,7 +5989,6 @@
         "scran",
         "scuttle"
     ],
-    "scMET": [],
     "scmeth": [
         "AnnotationDbi",
         "AnnotationHub",
