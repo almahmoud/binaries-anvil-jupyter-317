@@ -2526,9 +2526,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -6185,7 +6183,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "TSCAN",
         "annotate",
         "biomaRt",
         "celda",
@@ -6797,7 +6794,6 @@
         "rtracklayer",
         "tRNA"
     ],
-    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "AnnotationDbi",
