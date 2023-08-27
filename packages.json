@@ -6215,7 +6215,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "AnnotationDbi",
         "annotate",
@@ -6846,9 +6845,7 @@
         "GSEABase",
         "annotate"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "VplotR": [
         "GenomicAlignments",
         "Rsamtools"
