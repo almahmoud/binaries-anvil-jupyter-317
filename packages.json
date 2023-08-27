@@ -4270,7 +4270,6 @@
         "graphite",
         "ropls"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "AnnotationDbi",
         "BSgenome",
