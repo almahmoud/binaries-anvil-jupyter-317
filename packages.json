@@ -6287,7 +6287,6 @@
         "scater",
         "scran",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -7082,9 +7081,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "vidger": [],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -7217,7 +7214,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "AnnotationDbi",
         "EnrichmentBrowser",
