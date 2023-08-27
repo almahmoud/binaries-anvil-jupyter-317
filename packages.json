@@ -3770,7 +3770,6 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
