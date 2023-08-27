@@ -6061,7 +6061,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "scry": [],
     "scTensor": [
         "AnnotationDbi",
         "AnnotationForge",
