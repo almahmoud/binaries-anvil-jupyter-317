@@ -5953,7 +5953,6 @@
         "annotate"
     ],
     "sccomp": [],
-    "scDataviz": [],
     "scDblFinder": [
         "GenomicAlignments",
         "Rsamtools",
