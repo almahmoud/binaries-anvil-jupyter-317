@@ -5963,7 +5963,6 @@
         "scran",
         "scuttle"
     ],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
@@ -6360,7 +6359,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
