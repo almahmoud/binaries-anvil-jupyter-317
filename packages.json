@@ -6702,7 +6702,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "AnnotationDbi",
         "AnnotationHub",
