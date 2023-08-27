@@ -944,7 +944,6 @@
         "topGO"
     ],
     "cellmigRation": [],
-    "CellMixS": [],
     "CEMiTool": [
         "AnnotationDbi",
         "DOSE",
