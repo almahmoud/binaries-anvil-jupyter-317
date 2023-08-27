@@ -1402,9 +1402,7 @@
         "topGO"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "consensusDE": [
         "AnnotationDbi",
         "EDASeq",
@@ -1926,7 +1924,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "distinct": [],
     "DMCFB": [
         "GenomicAlignments",
         "Rsamtools",
