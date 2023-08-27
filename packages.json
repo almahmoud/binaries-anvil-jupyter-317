@@ -6334,7 +6334,6 @@
         "graphite",
         "miRNAtap"
     ],
-    "Statial": [],
     "strandCheckR": [
         "AnnotationDbi",
         "GenomicAlignments",
