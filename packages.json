@@ -6236,7 +6236,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "Spaniel": [],
     "sparrow": [
         "AnnotationDbi",
         "BiocSet",
