@@ -491,7 +491,6 @@
     "benchdamic": [
         "ANCOMBC",
         "AnnotationDbi",
-        "MAST",
         "Maaslin2",
         "TreeSummarizedExperiment",
         "annotate",
@@ -957,9 +956,7 @@
         "PROMISE",
         "annotate"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -3694,7 +3691,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "MAST": [],
     "mastR": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -5002,9 +4998,7 @@
         "ontoProc"
     ],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [
         "AnnotationDbi",
         "biomaRt"
@@ -6389,7 +6383,6 @@
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
-        "MAST",
         "Rsamtools",
         "TSCAN",
         "TrajectoryUtils",
