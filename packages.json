@@ -3124,9 +3124,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiLDA": [
         "AnnotationDbi",
@@ -4265,7 +4263,6 @@
         "AnnotationHub",
         "graphite"
     ],
-    "multiHiCcompare": [],
     "multiMiR": [
         "AnnotationDbi"
     ],
