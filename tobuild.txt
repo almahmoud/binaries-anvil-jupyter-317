@@ -1,7 +1,0 @@
-scater
-SpectralTAD
-multiHiCcompare
-HiCool
-TADCompare
-HiContacts
-DropletUtils
