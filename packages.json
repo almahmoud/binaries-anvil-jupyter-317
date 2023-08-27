@@ -2510,7 +2510,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FEAST": [],
     "ffpe": [
         "AnnotationDbi",
         "GenomicAlignments",
