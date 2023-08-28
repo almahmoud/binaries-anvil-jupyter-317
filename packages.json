@@ -1392,7 +1392,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "CompoundDb": [],
     "condiments": [],
     "consensusDE": [
         "AnnotationDbi",
@@ -3662,9 +3661,7 @@
     "Metab": [
         "xcms"
     ],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
