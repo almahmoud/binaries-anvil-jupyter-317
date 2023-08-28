@@ -6404,7 +6404,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "systemPipeTools": [],
     "TADCompare": [],
     "TAPseq": [
         "AnnotationDbi",
