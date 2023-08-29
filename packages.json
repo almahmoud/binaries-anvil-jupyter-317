@@ -19157,7 +19157,6 @@
         "rtracklayer"
     ],
     "pathifier": [],
-    "PathNet": [],
     "PathoStat": [
         "Biobase",
         "BiocParallel",
