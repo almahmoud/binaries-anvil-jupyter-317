@@ -11636,7 +11636,6 @@
         "edgeR",
         "limma"
     ],
-    "Herper": [],
     "hiAnnotator": [
         "BSgenome",
         "Biobase",
