@@ -5018,7 +5018,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "Biobase",
         "BiocGenerics",
