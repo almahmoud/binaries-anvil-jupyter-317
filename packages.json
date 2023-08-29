@@ -12434,7 +12434,6 @@
         "graph",
         "rtracklayer"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "Biobase",
         "DelayedArray",
