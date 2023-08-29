@@ -5800,7 +5800,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "CORREP": [],
     "coseq": [
         "Biobase",
         "BiocParallel",
