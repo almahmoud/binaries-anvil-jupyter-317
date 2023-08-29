@@ -252,7 +252,6 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "BumpyMatrix",
         "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
@@ -290,7 +289,6 @@
         "rhdf5"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base",
         "rhdf5"
     ],
@@ -1978,7 +1976,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BumpyMatrix": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -3702,7 +3699,6 @@
         "XVector"
     ],
     "CoreGx": [
-        "BumpyMatrix",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -12061,7 +12057,6 @@
     "PDATK": [
         "AnnotationDbi",
         "Biostrings",
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomeInfoDb",
@@ -12175,7 +12170,6 @@
         "rhdf5"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomeInfoDb",
@@ -13120,7 +13114,6 @@
         "XVector"
     ],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomeInfoDb",
@@ -17322,7 +17315,6 @@
         "XVector"
     ],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomeInfoDb",
@@ -18253,7 +18245,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "DelayedArray",
