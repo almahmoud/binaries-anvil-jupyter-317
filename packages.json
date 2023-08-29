@@ -7282,7 +7282,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "dks": [],
     "DMCFB": [
         "Biobase",
         "BiocIO",
