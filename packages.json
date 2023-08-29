@@ -19950,7 +19950,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "statTarget": [],
     "STdeconvolve": [],
     "stepNorm": [
         "marray"
