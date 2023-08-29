@@ -10178,7 +10178,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "RandomWalkRestartMH",
         "XVector"
     ],
     "NetSAM": [
@@ -11929,7 +11928,6 @@
         "XVector",
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
