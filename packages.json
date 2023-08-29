@@ -27324,7 +27324,6 @@
         "limma",
         "slingshot"
     ],
-    "TrajectoryGeometry": [],
     "TrajectoryUtils": [
         "Biobase",
         "DelayedArray",
