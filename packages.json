@@ -11209,7 +11209,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "genArise": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
