@@ -2288,7 +2288,6 @@
         "GSEABase",
         "GenomeInfoDb",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -2573,7 +2572,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -4615,7 +4613,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "DEGreport": [
@@ -6304,9 +6301,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -9673,7 +9668,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "KEGGREST",
-        "RCy3",
         "XVector",
         "clusterProfiler",
         "enrichplot"
@@ -10554,9 +10548,7 @@
         "S4Arrays",
         "rhdf5"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
@@ -11370,7 +11362,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "ncRNAtools": [
@@ -11497,7 +11488,6 @@
         "GenomicRanges",
         "HDF5Array",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -13546,7 +13536,6 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "ReactomeGraph4R": [],
     "ReactomePA": [
@@ -13770,7 +13759,6 @@
         "GenomicRanges",
         "Gviz",
         "KEGGREST",
-        "RCy3",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -17519,7 +17507,6 @@
         "KEGGREST",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -17789,7 +17776,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "RCy3",
         "XVector"
     ],
     "TransView": [
