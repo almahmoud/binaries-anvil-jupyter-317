@@ -12671,7 +12671,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [
         "Biostrings",
         "GenomeInfoDb",
