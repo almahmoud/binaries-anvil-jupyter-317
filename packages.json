@@ -13911,7 +13911,6 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "Rfastp": [],
     "rfPred": [
         "Biostrings",
         "GenomeInfoDb",
