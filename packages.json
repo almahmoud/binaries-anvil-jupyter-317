@@ -20438,7 +20438,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "rnaseqcomp": [],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
         "BSgenome",
