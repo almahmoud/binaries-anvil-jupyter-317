@@ -26079,7 +26079,6 @@
         "XVector"
     ],
     "sSeq": [],
-    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biobase",
