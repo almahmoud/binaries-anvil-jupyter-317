@@ -4221,7 +4221,6 @@
     "convert": [
         "marray"
     ],
-    "copa": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "AnnotationFilter",
