@@ -18216,7 +18216,6 @@
         "annotate",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationDbi",
         "AnnotationFilter",
