@@ -7925,7 +7925,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -8843,10 +8842,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "ecolitk": [
         "Biobase",
         "BiocGenerics"
@@ -20031,8 +20027,7 @@
     ],
     "OSAT": [],
     "Oscope": [
-        "BiocParallel",
-        "EBSeq"
+        "BiocParallel"
     ],
     "OTUbase": [
         "Biobase",
@@ -25066,7 +25061,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -25090,7 +25084,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
