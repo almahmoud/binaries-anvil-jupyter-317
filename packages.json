@@ -98,7 +98,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -12037,7 +12036,6 @@
         "genefilter",
         "graph"
     ],
-    "GLAD": [],
     "Glimma": [
         "Biobase",
         "BiocGenerics",
@@ -14259,7 +14257,6 @@
         "BiocGenerics",
         "Biostrings",
         "DelayedArray",
-        "GLAD",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -15130,9 +15127,7 @@
         "affyio",
         "preprocessCore"
     ],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [
         "AnnotationDbi",
@@ -25999,9 +25994,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "seqCNA": [
-        "GLAD"
-    ],
+    "seqCNA": [],
     "SeqGate": [
         "Biobase",
         "BiocGenerics",
@@ -27025,7 +27018,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
