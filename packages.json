@@ -21696,7 +21696,6 @@
         "interactiveDisplayBase",
         "rhdf5client"
     ],
-    "retrofit": [],
     "ReUseData": [
         "BiocParallel",
         "Rcwl",
