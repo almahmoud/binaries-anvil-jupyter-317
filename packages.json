@@ -9471,7 +9471,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "mosbi": [],
     "Motif2Site": [
         "BSgenome",
         "Biostrings",
