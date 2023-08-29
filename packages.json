@@ -18895,7 +18895,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "XVector",
         "zlibbioc"
@@ -22195,7 +22194,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
@@ -23503,7 +23501,6 @@
         "BiocGenerics"
     ],
     "randRotation": [],
-    "RankProd": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
@@ -29854,9 +29851,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [
         "BiocGenerics",
         "Biostrings",
@@ -30899,7 +30894,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SummarizedExperiment",
