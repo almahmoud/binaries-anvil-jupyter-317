@@ -5142,7 +5142,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "dStruct": [],
     "Dune": [
         "DelayedArray",
         "GenomeInfoDb",
