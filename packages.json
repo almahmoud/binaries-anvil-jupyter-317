@@ -13389,7 +13389,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
