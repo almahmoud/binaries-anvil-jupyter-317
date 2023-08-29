@@ -1498,7 +1498,6 @@
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
-        "NOISeq",
         "S4Arrays",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -3731,7 +3730,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "NOISeq",
         "Rsamtools",
         "XVector",
         "exomeCopy"
@@ -10806,9 +10804,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "MetaVolcanoR": [
         "multtest"
     ],
@@ -12946,7 +12942,6 @@
         "rhdf5filters",
         "scuttle"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy"
