@@ -7042,7 +7042,6 @@
     "prebs": [
         "GenomicAlignments",
         "GenomicRanges",
-        "RPA",
         "Rsamtools",
         "SummarizedExperiment"
     ],
@@ -8096,7 +8095,6 @@
         "MultiDataSet",
         "SummarizedExperiment"
     ],
-    "RPA": [],
     "Rqc": [
         "AnnotationDbi",
         "AnnotationFilter",
