@@ -3202,7 +3202,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "DelayedArray",
