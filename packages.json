@@ -4127,9 +4127,7 @@
         "GenomicRanges",
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "GenomicRanges",
@@ -7536,7 +7534,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "GenomicRanges",
