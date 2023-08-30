@@ -11123,7 +11123,6 @@
         "SummarizedExperiment",
         "phyloseq"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomicRanges",
