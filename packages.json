@@ -767,7 +767,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bcSeq": [],
     "BDMMAcorrect": [
         "GenomicRanges",
         "SummarizedExperiment"
