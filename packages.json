@@ -8218,7 +8218,6 @@
         "annotate",
         "biomaRt"
     ],
-    "sangeranalyseR": [],
     "satuRn": [
         "GenomicRanges",
         "SummarizedExperiment"
