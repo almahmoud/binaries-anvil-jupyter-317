@@ -3671,7 +3671,6 @@
     "flowDensity": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowVS": [],
     "FoldGO": [
         "AnnotationDbi",
         "topGO"
