@@ -3689,10 +3689,7 @@
     "flowGate": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "FoldGO": [
         "AnnotationDbi",
         "topGO"
