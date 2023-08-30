@@ -1784,7 +1784,6 @@
         "SummarizedExperiment",
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "GenomicRanges",
