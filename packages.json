@@ -3612,7 +3612,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "AnnotationDbi",
         "BSgenome",
