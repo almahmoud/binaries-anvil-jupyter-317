@@ -6150,7 +6150,6 @@
         "GOSemSim"
     ],
     "Rsamtools": [],
-    "rScudo": [],
     "RSVSim": [
         "GenomicAlignments",
         "Rsamtools",
