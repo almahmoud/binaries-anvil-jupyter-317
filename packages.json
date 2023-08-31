@@ -6079,7 +6079,6 @@
         "DESeq2"
     ],
     "schex": [],
-    "scHOT": [],
     "scMerge": [
         "batchelor",
         "scater",
