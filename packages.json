@@ -4323,7 +4323,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "MOMA": [],
     "monaLisa": [
         "AnnotationDbi",
         "BSgenome",
