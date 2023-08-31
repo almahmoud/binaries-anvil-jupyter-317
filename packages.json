@@ -1297,7 +1297,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -3776,7 +3775,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mbOmic": [
         "AnnotationDbi"
     ],
@@ -4620,7 +4618,6 @@
         "annotate",
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "scater",
         "scuttle",
         "zinbwave"
