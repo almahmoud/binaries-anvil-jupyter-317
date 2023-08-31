@@ -7058,7 +7058,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "velociraptor": [],
     "vidger": [
         "DESeq2"
     ],
