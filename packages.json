@@ -2535,7 +2535,6 @@
     "eudysbiome": [
         "Rsamtools"
     ],
-    "evaluomeR": [],
     "EventPointer": [
         "AnnotationDbi",
         "BSgenome",
