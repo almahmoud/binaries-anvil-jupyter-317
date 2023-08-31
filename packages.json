@@ -39,7 +39,6 @@
     "adSplit": [
         "AnnotationDbi"
     ],
-    "AffiXcan": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationForge",
