@@ -3388,7 +3388,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
