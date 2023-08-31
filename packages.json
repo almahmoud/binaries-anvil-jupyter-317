@@ -4802,7 +4802,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "OncoScore": [
         "AnnotationDbi",
