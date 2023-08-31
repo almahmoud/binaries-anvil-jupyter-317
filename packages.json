@@ -1708,10 +1708,7 @@
         "FlowSOM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [
         "GenomicAlignments",
         "Rsamtools",
@@ -3290,9 +3287,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -6205,9 +6200,7 @@
     "SimFFPE": [
         "Rsamtools"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "AnnotationDbi",
         "GOSemSim"
