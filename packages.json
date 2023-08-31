@@ -1418,9 +1418,7 @@
         "topGO"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "consensusDE": [
         "AnnotationDbi",
         "DESeq2",
@@ -1959,7 +1957,6 @@
         "rtracklayer"
     ],
     "Dino": [],
-    "distinct": [],
     "DMCFB": [
         "GenomicAlignments",
         "Rsamtools",
