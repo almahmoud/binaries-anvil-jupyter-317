@@ -6453,7 +6453,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "splatter": [],
     "SpliceWiz": [
         "AnnotationDbi",
         "AnnotationHub",
