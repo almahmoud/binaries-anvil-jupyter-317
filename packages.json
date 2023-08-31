@@ -6024,7 +6024,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [],
     "scMerge": [
         "batchelor",
         "scater",
@@ -6121,14 +6120,12 @@
         "enrichplot",
         "genefilter",
         "graphite",
-        "meshr",
-        "schex"
+        "meshr"
     ],
     "scTGIF": [
         "AnnotationDbi",
         "GSEABase",
-        "annotate",
-        "schex"
+        "annotate"
     ],
     "scTreeViz": [
         "AnnotationDbi",
