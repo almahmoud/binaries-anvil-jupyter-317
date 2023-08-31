@@ -2954,7 +2954,6 @@
     "GDSArray": [
         "SeqArray"
     ],
-    "gemma.R": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
