@@ -1436,7 +1436,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [
         "AnnotationDbi",
         "GenomicAlignments",
