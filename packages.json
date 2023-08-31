@@ -472,7 +472,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "MLInterfaces",
@@ -2156,7 +2155,6 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "SingleCellExperiment"
     ],
     "diffHic": [
