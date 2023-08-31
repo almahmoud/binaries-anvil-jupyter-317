@@ -5873,7 +5873,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scCB2": [],
     "scClassify": [
         "AnnotationDbi",
         "Cepo",
