@@ -6812,7 +6812,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "AnnotationDbi",
         "AnnotationHub",
