@@ -6742,7 +6742,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tradeSeq": [],
     "transcriptogramer": [
         "AnnotationDbi",
         "biomaRt",
