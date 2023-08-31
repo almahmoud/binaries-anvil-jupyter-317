@@ -6964,7 +6964,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "VAExprs": [],
     "VanillaICE": [
         "BSgenome",
         "GenomicAlignments",
