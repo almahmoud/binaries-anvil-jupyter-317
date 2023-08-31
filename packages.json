@@ -3234,7 +3234,6 @@
     ],
     "HiCDOC": [],
     "HiContacts": [],
-    "HiCool": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
