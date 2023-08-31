@@ -4638,7 +4638,6 @@
     "netboost": [
         "AnnotationDbi"
     ],
-    "netDx": [],
     "netOmics": [
         "AnnotationDbi"
     ],
