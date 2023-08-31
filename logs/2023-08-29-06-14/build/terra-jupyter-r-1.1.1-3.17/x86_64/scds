@@ -2622,7 +2622,7 @@ packaged installation of ‘scater’ as ‘scater_1.28.0_R_x86_64-pc-linux-gnu.
 * DONE (scater)
 
 The downloaded source packages are in
-	‘/tmp/RtmpbSTTxV/downloaded_packages’
+	‘/tmp/RtmpjdiBMY/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'dqrng', 'DT', 'ExperimentHub', 'fontawesome', 'fs',
   'gargle', 'GenomeInfoDb', 'GenomicFeatures', 'gert', 'ggplot2', 'gtable',
@@ -2632,6 +2632,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	10m46.045s
-user	10m10.296s
-sys	0m37.383s
+real	13m19.071s
+user	12m33.736s
+sys	0m46.857s
