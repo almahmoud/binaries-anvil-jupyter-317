@@ -4503,7 +4503,6 @@
     "multiMiR": [
         "AnnotationDbi"
     ],
-    "MultimodalExperiment": [],
     "multiSight": [
         "AnnotationDbi",
         "DESeq2",
