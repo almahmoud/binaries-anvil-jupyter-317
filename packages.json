@@ -1454,7 +1454,6 @@
     ],
     "CompoundDb": [],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "scater",
         "slingshot"
@@ -2607,8 +2606,7 @@
         "rtracklayer"
     ],
     "FEAST": [
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "ffpe": [
         "AnnotationDbi",
@@ -6084,7 +6082,6 @@
     "scRNAseqApp": [
         "GenomicAlignments",
         "Rsamtools",
-        "TrajectoryUtils",
         "rtracklayer",
         "slingshot"
     ],
@@ -6380,7 +6377,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "TSCAN",
-        "TrajectoryUtils",
         "annotate",
         "batchelor",
         "biomaRt",
@@ -6448,9 +6444,7 @@
         "GSEABase",
         "annotate"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
@@ -6943,10 +6937,8 @@
         "rtracklayer"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [
         "AnnotationDbi",
         "biomaRt",
@@ -6977,7 +6969,6 @@
         "rtracklayer"
     ],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -7028,9 +7019,7 @@
         "rtracklayer",
         "tRNA"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "AnnotationDbi",
