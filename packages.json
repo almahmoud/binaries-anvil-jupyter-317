@@ -1766,7 +1766,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
