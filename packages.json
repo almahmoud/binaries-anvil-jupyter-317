@@ -5004,7 +5004,6 @@
     "POMA": [
         "DESeq2"
     ],
-    "POWSC": [],
     "PPInfer": [
         "AnnotationDbi",
         "biomaRt"
