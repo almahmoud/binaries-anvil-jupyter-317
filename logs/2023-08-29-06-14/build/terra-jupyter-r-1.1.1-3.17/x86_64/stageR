@@ -29,7 +29,7 @@ packaged installation of ‘stageR’ as ‘stageR_1.22.0_R_x86_64-pc-linux-gnu.
 * DONE (stageR)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp9svvnS/downloaded_packages’
+	‘/tmp/RtmpG5DG9Q/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'dqrng', 'DT', 'ExperimentHub', 'fontawesome', 'fs',
   'gargle', 'GenomeInfoDb', 'GenomicFeatures', 'gert', 'ggplot2', 'gtable',
@@ -39,6 +39,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	0m31.955s
-user	0m23.151s
-sys	0m1.747s
+real	0m20.460s
+user	0m17.400s
+sys	0m1.312s
