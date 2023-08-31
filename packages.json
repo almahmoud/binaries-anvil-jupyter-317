@@ -2232,7 +2232,6 @@
         "snm",
         "sva"
     ],
-    "EDIRquery": [],
     "eegc": [
         "AnnotationDbi",
         "DESeq2",
