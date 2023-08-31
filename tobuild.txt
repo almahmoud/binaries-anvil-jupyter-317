@@ -1,4 +1,0 @@
-TSCAN
-slingshot
-MultiDataSet
-HiCDOC
