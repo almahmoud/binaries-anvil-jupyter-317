@@ -3841,7 +3841,6 @@
         "CompoundDb",
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
