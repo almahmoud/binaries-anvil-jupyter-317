@@ -1,8 +1,0 @@
-celaref
-SCArray.sat
-HiCool
-iSEEhex
-transformGamPoi
-scds
-POWSC
-HiContacts
