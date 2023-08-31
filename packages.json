@@ -6832,7 +6832,6 @@
     "ssviz": [
         "Rsamtools"
     ],
-    "stageR": [],
     "standR": [
         "AnnotationDbi",
         "DropletUtils",
