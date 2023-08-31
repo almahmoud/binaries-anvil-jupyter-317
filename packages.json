@@ -1668,7 +1668,6 @@
         "AnnotationDbi",
         "AnnotationHub"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "AnnotationDbi",
         "BSgenome",
