@@ -7200,7 +7200,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "VDJdive": [],
     "VegaMC": [
         "AnnotationDbi",
         "biomaRt"
