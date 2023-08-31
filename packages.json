@@ -7614,7 +7614,6 @@
         "GOSemSim",
         "topGO"
     ],
-    "TransView": [],
     "traseR": [
         "BSgenome",
         "GenomicAlignments",
