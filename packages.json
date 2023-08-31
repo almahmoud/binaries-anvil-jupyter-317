@@ -118,7 +118,6 @@
     ],
     "airpart": [
         "SingleCellExperiment",
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -281,7 +280,6 @@
     "apComplex": [
         "AnnotationDbi"
     ],
-    "apeglm": [],
     "APL": [
         "AnnotationDbi",
         "SingleCellExperiment",
@@ -1242,7 +1240,6 @@
         "GreyListChIP",
         "Rsamtools",
         "ShortRead",
-        "apeglm",
         "biomaRt",
         "chipseq",
         "rtracklayer",
@@ -1983,7 +1980,6 @@
         "DOSE",
         "GOSemSim",
         "annotate",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -2141,7 +2137,6 @@
         "GreyListChIP",
         "Rsamtools",
         "ShortRead",
-        "apeglm",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -6151,7 +6146,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "apeglm",
         "biomaRt",
         "rtracklayer"
     ],
@@ -7423,7 +7417,6 @@
     "TEKRABber": [
         "AnnotationDbi",
         "DESeq2",
-        "apeglm",
         "biomaRt"
     ],
     "TENxIO": [
@@ -7916,7 +7909,6 @@
         "InteractionSet",
         "Rsamtools",
         "ShortRead",
-        "apeglm",
         "biomaRt",
         "csaw",
         "ensembldb",
