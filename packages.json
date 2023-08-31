@@ -6356,7 +6356,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
