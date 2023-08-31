@@ -3053,7 +3053,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "AnnotationDbi",
         "GenomicAlignments",
