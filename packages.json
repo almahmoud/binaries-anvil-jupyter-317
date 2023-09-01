@@ -6198,7 +6198,6 @@
     "SimFFPE": [
         "Rsamtools"
     ],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "AnnotationDbi",
         "GOSemSim"
