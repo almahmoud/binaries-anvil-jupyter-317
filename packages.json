@@ -768,7 +768,6 @@
         "rtracklayer"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "BDMMAcorrect": [
         "GenomicRanges",
         "SummarizedExperiment"
