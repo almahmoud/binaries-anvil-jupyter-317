@@ -1832,7 +1832,6 @@
         "CellNOptR",
         "GenomeInfoDb",
         "KEGGREST",
-        "Linnorm",
         "Rgraphviz",
         "XVector",
         "affy",
@@ -4501,7 +4500,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "Linnorm",
         "Rgraphviz",
         "XVector",
         "epiNEM",
@@ -5819,7 +5817,6 @@
         "siggenes"
     ],
     "epiNEM": [
-        "Linnorm",
         "Rgraphviz",
         "mnem"
     ],
@@ -8909,7 +8906,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "Biostrings",
         "GenomeInfoDb",
@@ -10620,7 +10616,6 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Linnorm",
         "Rgraphviz"
     ],
     "moanin": [
@@ -11558,7 +11553,6 @@
     ],
     "NeighborNet": [],
     "nempi": [
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "mnem"
