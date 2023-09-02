@@ -8372,10 +8372,7 @@
         "annotate",
         "biomaRt"
     ],
-    "sangeranalyseR": [
-        "sangerseqR"
-    ],
-    "sangerseqR": [],
+    "sangeranalyseR": [],
     "sarks": [],
     "satuRn": [
         "GenomicRanges",
@@ -8571,9 +8568,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scifer": [
-        "sangerseqR"
-    ],
+    "scifer": [],
     "scmap": [
         "GenomicRanges",
         "SingleCellExperiment",
