@@ -120,7 +120,7 @@ packaged installation of ‘Mfuzz’ as ‘Mfuzz_2.60.0_R_x86_64-pc-linux-gnu.ta
 * DONE (Mfuzz)
 
 The downloaded source packages are in
-	‘/tmp/RtmpflMNSU/downloaded_packages’
+	‘/tmp/RtmpGqNbhU/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'dqrng', 'DT', 'ExperimentHub', 'fontawesome', 'fs',
   'gargle', 'GenomeInfoDb', 'GenomicFeatures', 'gert', 'ggplot2', 'gtable',
@@ -130,6 +130,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	0m26.549s
-user	0m23.045s
-sys	0m2.651s
+real	0m26.976s
+user	0m22.630s
+sys	0m2.552s
