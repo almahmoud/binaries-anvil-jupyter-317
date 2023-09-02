@@ -22256,7 +22256,6 @@
         "limma",
         "zinbwave"
     ],
-    "SCBN": [],
     "scBubbletree": [
         "ggtree"
     ],
@@ -25665,7 +25664,6 @@
         "KEGGREST",
         "S4Arrays",
         "S4Vectors",
-        "SCBN",
         "SummarizedExperiment",
         "XVector",
         "apeglm",
