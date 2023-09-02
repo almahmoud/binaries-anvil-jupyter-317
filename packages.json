@@ -9811,7 +9811,6 @@
         "genefilter",
         "limma",
         "rtracklayer",
-        "sSeq",
         "sva"
     ],
     "GateFinder": [
@@ -15336,8 +15335,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
-        "sSeq"
+        "limma"
     ],
     "MMAPPR2": [
         "AnnotationDbi",
@@ -24681,7 +24679,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "sSeq": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biobase",
