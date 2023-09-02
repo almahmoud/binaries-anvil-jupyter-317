@@ -657,7 +657,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "HybridMTest",
         "KEGGREST",
         "Rsamtools",
         "S4Arrays",
@@ -7959,7 +7958,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "HybridMTest": [],
     "hyperdraw": [],
     "iasva": [
         "DelayedArray",
