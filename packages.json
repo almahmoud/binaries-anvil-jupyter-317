@@ -16743,8 +16743,7 @@
         "IRanges",
         "MsCoreUtils",
         "S4Vectors",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "BiocParallel",
@@ -20972,7 +20971,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "graph"
