@@ -51,7 +51,7 @@ packaged installation of ‘SNPRelate’ as ‘SNPRelate_1.34.1_R_x86_64-pc-linu
 * DONE (SNPRelate)
 
 The downloaded source packages are in
-	‘/tmp/RtmpuVefge/downloaded_packages’
+	‘/tmp/RtmpvTnrYe/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'dqrng', 'DT', 'ExperimentHub', 'fontawesome', 'fs',
   'gargle', 'GenomeInfoDb', 'GenomicFeatures', 'gert', 'ggplot2', 'gtable',
@@ -61,6 +61,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	0m33.343s
-user	0m29.641s
-sys	0m2.550s
+real	0m33.501s
+user	0m29.673s
+sys	0m2.248s
