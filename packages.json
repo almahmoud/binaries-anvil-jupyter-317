@@ -20514,7 +20514,6 @@
         "limma"
     ],
     "qckitfastq": [
-        "RSeqAn",
         "seqTools"
     ],
     "qcmetrics": [
@@ -22766,7 +22765,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "RSeqAn": [],
     "Rsubread": [],
     "RSVSim": [
         "Biobase",
