@@ -16115,7 +16115,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "Biostrings",
         "DelayedArray",
