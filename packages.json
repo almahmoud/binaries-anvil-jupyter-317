@@ -84,7 +84,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -623,7 +622,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "affyContam",
         "annotate",
         "biomaRt",
         "bumphunter",
