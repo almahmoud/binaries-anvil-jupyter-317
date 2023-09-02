@@ -14254,7 +14254,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "parglms": [],
     "PAST": [
         "BiocIO",
         "Biostrings",
