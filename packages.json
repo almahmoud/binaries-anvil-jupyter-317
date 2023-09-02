@@ -7441,7 +7441,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "AnnotationDbi",
         "GenomicRanges",
