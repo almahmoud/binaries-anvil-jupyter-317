@@ -1519,7 +1519,6 @@
         "Rsamtools",
         "genomeIntervals"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "AnnotationDbi",
         "AnnotationFilter",
