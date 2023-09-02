@@ -6843,7 +6843,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "peakPantheR": [],
     "PECA": [
         "AnnotationDbi",
         "annotate",
