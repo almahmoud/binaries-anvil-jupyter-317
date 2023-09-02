@@ -10884,7 +10884,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "Rnits": [],
     "roar": [
         "Biostrings",
         "DelayedArray",
