@@ -8416,7 +8416,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scifer": [],
     "scmap": [
         "GenomicRanges",
         "SingleCellExperiment",
