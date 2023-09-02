@@ -18600,7 +18600,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
