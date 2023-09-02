@@ -8525,8 +8525,7 @@
         "ExperimentHub",
         "GenomicRanges",
         "KEGGREST",
-        "SummarizedExperiment",
-        "rhdf5client"
+        "SummarizedExperiment"
     ],
     "ReUseData": [],
     "rexposome": [],
@@ -8592,7 +8591,6 @@
         "goseq",
         "rtracklayer"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -10638,8 +10636,7 @@
         "KEGGREST",
         "SummarizedExperiment",
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "TEQC": [
         "GenomicRanges",
