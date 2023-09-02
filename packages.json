@@ -4356,7 +4356,6 @@
         "edgeR",
         "genefilter"
     ],
-    "covEB": [],
     "CoverageView": [
         "Biostrings",
         "DelayedArray",
