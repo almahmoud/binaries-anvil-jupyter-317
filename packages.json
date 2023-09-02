@@ -19129,8 +19129,7 @@
         "impute",
         "limma",
         "marray",
-        "piano",
-        "switchBox"
+        "piano"
     ],
     "pdInfoBuilder": [
         "Biobase",
@@ -26521,7 +26520,6 @@
     ],
     "SwathXtend": [],
     "swfdr": [],
-    "switchBox": [],
     "switchde": [
         "Biobase",
         "DelayedArray",
