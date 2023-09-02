@@ -4085,7 +4085,6 @@
         "rtracklayer",
         "sva"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "GenomicRanges",
         "SeqArray"
