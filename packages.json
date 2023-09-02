@@ -5042,7 +5042,6 @@
         "mnem",
         "multtest"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "DelayedArray",
         "IRanges",
