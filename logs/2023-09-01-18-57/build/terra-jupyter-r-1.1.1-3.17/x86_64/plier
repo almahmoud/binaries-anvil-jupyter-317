@@ -34,7 +34,7 @@ packaged installation of ‘plier’ as ‘plier_1.70.0_R_x86_64-pc-linux-gnu.ta
 * DONE (plier)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp1bdUI3/downloaded_packages’
+	‘/tmp/RtmpMOwm2X/downloaded_packages’
 Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'DelayedMatrixStats', 'dqrng', 'DT', 'ExperimentHub', 'fontawesome', 'fs',
   'gargle', 'GenomeInfoDb', 'GenomicFeatures', 'gert', 'ggplot2', 'gtable',
@@ -44,6 +44,6 @@ Old packages: 'AnVIL', 'BiocManager', 'bslib', 'cpp11', 'curl', 'DelayedArray',
   'rtracklayer', 'S4Arrays', 'sass', 'scran', 'scuttle', 'shiny', 'spatial',
   'spatstat.geom', 'survival', 'tinytex', 'uuid', 'xfun'
 
-real	0m8.786s
-user	0m6.408s
-sys	0m0.880s
+real	0m12.397s
+user	0m8.276s
+sys	0m1.089s
