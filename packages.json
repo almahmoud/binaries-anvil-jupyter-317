@@ -10121,7 +10121,6 @@
         "S4Arrays",
         "rhdf5"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
