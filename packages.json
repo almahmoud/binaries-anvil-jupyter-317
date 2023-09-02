@@ -3608,7 +3608,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "FELLA": [],
     "ffpe": [
         "AnnotationDbi",
         "GenomicAlignments",
