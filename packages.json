@@ -1695,7 +1695,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "biomaRt",
-        "gaga",
         "rtracklayer"
     ],
     "CATALYST": [
@@ -5063,7 +5062,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
