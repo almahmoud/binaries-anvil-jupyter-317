@@ -4687,7 +4687,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "idpr": [],
     "idr2d": [
         "GenomicRanges"
     ],
