@@ -12004,7 +12004,6 @@
         "ggtree",
         "treeio"
     ],
-    "GIGSEA": [],
     "girafe": [
         "Biobase",
         "BiocGenerics",
