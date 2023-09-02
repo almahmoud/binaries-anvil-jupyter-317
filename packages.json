@@ -2532,7 +2532,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "flowClust",
         "flowMerge"
     ],
     "consensusDE": [
@@ -2969,7 +2968,6 @@
         "rtracklayer"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowWorkspace",
         "ncdfFlow"
@@ -3016,7 +3014,6 @@
         "scuttle"
     ],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -4516,7 +4513,6 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowWorkspace",
@@ -4532,18 +4528,14 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [],
     "FlowSOM": [],
     "flowStats": [
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
@@ -8230,7 +8222,6 @@
         "SummarizedExperiment"
     ],
     "openCyto": [
-        "flowClust",
         "flowWorkspace",
         "ncdfFlow"
     ],
