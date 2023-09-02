@@ -1916,7 +1916,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "cleaver": [],
     "clipper": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -7847,7 +7846,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "cleaver",
         "rtracklayer"
     ],
     "ProteoMM": [
@@ -10373,9 +10371,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "synapter": [
-        "cleaver"
-    ],
+    "synapter": [],
     "synergyfinder": [],
     "SynExtend": [
         "DECIPHER"
