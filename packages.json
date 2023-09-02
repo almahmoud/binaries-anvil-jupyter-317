@@ -1709,7 +1709,6 @@
     ],
     "biocViews": [],
     "biodbLipidmaps": [],
-    "biodbUniprot": [],
     "biomaRt": [
         "AnnotationDbi",
         "Biostrings",
