@@ -19176,7 +19176,6 @@
         "vsn"
     ],
     "timecourse": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "Biostrings",
