@@ -5048,7 +5048,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [],
     "infercnv": [
         "GenomicRanges",
