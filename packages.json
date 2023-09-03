@@ -5275,7 +5275,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "BiocGenerics",
         "GenomeInfoDb",
