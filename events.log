@@ -1,37 +1,35 @@
 LAST SEEN   TYPE      REASON                   OBJECT                                      MESSAGE
-45m         Normal    SuccessfulCreate         daemonset/static-local-static-provisioner   Created pod: static-local-static-provisioner-k66cp
-45m         Normal    Scheduled                pod/static-local-static-provisioner-k66cp   Successfully assigned rclone/static-local-static-provisioner-k66cp to fv-az626-768
-45m         Normal    Pulling                  pod/static-local-static-provisioner-k66cp   Pulling image "registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0"
-45m         Normal    SuccessfulCreate         daemonset/csi-nodeplugin-rclone             Created pod: csi-nodeplugin-rclone-xfl8p
+45m         Normal    SuccessfulCreate         daemonset/static-local-static-provisioner   Created pod: static-local-static-provisioner-sjd6c
+45m         Normal    Scheduled                pod/static-local-static-provisioner-sjd6c   Successfully assigned rclone/static-local-static-provisioner-sjd6c to fv-az419-879
+45m         Normal    Pulling                  pod/static-local-static-provisioner-sjd6c   Pulling image "registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0"
+45m         Normal    Scheduled                pod/csi-nodeplugin-rclone-zpc7p             Successfully assigned rclone/csi-nodeplugin-rclone-zpc7p to fv-az419-879
+45m         Normal    SuccessfulCreate         daemonset/csi-nodeplugin-rclone             Created pod: csi-nodeplugin-rclone-zpc7p
 45m         Normal    SuccessfulCreate         statefulset/csi-controller-rclone           create Pod csi-controller-rclone-0 in StatefulSet csi-controller-rclone successful
-45m         Normal    Scheduled                pod/csi-nodeplugin-rclone-xfl8p             Successfully assigned rclone/csi-nodeplugin-rclone-xfl8p to fv-az626-768
-45m         Normal    Scheduled                pod/csi-controller-rclone-0                 Successfully assigned rclone/csi-controller-rclone-0 to fv-az626-768
-45m         Normal    Pulling                  pod/csi-nodeplugin-rclone-xfl8p             Pulling image "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.4.0"
+45m         Normal    Scheduled                pod/csi-controller-rclone-0                 Successfully assigned rclone/csi-controller-rclone-0 to fv-az419-879
+45m         Normal    Pulling                  pod/csi-nodeplugin-rclone-zpc7p             Pulling image "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.4.0"
+45m         Normal    Pulled                   pod/static-local-static-provisioner-sjd6c   Successfully pulled image "registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0" in 2.720353676s (2.720364777s including waiting)
+45m         Normal    Created                  pod/static-local-static-provisioner-sjd6c   Created container provisioner
+45m         Normal    Started                  pod/static-local-static-provisioner-sjd6c   Started container provisioner
 45m         Normal    Pulling                  pod/csi-controller-rclone-0                 Pulling image "k8s.gcr.io/sig-storage/csi-attacher:v3.4.0"
-45m         Normal    Pulled                   pod/static-local-static-provisioner-k66cp   Successfully pulled image "registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0" in 2.844622708s (2.844633108s including waiting)
-45m         Normal    Created                  pod/static-local-static-provisioner-k66cp   Created container provisioner
-45m         Normal    Started                  pod/static-local-static-provisioner-k66cp   Started container provisioner
-45m         Normal    Pulled                   pod/csi-nodeplugin-rclone-xfl8p             Successfully pulled image "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.4.0" in 825.568715ms (825.595015ms including waiting)
-45m         Normal    Created                  pod/csi-nodeplugin-rclone-xfl8p             Created container node-driver-registrar
-45m         Normal    Started                  pod/csi-nodeplugin-rclone-xfl8p             Started container node-driver-registrar
-45m         Normal    Pulling                  pod/csi-nodeplugin-rclone-xfl8p             Pulling image "wunderio/csi-rclone:v1.3.0"
-45m         Normal    Pulled                   pod/csi-controller-rclone-0                 Successfully pulled image "k8s.gcr.io/sig-storage/csi-attacher:v3.4.0" in 1.029176843s (1.029185643s including waiting)
-45m         Normal    Created                  pod/csi-controller-rclone-0                 Created container csi-attacher
-45m         Normal    Started                  pod/csi-controller-rclone-0                 Started container csi-attacher
-45m         Normal    Pulling                  pod/csi-controller-rclone-0                 Pulling image "wunderio/csi-rclone:v1.3.0"
-45m         Normal    Pulled                   pod/csi-controller-rclone-0                 Successfully pulled image "wunderio/csi-rclone:v1.3.0" in 2.020892921s (2.020908822s including waiting)
-45m         Normal    Pulled                   pod/csi-nodeplugin-rclone-xfl8p             Successfully pulled image "wunderio/csi-rclone:v1.3.0" in 2.583193619s (2.583201219s including waiting)
-45m         Normal    Created                  pod/csi-controller-rclone-0                 Created container rclone
-45m         Normal    Created                  pod/csi-nodeplugin-rclone-xfl8p             Created container rclone
-45m         Normal    Started                  pod/csi-controller-rclone-0                 Started container rclone
-45m         Normal    Started                  pod/csi-nodeplugin-rclone-xfl8p             Started container rclone
-45m         Normal    LeaderElection           lease/external-attacher-leader-csi-rclone   csi-controller-rclone-0 became leader
-45m         Warning   ProvisioningFailed       persistentvolumeclaim/data-rclone           no volume plugin matched name: kubernetes.io/no-provisioner
-45m         Warning   FailedScheduling         pod/package-file                            0/1 nodes are available: pod has unbound immediate PersistentVolumeClaims. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod..
-45m         Warning   FailedScheduling         pod/package-file                            0/1 nodes are available: pod has unbound immediate PersistentVolumeClaims. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod..
-45m         Normal    Scheduled                pod/package-file                            Successfully assigned rclone/package-file to fv-az626-768
-45m         Normal    SuccessfulAttachVolume   pod/package-file                            AttachVolume.Attach succeeded for volume "data-rclone"
-45m         Normal    Pulling                  pod/package-file                            Pulling image "us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1"
-38m         Normal    Pulled                   pod/package-file                            Successfully pulled image "us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1" in 6m26.776210378s (6m26.776356679s including waiting)
+45m         Normal    Pulled                   pod/csi-nodeplugin-rclone-zpc7p             Successfully pulled image "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.4.0" in 810.431634ms (810.452034ms including waiting)
+45m         Normal    Created                  pod/csi-nodeplugin-rclone-zpc7p             Created container node-driver-registrar
+45m         Normal    Started                  pod/csi-nodeplugin-rclone-zpc7p             Started container node-driver-registrar
+45m         Normal    Pulling                  pod/csi-nodeplugin-rclone-zpc7p             Pulling image "wunderio/csi-rclone:v1.3.0"
+44m         Normal    Pulled                   pod/csi-controller-rclone-0                 Successfully pulled image "k8s.gcr.io/sig-storage/csi-attacher:v3.4.0" in 1.27861605s (1.27862595s including waiting)
+44m         Normal    Created                  pod/csi-controller-rclone-0                 Created container csi-attacher
+44m         Normal    Started                  pod/csi-controller-rclone-0                 Started container csi-attacher
+44m         Normal    Pulling                  pod/csi-controller-rclone-0                 Pulling image "wunderio/csi-rclone:v1.3.0"
+44m         Normal    Pulled                   pod/csi-nodeplugin-rclone-zpc7p             Successfully pulled image "wunderio/csi-rclone:v1.3.0" in 2.047041682s (2.047049982s including waiting)
+44m         Normal    Pulled                   pod/csi-controller-rclone-0                 Successfully pulled image "wunderio/csi-rclone:v1.3.0" in 1.107288907s (1.107313608s including waiting)
+44m         Normal    Created                  pod/csi-controller-rclone-0                 Created container rclone
+44m         Normal    Created                  pod/csi-nodeplugin-rclone-zpc7p             Created container rclone
+44m         Normal    Started                  pod/csi-controller-rclone-0                 Started container rclone
+44m         Normal    Started                  pod/csi-nodeplugin-rclone-zpc7p             Started container rclone
+44m         Normal    LeaderElection           lease/external-attacher-leader-csi-rclone   csi-controller-rclone-0 became leader
+44m         Warning   FailedScheduling         pod/package-file                            0/1 nodes are available: pod has unbound immediate PersistentVolumeClaims. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod..
+44m         Normal    Scheduled                pod/package-file                            Successfully assigned rclone/package-file to fv-az419-879
+44m         Normal    SuccessfulAttachVolume   pod/package-file                            AttachVolume.Attach succeeded for volume "data-rclone"
+44m         Normal    Pulling                  pod/package-file                            Pulling image "us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1"
+38m         Normal    Pulled                   pod/package-file                            Successfully pulled image "us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.1" in 6m29.635670486s (6m29.636023093s including waiting)
 38m         Normal    Created                  pod/package-file                            Created container copy-packages
 38m         Normal    Started                  pod/package-file                            Started container copy-packages
