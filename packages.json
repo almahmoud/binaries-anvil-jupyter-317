@@ -18266,7 +18266,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "NuPoP": [],
     "NxtIRFcore": [
         "AnnotationDbi",
         "AnnotationHub",
