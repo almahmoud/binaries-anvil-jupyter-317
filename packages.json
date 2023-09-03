@@ -1208,7 +1208,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biobase",
