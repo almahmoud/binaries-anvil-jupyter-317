@@ -30375,7 +30375,6 @@
         "rtracklayer",
         "sva"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BSgenome",
