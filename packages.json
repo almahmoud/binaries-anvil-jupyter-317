@@ -2196,7 +2196,6 @@
         "basilisk.utils",
         "beachmat",
         "biomformat",
-        "dearseq",
         "decontam",
         "densvis",
         "edgeR",
@@ -7358,7 +7357,6 @@
         "graph",
         "ncdfFlow"
     ],
-    "dearseq": [],
     "debCAM": [
         "Biobase",
         "BiocGenerics",
