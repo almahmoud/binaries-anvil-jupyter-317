@@ -5640,8 +5640,7 @@
         "limma",
         "rhdf5",
         "rhdf5filters",
-        "sparseMatrixStats",
-        "survcomp"
+        "sparseMatrixStats"
     ],
     "consensusSeekeR": [
         "Biobase",
@@ -10612,8 +10611,7 @@
         "XVector",
         "biomaRt",
         "impute",
-        "limma",
-        "survcomp"
+        "limma"
     ],
     "GeneGeneInteR": [
         "BiocParallel",
@@ -19133,8 +19131,7 @@
         "impute",
         "limma",
         "marray",
-        "piano",
-        "survcomp"
+        "piano"
     ],
     "pdInfoBuilder": [
         "Biobase",
@@ -24755,8 +24752,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "sparseMatrixStats",
-        "survcomp"
+        "sparseMatrixStats"
     ],
     "SigsPack": [
         "AnnotationDbi",
@@ -26420,7 +26416,6 @@
         "biomaRt",
         "msa"
     ],
-    "survcomp": [],
     "survtype": [
         "Biobase",
         "DelayedArray",
