@@ -8094,7 +8094,6 @@
         "edgeR",
         "limma"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
         "Biobase",
