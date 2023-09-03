@@ -28234,7 +28234,6 @@
         "ggtree",
         "treeio"
     ],
-    "sizepower": [],
     "skewr": [
         "AnnotationDbi",
         "Biobase",
