@@ -21252,7 +21252,6 @@
         "qvalue"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "AnnotationDbi",
         "BSgenome",
