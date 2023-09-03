@@ -271,7 +271,7 @@ packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gn
 * DONE (R.utils)
 
 The downloaded source packages are in
-	‘/tmp/RtmpjYa0p1/downloaded_packages’
+	‘/tmp/RtmpGozzX1/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -282,9 +282,9 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	2m51.241s
-user	2m37.263s
-sys	0m11.761s
+real	2m56.240s
+user	2m42.666s
+sys	0m10.344s
 * installing *source* package ‘AffymetrixDataTestFiles’ ...
 ** using staged installation
 ** R
