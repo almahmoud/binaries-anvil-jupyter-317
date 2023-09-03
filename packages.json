@@ -8597,7 +8597,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "drawProteins": [],
     "DRIMSeq": [
         "BiocGenerics",
         "BiocParallel",
@@ -10132,7 +10131,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr"
     ],
