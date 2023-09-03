@@ -7594,7 +7594,6 @@
         "edgeR",
         "limma"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "Biobase",
         "DelayedArray",
