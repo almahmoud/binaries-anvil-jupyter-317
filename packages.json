@@ -1443,7 +1443,6 @@
         "XVector",
         "annotate"
     ],
-    "BiocPkgTools": [],
     "BiocSet": [
         "AnnotationDbi",
         "Biostrings",
