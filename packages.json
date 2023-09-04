@@ -16921,7 +16921,6 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "Biostrings",
