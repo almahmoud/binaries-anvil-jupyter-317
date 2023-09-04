@@ -1509,7 +1509,6 @@
         "scran",
         "scuttle"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "GenomicAlignments",
         "GenomicRanges",
