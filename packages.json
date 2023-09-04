@@ -9856,7 +9856,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "AnnotationDbi",
         "annotate",
