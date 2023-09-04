@@ -116,7 +116,7 @@ packaged installation of ‘bench’ as ‘bench_1.1.3_R_x86_64-pc-linux-gnu.tar
 * DONE (bench)
 
 The downloaded source packages are in
-	‘/tmp/RtmpSl0iWf/downloaded_packages’
+	‘/tmp/RtmpV2qHtm/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -127,6 +127,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m29.361s
-user	0m25.240s
-sys	0m3.584s
+real	0m32.345s
+user	0m26.977s
+sys	0m3.886s
