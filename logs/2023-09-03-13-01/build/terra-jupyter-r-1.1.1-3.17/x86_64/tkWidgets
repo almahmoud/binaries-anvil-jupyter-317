@@ -53,7 +53,7 @@ packaged installation of ‘tkWidgets’ as ‘tkWidgets_1.78.0_R_x86_64-pc-linu
 * DONE (tkWidgets)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpum2Pxg/downloaded_packages’
+	‘/tmp/Rtmpa3m8Gh/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -64,6 +64,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m14.663s
-user	0m11.629s
-sys	0m1.795s
+real	0m12.389s
+user	0m10.024s
+sys	0m1.566s
