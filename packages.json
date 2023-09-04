@@ -7929,7 +7929,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RMassBank": [],
     "Rmmquant": [
         "AnnotationDbi",
         "DESeq2",
