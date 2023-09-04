@@ -8649,7 +8649,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
         "GenomicRanges",
