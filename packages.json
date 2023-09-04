@@ -2634,7 +2634,6 @@
         "XVector",
         "topGO"
     ],
-    "CellMapper": [],
     "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
