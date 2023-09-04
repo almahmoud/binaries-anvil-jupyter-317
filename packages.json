@@ -13149,7 +13149,6 @@
         "XVector",
         "dada2"
     ],
-    "RBM": [],
     "Rbowtie2": [
         "Biostrings",
         "GenomeInfoDb",
