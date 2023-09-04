@@ -6854,7 +6854,6 @@
     "MSA2dist": [
         "GenomicRanges"
     ],
-    "MsBackendMassbank": [],
     "MsBackendSql": [],
     "MsDataHub": [
         "AnnotationDbi",
