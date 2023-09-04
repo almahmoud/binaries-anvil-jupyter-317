@@ -10139,7 +10139,6 @@
         "XVector",
         "rhdf5"
     ],
-    "LPEadj": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biostrings",
