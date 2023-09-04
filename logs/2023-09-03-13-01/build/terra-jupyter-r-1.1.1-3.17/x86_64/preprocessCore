@@ -88,7 +88,7 @@ packaged installation of ‘preprocessCore’ as ‘preprocessCore_1.62.1_R_x86_
 * DONE (preprocessCore)
 
 The downloaded source packages are in
-	‘/tmp/RtmpAmyzD6/downloaded_packages’
+	‘/tmp/Rtmp2DwtUZ/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -99,6 +99,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m13.463s
-user	0m10.319s
-sys	0m1.624s
+real	0m16.008s
+user	0m12.648s
+sys	0m2.206s
