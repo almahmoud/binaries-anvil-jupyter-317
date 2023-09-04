@@ -7163,7 +7163,6 @@
         "genefilter",
         "sva"
     ],
-    "Prostar": [],
     "proteasy": [
         "AnnotationDbi",
         "AnnotationFilter",
