@@ -2489,7 +2489,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -2802,7 +2801,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -5046,7 +5044,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "DEGreport": [
@@ -6897,9 +6894,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -10592,7 +10587,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "XVector",
         "clusterProfiler",
         "enrichplot"
@@ -11555,9 +11549,7 @@
         "S4Arrays",
         "rhdf5"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
@@ -12470,7 +12462,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "ncRNAtools": [
@@ -12610,7 +12601,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
@@ -14849,7 +14839,6 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCy3": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
@@ -15094,7 +15083,6 @@
         "Gviz",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rsamtools",
         "S4Arrays",
         "SummarizedExperiment",
@@ -19209,7 +19197,6 @@
         "KEGGREST",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
@@ -19505,7 +19492,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "XVector"
     ],
     "TransView": [
