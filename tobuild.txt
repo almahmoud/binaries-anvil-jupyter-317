@@ -1,4 +1,0 @@
-SEPIRA
-AnnotationDbi
-synapter
-GenomicRanges
