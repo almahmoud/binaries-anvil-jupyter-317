@@ -34,7 +34,7 @@ packaged installation of ‘densvis’ as ‘densvis_1.10.3_R_x86_64-pc-linux-gn
 * DONE (densvis)
 
 The downloaded source packages are in
-	‘/tmp/RtmpmuQJKy/downloaded_packages’
+	‘/tmp/RtmpPV3QMB/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -45,6 +45,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m25.592s
-user	0m21.881s
-sys	0m1.803s
+real	0m28.190s
+user	0m24.818s
+sys	0m2.225s
