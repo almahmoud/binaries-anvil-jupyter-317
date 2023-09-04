@@ -2114,7 +2114,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "CancerSubtypes": [],
     "cardelino": [
         "AnnotationDbi",
         "BSgenome",
