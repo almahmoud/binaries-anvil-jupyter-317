@@ -3240,7 +3240,6 @@
     "CytoPipeline": [
         "DelayedArray",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -4852,7 +4851,6 @@
         "scran",
         "scuttle"
     ],
-    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
