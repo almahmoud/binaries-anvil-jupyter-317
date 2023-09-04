@@ -6050,7 +6050,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
