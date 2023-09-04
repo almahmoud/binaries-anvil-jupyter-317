@@ -10514,7 +10514,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "Biostrings",
