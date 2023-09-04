@@ -4063,7 +4063,6 @@
         "GenomicRanges",
         "SeqArray"
     ],
-    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "GenomicRanges",
