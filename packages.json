@@ -5137,9 +5137,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6142,7 +6140,6 @@
         "SummarizedExperiment"
     ],
     "MQmetrics": [],
-    "msa": [],
     "MSA2dist": [
         "GenomicRanges"
     ],
@@ -6669,8 +6666,7 @@
         "rtracklayer"
     ],
     "odseq": [
-        "kebabs",
-        "msa"
+        "kebabs"
     ],
     "OGRE": [
         "AnnotationDbi",
@@ -9723,8 +9719,7 @@
     ],
     "surfaltr": [
         "AnnotationDbi",
-        "biomaRt",
-        "msa"
+        "biomaRt"
     ],
     "survtype": [
         "GenomicRanges",
