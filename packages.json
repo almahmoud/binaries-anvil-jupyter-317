@@ -10386,7 +10386,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "Biostrings",
