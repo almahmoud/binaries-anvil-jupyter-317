@@ -49,7 +49,7 @@ packaged installation of ‘rols’ as ‘rols_2.28.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (rols)
 
 The downloaded source packages are in
-	‘/tmp/RtmpkDwM7n/downloaded_packages’
+	‘/tmp/RtmpgC63bo/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -60,6 +60,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	1m4.153s
-user	0m57.489s
-sys	0m2.173s
+real	1m12.025s
+user	1m7.970s
+sys	0m2.405s
