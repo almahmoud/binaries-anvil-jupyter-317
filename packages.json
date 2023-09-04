@@ -7832,7 +7832,6 @@
         "SummarizedExperiment"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "rfPred": [
         "GenomicRanges",
         "Rsamtools"
