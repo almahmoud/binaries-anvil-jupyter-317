@@ -16220,7 +16220,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "Biobase",
         "S4Vectors",
