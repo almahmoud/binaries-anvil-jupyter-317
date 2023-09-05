@@ -15481,7 +15481,6 @@
     "pcaMethods": [
         "Biobase"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedArray",
