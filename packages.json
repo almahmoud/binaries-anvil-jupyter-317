@@ -3785,7 +3785,6 @@
         "graph",
         "limma",
         "preprocessCore",
-        "splots",
         "vsn"
     ],
     "CelliD": [
@@ -11112,7 +11111,6 @@
         "graph",
         "limma",
         "preprocessCore",
-        "splots",
         "vsn"
     ],
     "getDEE2": [
@@ -22269,7 +22267,6 @@
         "graph",
         "limma",
         "preprocessCore",
-        "splots",
         "vsn"
     ],
     "RNAmodR": [
@@ -25879,7 +25876,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "splots": [],
     "SPONGE": [
         "AnnotationDbi",
         "Biobase",
@@ -26113,7 +26109,6 @@
         "graph",
         "limma",
         "preprocessCore",
-        "splots",
         "vsn"
     ],
     "StarBioTrek": [
