@@ -22981,7 +22981,6 @@
         "TrajectoryUtils",
         "XVector"
     ],
-    "SLqPCR": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
