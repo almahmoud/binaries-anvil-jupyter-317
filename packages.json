@@ -9832,7 +9832,6 @@
         "affyio",
         "preprocessCore"
     ],
-    "FScanR": [],
     "FunChIP": [
         "Biobase",
         "Biostrings",
