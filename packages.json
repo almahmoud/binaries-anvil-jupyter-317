@@ -3335,10 +3335,7 @@
         "limma",
         "rtracklayer"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [],
     "BUMHMM": [
         "Biobase",
