@@ -15239,7 +15239,6 @@
         "limma",
         "minfi",
         "multtest",
-        "planet",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -19627,7 +19626,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "planet": [],
     "planttfhunter": [
         "Biobase",
         "Biostrings",
