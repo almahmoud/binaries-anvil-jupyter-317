@@ -21254,7 +21254,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "Biobase",
