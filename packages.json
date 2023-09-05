@@ -16372,7 +16372,6 @@
         "S4Arrays",
         "S4Vectors"
     ],
-    "Oscope": [],
     "OTUbase": [
         "Biobase",
         "Biostrings",
@@ -20518,7 +20517,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "Oscope",
         "S4Arrays",
         "S4Vectors",
         "SingleCellExperiment",
