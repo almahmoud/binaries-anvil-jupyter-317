@@ -14661,7 +14661,6 @@
         "sparseMatrixStats",
         "sva"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "AnnotationDbi",
         "Biobase",
