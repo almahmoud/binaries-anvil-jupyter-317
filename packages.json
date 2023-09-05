@@ -21400,7 +21400,6 @@
         "graph",
         "zlibbioc"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
         "AnnotationForge",
