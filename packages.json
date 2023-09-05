@@ -3740,7 +3740,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [],
     "CHETAH": [
         "Biobase",
@@ -20039,7 +20038,6 @@
     ],
     "RMassBank": [
         "Biobase",
-        "ChemmineOB",
         "ChemmineR",
         "IRanges",
         "MSnbase",
