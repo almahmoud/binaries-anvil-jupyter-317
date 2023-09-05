@@ -6958,7 +6958,6 @@
         "sparseMatrixStats",
         "sva"
     ],
-    "demuxmix": [],
     "densvis": [
         "basilisk",
         "basilisk.utils"
