@@ -4884,7 +4884,6 @@
         "rhdf5filters",
         "zinbwave"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "AnnotationDbi",
         "Biobase",
