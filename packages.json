@@ -21834,7 +21834,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnnotationDbi",
         "Biobase",
