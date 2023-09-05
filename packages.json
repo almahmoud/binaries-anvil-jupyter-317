@@ -2110,7 +2110,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "gdsfmt",
         "genefilter",
         "limma",
         "lumi",
@@ -4978,7 +4977,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "gdsfmt",
         "limma"
     ],
     "CNVrd2": [
@@ -10009,8 +10007,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "gcapc": [
         "BSgenome",
@@ -10101,10 +10098,8 @@
         "S4Vectors",
         "SNPRelate",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
-    "gdsfmt": [],
     "gemma.R": [
         "Biobase",
         "DelayedArray",
@@ -10281,8 +10276,7 @@
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
@@ -10784,8 +10778,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "ggmsa": [
         "Biostrings",
@@ -11553,8 +11546,7 @@
         "snpStats"
     ],
     "GWASTools": [
-        "Biobase",
-        "gdsfmt"
+        "Biobase"
     ],
     "gwasurvivr": [
         "AnnotationDbi",
@@ -11579,7 +11571,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "gdsfmt",
         "rtracklayer"
     ],
     "GWENA": [
@@ -13915,7 +13906,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "gdsfmt",
         "oligoClasses"
     ],
     "MBQN": [
@@ -22150,8 +22140,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sampleClassifier": [
         "AnnotationDbi",
@@ -22360,7 +22349,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "SCArray.sat": [
@@ -22379,7 +22367,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "SCATE": [
@@ -23398,8 +23385,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "seqbias": [
         "Biostrings",
@@ -23500,7 +23486,6 @@
         "S4Vectors",
         "SNPRelate",
         "XVector",
-        "gdsfmt",
         "interactiveDisplayBase"
     ],
     "seqTools": [],
@@ -23512,8 +23497,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sesame": [
         "AnnotationDbi",
@@ -24421,9 +24405,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [],
     "soGGi": [
         "Biobase",
@@ -27178,8 +27160,7 @@
         "SNPRelate",
         "SeqArray",
         "SummarizedExperiment",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "VariantFiltering": [
         "AnnotationDbi",
