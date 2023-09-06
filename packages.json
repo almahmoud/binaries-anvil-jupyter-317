@@ -4387,7 +4387,6 @@
         "GenomicRanges",
         "Rsamtools"
     ],
-    "Harshlight": [],
     "heatmaps": [
         "GenomicRanges"
     ],
