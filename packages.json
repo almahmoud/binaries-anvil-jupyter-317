@@ -6783,7 +6783,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
