@@ -6638,7 +6638,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "GSCA": [],
     "gscreend": [
         "DelayedArray",
         "GenomicRanges",
