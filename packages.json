@@ -637,7 +637,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -3836,7 +3835,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "annotationTools",
         "biomaRt"
     ],
     "cosmiq": [
