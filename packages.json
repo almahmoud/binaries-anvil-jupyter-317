@@ -7424,7 +7424,6 @@
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
