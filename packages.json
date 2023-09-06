@@ -3733,7 +3733,6 @@
         "biomaRt",
         "genomeIntervals"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2",
         "GenomicRanges",
