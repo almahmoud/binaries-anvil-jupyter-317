@@ -2431,7 +2431,6 @@
         "SummarizedExperiment",
         "scuttle"
     ],
-    "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
         "GenomicRanges",
