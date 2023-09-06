@@ -839,7 +839,6 @@
         "XVector",
         "multtest"
     ],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
