@@ -417,7 +417,7 @@ packaged installation of ‘ChemmineDrugs’ as ‘ChemmineDrugs_1.0.2_R_x86_64-
 * DONE (ChemmineDrugs)
 
 The downloaded source packages are in
-	‘/tmp/RtmpoNZF1j/downloaded_packages’
+	‘/tmp/Rtmpoh5hwg/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -428,9 +428,9 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'sass', 'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	1m29.386s
-user	1m19.824s
-sys	0m9.266s
+real	1m36.736s
+user	1m23.115s
+sys	0m10.598s
 * installing *source* package ‘ChemmineDrugs’ ...
 ** using staged installation
 unzipping drugbank.db.gz if it exists
