@@ -3128,7 +3128,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "Cormotif": [],
     "corral": [
         "DelayedArray",
         "GenomicRanges",
