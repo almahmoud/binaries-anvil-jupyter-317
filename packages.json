@@ -3834,7 +3834,6 @@
         "annotate",
         "genefilter"
     ],
-    "covEB": [],
     "CoverageView": [
         "Biostrings",
         "DelayedArray",
