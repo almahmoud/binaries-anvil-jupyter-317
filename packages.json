@@ -11327,7 +11327,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "SparseArray": [],
     "SparseSignatures": [
         "BSgenome",
         "Biostrings",
