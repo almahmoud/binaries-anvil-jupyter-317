@@ -5864,7 +5864,6 @@
         "NanoStringNCTools",
         "XVector"
     ],
-    "GEOsubmission": [],
     "GeoTcgaData": [
         "DelayedArray",
         "GenomicRanges",
