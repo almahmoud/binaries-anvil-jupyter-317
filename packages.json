@@ -9479,7 +9479,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "GenomicRanges",
