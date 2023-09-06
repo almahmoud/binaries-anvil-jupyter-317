@@ -9858,7 +9858,6 @@
         "vsn",
         "xcms"
     ],
-    "metabCombiner": [],
     "MetaboAnnotation": [
         "AnnotationDbi",
         "AnnotationFilter",
