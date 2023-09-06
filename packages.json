@@ -473,7 +473,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2",
         "DelayedArray",
@@ -13327,7 +13326,6 @@
         "GenomicRanges",
         "KEGGREST",
         "SummarizedExperiment",
-        "anota",
         "topGO"
     ],
     "transomics2cytoscape": [
