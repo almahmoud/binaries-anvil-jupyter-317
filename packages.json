@@ -23,12 +23,10 @@
         "QDNAseq",
         "Rsamtools"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "aCGH",
         "annotate",
         "genefilter",
         "snapCGH",
@@ -2940,9 +2938,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBase": [
         "Biostrings",
         "GenomicRanges"
@@ -9520,7 +9516,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "aCGH",
         "biomaRt",
         "rCGH",
         "rtracklayer"
@@ -10087,7 +10082,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "aCGH",
         "biomaRt",
         "rtracklayer"
     ],
@@ -12241,7 +12235,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "aCGH",
         "annotate",
         "genefilter",
         "tilingArray",
