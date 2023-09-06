@@ -1747,7 +1747,6 @@
     ],
     "biodbKegg": [],
     "biodbNcbi": [],
-    "biodbNci": [],
     "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
