@@ -82,7 +82,7 @@ packaged installation of ‘cytolib’ as ‘cytolib_2.12.1_R_x86_64-pc-linux-gn
 * DONE (cytolib)
 
 The downloaded source packages are in
-	‘/tmp/RtmpAJAE6h/downloaded_packages’
+	‘/tmp/RtmpSqGJkj/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -93,6 +93,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'sass', 'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	3m28.543s
-user	3m17.539s
-sys	0m8.571s
+real	3m25.605s
+user	3m12.827s
+sys	0m8.106s
