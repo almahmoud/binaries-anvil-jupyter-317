@@ -1745,7 +1745,6 @@
     "biocViews": [
         "RBGL"
     ],
-    "biodbKegg": [],
     "biodbNcbi": [],
     "bioDist": [],
     "biomaRt": [
