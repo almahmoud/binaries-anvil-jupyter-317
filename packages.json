@@ -6138,7 +6138,6 @@
         "rtracklayer"
     ],
     "fabia": [],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "Biostrings",
