@@ -128,7 +128,7 @@ packaged installation of ‘snpStats’ as ‘snpStats_1.50.0_R_x86_64-pc-linux-
 * DONE (snpStats)
 
 The downloaded source packages are in
-	‘/tmp/RtmpXjcrAl/downloaded_packages’
+	‘/tmp/RtmpfgEuzf/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -139,6 +139,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'sass', 'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m34.952s
-user	0m29.904s
-sys	0m3.125s
+real	0m35.023s
+user	0m30.605s
+sys	0m3.153s
