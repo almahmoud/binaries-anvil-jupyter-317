@@ -8759,7 +8759,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "AnnotationFilter",
