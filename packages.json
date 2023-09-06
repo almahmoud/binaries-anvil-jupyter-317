@@ -5626,7 +5626,6 @@
         "scater",
         "scuttle"
     ],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
         "GenomicRanges",
