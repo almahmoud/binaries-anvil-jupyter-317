@@ -11193,7 +11193,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "AnnotationDbi",
         "Biostrings",
