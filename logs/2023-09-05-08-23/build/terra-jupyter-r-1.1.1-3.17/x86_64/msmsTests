@@ -28,7 +28,7 @@ packaged installation of ‘msmsTests’ as ‘msmsTests_1.38.0_R_x86_64-pc-linu
 * DONE (msmsTests)
 
 The downloaded source packages are in
-	‘/tmp/RtmplhUF79/downloaded_packages’
+	‘/tmp/RtmpuLJCb7/downloaded_packages’
 Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'DelayedArray', 'DelayedMatrixStats', 'dplyr', 'dqrng', 'DT',
   'ExperimentHub', 'fontawesome', 'fs', 'gargle', 'GenomeInfoDb',
@@ -39,6 +39,6 @@ Old packages: 'AnVIL', 'askpass', 'BiocManager', 'bslib', 'cpp11', 'curl',
   'sass', 'scran', 'scuttle', 'shiny', 'spatial', 'spatstat.geom', 'survival',
   'tinytex', 'uuid', 'xfun'
 
-real	0m18.952s
-user	0m16.236s
-sys	0m1.288s
+real	0m17.140s
+user	0m14.025s
+sys	0m1.010s
